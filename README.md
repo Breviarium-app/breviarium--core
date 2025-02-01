@@ -26,14 +26,14 @@
 
 The prayers and the functions to retrieve the information
 
-| **Prayer**    | **Function**        | **Languages** |
-|---------------|---------------------|---------------|
-| Laudes        | `getLaudes()`       | es            |
-| Office        | `getOfficium()`     | es            |
-| Tercia        | `getTertia()`       | es            |
-| Sixth         | `getSexta()`        | es            |
-| Nona          | `getNona()`         | es            |
-| Vesperas      | `getVesperae()`     | es            |
-| Compline      | `getCompletorium()` | es            |
-| Gospel        | `getEvangelium()`   | es            |
-| Mass Readings | `getLectiones()`    | es            |
+| **Prayer**    | **Function**        | **🇪🇸** |
+|---------------|---------------------|--|
+| Laudes        | `getLaudes()`       | ✅ |
+| Office        | `getOfficium()`     | ✅ |
+| Tercia        | `getTertia()`       | ✅ |
+| Sixth         | `getSexta()`        | ✅ |
+| Nona          | `getNona()`         | ✅ |
+| Vesperas      | `getVesperae()`     | ✅ |
+| Compline      | `getCompletorium()` | ✅ |
+| Gospel        | `getEvangelium()`   | ✅ |
+| Mass Readings | `getLectiones()`    | ✅ |
