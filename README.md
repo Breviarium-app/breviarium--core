@@ -13,11 +13,6 @@
 <p align="center">
   <a href="LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-blue?color=blue&style=flat"></a>
-    <a href="https://www.npmjs.com/package/breviarium" target="_blank" rel="noopener noreferrer">
-<img alt="Downloads" src="https://img.shields.io/npm/dm/breviariaum?color=blue&style=flat"></a>
-</p>
-
-<p align="center">
   <a href="https://www.npmjs.com/package/breviarium/v/latest" target="_blank" rel="noopener noreferrer"><img alt="latest" src="https://img.shields.io/npm/v/breviarium/latest?style=flat&logo=npm"></a>
 
 </p>
