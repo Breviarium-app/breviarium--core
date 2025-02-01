@@ -5,13 +5,13 @@ help: ## show make targets
 	@awk 'BEGIN {FS = ":.*?## "} /[a-zA-Z_-]+:.*?## / {sub("\\\\n",sprintf("\n%22c"," "), $$2);printf " \033[36m%-20s\033[0m  %s\n", $$1, $$2}' $(MAKEFILE_LIST)
 
 install: ## install deps
-	@bun i --save-text-lockfile
+	@npm i
 
 run: ## build package
-	@bun run build
+	@npm run build
 
 build: ## build to dist folder
-	@bun run build
+	@npm run build
 
 test: ## execute unit tests
 	@npm run test:unit
