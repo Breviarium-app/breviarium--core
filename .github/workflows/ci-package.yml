@@ -26,15 +26,15 @@ jobs:
       - name: Install dependencies 🔨
         run: npm ci
 
-      - name: Update minor version
-        run: npm version minor --no-git-tag-version
+      - name: Update patch version
+        run: npm version patch --no-git-tag-version
 
       - name: Commit version bump ⚙️
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add package.json package-lock.json
-          git commit -m "chore: bump minor version"
+          git commit -m "chore: bump patch version"
           git push
 
       - name: Build package 📦
