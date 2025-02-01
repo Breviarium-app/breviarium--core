@@ -1,0 +1,30 @@
+{
+  "name": "breviarium",
+  "description": "Typescript library that generates liturgical calendars and praying content of the Roman Rite of the Roman Catholic Church",
+  "keywords": [
+    "roman",
+    "liturgy of the hours",
+    "prayer",
+    "catholic",
+    "calendar",
+    "latin",
+    "western",
+    "church",
+    "christian",
+    "seasons",
+    "liturgical"
+  ],
+  "private": true,
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "vite": "^6.0.5",
+    "vite-plugin-dts": "^2.0.0"
+  }
+}
