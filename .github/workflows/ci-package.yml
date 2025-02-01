@@ -36,6 +36,8 @@ jobs:
           git add package.json package-lock.json
           git commit -m "chore: bump patch version"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build package 📦
         run: npm run build
