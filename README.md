@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/breviarium/v/latest" target="_blank" rel="noopener noreferrer"><img alt="latest" src="https://img.shields.io/npm/v/breviarium/latest?style=flat&logo=npm"></a>
-  <a href="https://www.npmjs.com/package/breviarium/v/dev" target="_blank" rel="noopener noreferrer"><img alt="dev" src="https://img.shields.io/npm/v/breviarium/dev?style=flat&logo=npm"></a>
+
 </p>
 
 ## Liturgy of the hours
