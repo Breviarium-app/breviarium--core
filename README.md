@@ -5,6 +5,7 @@
 </h1>
 
 <p align="center">
+  Open source Liturgy of the Hours, collaborate to build the best Divine Office library!<br><br>
   Generates liturgical content and calendars of the Roman Rite of the Roman Catholic Church.<br>
   Supports Node v18+, Modern Browsers (desktop and mobile).
 </p>
@@ -36,4 +37,3 @@ The prayers and the functions to retrieve the information
 | Compline      | `getCompletorium()` | es            |
 | Gospel        | `getEvangelium()`   | es            |
 | Mass Readings | `getLectiones()`    | es            |
-
