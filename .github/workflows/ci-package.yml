@@ -1,4 +1,4 @@
-name: Publish NPM Package 🚀
+name: Publish NPM Package
 
 on:
   push:
@@ -14,25 +14,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repository 👋🏼
         uses: actions/checkout@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
           registry-url: 'https://registry.npmjs.org/'
 
-      - name: Install dependencies
+      - name: Install dependencies 🔨
         run: npm ci
 
       - name: Update minor version
         run: npm version minor --no-git-tag-version
 
-      - name: Build package
+      - name: Commit version bump ⚙️
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add package.json package-lock.json
+          git commit -m "chore: bump minor version"
+          git push
+
+      - name: Build package 📦
         run: npm run build
 
-      - name: Publish package
+      - name: Publish package 🚀
         run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
