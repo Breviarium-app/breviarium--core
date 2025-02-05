@@ -1,4 +1,4 @@
-import { defineConfig } from "vite";
+import {defineConfig} from "vite";
 import dts from "vite-plugin-dts";
 
 export default defineConfig({
@@ -20,6 +20,13 @@ export default defineConfig({
                     format: "cjs",
                     entryFileNames: "index.cjs.js",
                     dir: "dist",
+                },
+                {
+                    format: "umd",
+                    entryFileNames: "index.umd.js",
+                    dir: "dist",
+                    name: "Breviarium", // Global variable for browsers
+                    sourcemap: true,
                 },
             ],
         },
