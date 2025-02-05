@@ -12,7 +12,7 @@ permissions:
   packages: write
 
 jobs:
-  build-and-publish:
+  build-ci-node:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository 👋🏼
