@@ -1,0 +1,30 @@
+{
+    "idd": 2,
+    "oracion": "Completas: Lunes",
+    "himno": "De la vida en la arena\nme llevas de la mano\nal puerto más cercano,\nal agua más serena.\nEl corazón se llena,\nSeñor, de tu ternura;\ny es la noche más pura\ny la ruta más bella\nporque tú estás en ella,\nsea clara u oscura.\n\nLa noche misteriosa\nacerca a lo escondido;\nel sueño es el olvido\ndonde la paz se posa.\nY esa paz es la rosa \nde los vientos. Velero,\ninquieto marinero,\nya mi timón preparo\n-tú el mar y cielo claro-\nhacia el alba que espero.\n\nGloria al Padre, y al Hijo,\ny al Espíritu Santo. Amén.",
+    "primer_salmo_cita": "Salmo 85: Oración de un pobre ante las adversidades",
+    "primer_salmo_antifona": "_Tú, Señor, eres clemente y rico en misericordia._",
+    "primer_salmo_texto": "Inclina tu oído, Señor, escúchame,\nque soy un pobre desamparado;\nprotege mi vida, que soy un fiel tuyo;\nsalva a tu siervo, que confía en ti.\n\nTú eres mi Dios, piedad de mí, Señor,\nque a ti te estoy llamando todo el día;\nalegra el alma de tu siervo,\npues levanto mi alma hacia ti;\n\nporque tú, Señor, eres bueno y clemente,\nrico en misericordia con los que te invocan.\nSeñor, escucha mi oración,\natiende a la voz de mi súplica.\n\nEn el día del peligro te llamo, \ny tú me escuchas.\nNo tienes igual entre los dioses, Señor,\nni hay obras como las tuyas.\n\nTodos los pueblos vendrán \na postrarse en tu presencia, Señor;\nbendecirán tu nombre:\n«Grande eres tú, y haces maravillas;\ntú eres el único Dios.»\n\nEnséñame, Señor, tu camino, \npara que siga tu verdad;\nmantén mi corazón entero\nen el temor de tu nombre.\n\nTe alabaré de todo corazón, Dios mío;\ndaré gloria a tu nombre por siempre,\npor tu gran piedad para conmigo,\nporque me salvaste del abismo profundo.\n\nDios mío, unos soberbios se levantan contra mí,\nuna banda de insolentes atenta contra mi vida,\nsin tenerte en cuenta a ti.\n\nPero tú, Señor, Dios clemente y misericordioso,\nlento a la cólera, rico en piedad y leal,\nmírame, ten compasión de mí.\n\nDa fuerza a tu siervo,\nsalva al hijo de tu esclava;\ndame una señal propicia,\nque la vean mis adversarios y se avergüencen,\nporque tú, Señor, me ayudas y consuelas.\n\nGloria al Padre, y al Hijo, y al Espíritu Santo.\nComo era en el principio, ahora y siempre,\npor los siglos de los siglos. Amén.",
+    "lectura_biblica_cita": "1 Ts 5, 9-10",
+    "lectura_biblica": "Dios nos ha destinado a obtener la salvación por medio de nuestro Señor Jesucristo; él murió por nosotros, para que, despiertos o dormidos, vivamos con él.",
+    "responsorio": [
+        "$℣. $A tus manos, Señor, encomiendo mi espíritu.",
+        "$℟. $A tus manos, Señor, encomiendo mi espíritu.",
+        "$℣. $Tú, el Dios leal, nos librarás.",
+        "$℟. $Encomiendo mi espíritu.",
+        "$℣. $Gloria al Padre, y al Hijo, y al Espíritu Santo.",
+        "$℟. $A tus manos, Señor, encomiendo mi espíritu."
+    ],
+    "responsorio_pascua": [
+        "$℣. $A tus manos, Señor, encomiendo mi espíritu. Aleluya, aleluya.",
+        "$℟. $A tus manos, Señor, encomiendo mi espíritu. Aleluya, aleluya.",
+        "$℣. $Tú, el Dios leal, nos librarás.",
+        "$℟. $Aleluya, aleluya.",
+        "$℣. $Gloria al Padre, y al Hijo, y al Espíritu Santo.",
+        "$℟. $A tus manos, Señor, encomiendo mi espíritu. Aleluya, aleluya."
+    ],
+    "antifona_triduo": "Cristo, por nosotros, se sometió incluso a la muerte, y una muerte de cruz; por eso Dios lo levantó sobre todo y le concedió el «Nombre-sobre-todo-nombre».",
+    "antifona_inalbis": "Este es el día en que actuó el Señor, sea nuestra alegría y nuestro gozo. Aleluya.",
+    "cantico_evangelico_antifona": "_Sálvanos, Señor, despiertos, protégenos mientras dormimos, para que velemos con Cristo y descansemos en paz._",
+    "final": "Oremos:\nConcede, Señor, a nuestros cuerpos fatigados el descanso necesario, y haz que la simiente del reino, que con nuestro trabajo hemos sembrado hoy, crezca y germine para la cosecha de la vida eterna. Por Jesucristo nuestro Señor."
+}

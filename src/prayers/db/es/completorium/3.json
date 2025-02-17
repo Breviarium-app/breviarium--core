@@ -1,0 +1,30 @@
+{
+    "idd": 3,
+    "oracion": "Completas: Martes",
+    "himno": "Tiembla el frío de los astros,\ny el silencio de los montes\nduerme sin fin. (Sólo el agua\nde mi corazón se oye.)\n\nSu dulce latir, ¡tan dentro!,\ncalladamente responde\na la soledad inmensa\nde algo que late en la noche.\n\nSomos tuyos, tuyos, tuyos;\nsomos, Señor, ese insomne \ntemblor del agua nocturna,\nmás limpia después que corre.\n\n¡Agua en reposo viviente,\nque vuelve a ser pura y joven\ncon una esperanza! (Sólo\nen mi alma sonar se oye.)\n\nGloria al Padre, gloria al Hijo,\ngloria al Espíritu Santo,\npor los siglos de los siglos. Amén.",
+    "primer_salmo_cita": "Salmo 142, 1-11: Lamentación y súplica ante la angustia",
+    "primer_salmo_antifona": "_No me escondas tu rostro, ya que confío en ti._",
+    "primer_salmo_texto": "Señor, escucha mi oración;\ntú, que eres fiel, atiende a mi súplica;\ntú, que eres justo, escúchame.\nNo llames a juicio a tu siervo,\npues ningún hombre vivo es inocente frente a ti.\n\nEl enemigo me persigue a muerte,\nempuja mi vida al sepulcro,\nme confina a las tinieblas\ncomo a los muertos ya olvidados.\nMi aliento desfallece,\nmi corazón dentro de mí está yerto.\n\nRecuerdo los tiempos antiguos,\nmedito todas tus acciones,\nconsidero las obras de tus manos\ny extiendo mis brazos hacia ti:\ntengo sed de ti como tierra reseca.\n\nEscúchame en seguida, Señor,\nque me falta el aliento.\nNo me escondas tu rostro,\nigual que a los que bajan a la fosa.\n\nEn la mañana hazme escuchar tu gracia,\nya que confío en ti.\nIndícame el camino que he de seguir,\npues levanto mi alma a ti.\n\nLíbrame del enemigo, Señor,\nque me refugio en ti.\nEnséñame a cumplir tu voluntad,\nya que tú eres mi Dios.\nTu espíritu, que es bueno,\nme guíe por tierra llana.\n\nPor tu nombre, Señor, consérvame vivo;\npor tu clemencia, sácame de la angustia.\n\nGloria al Padre, y al Hijo, y al Espíritu Santo.\nComo era en el principio, ahora y siempre,\npor los siglos de los siglos. Amén.",
+    "lectura_biblica_cita": "1 P 5, 8-9",
+    "lectura_biblica": "Sed sobrios, estad alerta, que vuestro enemigo, el diablo, como león rugiente, ronda buscando a quién devorar; resistidle firmes en la fe.",
+    "responsorio": [
+        "$℣. $A tus manos, Señor, encomiendo mi espíritu.",
+        "$℟. $A tus manos, Señor, encomiendo mi espíritu.",
+        "$℣. $Tú, el Dios leal, nos librarás.",
+        "$℟. $Encomiendo mi espíritu.",
+        "$℣. $Gloria al Padre, y al Hijo, y al Espíritu Santo.",
+        "$℟. $A tus manos, Señor, encomiendo mi espíritu."
+    ],
+    "responsorio_pascua": [
+        "$℣. $A tus manos, Señor, encomiendo mi espíritu. Aleluya, aleluya.",
+        "$℟. $A tus manos, Señor, encomiendo mi espíritu. Aleluya, aleluya.",
+        "$℣. $Tú, el Dios leal, nos librarás.",
+        "$℟. $Aleluya, aleluya.",
+        "$℣. $Gloria al Padre, y al Hijo, y al Espíritu Santo.",
+        "$℟. $A tus manos, Señor, encomiendo mi espíritu. Aleluya, aleluya."
+    ],
+    "antifona_triduo": "Cristo, por nosotros, se sometió incluso a la muerte, y una muerte de cruz; por eso Dios lo levantó sobre todo y le concedió el «Nombre-sobre-todo-nombre».",
+    "antifona_inalbis": "Este es el día en que actuó el Señor, sea nuestra alegría y nuestro gozo. Aleluya.",
+    "cantico_evangelico_antifona": "_Sálvanos, Señor, despiertos, protégenos mientras dormimos, para que velemos con Cristo y descansemos en paz._",
+    "final": "Oremos:\nIlumina, Señor, nuestra noche y concédenos un descanso tranquilo; que mañana nos levantemos en tu nombre y podamos contemplar, con salud y gozo, el clarear del nuevo día. Por Jesucristo nuestro Señor."
+}
