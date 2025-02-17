@@ -17,18 +17,23 @@
 
 </p>
 
-## Liturgy of the hours
+## Quickstart setup
 
-The prayers and the functions to retrieve the information
+> TODO
 
-| **Prayer**    | **Function**        | **🇪🇸** |
-|---------------|---------------------|--|
-| Laudes        | `getLaudes()`       | ✅ |
-| Office        | `getOfficium()`     | ✅ |
-| Tercia        | `getTertia()`       | ✅ |
-| Sixth         | `getSexta()`        | ✅ |
-| Nona          | `getNona()`         | ✅ |
-| Vesperas      | `getVesperae()`     | ✅ |
-| Compline      | `getCompletorium()` | ✅ |
-| Gospel        | `getEvangelium()`   | ✅ |
-| Mass Readings | `getLectiones()`    | ✅ |
+## Function Documentation
+
+Liturgy of the hours: functions to retrieve the information of the library:
+
+| Function         | Parameters       | Description                                        | Example Call |
+|-----------------|-----------------|----------------------------------------------------|--------------|
+| `getLaudes`     | `date?: Date`   | Returns the Laudes prayer for a given date.        | `prayers.getLaudes();` |
+| `getVesperae`   | `date?: Date`   | Returns the Vesperae prayer for a given date.      | `prayers.getVesperae(new Date(2025, 1, 17));` |
+| `getOfficium`   | `date?: Date`   | Returns the Officium prayer for a given date.      | `prayers.getOfficium();` |
+| `getTertia`     | `date?: Date`   | Returns the Tertia prayer for a given date.        | `prayers.getTertia();` |
+| `getSexta`      | `date?: Date`   | Returns the Sexta prayer for a given date.         | `prayers.getSexta(new Date());` |
+| `getNona`       | `date?: Date`   | Returns the Nona prayer for a given date.          | `prayers.getNona();` |
+| `getCompletorium` | `date?: Date` | Returns the Completorium prayer for a given date.  | `prayers.getCompletorium();` |
+| `getMissaleLectiones`  | `date?: Date`   | Returns the Mass readings prayer for a given date. | `prayers.getMissaleLectiones();` |
+| `getEvangelium` | `date?: Date`   | Returns the Gospel text for a given date.          | `prayers.getEvangelium(new Date(2025, 5, 1));` |
+
