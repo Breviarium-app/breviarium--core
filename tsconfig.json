@@ -23,6 +23,10 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
+
+    /* test */
+    "types": ["vitest/globals"]  // Add Vitest types
+
   },
   "include": ["src"]
 }

@@ -14,4 +14,7 @@ build: ## build to dist folder
 	@npm run build
 
 test: ## execute unit tests
-	@npm run test:unit
+	@npm run test
+
+test-coverage: ## execute unit tests
+	@npm run test:coverage
