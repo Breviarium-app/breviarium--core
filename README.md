@@ -45,12 +45,11 @@ Liturgy of the hours: functions to retrieve the information of the library:
 
 To run the test suite (with [vitest](https://vitest.dev/)), execute:
 
-```shell
-npm run test
-```
-
-or
+To run the app:
 
 ```shell
+# linux and mac users:
 make test
+# for windows users:
+npm run test
 ```
