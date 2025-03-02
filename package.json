@@ -15,9 +15,9 @@
     "liturgical"
   ],
   "version": "0.2.11",
-  "main": "dist/index.cjs.js",
-  "module": "dist/index.esm.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/breviarium.cjs.js",
+  "module": "dist/breviarium.esm.js",
+  "types": "dist/breviarium.d.ts",
   "type": "module",
   "scripts": {
     "build": "tsc && vite build",

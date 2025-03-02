@@ -5,7 +5,7 @@ export default defineConfig({
     build: {
         sourcemap: true,
         lib: {
-            entry: "src/index.ts",
+            entry: "src/breviarium.ts",
             name: "Breviarium",
             fileName: "breviarium",
         },
@@ -13,17 +13,17 @@ export default defineConfig({
             output: [
                 {
                     format: "es",
-                    entryFileNames: "index.esm.js",
+                    entryFileNames: "breviarium.esm.js",
                     dir: "dist",
                 },
                 {
                     format: "cjs",
-                    entryFileNames: "index.cjs.js",
+                    entryFileNames: "breviarium.cjs.js",
                     dir: "dist",
                 },
                 {
                     format: "umd",
-                    entryFileNames: "index.umd.js",
+                    entryFileNames: "breviarium.umd.js",
                     dir: "dist",
                     name: "Breviarium", // Global variable for browsers
                     sourcemap: true,
