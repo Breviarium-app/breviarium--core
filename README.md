@@ -11,13 +11,18 @@
 </p>
 
 <p align="center">
-    <a href="LICENSE">
-        <img alt="License" src="https://img.shields.io/badge/license-MIT-blue?color=blue&style=flat">
-    </a>
-    <a href="https://www.npmjs.com/package/breviarium/v/latest" target="_blank" rel="noopener noreferrer">
-        <img alt="npm breviarium version" src="https://img.shields.io/npm/v/breviarium/latest?style=flat&logo=npm&color=35d401">
-    </a>
-
+<a href="LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-blue?color=blue&style=flat">
+</a>
+<a href="https://www.npmjs.com/package/breviarium/v/latest" target="_blank" rel="noopener noreferrer">
+    <img alt="npm breviarium version" src="https://img.shields.io/npm/v/breviarium/latest?style=flat&logo=npm&color=35d401">
+</a>
+<a href="https://www.npmjs.com/package/breviarium/v/latest" target="_blank" rel="noopener noreferrer">
+    <img alt="latest" src="https://img.shields.io/npm/dm/breviarium?label=downloads&logo=npm">
+</a>
+<a href="https://www.jsdelivr.com/package/npm/breviarium" target="_blank" rel="noopener noreferrer">
+    <img alt="latest" src="https://data.jsdelivr.com/v1/package/npm/breviarium/badge?style=rounded">
+</a>
 
 </p>
 
