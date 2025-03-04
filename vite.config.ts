@@ -18,7 +18,7 @@ export default defineConfig({
                 },
                 {
                     format: "cjs",
-                    entryFileNames: "breviarium.cjs.js",
+                    entryFileNames: "breviarium.cjs.cjs",
                     dir: "dist",
                 },
                 {
