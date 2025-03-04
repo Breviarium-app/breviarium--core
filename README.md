@@ -26,6 +26,8 @@
 
 </p>
 
+![example](https://github.com/breviarium-app/breviarium--app/actions/workflows/ci-node.yml/badge.svg)
+
 ## Quickstart setup
 
 > TODO
