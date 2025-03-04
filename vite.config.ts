@@ -7,28 +7,8 @@ export default defineConfig({
         lib: {
             entry: "src/breviarium.ts",
             name: "Breviarium",
-            fileName: "breviarium",
-        },
-        rollupOptions: {
-            output: [
-                {
-                    format: "es",
-                    entryFileNames: "breviarium.esm.js",
-                    dir: "dist",
-                },
-                {
-                    format: "cjs",
-                    entryFileNames: "breviarium.cjs.cjs",
-                    dir: "dist",
-                },
-                {
-                    format: "umd",
-                    entryFileNames: "breviarium.umd.js",
-                    dir: "dist",
-                    name: "Breviarium", // Global variable for browsers
-                    sourcemap: true,
-                },
-            ],
+            fileName: (format) => `breviarium.${format}.js`,
+            formats: ["es", "cjs", "umd"]
         },
     },
     plugins: [dts()],
