@@ -14,7 +14,7 @@
     "seasons",
     "liturgical"
   ],
-  "version": "0.2.12",
+  "version": "0.2.13",
   "main": "dist/breviarium.cjs.cjs",
   "module": "dist/breviarium.esm.js",
   "types": "dist/breviarium.d.ts",
