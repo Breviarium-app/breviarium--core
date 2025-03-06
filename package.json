@@ -41,5 +41,9 @@
   "license": "MIT",
   "dependencies": {
     "romcal": "^3.0.0-dev.95"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Breviarium-app/breviarium--core"
   }
 }
