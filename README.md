@@ -23,7 +23,9 @@
 <a href="https://www.jsdelivr.com/package/npm/breviarium" target="_blank" rel="noopener noreferrer">
     <img alt="latest" src="https://data.jsdelivr.com/v1/package/npm/breviarium/badge?style=rounded">
 </a>
-
+<a href="https://bundlephobia.com/result?p=breviarium" target="_blank" rel="noopener noreferrer">
+    <img alt="minzipped size" src="https://badgen.net/bundlephobia/minzip/breviarium">
+</a>
 </p>
 
 ![example](https://github.com/breviarium-app/breviarium--app/actions/workflows/ci-node.yml/badge.svg)
