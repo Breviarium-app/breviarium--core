@@ -1,5 +1,6 @@
 // src/breviarium.ts
 import {BreviariumInterface} from "./breviarium-interface.ts";
+import {PrayerManager} from "@/prayers/prayer-manager.ts";
 
 function formatDate(date: Date): string {
     return date.toISOString().split("T")[0];
@@ -26,7 +27,9 @@ export class Breviarium implements BreviariumInterface {
 
     getLaudes(date?: Date): string {
         const day = formatDate(date ?? this.getCurrentDate());
-        return `Laudes prayer for ${day}`;
+        const p = new PrayerManager();
+        console.log(p.getLaudes(date));
+        return `Laudes prayer for ${day}: ${p.getLaudes(date)}`;
     }
 
     getVesperae(date?: Date): string {

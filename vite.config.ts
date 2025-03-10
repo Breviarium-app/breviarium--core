@@ -1,5 +1,7 @@
 import {defineConfig} from "vite";
 import dts from "vite-plugin-dts";
+import path from 'path';
+
 
 export default defineConfig({
     build: {
@@ -10,6 +12,17 @@ export default defineConfig({
             fileName: (format) => `breviarium.${format}.js`,
             formats: ["es", "cjs", "umd"]
         },
+        rollupOptions:{
+            // input: ["src/prayers"],
+        }
     },
-    plugins: [dts()],
+    // publicDir: './src/',
+    plugins: [dts({
+        exclude: ["src/__tests__"]
+    })],
+    resolve: {
+        alias: {
+            '@': path.resolve(__dirname, './src'),
+        },
+    },
 });
