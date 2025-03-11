@@ -9,12 +9,14 @@ function formatDate(date: Date): string {
 export class Breviarium implements BreviariumInterface {
 
     #selectedDate: Date;
+    #prayerManager: PrayerManager;
 
     constructor(selectedDate?: Date) {
         if (selectedDate !== undefined && selectedDate !== null)
             this.#selectedDate = selectedDate;
         else
             this.#selectedDate = new Date();
+        this.#prayerManager = new PrayerManager();
     }
 
     setDate(date: Date): void {
@@ -27,9 +29,9 @@ export class Breviarium implements BreviariumInterface {
 
     getLaudes(date?: Date): string {
         const day = formatDate(date ?? this.getCurrentDate());
-        const p = new PrayerManager();
-        console.log(p.getLaudes(date));
-        return `Laudes prayer for ${day}: ${p.getLaudes(date)}`;
+
+        console.log(this.#prayerManager.getLaudes(date));
+        return `Laudes prayer for ${day}: ${this.#prayerManager.getLaudes(date)}`;
     }
 
     getVesperae(date?: Date): string {
