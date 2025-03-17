@@ -1,5 +1,5 @@
 import {describe, expect, it} from "vitest";
-import {Breviarium} from "@/breviarium.ts";
+import Breviarium from "@/breviarium.ts";
 
 
 const locale = "en-CA"; // Use a consistent locale (YYYY-MM-DD format)

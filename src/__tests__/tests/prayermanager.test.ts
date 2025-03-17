@@ -7,8 +7,6 @@ describe("Prayer Manager module", () => {
         const prayer = new PrayerManager();
         const result = prayer.getLaudes();
 
-        console.log(result);
-
         assert(result !== undefined);
     });
 
@@ -16,8 +14,6 @@ describe("Prayer Manager module", () => {
         const prayer = new PrayerManager();
         const result = prayer.getLaudes();
 
-        console.log(result);
-        console.log(result?.["s1_c"])
         assert(result !== undefined);
         expect(result.responsorios.length).to.be.greaterThan(1);
         expect(result.preces_c.length).to.be.greaterThan(1);

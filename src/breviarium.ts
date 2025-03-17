@@ -6,7 +6,7 @@ function formatDate(date: Date): string {
     return date.toISOString().split("T")[0];
 }
 
-export class Breviarium implements BreviariumInterface {
+export default class Breviarium implements BreviariumInterface {
 
     #selectedDate: Date;
     #prayerManager: PrayerManager;
