@@ -4,6 +4,7 @@ import {
     InvitatoriumSchema,
     LaudesSchema,
     LecturesSchema,
+    OfficiumSchema,
     PrayerManagerInterface,
     VesperaeSchema
 } from "@/prayer-manager-interface.ts";
@@ -13,8 +14,10 @@ import all_tercia from '@/prayers/db/all_tertia.json';
 import all_sexta from '@/prayers/db/all_sexta.json';
 import all_nona from '@/prayers/db/all_nona.json';
 import all_lectures from '@/prayers/db/all_lectures.json';
+import all_officium from '@/prayers/db/all_officium.json';
 import all_invitatorium from '@/prayers/db/all_invitatorium.json';
 import {monday} from '@/prayers/db/es/completorium/index.ts';
+import * as console from "node:console";
 
 export class PrayerManager implements PrayerManagerInterface {
     getInvitatorium(date?: Date): InvitatoriumSchema | undefined {
@@ -32,7 +35,7 @@ export class PrayerManager implements PrayerManagerInterface {
         return all_vesperae[0];
     }
 
-    getTercia(date?: Date): IntermediateSchema | undefined {
+    getTertia(date?: Date): IntermediateSchema | undefined {
         console.log('Tercia date:', date);
         return all_tercia[0];
     }
@@ -55,5 +58,15 @@ export class PrayerManager implements PrayerManagerInterface {
     getCompletorium(date?: Date): CompletoriumSchema | undefined {
         console.log('Completorium date:', date);
         return monday;
+    }
+
+    getOfficium(date?: Date): OfficiumSchema | undefined {
+        console.log('Officium date:', date);
+        return all_officium[0];
+    }
+
+    getEvangelium(date?: Date): LecturesSchema | undefined {
+        console.log('Evangelium date:', date);
+        return undefined;
     }
 }
