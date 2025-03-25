@@ -18,3 +18,6 @@ test: ## execute unit tests
 
 test-coverage: ## execute test with coverage
 	@npm run test:coverage
+
+process-and-compress: ## process database and compress texts
+	./process-and-compress.sh
