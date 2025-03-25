@@ -1,0 +1,3770 @@
+[
+  {
+    "id": 0,
+    "val": "Del libro del profeta Jeremías$Jr 31, 15-22.27-34 $"
+  },
+  {
+    "id": 1,
+    "val": "Sermón sobre las bienaventuranzas 95, 4-6"
+  },
+  {
+    "id": 2,
+    "val": "Del segundo libro de las Crónicas$2 Cro 20, 1-9.13-24 $"
+  },
+  {
+    "id": 3,
+    "val": "Tratado sobre los misterios (43.47-49: SC 25bis, 178-180.182)"
+  },
+  {
+    "id": 4,
+    "val": "Del libro de Qohelet $Qo 8, 5-9, 10 $"
+  },
+  {
+    "id": 5,
+    "val": "Comentario sobre el Eclesiastés 8, 6"
+  },
+  {
+    "id": 6,
+    "val": "Del libro del Apocalipsis$Ap 2, 1-11 $"
+  },
+  {
+    "id": 7,
+    "val": "Libros a Mónimo 2, 11-12"
+  },
+  {
+    "id": 8,
+    "val": "De la primera carta a los Corintios$1 Co 1, 18-2, 5 $"
+  },
+  {
+    "id": 9,
+    "val": "De las homilías sobre el Evangelio de San Juan (homilía 19, 1: PG 59, 120-121)"
+  },
+  {
+    "id": 10,
+    "val": "De la primera carta a los Tesalonicenses$1 Ts 4, 1-18 $"
+  },
+  {
+    "id": 11,
+    "val": "Contra las herejías 3, 19, 1.3-20"
+  },
+  {
+    "id": 12,
+    "val": "Del libro del profeta Isaías$Is 41, 21-29$"
+  },
+  {
+    "id": 13,
+    "val": "Homilía sobre las excelencias de la Virgen Madre 4, 8-9"
+  },
+  {
+    "id": 14,
+    "val": "Del libro del Éxodo$Ex 6, 29-7, 25 $"
+  },
+  {
+    "id": 15,
+    "val": "Tratado sobre el Padrenuestro (Caps. 1-3: CSEL 3, 267-268"
+  },
+  {
+    "id": 16,
+    "val": "Del libro del Deuteronomio$Dt 31, 1-15.12 $"
+  },
+  {
+    "id": 17,
+    "val": "De las homilías (Homilía 2 sobre las alabanzas de san Pablo: PG 50, 480-484"
+  },
+  {
+    "id": 18,
+    "val": "De la segunda carta de san Pedro$2 P 1, 12-21 $"
+  },
+  {
+    "id": 19,
+    "val": "Tratados sobre el evangelio de san Juan 35, 8-9"
+  },
+  {
+    "id": 20,
+    "val": "Del libro del profeta Habacuc$Ha 2, 5-20 $"
+  },
+  {
+    "id": 21,
+    "val": "Sermón 5 sobre diversas materias 4-5"
+  },
+  {
+    "id": 22,
+    "val": "Del libro de los Jueces$Jc 16, 4-6.16-31 $"
+  },
+  {
+    "id": 23,
+    "val": "Tratado sobre el Padrenuestro (Caps. 28-30: CSEL 3, 287-289)"
+  },
+  {
+    "id": 24,
+    "val": "Del libro de la Sabiduría$Sb 1, 1-15 $"
+  },
+  {
+    "id": 25,
+    "val": "Carta a los Corintios 19, 2- 20, 12"
+  },
+  {
+    "id": 26,
+    "val": "De la carta a los Filipenses$Flp 3, 7-4, 1.4-9 $"
+  },
+  {
+    "id": 27,
+    "val": "De las oraciones atribuidas a la santa (Oración 2. Revelationum S. Birgittae libri, 2, Roma 1628, pp 408-410)"
+  },
+  {
+    "id": 28,
+    "val": "Del libro de los Hechos de los Apóstoles$Hch 6, 1-6; 8, 1b.4-8 $"
+  },
+  {
+    "id": 29,
+    "val": "Sermón 304, 1-4: PL 38, 1395-1397"
+  },
+  {
+    "id": 30,
+    "val": "De la primera carta de Juan$1 Jn 2, 18-29 $"
+  },
+  {
+    "id": 31,
+    "val": "Sermón 1, sobre la Ascensión del Señor (2-4: PL 54, 395-396)"
+  },
+  {
+    "id": 32,
+    "val": "Del libro de los Jueces$Jc 6, 1-6.11-24a $"
+  },
+  {
+    "id": 33,
+    "val": "Tratado sobre el Padrenuestro (Caps. 11-12: CSEL 3, 274-275)"
+  },
+  {
+    "id": 34,
+    "val": "De la carta a los Efesios$Ef 4, 1-16 $"
+  },
+  {
+    "id": 35,
+    "val": "Contra las herejías (Libro 1, 10, 1-3: PG 7, 550-554)"
+  },
+  {
+    "id": 36,
+    "val": "De la segunda carta a los Corintios$2 Co 3, 7-4, 6 $"
+  },
+  {
+    "id": 37,
+    "val": "Del sermón en el día de la Transfiguración del Señor (Núms. 6-10: Mélanges d´archéologie et d´histoire 67 [1955], 241-244)"
+  },
+  {
+    "id": 38,
+    "val": "Del libro de los Números$Nm 20, 1-13; 21, 4-9 $"
+  },
+  {
+    "id": 39,
+    "val": "Constitución Dogmática Lumen Gentium, 9"
+  },
+  {
+    "id": 40,
+    "val": "Del libro de la Sabiduría$Sb 7, 15-30 $"
+  },
+  {
+    "id": 41,
+    "val": "Sermones contra los arrianos 2, 78.79"
+  },
+  {
+    "id": 42,
+    "val": "De la primera carta de san Pedro$1 P 3, 18-4, 11 $"
+  },
+  {
+    "id": 43,
+    "val": "Catequesis de Jerusalén 21, Mystagogica 3, 1-3"
+  },
+  {
+    "id": 44,
+    "val": "Del libro del profeta Sofonías$So 3, 8-20 $"
+  },
+  {
+    "id": 45,
+    "val": "Del Tratado sobre el comportamiento de las vírgenes (Núms 3-4.22.23: CSEL 3, 189-190.202-204)"
+  },
+  {
+    "id": 46,
+    "val": "Del libro de Job $Jb 3, 1-26 $"
+  },
+  {
+    "id": 47,
+    "val": "Confesiones 10, 1-2, 2; 5, 7"
+  },
+  {
+    "id": 48,
+    "val": "Del primer libro de los Reyes$1 R 18, 16b-40 $"
+  },
+  {
+    "id": 49,
+    "val": "Opúsculo sobre el itinerario de la mente hacia Dios, 7, 1.2.4.6: (Opera omnia 5, 312-313)"
+  },
+  {
+    "id": 50,
+    "val": "De la primera carta a Timoteo$ 1 Tm 6, 1-10 $"
+  },
+  {
+    "id": 51,
+    "val": "Primer Conmonitorio 23"
+  },
+  {
+    "id": 52,
+    "val": "Del libro del Éxodo$Ex 19, 1-9; 20, 18-21 $"
+  },
+  {
+    "id": 53,
+    "val": "Contra los herejes 4, 16, 1-5"
+  },
+  {
+    "id": 54,
+    "val": "De la primera carta a Timoteo$ 1 Tm 2, 1-15 $"
+  },
+  {
+    "id": 55,
+    "val": "Sermón sobre el acueducto (Opera Ominia, ed. cirsterciense, 5 [1968], 282-283)"
+  },
+  {
+    "id": 56,
+    "val": "Del libro de los Números$Nm 12, 1-15 $"
+  },
+  {
+    "id": 57,
+    "val": "Carta 14, 1-2"
+  },
+  {
+    "id": 58,
+    "val": "Del libro del profeta Jeremías$Jr 4, 5-8.13-28 $"
+  },
+  {
+    "id": 59,
+    "val": "Comentarios sobre el libro del profeta Joel"
+  },
+  {
+    "id": 60,
+    "val": "Del libro del Apocalipsis$Ap 5, 1-14 $"
+  },
+  {
+    "id": 61,
+    "val": "Constitución Sacrosanctum Concilium sobre la sagrada liturgia (núm. 5-6)"
+  },
+  {
+    "id": 62,
+    "val": "De la primera carta a los Corintios$1 Co 4, 1-16 $"
+  },
+  {
+    "id": 63,
+    "val": "Homilía 26, 7-9: PL 76, 1201-1202"
+  },
+  {
+    "id": 64,
+    "val": "Del libro del Éxodo$Ex 2, 1-22 $"
+  },
+  {
+    "id": 65,
+    "val": "Suplemento, Homilía 6 sobre la oración: PG 64, 462-466"
+  },
+  {
+    "id": 66,
+    "val": "Del primer libro de las Crónicas$1 Cro 17, 1-15$"
+  },
+  {
+    "id": 67,
+    "val": "Tratado sobre la contemplación de Dios 9-11"
+  },
+  {
+    "id": 68,
+    "val": "Del libro del profeta Isaías$Is 60, 1-22 $"
+  },
+  {
+    "id": 69,
+    "val": "Sermón en la Epifanía del Señor 3, 1-3.5"
+  },
+  {
+    "id": 70,
+    "val": "Del primer libro de los Macabeos$1 M 3, 1-26 $"
+  },
+  {
+    "id": 71,
+    "val": "Carta 6, 1-2: CSEL 3, 480-482"
+  },
+  {
+    "id": 72,
+    "val": "Del libro del Éxodo$Ex 24, 1-11 $"
+  },
+  {
+    "id": 73,
+    "val": "Opúsculo 57, en la fiesta del Cuerpo de Cristo 1-4"
+  },
+  {
+    "id": 74,
+    "val": "De la carta a los Efesios$Ef 4, 1-24 $"
+  },
+  {
+    "id": 75,
+    "val": "Sermón sobre la Ascensión del Señor, Mai 98, 1-2"
+  },
+  {
+    "id": 76,
+    "val": "De la primera carta a los Corintios$1 Co 7, 25-40 $"
+  },
+  {
+    "id": 77,
+    "val": "Diálogo sobre la divina Providencia (Cap. 167, Acción de gracias a la Ssma Trinidad: edición latina, Ingoldstadt 1583, ff 290v-291)"
+  },
+  {
+    "id": 78,
+    "val": "Del libro de Josué$Jos 10, 1-14; 11, 15-17 $"
+  },
+  {
+    "id": 79,
+    "val": "Comentarios sobre los salmos 1, 4.7-8"
+  },
+  {
+    "id": 80,
+    "val": "Del libro del profeta Ezequiel$Ez 40, 1-4; 43, 1-12; 44, 6-9 $"
+  },
+  {
+    "id": 81,
+    "val": "Carta 2546 (Correspondance, entretiens, documents, París 1922-1925, 7)"
+  },
+  {
+    "id": 82,
+    "val": "Del libro del Apocalipsis$Ap 22, 10-21 $"
+  },
+  {
+    "id": 83,
+    "val": "Comentario a los salmos 148, 1-2"
+  },
+  {
+    "id": 84,
+    "val": "Del libro de Daniel$Dn 1, 1-21 $"
+  },
+  {
+    "id": 85,
+    "val": "Caps. 1, 1-2, 7; Funk 1, 145-149"
+  },
+  {
+    "id": 86,
+    "val": "Del libro de Ben Sirá$Si 24, 1-23 $"
+  },
+  {
+    "id": 87,
+    "val": "Contra las herejías 4, 6, 3.5.6.7"
+  },
+  {
+    "id": 88,
+    "val": "Del libro de Daniel$Dn 2, 26-47 $"
+  },
+  {
+    "id": 89,
+    "val": "De las Cartas (carta 3, 6.9-10.11.14-17.21:SC 133, 336-344"
+  },
+  {
+    "id": 90,
+    "val": "Del libro de Ben Sirá$Si 42, 15-43, 12 $"
+  },
+  {
+    "id": 91,
+    "val": "Sermón contra los gentiles (40-42: PG 25, 79-83)"
+  },
+  {
+    "id": 92,
+    "val": "Del libro del profeta Isaías$Is 6, 1-13$"
+  },
+  {
+    "id": 93,
+    "val": "Catequesis 15, 1-3"
+  },
+  {
+    "id": 94,
+    "val": "De la segunda carta a los Tesalonicenses$2 Ts 1, 1-12 $"
+  },
+  {
+    "id": 95,
+    "val": "Catequesis 13, 1.3.6.23: PG 33, 771-774.779.799.802"
+  },
+  {
+    "id": 96,
+    "val": "Del libro del profeta Ezequiel$Ez 37, 15-28 $"
+  },
+  {
+    "id": 97,
+    "val": "Sermón sobre los pastores 7 46, 24-25.27"
+  },
+  {
+    "id": 98,
+    "val": "De la primera carta de Juan$1 Jn 1, 1-10 $"
+  },
+  {
+    "id": 99,
+    "val": "Comentario sobre la segunda carta a los Corintios (Caps. 5, 5 - 6, 2: PG 74, 942-943)"
+  },
+  {
+    "id": 100,
+    "val": "Del libro de Josué$Jos 24, 1-7.13-28 $"
+  },
+  {
+    "id": 101,
+    "val": "Comentarios sobre los salmos 1, 9-12"
+  },
+  {
+    "id": 102,
+    "val": "Del libro del Apocalipsis$Ap 18, 21-19, 10 $"
+  },
+  {
+    "id": 103,
+    "val": "Sermón 53, 1-2"
+  },
+  {
+    "id": 104,
+    "val": "De la primera carta de Juan$1 Jn 4, 1-10 $"
+  },
+  {
+    "id": 105,
+    "val": "Catequesis sobre el Espíritu Santo 16 1, 11-12, 16"
+  },
+  {
+    "id": 106,
+    "val": "De la carta a los Filipenses$Flp 1, 12-26 $"
+  },
+  {
+    "id": 107,
+    "val": "Prólogo al comentario sobre el libro del profeta Isaías, 1.2 (CCL 73, 1-3)"
+  },
+  {
+    "id": 108,
+    "val": "Del libro de Job$Jb 29, 1-10; 30, 1.9-23 $"
+  },
+  {
+    "id": 109,
+    "val": "De la homilía pronunciada en la canonización de los mártires de Uganda (AAS 56 [1964], 905-906"
+  },
+  {
+    "id": 110,
+    "val": "Del libro del profeta Isaías$Is 42, 1-9; 49, 1-9 $"
+  },
+  {
+    "id": 111,
+    "val": "Sermón 39, En las sagradas Luminarias (14-16.20: PG 36, 350-351. 354. 358-359)"
+  },
+  {
+    "id": 112,
+    "val": "Del primer libro de los Macabeos$1 M 4, 36-59 $"
+  },
+  {
+    "id": 113,
+    "val": "Catequesis 5, Sobre la fe y el símbolo 12-13"
+  },
+  {
+    "id": 114,
+    "val": "Del libro del Éxodo$Ex 3, 1-20 $"
+  },
+  {
+    "id": 115,
+    "val": "Contra los herejes IV, 13, 4 - 14, 1"
+  },
+  {
+    "id": 116,
+    "val": "Del libro del profeta Isaías$Is 40, 1-11$"
+  },
+  {
+    "id": 117,
+    "val": "Carta 31, 2-3"
+  },
+  {
+    "id": 118,
+    "val": "Del segundo libro de Samuel$2 S 2, 1-11; 3, 1-5 $"
+  },
+  {
+    "id": 119,
+    "val": "Sermón 47, sobre las ovejas, 12-14: CCL 41, 582-584"
+  },
+  {
+    "id": 120,
+    "val": "Del libro del profeta Jeremías$Jr 7, 1-20 $"
+  },
+  {
+    "id": 121,
+    "val": "Homilías sobre el evangelio de san Mateo 50, 3-4"
+  },
+  {
+    "id": 122,
+    "val": "Del libro del Apocalipsis$Ap 4, 1-11 $"
+  },
+  {
+    "id": 123,
+    "val": "Sermón en la adoración de la Cruz: PG 99, 691-694, 695, 698-699"
+  },
+  {
+    "id": 124,
+    "val": "Del libro de los Números$Nm 11, 4-6.10-30 $"
+  },
+  {
+    "id": 125,
+    "val": "Gaudium et Spes 37-38"
+  },
+  {
+    "id": 126,
+    "val": "De la primera carta a Timoteo$ 1 Tm 1, 1-20 $"
+  },
+  {
+    "id": 127,
+    "val": "Regla Pastoral 2, 4"
+  },
+  {
+    "id": 128,
+    "val": "De la primera carta a Timoteo$ 1 Tm 5, 3-25 $"
+  },
+  {
+    "id": 129,
+    "val": "Carta a los Filadelfios 1, 1-2, 1; 3, 2-5"
+  },
+  {
+    "id": 130,
+    "val": "Del primer libro de los Reyes$1 R 16, 29-17, 16 $"
+  },
+  {
+    "id": 131,
+    "val": "Tratado sobre los misterios (1-7: SC 25bis, 156-158"
+  },
+  {
+    "id": 132,
+    "val": "Del libro de Job$Jb 7, 1-21 $"
+  },
+  {
+    "id": 133,
+    "val": "Confesiones 10, 26, 37-29, 40"
+  },
+  {
+    "id": 134,
+    "val": "De la primera carta de san Pedro$1 P 3, 1-17 $"
+  },
+  {
+    "id": 135,
+    "val": "Catequesis de Jerusalén 20, Mystagogica 2, 4-6"
+  },
+  {
+    "id": 136,
+    "val": "Del libro del profeta Jeremías$Jr 1, 1-19 $"
+  },
+  {
+    "id": 137,
+    "val": "Del libro de las Confesiones (Libro 9, 10, 23-11, 28: CSEL 33, 215-219"
+  },
+  {
+    "id": 138,
+    "val": "Del libro de la Sabiduría$Sb 6, 1-25 $"
+  },
+  {
+    "id": 139,
+    "val": "Carta a los Corintios 30, 3-4; 34, 2-35, 5"
+  },
+  {
+    "id": 140,
+    "val": "Del libro de los Números$Nm 16, 1-11.16-24.28-35 $"
+  },
+  {
+    "id": 141,
+    "val": "Comentario a los salmos 85, 1"
+  },
+  {
+    "id": 142,
+    "val": "Del libro del Apocalipsis$Ap 14, 14-15, 4 $"
+  },
+  {
+    "id": 143,
+    "val": "Tratado sobre la Trinidad 8, 13-16"
+  },
+  {
+    "id": 144,
+    "val": "Del libro de los Jueces$Jc 6, 33-40; 7, 1-8.16-22 $"
+  },
+  {
+    "id": 145,
+    "val": "Tratado sobre el Padrenuestro (Caps. 13-15: CSEL 3, 275-278"
+  },
+  {
+    "id": 146,
+    "val": "Del libro del profeta Amós$Am 9, 1-15 $"
+  },
+  {
+    "id": 147,
+    "val": "Cap. 19, 1-3. 5-7. 8-12: Funk 1, 53-57"
+  },
+  {
+    "id": 148,
+    "val": "De la primera carta de Juan$1 Jn 3, 1-10 $"
+  },
+  {
+    "id": 149,
+    "val": "Sermón sobre la Ascensión del Señor2, 1-4"
+  },
+  {
+    "id": 150,
+    "val": "Del libro del profeta Oseas$Os 11, 1b-11 $"
+  },
+  {
+    "id": 151,
+    "val": "Diálogo 4, 13"
+  },
+  {
+    "id": 152,
+    "val": "De la carta a los Colosenses$Col 3, 1-17 $"
+  },
+  {
+    "id": 153,
+    "val": "Homilía 25, 1-2.4-5: PL 76, 1189-1193"
+  },
+  {
+    "id": 154,
+    "val": "Del libro de Baruc$Ba 3, 9-15.24-4, 4 $"
+  },
+  {
+    "id": 155,
+    "val": "Sermón 117"
+  },
+  {
+    "id": 156,
+    "val": "Del primer libro de Samuel$1 S 16, 1-13 $"
+  },
+  {
+    "id": 157,
+    "val": "Tratado sobre la Trinidad 39-40"
+  },
+  {
+    "id": 158,
+    "val": "Del libro del profeta Habacuc$Ha 1, 2-2, 4 $"
+  },
+  {
+    "id": 159,
+    "val": "Sermón 5 sobre diversas materias 1-4"
+  },
+  {
+    "id": 160,
+    "val": "Del libro del Deuteronomio$Dt 32, 48-52; 34, 1-12 $"
+  },
+  {
+    "id": 161,
+    "val": "Gaudium et spes 18.22"
+  },
+  {
+    "id": 162,
+    "val": "De la segunda carta de san Pedro$2 P 2, 1-9 $"
+  },
+  {
+    "id": 163,
+    "val": "Homilías atribuidas 28"
+  },
+  {
+    "id": 164,
+    "val": "Del libro del profeta Isaías$Is 42, 10-25 $"
+  },
+  {
+    "id": 165,
+    "val": "Exposición sobre evangelio de San Lucas 2, 19.22-23.26-27"
+  },
+  {
+    "id": 166,
+    "val": "Del libro del Éxodo$Ex 10, 21-11, 10 $"
+  },
+  {
+    "id": 167,
+    "val": "Demostración 11, De la circuncisión 11-12"
+  },
+  {
+    "id": 168,
+    "val": "De la primera carta a los Tesalonicenses$1 Ts 5, 1-28 $"
+  },
+  {
+    "id": 169,
+    "val": "De las cartas (Epistolario, Turín 1959, 4, 201-203"
+  },
+  {
+    "id": 170,
+    "val": "Del libro del Apocalipsis$Ap 1, 1-20 $"
+  },
+  {
+    "id": 171,
+    "val": "PG 59, 723-724"
+  },
+  {
+    "id": 172,
+    "val": "Del libro del profeta Jeremías$Jr 30, 18-31, 9 $"
+  },
+  {
+    "id": 173,
+    "val": "Sermón sobre las bienaventuranzas 95, 2-3"
+  },
+  {
+    "id": 174,
+    "val": "Del libro de Qohelet $Qo 11, 7-12, 13 $"
+  },
+  {
+    "id": 175,
+    "val": "Comentario sobre el Eclesiastés 10, 2"
+  },
+  {
+    "id": 176,
+    "val": "Del primer libro de los Reyes$1 R 22, 1-9.15-23.29.34-38 $"
+  },
+  {
+    "id": 177,
+    "val": "Tratado sobre los misterios (29-30.34-35.37.42: SC 25bis, 172-178)"
+  },
+  {
+    "id": 178,
+    "val": "Del libro del profeta Isaías$Is 7, 1-17 $"
+  },
+  {
+    "id": 179,
+    "val": "Sermón sobre el libro del Cantar de los cantares (Sermón 83, 4-6: Opera omnia, edición cisterciense, 2 [1958], 300-302)"
+  },
+  {
+    "id": 180,
+    "val": "De la primera carta de san Pedro$1 P 2, 11-25 $"
+  },
+  {
+    "id": 181,
+    "val": "Sermón 35, 6-9; PL 17[ed. 1879], 696-697"
+  },
+  {
+    "id": 182,
+    "val": "Del libro de Ben Sirá$Si 47, 12-24 $"
+  },
+  {
+    "id": 183,
+    "val": "Comentario sobre los salmos 126, 2"
+  },
+  {
+    "id": 184,
+    "val": "Del libro del profeta Zacarías$Za 8, 1-17.20-23 $"
+  },
+  {
+    "id": 185,
+    "val": "Carta a los Romanos (Caps 4, 1-2; 6, 1-8, 3: Funk 1, 217-223)"
+  },
+  {
+    "id": 186,
+    "val": "Del libro del Éxodo$Ex 34, 10-28 $"
+  },
+  {
+    "id": 187,
+    "val": "Sobre la oración 28-29"
+  },
+  {
+    "id": 188,
+    "val": "De la carta a los Filipenses$Flp 1, 27-2, 11 $"
+  },
+  {
+    "id": 189,
+    "val": "De la narración de la Vida, escrita por ella misma (Manuscrits autobiografiques, Lisieux 1957, 227-229)"
+  },
+  {
+    "id": 190,
+    "val": "Del libro del Levítico$Lv 16, 2-28 $"
+  },
+  {
+    "id": 191,
+    "val": "Homilías sobre el Levítico 9, 5.10"
+  },
+  {
+    "id": 192,
+    "val": "Del libro del Apocalipsis$Ap 7, 1-17 $"
+  },
+  {
+    "id": 193,
+    "val": "Del comentario a la primera carta de san Pedro 2"
+  },
+  {
+    "id": 194,
+    "val": "Del primer libro de Samuel$1 S 25, 14-24a.28-39 $"
+  },
+  {
+    "id": 195,
+    "val": "Contra las herejías (libro 4, 20, 5-7: SC 100, 640-642.644-648"
+  },
+  {
+    "id": 196,
+    "val": "Del segundo libro de Samuel$2 S 7, 1-25 $"
+  },
+  {
+    "id": 197,
+    "val": "Sobre la predestinación de los elegidos 15, 30-31"
+  },
+  {
+    "id": 198,
+    "val": "Del libro del profeta Isaías$Is 35, 1-10$"
+  },
+  {
+    "id": 199,
+    "val": "Lumen Gentium 48"
+  },
+  {
+    "id": 200,
+    "val": "De la carta a los Gálatas$Ga 5, 25-6, 18 $"
+  },
+  {
+    "id": 201,
+    "val": "De los libros de los Diálogos (Libro 2, 33: PL 66, 194-196)"
+  },
+  {
+    "id": 202,
+    "val": "Del libro de Job$Jb 31, 1-8.13-23.35-37 $"
+  },
+  {
+    "id": 203,
+    "val": "Instrucción 7, sobre la acusación de sí mismo (2-3: PG 88, 1699)"
+  },
+  {
+    "id": 205,
+    "val": "De las homilías sobre el libro de los Hechos de los apóstoles (Homilía 3, 1.2.3: PG 60, 33-36.38)"
+  },
+  {
+    "id": 206,
+    "val": "De la segunda carta a los Corintios$2 Co 8, 1-24 $"
+  },
+  {
+    "id": 207,
+    "val": "Sermón 3 en la Asuncion de la bienaventurada Virgen María, 4. 5: PL 183, 423. 424"
+  },
+  {
+    "id": 208,
+    "val": "Del libro de Josué$Jos 3, 1-17; 4, 14-19; 5, 10-12 $"
+  },
+  {
+    "id": 209,
+    "val": "Homilías sobre el libro de Josué 4, 1"
+  },
+  {
+    "id": 210,
+    "val": "Del libro del Apocalipsis$Ap 21, 9-27 $"
+  },
+  {
+    "id": 211,
+    "val": "Sermón sobre la encarnación del Verbo, 8-9: PG 25, 110-111"
+  },
+  {
+    "id": 213,
+    "val": "Homilía 21 (CCL 122, 149-151"
+  },
+  {
+    "id": 214,
+    "val": "De la carta a los Gálatas$Ga 2, 11-3, 14 $"
+  },
+  {
+    "id": 215,
+    "val": "Cap 14, 109-110: Acta Sanctorum Februarii, I, 769"
+  },
+  {
+    "id": 216,
+    "val": "Del libro del profeta Isaías$Is 11, 10-16$"
+  },
+  {
+    "id": 217,
+    "val": "Proslogion 1"
+  },
+  {
+    "id": 218,
+    "val": "Del libro del Deuteronomio$Dt 6, 4-25 $"
+  },
+  {
+    "id": 219,
+    "val": "Corintios 49-50"
+  },
+  {
+    "id": 220,
+    "val": "Del libro de Daniel$Dn 12, 1-13 $"
+  },
+  {
+    "id": 221,
+    "val": "Caps. 18, 1-20, 5; Funk 1, 167-171"
+  },
+  {
+    "id": 222,
+    "val": "Del libro de Qohelet $Qo 5, 9-6, 8 $"
+  },
+  {
+    "id": 223,
+    "val": "Comentario sobre el Eclesiastés"
+  },
+  {
+    "id": 224,
+    "val": "Del libro del profeta Jeremías$Jr 11, 18-20; 12, 1-13 $"
+  },
+  {
+    "id": 225,
+    "val": "Sermón 23 A, 1-4"
+  },
+  {
+    "id": 226,
+    "val": "Del libro del Éxodo$Ex 14, 10-31 $"
+  },
+  {
+    "id": 227,
+    "val": "Catequesis 3, 24-27"
+  },
+  {
+    "id": 228,
+    "val": "Del libro de los Hechos de los Apóstoles$Hch 6, 8-7, 2a.44-8, 1 $"
+  },
+  {
+    "id": 229,
+    "val": "Sermón 3, 1-3.5-6 (CCL 91A, 905-909)"
+  },
+  {
+    "id": 230,
+    "val": "Del libro del profeta Zacarías$Za 10, 3-11, 3 $"
+  },
+  {
+    "id": 231,
+    "val": "Sermón 21, 1-4"
+  },
+  {
+    "id": 232,
+    "val": "Del libro del Deuteronomio$Dt 16, 1-17 $"
+  },
+  {
+    "id": 233,
+    "val": "Contra las herejías 4, 18, 1-2.4.5"
+  },
+  {
+    "id": 234,
+    "val": "De la carta a los Colosenses$Col 1, 15-2, 3 $"
+  },
+  {
+    "id": 235,
+    "val": "Refutación de todas las herejías 10, 33-34"
+  },
+  {
+    "id": 236,
+    "val": "Del libro del profeta Ezequiel$Ez 8, 1-6.16-9, 11 $"
+  },
+  {
+    "id": 237,
+    "val": "Sermón sobre los pastores 46, 4-5"
+  },
+  {
+    "id": 238,
+    "val": "Del segundo libro de Samuel$2 S 18, 6-17.24-19, 5 $"
+  },
+  {
+    "id": 239,
+    "val": "Comentario sobre los salmos 32, 29; CCL 38, 272-273"
+  },
+  {
+    "id": 240,
+    "val": "Del libro del profeta Jeremías$Jr 1, 4-10.17-19 $"
+  },
+  {
+    "id": 241,
+    "val": "Sermón 293, 1-3: PL 38, 1327-1328"
+  },
+  {
+    "id": 242,
+    "val": "Del libro del Apocalipsis$Ap 10, 1-11 $"
+  },
+  {
+    "id": 243,
+    "val": "Sermón sobre nuestro Señor 3-4.9"
+  },
+  {
+    "id": 244,
+    "val": "Del libro de Ester$Est 3, 1-15 $"
+  },
+  {
+    "id": 245,
+    "val": "Carta a Proba 130, 9, 18- 10, 20"
+  },
+  {
+    "id": 247,
+    "val": "Homilías sobre el evangelio de San Mateo (Homilía 65, 2-4: PG 58, 619-622)"
+  },
+  {
+    "id": 248,
+    "val": "De la tercera carta de Juan$3 Jn $"
+  },
+  {
+    "id": 249,
+    "val": "Sermón 8, 1-3: PL 65, 743-744"
+  },
+  {
+    "id": 250,
+    "val": "Del libro de Job$Jb 42, 7-17 $"
+  },
+  {
+    "id": 251,
+    "val": "Sermón 8, en la fiesta de la Purificación de la Santísima Virgen María: Opera 2, Venecia 1751, 38-39"
+  },
+  {
+    "id": 252,
+    "val": "Del libro del profeta Miqueas$Mi 6, 1-15 $"
+  },
+  {
+    "id": 253,
+    "val": "Sermón sobre el bautismo (Núms. 5-6: PL 13, 1092-1093)"
+  },
+  {
+    "id": 254,
+    "val": "Del libro del Apocalipsis$Ap 14, 1-13 $"
+  },
+  {
+    "id": 255,
+    "val": "Sermón 108"
+  },
+  {
+    "id": 256,
+    "val": "Del libro del profeta Jeremías$Jr 11, 18-12, 13 $"
+  },
+  {
+    "id": 257,
+    "val": "Tratados sobre el evangelio de San Juan 84, 1-2"
+  },
+  {
+    "id": 258,
+    "val": "Del libro del profeta Jeremías$Jr 8, 13-9, 10 $"
+  },
+  {
+    "id": 259,
+    "val": "Libro sobre el Espíritu Santo 15, 35"
+  },
+  {
+    "id": 260,
+    "val": "De la segunda carta a los Corintios$2 Co 11, 7-29 $"
+  },
+  {
+    "id": 261,
+    "val": "Tratado sobre la práctica del amor a Jesucristo, edición latina, Roma, 1909, pp 9-14"
+  },
+  {
+    "id": 262,
+    "val": "Del libro del Apocalipsis$Ap 13, 1-18 $"
+  },
+  {
+    "id": 263,
+    "val": "Libro sobre el Espíritu Santo 15, 35-36"
+  },
+  {
+    "id": 264,
+    "val": "Del libro de Ben Sirá$Si 46, 1-10 $"
+  },
+  {
+    "id": 265,
+    "val": "De la carta a los Romanos $Rm 1, 1 - 2, 2$"
+  },
+  {
+    "id": 266,
+    "val": "Del libro del profeta Miqueas$Mi 7, 7-20 $"
+  },
+  {
+    "id": 267,
+    "val": "Sermón sobre el bautismo (Núms. 6-7: PL 13, 1093-1094)"
+  },
+  {
+    "id": 268,
+    "val": "De la carta a los Romanos$Rm 8, 5-27 $"
+  },
+  {
+    "id": 269,
+    "val": "Contra los herejes 3, 17, 1-3"
+  },
+  {
+    "id": 270,
+    "val": "De la segunda carta a los Corintios$2 Co 3, 7-4, 4 $"
+  },
+  {
+    "id": 271,
+    "val": "Libro 2, Cap. 1-6"
+  },
+  {
+    "id": 272,
+    "val": "Del libro de Ester$Est 1, 1-3.9-13.15-16.19; 2, 5-10.16-17 $"
+  },
+  {
+    "id": 273,
+    "val": "Carta a Proba 130, 8, 15.17- 9, 18"
+  },
+  {
+    "id": 274,
+    "val": "Del libro del profeta Jeremías$Jr 20, 7-18 $"
+  },
+  {
+    "id": 275,
+    "val": "PG 43, 439-451; 462-463"
+  },
+  {
+    "id": 276,
+    "val": "Del libro del Apocalipsis$Ap 9, 13-21 $"
+  },
+  {
+    "id": 277,
+    "val": "Contra los herejes 5, 2, 2-3"
+  },
+  {
+    "id": 278,
+    "val": "Del primer libro de Samuel$1 S 17, 57-18, 9.20-30 $"
+  },
+  {
+    "id": 279,
+    "val": "Tratado sobre el perfecto modelo de cristiano"
+  },
+  {
+    "id": 280,
+    "val": "Del libro del profeta Ezequiel$Ez 2, 8-3, 11.16-21 $"
+  },
+  {
+    "id": 281,
+    "val": "Carta 60, 1-2.5 (CSEL 3, 691-692.694-695"
+  },
+  {
+    "id": 282,
+    "val": "Del segundo libro de Samuel$2 S 15, 7-14.24-30; 16, 5-13 $"
+  },
+  {
+    "id": 283,
+    "val": "Carta a los Corintios 46, 2 -47, 4; 48, 1-6; Funk 1, 119-123"
+  },
+  {
+    "id": 284,
+    "val": "De la carta a los Colosenses$Col 2, 4-15 $"
+  },
+  {
+    "id": 285,
+    "val": "Sermón en la Natividad del Señor 6, 2-3.5"
+  },
+  {
+    "id": 286,
+    "val": "Del libro del profeta Zacarías$Za 11, 4-12, 8 $"
+  },
+  {
+    "id": 287,
+    "val": "Sermón 25, 7-8: PL 46, 937-938"
+  },
+  {
+    "id": 288,
+    "val": "Del libro del Deuteronomio$Dt 18, 1-22 $"
+  },
+  {
+    "id": 289,
+    "val": "Sacrosanctum Concilium 7-8.106"
+  },
+  {
+    "id": 290,
+    "val": "Del libro del Éxodo$Ex 16, 1-18.35 $"
+  },
+  {
+    "id": 291,
+    "val": "Salmo 140, 4-6"
+  },
+  {
+    "id": 292,
+    "val": "De la primera carta de Juan$1 Jn 1, 1-2, 3 $"
+  },
+  {
+    "id": 293,
+    "val": "Tratado sobre I Juan (1, 1.3: PL 35, 1978. 1980)"
+  },
+  {
+    "id": 294,
+    "val": "Del libro del profeta Jeremías$Jr 15, 10-21 $"
+  },
+  {
+    "id": 295,
+    "val": "De la carta encíclica Mediator Dei (AAS 39 [1947], 552-553"
+  },
+  {
+    "id": 296,
+    "val": "Del libro del Deuteronomio$Dt 7, 6-14; 8, 1-6 $"
+  },
+  {
+    "id": 297,
+    "val": "De la Vida de san Antonio (caps. 2-4: PG 26, 842-846)"
+  },
+  {
+    "id": 298,
+    "val": "Del libro del profeta Joel$Jl 2, 21-3, 5 $"
+  },
+  {
+    "id": 299,
+    "val": "Comentarios sobre los salmos 95, 14.1"
+  },
+  {
+    "id": 300,
+    "val": "De la carta a los Gálatas$Ga 3, 15-4, 7 $"
+  },
+  {
+    "id": 301,
+    "val": "Carta 35, 4-6"
+  },
+  {
+    "id": 302,
+    "val": "Del libro del profeta Isaías$Is 13, 1-22 $"
+  },
+  {
+    "id": 303,
+    "val": "Carta 2, 1-2.4-5.7: PL 16 [edición 1845], 847-881"
+  },
+  {
+    "id": 304,
+    "val": "Del libro de los Hechos de los Apóstoles$Hch 5, 12-32 $"
+  },
+  {
+    "id": 305,
+    "val": "Tratado de sobre la prescripción de los herejes (Caps. 10, 1-9;21, 3;22, 8-10: CCL 1, 201-204)"
+  },
+  {
+    "id": 306,
+    "val": "Del libro del profeta Ezequiel$Ez 16, 3.5b-7a.8-15.35.37a.40-43.59-63 $"
+  },
+  {
+    "id": 307,
+    "val": "Última exhortación (Pro Corea Documenta. ed. Mission Catholique Séoul, Seul/París 1938, vol. I, 74- 75)"
+  },
+  {
+    "id": 308,
+    "val": "Del libro de Josué$Jos 5, 13-6, 21 $"
+  },
+  {
+    "id": 309,
+    "val": "De los sermones I, 226"
+  },
+  {
+    "id": 310,
+    "val": "De la segunda carta a los Corintios$2 Co 7, 2-16 $"
+  },
+  {
+    "id": 311,
+    "val": "Homilías sobre II Corintios 14, 1-2"
+  },
+  {
+    "id": 312,
+    "val": "De la primera carta de Juan$1 Jn 5, 1-12 $"
+  },
+  {
+    "id": 313,
+    "val": "Sermón Morin 11, sobre las bienaventuranzas"
+  },
+  {
+    "id": 314,
+    "val": "Del libro de Job$Jb 32, 1-6; 33, 1-22 $"
+  },
+  {
+    "id": 315,
+    "val": "De las cartas (Carta 78: MGH, Epistolae, 3; 352-354)"
+  },
+  {
+    "id": 317,
+    "val": "Sermón 2 (Opera Omnia, ed. cisterc, 5 [1968], 364-368)"
+  },
+  {
+    "id": 318,
+    "val": "De la carta a los Hebreos$Hb 2, 9-17 $"
+  },
+  {
+    "id": 319,
+    "val": "Carta a Epicteto 5-9"
+  },
+  {
+    "id": 320,
+    "val": "Del libro de Rut$Rut 1, 1-22$"
+  },
+  {
+    "id": 321,
+    "val": "Comentario sobre los salmos 109, 1-3"
+  },
+  {
+    "id": 322,
+    "val": "Del libro de los Proverbios$Pr 1, 1-7.20-33 $"
+  },
+  {
+    "id": 323,
+    "val": "Sobre el Diatéseron 1, 18-19"
+  },
+  {
+    "id": 324,
+    "val": "Del segundo libro de Samuel$2 S 6, 1-23 $"
+  },
+  {
+    "id": 325,
+    "val": "Homilía a los recién bautizados, sobre el salmo 41"
+  },
+  {
+    "id": 326,
+    "val": "De la carta a los Gálatas$Ga 1, 15-2, 10 $"
+  },
+  {
+    "id": 327,
+    "val": "Sermón 295, 1-2.4.7-8: PL 38, 1348-1352"
+  },
+  {
+    "id": 328,
+    "val": "Del libro del Apocalipsis$Ap 6, 1-17 $"
+  },
+  {
+    "id": 329,
+    "val": "I Apología en defensa de los cristianos 66-67"
+  },
+  {
+    "id": 330,
+    "val": "Del libro del Levítico$Lv 8, 1-17; 9, 22-24 $"
+  },
+  {
+    "id": 331,
+    "val": "Sobre San Juan trat. 34, 8-9"
+  },
+  {
+    "id": 332,
+    "val": "Del libro del Éxodo$Ex 33, 7-11.18-23; 34, 5-9.29-35 $"
+  },
+  {
+    "id": 333,
+    "val": "A Autólico 1, 2.7"
+  },
+  {
+    "id": 334,
+    "val": "Del libro del profeta Zacarías$Za 3, 1-4, 14 $"
+  },
+  {
+    "id": 335,
+    "val": "Cuestión 63, a Talasio"
+  },
+  {
+    "id": 336,
+    "val": "Del primer libro de los Reyes$1 R 1, 11-35; 2, 10-12 $"
+  },
+  {
+    "id": 337,
+    "val": "Corintios 50, 1 - 51, 3; 55, 1-4"
+  },
+  {
+    "id": 338,
+    "val": "Del libro del profeta Isaías$Is 9, 7-10, 4 $"
+  },
+  {
+    "id": 339,
+    "val": "De la constitución apostólica Divino afflatu (AAS 3 [1911], 633-635"
+  },
+  {
+    "id": 340,
+    "val": "De la primera carta de san Pedro$1 P 1, 22-2, 10 $"
+  },
+  {
+    "id": 341,
+    "val": "Sermón 4, 1-2"
+  },
+  {
+    "id": 342,
+    "val": "Del libro de Daniel$Dn 9, 1-4a.18-27 $"
+  },
+  {
+    "id": 343,
+    "val": "Caps. 13, 2-14, 5; Funk 1, 159-161"
+  },
+  {
+    "id": 344,
+    "val": "Del libro del profeta Jeremías$Jr 16, 1-15 $"
+  },
+  {
+    "id": 345,
+    "val": "Catequesis 3, 13-19"
+  },
+  {
+    "id": 346,
+    "val": "Del libro del Deuteronomio$Dt 1, 1.6-18 $"
+  },
+  {
+    "id": 347,
+    "val": "Efesios 2, 2 - 5, 2"
+  },
+  {
+    "id": 348,
+    "val": "Del libro del profeta Isaías$Is 9, 1-7$"
+  },
+  {
+    "id": 349,
+    "val": "Sermón en el Adviento del Señor 5, 1-3"
+  },
+  {
+    "id": 350,
+    "val": "De la carta a los Gálatas$Ga 1, 1-12 $"
+  },
+  {
+    "id": 351,
+    "val": "Comentario a Gálatas, prefacio."
+  },
+  {
+    "id": 352,
+    "val": "Del libro del profeta Ezequiel$Ez 34, 1-6.11-16.23-31 $"
+  },
+  {
+    "id": 353,
+    "val": "Edición 1994: II, 87-90, n. 8"
+  },
+  {
+    "id": 354,
+    "val": "Del libro de Josué$Jos 1, 1-18 $"
+  },
+  {
+    "id": 355,
+    "val": "De la carta a los Romanos $Rm 3, 1-5, 3$"
+  },
+  {
+    "id": 356,
+    "val": "De la primera carta de Juan$1 Jn 5, 13-21 $"
+  },
+  {
+    "id": 357,
+    "val": "Sobre el Evangelio de San Juan 10"
+  },
+  {
+    "id": 358,
+    "val": "Del libro de Job$Jb 38, 1-30 $"
+  },
+  {
+    "id": 359,
+    "val": "Tratados morales sobre Job 29, 2-4"
+  },
+  {
+    "id": 360,
+    "val": "Del libro del profeta Isaías$Is 6, 1-13 $"
+  },
+  {
+    "id": 361,
+    "val": "Homilías sobre el evangelio de san Mateo 15, 6.7"
+  },
+  {
+    "id": 362,
+    "val": "De la carta a los Colosenses$Col 2, 16-3, 4 $"
+  },
+  {
+    "id": 363,
+    "val": "Sermón 43, en alabanza de Basilio Magno, 15, 16-17.19-21 (PG 36, 514-523)"
+  },
+  {
+    "id": 364,
+    "val": "De la primera carta a los Corintios$1 Co 15, 12-34 $"
+  },
+  {
+    "id": 365,
+    "val": "Del libro sobre la muerte de su hermano Sátiro (Libro 2, 40.41.46.47.132.133; CSEL 73, 270-274.323-324)"
+  },
+  {
+    "id": 366,
+    "val": "Del libro de los Proverbios$Pr 3, 1-20 $"
+  },
+  {
+    "id": 367,
+    "val": "Sermón 15 sobre diversas materias"
+  },
+  {
+    "id": 368,
+    "val": "Del libro de Rut$Rut 2, 1-13$"
+  },
+  {
+    "id": 369,
+    "val": "Sermón 147"
+  },
+  {
+    "id": 370,
+    "val": "Del libro del profeta Ezequiel$Ez 12, 1-16 $"
+  },
+  {
+    "id": 371,
+    "val": "Sermón sobre los pastores 46, 9"
+  },
+  {
+    "id": 372,
+    "val": "Del segundo libro de Samuel$2 S 12, 1-25 $"
+  },
+  {
+    "id": 373,
+    "val": "Sermón 19, 2-3"
+  },
+  {
+    "id": 374,
+    "val": "Del libro del Apocalipsis$Ap 9, 1-12 $"
+  },
+  {
+    "id": 375,
+    "val": "I Apología en defensa de los cristianos 61"
+  },
+  {
+    "id": 376,
+    "val": "Del libro del Levítico$Lv 26, 3-17.38-45 $"
+  },
+  {
+    "id": 377,
+    "val": "Epístola 11 (PG 91, 454-455)"
+  },
+  {
+    "id": 378,
+    "val": "De la carta a los Filipenses$Flp 3, 1-16 $"
+  },
+  {
+    "id": 379,
+    "val": "Carta a los Filipenses (Caps. 12, 1-14: Funk 1, 279-283)"
+  },
+  {
+    "id": 380,
+    "val": "Del libro del Éxodo$Ex 32, 1-20 $"
+  },
+  {
+    "id": 381,
+    "val": "Sermón 43"
+  },
+  {
+    "id": 382,
+    "val": "Del libro del Éxodo$Ex 17, 1-16 $"
+  },
+  {
+    "id": 383,
+    "val": "Contra los herejes 4, 14, 2-3; 15, 1"
+  },
+  {
+    "id": 384,
+    "val": "Del libro del Éxodo$Ex 1, 8-16.22 $"
+  },
+  {
+    "id": 385,
+    "val": "Sermón 2 sobre el símbolo (PL 40, 655)"
+  },
+  {
+    "id": 387,
+    "val": "Del Libro de su vida (Cap. 22, 6-7.12.14)"
+  },
+  {
+    "id": 389,
+    "val": "Regla (prólogo 4-22; cap 72, 1-12: CSEL, 75, 2-5.162-163)"
+  },
+  {
+    "id": 390,
+    "val": "De la primera carta de san Pedro$1 P 1, 1-21 $"
+  },
+  {
+    "id": 391,
+    "val": "Homilía sobre la Pascua 2-7. 100-103"
+  },
+  {
+    "id": 392,
+    "val": "Del libro del profeta Isaías$Is 11, 1-16 $"
+  },
+  {
+    "id": 393,
+    "val": "Homilía 7: SC 72, 188.190-192.200"
+  },
+  {
+    "id": 394,
+    "val": "De la carta a los Gálatas$Ga 4, 8-31 $"
+  },
+  {
+    "id": 395,
+    "val": "Comentario a Gálatas 37.38"
+  },
+  {
+    "id": 396,
+    "val": "Del libro del profeta Isaías$Is 14, 1-21$"
+  },
+  {
+    "id": 397,
+    "val": "Sobre Isaías 40"
+  },
+  {
+    "id": 398,
+    "val": "Del libro del Deuteronomio$Dt 9, 7-21.25-29 $"
+  },
+  {
+    "id": 399,
+    "val": "Carta 14, 36-37"
+  },
+  {
+    "id": 400,
+    "val": "Del libro del profeta Jeremías$Jr 26, 1-15 $"
+  },
+  {
+    "id": 401,
+    "val": "Sermón Güelferbitano 3: PLS 2, 545-546"
+  },
+  {
+    "id": 402,
+    "val": "Del libro del profeta Joel$Jl 4, 1-3.9-21 $"
+  },
+  {
+    "id": 403,
+    "val": "Tratado sobre el perdón de los pecados, libro 2, 11, 2-12, 1. 3-4"
+  },
+  {
+    "id": 404,
+    "val": "Del libro del Apocalipsis$Ap 12, 1-18 $"
+  },
+  {
+    "id": 405,
+    "val": "Homilías sobre los Evangelios 14, 3-6"
+  },
+  {
+    "id": 406,
+    "val": "De la segunda carta a los Corintios$2 Co 11, 30-12, 13 $"
+  },
+  {
+    "id": 407,
+    "val": "Carta a San Policarpo de Esmirna 1, 1 -4, 3"
+  },
+  {
+    "id": 408,
+    "val": "De la segunda carta a los Corintios$2 Co 10, 1-11, 6 $"
+  },
+  {
+    "id": 409,
+    "val": "De los Hechos de san Ignacio recibidos de labios del mismo santo (Cap. 1, 5-9: Acta Sanctorum Iulii 7 [1868], 647)"
+  },
+  {
+    "id": 410,
+    "val": "Del libro del profeta Miqueas$Mi 4, 1-7 $"
+  },
+  {
+    "id": 411,
+    "val": "Sermón 329, en el natalicio de los mártires, I-2: PL 38, 1454-1456"
+  },
+  {
+    "id": 412,
+    "val": "De la segunda carta a los Corintios$2 Co 6, 1-7, 1 $"
+  },
+  {
+    "id": 413,
+    "val": "Homilías sobre II Corintios 13, 1-2"
+  },
+  {
+    "id": 414,
+    "val": "Del libro de Ester$Est 14, 1-19 $"
+  },
+  {
+    "id": 415,
+    "val": "Carta a Proba 130, 12, 22-13, 24"
+  },
+  {
+    "id": 416,
+    "val": "Del primer libro de Samuel$1 S 19, 8-10; 20, 1-17 $"
+  },
+  {
+    "id": 417,
+    "val": "Tratado sobre la amistad espiritual 3"
+  },
+  {
+    "id": 418,
+    "val": "Del libro del profeta Ezequiel$Ez 1, 3-14.22-28a $"
+  },
+  {
+    "id": 419,
+    "val": "Sermón sobre los pastores 46, 1-2"
+  },
+  {
+    "id": 420,
+    "val": "Del libro del Deuteronomio$Dt 24, 1-25, 4 $"
+  },
+  {
+    "id": 421,
+    "val": "De los sermones (Sermón 276, 1-2: PL 38, 1256)"
+  },
+  {
+    "id": 422,
+    "val": "Del libro del profeta Zacarías$Za 12, 9-12a; 13, 1-9 $"
+  },
+  {
+    "id": 423,
+    "val": "De los comentarios sobre los salmos (salmo 32, sermón 1, 7-8: CCL 38, 253-254)"
+  },
+  {
+    "id": 424,
+    "val": "Del libro del profeta Malaquías$Ml 3, 1-24 $"
+  },
+  {
+    "id": 425,
+    "val": "Gaudium et spes 40.45"
+  },
+  {
+    "id": 426,
+    "val": "Del libro del profeta Isaías$Is 44, 1-8.21-23 $"
+  },
+  {
+    "id": 427,
+    "val": "Sermón 185: PL 38, 997-999"
+  },
+  {
+    "id": 428,
+    "val": "Del libro del Éxodo$Ex 12, 37-49; 13, 11-16 $"
+  },
+  {
+    "id": 429,
+    "val": "Gaudium et Spes 9-10"
+  },
+  {
+    "id": 430,
+    "val": "Del libro del Éxodo$Ex 40, 16-38 $"
+  },
+  {
+    "id": 431,
+    "val": "Sermón 14, sobre el amor a los pobres, 38.40: PG 35, 907.910"
+  },
+  {
+    "id": 432,
+    "val": "Del primer libro de Samuel$1 S 28, 3-25 $"
+  },
+  {
+    "id": 433,
+    "val": "Homilía pronunciada en Manila 29 noviembre 1970"
+  },
+  {
+    "id": 434,
+    "val": "Del libro del profeta Jeremías$Jr 20, 7-18 $"
+  },
+  {
+    "id": 435,
+    "val": "Homilías sobre el libro del profeta Ezequiel"
+  },
+  {
+    "id": 436,
+    "val": "Del libro de Qohelet $Qo 2, 1-3.12-26 $"
+  },
+  {
+    "id": 437,
+    "val": "De la alocución en la clausura de la III sesión del Concilio Vaticano II (21 de noviembre de 1964: AAS 56 [1964], 1015-1016)"
+  },
+  {
+    "id": 438,
+    "val": "Del libro del profeta Jeremías$Jr 19, 1-5.10-20, 6 $"
+  },
+  {
+    "id": 439,
+    "val": "Libro 3, cap. 3"
+  },
+  {
+    "id": 440,
+    "val": "Del libro de Qohelet $Qo 3, 1-22 $"
+  },
+  {
+    "id": 441,
+    "val": "De las homilías sobre el libro del Eclesiastés 6"
+  },
+  {
+    "id": 442,
+    "val": "Del libro del Éxodo$Ex 35, 30-36, 1; 37, 1-9 $"
+  },
+  {
+    "id": 443,
+    "val": "Morales 13, 21-23"
+  },
+  {
+    "id": 444,
+    "val": "Del libro del profeta Isaías$Is 9, 1-6 $"
+  },
+  {
+    "id": 445,
+    "val": "Sermón en la Natividad del Señor 1, 1-3"
+  },
+  {
+    "id": 446,
+    "val": "Del libro de los Hechos de los Apóstoles$Hch 9, 27-31:11, 19-26 $"
+  },
+  {
+    "id": 447,
+    "val": "Homilías sobre los Evangelios, 17, 1-3 (PL 76, 1139)"
+  },
+  {
+    "id": 448,
+    "val": "Del libro del Éxodo$Ex 13, 17-14, 9 $"
+  },
+  {
+    "id": 449,
+    "val": "Sermón 51, 3-4.8"
+  },
+  {
+    "id": 450,
+    "val": "Del libro del Deuteronomio$Dt 26, 1-19 $"
+  },
+  {
+    "id": 451,
+    "val": "Libro sobre el conocimiento del bautismo (Caps 15-16: PL 96, 117-118)"
+  },
+  {
+    "id": 452,
+    "val": "Del libro del profeta Zacarías$Za 14, 1-21 $"
+  },
+  {
+    "id": 453,
+    "val": "Conferencia sobre el Credo"
+  },
+  {
+    "id": 454,
+    "val": "De la carta a los Gálatas$Ga 2, 19-3, 7.13-14; 6, 14-16 $"
+  },
+  {
+    "id": 455,
+    "val": "Sermón sobre la Exaltación de la Santa Cruz (PG 97, 1018-19.1022-23)"
+  },
+  {
+    "id": 456,
+    "val": "Del primer libro de Samuel$1 S 21, 1-10; 22, 1-5 $"
+  },
+  {
+    "id": 457,
+    "val": "Homilía 6 sobre las bienaventuranzas"
+  },
+  {
+    "id": 458,
+    "val": "Del libro de Ester$Est 4, 1-8; 15, 2-3; 4, 9-17 $"
+  },
+  {
+    "id": 459,
+    "val": "Carta a Proba 130, 11, 21-12, 22"
+  },
+  {
+    "id": 460,
+    "val": "De la segunda carta a los Corintios$2 Co 5, 1-21 $"
+  },
+  {
+    "id": 461,
+    "val": "Sermón 6, Sobre la natividad de la Virgen María, 2.4.5.6 PG 96, 663.667.670"
+  },
+  {
+    "id": 462,
+    "val": "De la carta a los Efesios$Ef 1, 16-2, 10 $"
+  },
+  {
+    "id": 463,
+    "val": "De la constitución apostólica Munificentíssimus Deus (ASS 42[1950], 760-762.767-769)"
+  },
+  {
+    "id": 464,
+    "val": "De la segunda carta a los Corintios$2 Co 9, 1-15 $"
+  },
+  {
+    "id": 465,
+    "val": "Homilía 3 sobre la caridad 6"
+  },
+  {
+    "id": 466,
+    "val": "Del libro del Apocalipsis$Ap 11, 1-19 $"
+  },
+  {
+    "id": 467,
+    "val": "Sobre el evangelio de San Juan 4, 2"
+  },
+  {
+    "id": 468,
+    "val": "De la segunda carta a los Corintios$2 Co 12, 14-13, 13 $"
+  },
+  {
+    "id": 469,
+    "val": "Carta a san Policarpo de Esmirna 5, 1 - 8, 1.3"
+  },
+  {
+    "id": 470,
+    "val": "Del libro del profeta Jeremías$Jr 22, 1-9; 23, 1-8 $"
+  },
+  {
+    "id": 471,
+    "val": "Sermón 9, Sobre el domingo de Ramos"
+  },
+  {
+    "id": 472,
+    "val": "Del libro del Deuteronomio$Dt 10, 12-11, 9.26-28 $"
+  },
+  {
+    "id": 473,
+    "val": "Capítulos sobre la perfección espiritual 12-14"
+  },
+  {
+    "id": 474,
+    "val": "Del libro del profeta Zacarías$Za 9, 1-10, 2 $"
+  },
+  {
+    "id": 476,
+    "val": "De la carta a los Gálatas$Ga 5, 1-25 $"
+  },
+  {
+    "id": 477,
+    "val": "Sermón 7 en la Natividad del Señor 2, 6"
+  },
+  {
+    "id": 478,
+    "val": "Del libro del profeta Isaías$Is 34, 1-17 $"
+  },
+  {
+    "id": 479,
+    "val": "Del tratado Subida al monte Carmelo (Libro 2, cap. 22, núms. 3-4"
+  },
+  {
+    "id": 480,
+    "val": "Del libro del profeta Isaías$Is 30, 1-18 $"
+  },
+  {
+    "id": 481,
+    "val": "Comentario sobre los salmos 48, 13-14"
+  },
+  {
+    "id": 482,
+    "val": "Del segundo libro de Samuel$2 S 24, 1-4.10-18.24b-25 $"
+  },
+  {
+    "id": 483,
+    "val": "Caps. 9, 1-10, 6; 14, 1-3; Funk 2, 19-22.26"
+  },
+  {
+    "id": 484,
+    "val": "Del libro del Éxodo$Ex 18, 13-27 $"
+  },
+  {
+    "id": 485,
+    "val": "Salmo 127, 1-3"
+  },
+  {
+    "id": 486,
+    "val": "Del libro del profeta Ageo$Ag 2, 10-23 $"
+  },
+  {
+    "id": 487,
+    "val": "Tratado contra Fabiano 28, 16-19"
+  },
+  {
+    "id": 488,
+    "val": "De la carta a los Efesios$Ef 5, 21-6, 4 $"
+  },
+  {
+    "id": 489,
+    "val": "Alocución en Nazaret 5-I-1964"
+  },
+  {
+    "id": 490,
+    "val": "Del libro del Éxodo$Ex 24, 1-18 $"
+  },
+  {
+    "id": 491,
+    "val": "Homilía sobre la humildad 20, 3"
+  },
+  {
+    "id": 492,
+    "val": "De la carta a los Filipenses$Flp 2, 12-30 $"
+  },
+  {
+    "id": 493,
+    "val": "Sermón 12 sobre el salmo 90: 3, 6-8 (Opera Omnia, ed. cisterc, 4 [1966], 458-462)"
+  },
+  {
+    "id": 494,
+    "val": "Del libro del Levítico$Lv 19, 1-18.31-37 $"
+  },
+  {
+    "id": 495,
+    "val": "Sermón 10 en Cuaresma 3-5"
+  },
+  {
+    "id": 496,
+    "val": "Del libro del Apocalipsis$Ap 8, 1-13 $"
+  },
+  {
+    "id": 497,
+    "val": "Sermón 34 (1-3. 5-6: CCL 41, 424-426)"
+  },
+  {
+    "id": 498,
+    "val": "Del libro del profeta Ezequiel$Ez 10, 18-22; 11, 14-25 $"
+  },
+  {
+    "id": 499,
+    "val": "Sermón sobre los pastores 46, 6-7"
+  },
+  {
+    "id": 500,
+    "val": "Del segundo libro de Samuel$2 S 11, 1-17.26-27 $"
+  },
+  {
+    "id": 501,
+    "val": "Catequesis 1, 2-3.5-6; PG 33, 371.375-378"
+  },
+  {
+    "id": 502,
+    "val": "Del libro de los Proverbios$Pr 8, 1-5.12-36 $"
+  },
+  {
+    "id": 503,
+    "val": "Contra los arrianos, sermón 2, 78.81-82"
+  },
+  {
+    "id": 504,
+    "val": "Del libro de Rut$Rut 2, 14-23 $"
+  },
+  {
+    "id": 505,
+    "val": "Del libro sobre la virginidad (Cap.12, 68.74-75; 13, 77-78: PL 16 [ed. 1845], 281.283.285-286)"
+  },
+  {
+    "id": 506,
+    "val": "De la carta a los Colosenses$Col 3, 5-16 $"
+  },
+  {
+    "id": 507,
+    "val": "Tratado sobre el evangelio de san Juan 17, 7-9"
+  },
+  {
+    "id": 508,
+    "val": "Del primer libro de los Macabeos$1 M 1, 1-24 $"
+  },
+  {
+    "id": 509,
+    "val": "Gaudium et spes, 78"
+  },
+  {
+    "id": 510,
+    "val": "De la carta a los Romanos$Rm 8, 28-39 $"
+  },
+  {
+    "id": 511,
+    "val": "Opúsculo 3 (El árbol de la vida, 29-30.47: Opera omnia 8, 79)"
+  },
+  {
+    "id": 512,
+    "val": "Del libro del profeta Isaías$Is 3, 1-15 $"
+  },
+  {
+    "id": 513,
+    "val": "Tratados morales sobre el libro de Job 3, 39-40"
+  },
+  {
+    "id": 514,
+    "val": "De la segunda carta de Juan$2 Jn $"
+  },
+  {
+    "id": 515,
+    "val": "Del Tratado sobre la Trinidad, lib. 2, 1, 33.35"
+  },
+  {
+    "id": 516,
+    "val": "Del libro de Josué$Jos 2, 1-24 $"
+  },
+  {
+    "id": 517,
+    "val": "De los tratados sobre el evangelio de san Mateo (Tratado 5, I.3-4: CCL 9, 405-407)"
+  },
+  {
+    "id": 518,
+    "val": "Del libro del profeta Ezequiel$Ez 24, 15-27 $"
+  },
+  {
+    "id": 519,
+    "val": "Sermón sobre los pastores 46, 13"
+  },
+  {
+    "id": 520,
+    "val": "Del libro del Apocalipsis$Ap 21, 1-8 $"
+  },
+  {
+    "id": 521,
+    "val": "Caps. 5-6: Funk 1, 397-401"
+  },
+  {
+    "id": 522,
+    "val": "Del libro del profeta Isaías$Is 10, 5-21$"
+  },
+  {
+    "id": 523,
+    "val": "Comentario sobre el Diatésaron, 18, 15-17; SC 121, 352-328"
+  },
+  {
+    "id": 524,
+    "val": "De la carta a los Gálatas$Ga 1, 13-2, 10 $"
+  },
+  {
+    "id": 525,
+    "val": "Del sermón sobre santa Águeda (Analecta Bollandiana 68, 76-78)"
+  },
+  {
+    "id": 526,
+    "val": "Del libro de Daniel$Dn 10, 1-21 $"
+  },
+  {
+    "id": 527,
+    "val": "Caps. 15, 1-17, 2; Funk 1, 161-167"
+  },
+  {
+    "id": 528,
+    "val": "Del libro del Deuteronomio$Dt 4, 1-8.32-40 $"
+  },
+  {
+    "id": 529,
+    "val": "Efesios 13 - 18, 1"
+  },
+  {
+    "id": 531,
+    "val": "Homilía sobre la Pascua 65-71"
+  },
+  {
+    "id": 532,
+    "val": "Del libro de los Números$Nm 24, 1-19 $"
+  },
+  {
+    "id": 533,
+    "val": "Sermón 45, 23-24"
+  },
+  {
+    "id": 534,
+    "val": "Del libro del profeta Amós$Am 1, 1-2, 3 $"
+  },
+  {
+    "id": 535,
+    "val": "Caps. 1, 1-8; 2, 1-5: Funk 1, 3-7"
+  },
+  {
+    "id": 536,
+    "val": "Del libro del Apocalipsis$Ap 18, 1-20 $"
+  },
+  {
+    "id": 537,
+    "val": "Comentario a la carta a los Romanos 15, 7"
+  },
+  {
+    "id": 538,
+    "val": "De la carta a los Filipenses$Flp 1, 1-11 $"
+  },
+  {
+    "id": 539,
+    "val": "Carta a los Filipenses (Caps. 1, 1-2, 3: Funk 1, 267-269)"
+  },
+  {
+    "id": 540,
+    "val": "Del libro del profeta Oseas$Os 14, 2-10 $"
+  },
+  {
+    "id": 541,
+    "val": "Sobre la encarnación del Señor (26-27: PG 75, 1466-1467)"
+  },
+  {
+    "id": 542,
+    "val": "De la segunda carta a los Corintios$2 Co 1, 1-14 $"
+  },
+  {
+    "id": 543,
+    "val": "Magnesios 1, 1 - 5, 2"
+  },
+  {
+    "id": 544,
+    "val": "Del libro del Éxodo$Ex 5, 1-6, 1 $"
+  },
+  {
+    "id": 545,
+    "val": "Salmo 60, 2-3"
+  },
+  {
+    "id": 546,
+    "val": "Del libro de Baruc$Ba 1, 14-2, 5; 3, 1-8 $"
+  },
+  {
+    "id": 547,
+    "val": "Carta a Proba 130, 14, 27-15, 28"
+  },
+  {
+    "id": 548,
+    "val": "Del libro del profeta Isaías$Is 40, 12-18.21-31$"
+  },
+  {
+    "id": 549,
+    "val": "Caps. 8, 5-9, 6: Funk I, 325-327"
+  },
+  {
+    "id": 550,
+    "val": "Del libro de Ben Sirá$Si 1, 1-20 $"
+  },
+  {
+    "id": 551,
+    "val": "Corintios 59, 2 - 60, 4; 61, 3"
+  },
+  {
+    "id": 552,
+    "val": "Del segundo libro de los Macabeos$2 M 12, 34-46 $"
+  },
+  {
+    "id": 553,
+    "val": "Sermón 7, en honor de su hermano Cesáreo 23-24"
+  },
+  {
+    "id": 554,
+    "val": "Del libro de los Jueces$Jc 8, 22-23.30-32; 9, 1-15.19-20 $"
+  },
+  {
+    "id": 555,
+    "val": "Tratado sobre el Padrenuestro (Caps. 18.22: CSEL 3, 280-281.283-284)"
+  },
+  {
+    "id": 556,
+    "val": "Del libro de las Lamentaciones$Lm 3, 1-33 $"
+  },
+  {
+    "id": 557,
+    "val": "Homilía antes de partir en exilio, 1-3 (PG 52, 427*-430)"
+  },
+  {
+    "id": 558,
+    "val": "Del libro de Job$Jb 11, 1-20 $"
+  },
+  {
+    "id": 559,
+    "val": "Tratados morales sobre Job 10, 7-8.10"
+  },
+  {
+    "id": 560,
+    "val": "De la primera carta a Timoteo$1 Tm 4, 1-5, 2 $"
+  },
+  {
+    "id": 561,
+    "val": "Carta a los Tralianos 8, 1-9, 2; 11, 1-13, 3"
+  },
+  {
+    "id": 562,
+    "val": "Del libro del Apocalipsis$Ap 1, 4-6.10.12-18; 2, 26.28; 3, 5.12.20-21 $"
+  },
+  {
+    "id": 563,
+    "val": "Opúsculo sobre la oración 25"
+  },
+  {
+    "id": 564,
+    "val": "Del libro del Deuteronomio$Dt 29, 1-5.9-28 $"
+  },
+  {
+    "id": 565,
+    "val": "De la introducción a la vida devota (parte 1, cap 3)"
+  },
+  {
+    "id": 566,
+    "val": "De la carta a los Hebreos$Hb 11, 1-16 $"
+  },
+  {
+    "id": 567,
+    "val": "Sermón 2, sobre San José (Opera omnia 7, 16, 27-30)"
+  },
+  {
+    "id": 568,
+    "val": "Del libro de los Hechos de los Apóstoles$Hch 11, 1-18 $"
+  },
+  {
+    "id": 569,
+    "val": "Sermón 4 en el aniversario de su consagración episcopal, 2-3; PL 54, 149-151"
+  },
+  {
+    "id": 570,
+    "val": "Del libro del profeta Isaías$Is 43, 1-13 $"
+  },
+  {
+    "id": 571,
+    "val": "Sobre el evangelio de san Lucas 1, 46-55"
+  },
+  {
+    "id": 572,
+    "val": "Del libro del profeta Jeremías$Jr 2, 1-13.20-25 $"
+  },
+  {
+    "id": 573,
+    "val": "Del libro de las Confesiones (libros 7, 10.18;10, 27: CSEL 33, 157-163.255)"
+  },
+  {
+    "id": 574,
+    "val": "De la primera carta a los Corintios$1 Co 2, 1-16 $"
+  },
+  {
+    "id": 575,
+    "val": "Carta 1 a Serapión 28-30"
+  },
+  {
+    "id": 576,
+    "val": "Del libro del profeta Jeremías$Jr 29, 1-14 $"
+  },
+  {
+    "id": 577,
+    "val": "Sermón sobre las bienaventuranzas 95, 1-2"
+  },
+  {
+    "id": 578,
+    "val": "Del libro de Ben Sirá$Si 43, 13-33 $"
+  },
+  {
+    "id": 579,
+    "val": "Sermón contra los gentiles (42-43: PG 25, 83-87)"
+  },
+  {
+    "id": 580,
+    "val": "Del libro de Daniel$Dn 3, 8-12.19-30 $"
+  },
+  {
+    "id": 581,
+    "val": "De la carta encíclica Ecclesiam Dei (AAS 15 [1923], 573-582)"
+  },
+  {
+    "id": 582,
+    "val": "Del libro del Éxodo$Ex 13, 1-3a.11-16 $"
+  },
+  {
+    "id": 583,
+    "val": "Sermón 3, sobre el Hypapanté, 6.7 (PG 87, 3, 3291-3293)"
+  },
+  {
+    "id": 584,
+    "val": "Del libro del profeta Isaías$Is 7, 1-17$"
+  },
+  {
+    "id": 585,
+    "val": "Cartas pastorales"
+  },
+  {
+    "id": 586,
+    "val": "De la primera carta de Juan$1 Jn 2, 1-11 $"
+  },
+  {
+    "id": 587,
+    "val": "Tratado sobre la Santísima Trinidad (Libro 2, 12: PG 39, 667-674)"
+  },
+  {
+    "id": 588,
+    "val": "Del libro del profeta Ezequiel$Ez 37, 1-14 $"
+  },
+  {
+    "id": 589,
+    "val": "Sermón sobre los pastores 46, 20-21"
+  },
+  {
+    "id": 590,
+    "val": "Del libro de los Jueces$Jc 2, 6-3, 4 $"
+  },
+  {
+    "id": 591,
+    "val": "Tratado sobre el Padrenuestro (Caps. 4-6: CSEL 3, 268-270)"
+  },
+  {
+    "id": 592,
+    "val": "Del libro del profeta Oseas$Os 1, 1-9; 3, 1-5 $"
+  },
+  {
+    "id": 593,
+    "val": "Libellus de principiis Ordinis Praedicatorum; Acta canonizationis sancti Dominici: Monumenta Ordinis Praedicatorum historica 16, Roma 1935, pp. 30ss. 146-147"
+  },
+  {
+    "id": 594,
+    "val": "De la primera carta de Juan$1 Jn 3, 11-17 $"
+  },
+  {
+    "id": 595,
+    "val": "Plática enviada al padre Francisco Gómez, S.I., para ser predicada en el Sínodo diocesano de Córdoba del año 1563: BAC 304, Obras completas del santo maestro Juan de Ávila, 3, pp. 364-365. 370.373"
+  },
+  {
+    "id": 596,
+    "val": "Del primer libro de los Macabeos$1 M 1, 41-64 $"
+  },
+  {
+    "id": 597,
+    "val": "Sermón del santo en el último sínodo que convocó (Acta Ecclesiae Mediolanensis, Milán 1599, 1177-1178)"
+  },
+  {
+    "id": 598,
+    "val": "De la carta a los Colosenses$Col 3, 17-4, 1 $"
+  },
+  {
+    "id": 599,
+    "val": "De los Capítulos de las cinco centurias, Centuria 1, 8-13 (PG 90, 1182-1186)"
+  },
+  {
+    "id": 600,
+    "val": "Del libro de Rut$Rut 3, 1-18 $"
+  },
+  {
+    "id": 601,
+    "val": "Del Cántico espiritual (Canciones 37 4 y 36, 13, declaración)"
+  },
+  {
+    "id": 602,
+    "val": "Del libro de la Sabiduría$Sb 3, 1-19 $"
+  },
+  {
+    "id": 603,
+    "val": "Carta a los Corintios 24, 1-5; 27, 1-29, 1"
+  },
+  {
+    "id": 604,
+    "val": "Del libro del profeta Isaías$Is 58, 1-12 $"
+  },
+  {
+    "id": 605,
+    "val": "Carta a los Corintios 7, 4-8, 3; 8, 5-9; 13, 1-4; 19, 2"
+  },
+  {
+    "id": 606,
+    "val": "Del primer libro de Samuel$1 S 31, 1-4; 2 S 2, 1-16 $"
+  },
+  {
+    "id": 607,
+    "val": "Sermón 47, sobre las ovejas, 1.2.3.6: CCL 41, 572-573"
+  },
+  {
+    "id": 608,
+    "val": "Del libro del Apocalipsis$Ap 3, 1-22 $"
+  },
+  {
+    "id": 609,
+    "val": "Carta 58, 8-9.11: CSEL 3, 663-666"
+  },
+  {
+    "id": 610,
+    "val": "Del libro de los Números$Nm 9, 15-10, 10.33-36 $"
+  },
+  {
+    "id": 611,
+    "val": "Carta 5, 1-2"
+  },
+  {
+    "id": 612,
+    "val": "De la primera carta a los Tesalonicenses$1 Ts 1, 1-2, 12 $"
+  },
+  {
+    "id": 613,
+    "val": "Esmirniotas 1-4, 1"
+  },
+  {
+    "id": 614,
+    "val": "De la segunda carta de san Pedro$2 P 2, 9-22 $"
+  },
+  {
+    "id": 615,
+    "val": "Homilías sobre el evangelio de san Mateo 33, 1.2"
+  },
+  {
+    "id": 616,
+    "val": "Del libro del profeta Joel$Jl 2, 12b-19.21-24.26-27 $"
+  },
+  {
+    "id": 617,
+    "val": "Carta a los Corintios (Caps 59, 2 - 60, 4 : Funk 1, 135-141)"
+  },
+  {
+    "id": 618,
+    "val": "Del libro del Éxodo$Ex 22, 19-23, 9 $"
+  },
+  {
+    "id": 619,
+    "val": "Sobre el evangelio de San Juan trat. 15, 10-12. 16-17"
+  },
+  {
+    "id": 620,
+    "val": "Del libro del profeta Ageo$Ag 1, 1-2, 10 $"
+  },
+  {
+    "id": 621,
+    "val": "Comentario sobre el libro del profeta Ageo 14"
+  },
+  {
+    "id": 622,
+    "val": "Del libro del profeta Jeremías$Jr 42, 1-16; 43, 4-7 $"
+  },
+  {
+    "id": 623,
+    "val": "Sermón sobre las bienaventuranzas 95, 8-9"
+  },
+  {
+    "id": 624,
+    "val": "Del primer libro de los Reyes$1 R 21, 1-21.27-29 $"
+  },
+  {
+    "id": 625,
+    "val": "Tratado sobre los misterios (19-21.24.26-38: SC 25bis, 164-170)"
+  },
+  {
+    "id": 627,
+    "val": "De las homilías sobre la primera carta a los Corintios (Homilía 4, 3.4: PG 61, 34-36)"
+  },
+  {
+    "id": 629,
+    "val": "Sermón en la octava de Pascua 8, 1, 4"
+  },
+  {
+    "id": 630,
+    "val": "Del libro del profeta Sofonías$So 1, 1-7.14-2, 3 $"
+  },
+  {
+    "id": 631,
+    "val": "Gaudium et spes 39"
+  },
+  {
+    "id": 632,
+    "val": "De la primera carta de san Pedro$1 P 4, 12-5, 14 $"
+  },
+  {
+    "id": 633,
+    "val": "Catequesis de Jerusalén 22, Mystagogica 4, 1.3-6.9"
+  },
+  {
+    "id": 634,
+    "val": "Del libro del profeta Jeremías$Jr 37, 21; 38, 14-28 $"
+  },
+  {
+    "id": 635,
+    "val": "Sermón sobre las bienaventuranzas 95, 6-8"
+  },
+  {
+    "id": 636,
+    "val": "Del primer libro de los Reyes$1 R 19, 1-9a.11-21 $"
+  },
+  {
+    "id": 637,
+    "val": "Sermón 1 en la Natividad del Señor, 2.3. PL 54, 191-192"
+  },
+  {
+    "id": 638,
+    "val": "Del libro de Ben Sirá$Si 24, 3-15 $"
+  },
+  {
+    "id": 639,
+    "val": "Elogio de nuestra Señora del Pilar"
+  },
+  {
+    "id": 640,
+    "val": "Del libro del Éxodo$Ex 20, 1-17 $"
+  },
+  {
+    "id": 641,
+    "val": "Huida del mundo 6, 36; 7, 44; 8, 45; 9, 52"
+  },
+  {
+    "id": 642,
+    "val": "De la carta a los Filipenses$Flp 3, 17-4, 9 $"
+  },
+  {
+    "id": 643,
+    "val": "Carta dirigida a todos los fieles (Opúsculos, edición Quaracchi [Florencia] 1949, 87-94)"
+  },
+  {
+    "id": 644,
+    "val": "De la primera carta a los Tesalonicenses$1 Ts 2, 13-3, 13 $"
+  },
+  {
+    "id": 645,
+    "val": "Tratado sobre los salmos: Salmo 132 (PLS 1, 244-245)"
+  },
+  {
+    "id": 646,
+    "val": "Del libro de los Números$Nm 3, 1-13; 8, 5-11 $"
+  },
+  {
+    "id": 647,
+    "val": "Sermón de la pasión del Señor 15, 3-4"
+  },
+  {
+    "id": 648,
+    "val": "De la segunda carta de san Pedro$2 P 3, 1-18 $"
+  },
+  {
+    "id": 649,
+    "val": "Tratado sobre la muerte 18, 24.26"
+  },
+  {
+    "id": 650,
+    "val": "Del libro del Apocalipsis$Ap 2, 12-29 $"
+  },
+  {
+    "id": 651,
+    "val": "Sermón sobre la Pasión 12, 3, 6-7"
+  },
+  {
+    "id": 653,
+    "val": "Sobre el evangelio de san Juan L 12, 1 (PG 74, 707-710)"
+  },
+  {
+    "id": 654,
+    "val": "Del libro de Rut$Rut 4, 1-22$"
+  },
+  {
+    "id": 655,
+    "val": "Sermón 293, 3"
+  },
+  {
+    "id": 656,
+    "val": "Del libro del Éxodo$Ex 1, 1-22 $"
+  },
+  {
+    "id": 657,
+    "val": "Sermón 6 sobre la Cuaresma, 1-2: PL 54, 285-287"
+  },
+  {
+    "id": 658,
+    "val": "Del primer libro de los Macabeos$1 M 2, 1.15-28.42-50.65-70 $"
+  },
+  {
+    "id": 659,
+    "val": "Gaudium et spes, 88-90"
+  },
+  {
+    "id": 660,
+    "val": "De la carta a los Colosenses$Col 4, 2-18 $"
+  },
+  {
+    "id": 661,
+    "val": "Sermón 194, 3-4 (PL 38, 1016-1017)"
+  },
+  {
+    "id": 662,
+    "val": "Del libro de Job$Jb 13, 13-14, 6 $"
+  },
+  {
+    "id": 663,
+    "val": "Caps 1-5: cf. PG 6, 1366-1371"
+  },
+  {
+    "id": 664,
+    "val": "De la primera carta de Juan$1 Jn 3, 18-24 $"
+  },
+  {
+    "id": 665,
+    "val": "Homilía sobre el Cantar de los Cantares 15"
+  },
+  {
+    "id": 666,
+    "val": "Del libro de los Jueces$Jc 4, 1-24 $"
+  },
+  {
+    "id": 667,
+    "val": "Tratado sobre el Padrenuestro (Caps. 8-9: CSEL 3, 271-272)"
+  },
+  {
+    "id": 668,
+    "val": "De la segunda carta a los Corintios$2 Co 4, 7-5, 8 $"
+  },
+  {
+    "id": 669,
+    "val": "Del libro «La Ciencia de la Cruz»"
+  },
+  {
+    "id": 670,
+    "val": "De la primera carta de Juan$1 Jn 2, 12-17 $"
+  },
+  {
+    "id": 671,
+    "val": "Sobre el Evangelio de San Juan 11, 11"
+  },
+  {
+    "id": 672,
+    "val": "Del libro del profeta Ezequiel$Ez 36, 16-36 $"
+  },
+  {
+    "id": 673,
+    "val": "Sermón sobre los pastores 46, 18-19"
+  },
+  {
+    "id": 674,
+    "val": "De la segunda carta a los Tesalonicenses$2 Ts 3, 1-18 $"
+  },
+  {
+    "id": 675,
+    "val": "Gaudium et spes 35-36"
+  },
+  {
+    "id": 676,
+    "val": "Del libro del profeta Isaías$Is 8, 1-18 $"
+  },
+  {
+    "id": 677,
+    "val": "De las cartas a san Ignacio (Cartas 4 [1542] y 5 [1544]: BAC 101, Cartas y escritos de S. Fco Javier, pp 107-108.115-116)"
+  },
+  {
+    "id": 678,
+    "val": "Del libro de Ben Sirá$Si 44, 1-2.16-45, 5 $"
+  },
+  {
+    "id": 679,
+    "val": "Corintios 31-33"
+  },
+  {
+    "id": 680,
+    "val": "Del libro de Daniel$Dn 5, 1-2.5-9.13-17.25-6, 1 $"
+  },
+  {
+    "id": 681,
+    "val": "Caps. 10, 1-12, 1; 13, 1; Funk 1, 157-159"
+  },
+  {
+    "id": 682,
+    "val": "Del libro de Job$Jb 2, 1-13 $"
+  },
+  {
+    "id": 683,
+    "val": "Tratados morales sobre Job 3, 15-16"
+  },
+  {
+    "id": 684,
+    "val": "Del libro del profeta Jeremías$Jr 26, 1-15 $"
+  },
+  {
+    "id": 685,
+    "val": "Comentario sobre el evangelio de san Juan, tomo 10, 20"
+  },
+  {
+    "id": 686,
+    "val": "Del libro del profeta Jeremías$Jr 3, 1-5.19-4, 4 $"
+  },
+  {
+    "id": 687,
+    "val": "Homilía 23: CCL 122, 354.356-357"
+  },
+  {
+    "id": 688,
+    "val": "Del libro del Éxodo$Ex 12, 21-36 $"
+  },
+  {
+    "id": 689,
+    "val": "Espejo de caridad (Libro 3, 5: PL 195, 582)"
+  },
+  {
+    "id": 690,
+    "val": "Del libro del profeta Isaías$Is 43, 18-28 $"
+  },
+  {
+    "id": 691,
+    "val": "Contra la herejía de Noeto 9-12"
+  },
+  {
+    "id": 692,
+    "val": "De la segunda carta de san Pedro$2 P 1, 1-11 $"
+  },
+  {
+    "id": 693,
+    "val": "Sermón 92, 1-3"
+  },
+  {
+    "id": 694,
+    "val": "Del libro de los Números$Nm 13, 1-4a.18-34 $"
+  },
+  {
+    "id": 695,
+    "val": "Salmo 129"
+  },
+  {
+    "id": 696,
+    "val": "De la carta a los Gálatas$Ga 1, 11-24 $"
+  },
+  {
+    "id": 697,
+    "val": "Homilía 2 sobre las alabanzas de San Pablo (PG 50, 477-480)"
+  },
+  {
+    "id": 698,
+    "val": "De la primera carta a Timoteo$1 Tm 3, 1-16 $"
+  },
+  {
+    "id": 699,
+    "val": "Carta a los Tralianos. 1, 1-3, 2; 4, 1-2; 6, 1; 7, 1-8, 1"
+  },
+  {
+    "id": 700,
+    "val": "Del libro de las Lamentaciones$Lm 1, 1-12.18-20 $"
+  },
+  {
+    "id": 701,
+    "val": "Comentario sobre los salmos 83"
+  },
+  {
+    "id": 702,
+    "val": "Del Cantar de los cantares$Ct 2, 8-14; 8, 6-7 $"
+  },
+  {
+    "id": 703,
+    "val": "Homilías (Libro 1, 4: CCL 122, 25-26.30)"
+  },
+  {
+    "id": 704,
+    "val": "Del libro de los Jueces$Jc 13, 1-25 $"
+  },
+  {
+    "id": 705,
+    "val": "De una carta dirigida a su madre (Acta Sanctorum Iunii 5, 878)"
+  },
+  {
+    "id": 706,
+    "val": "Del libro de Ben Sirá$Si 11, 12-28 $"
+  },
+  {
+    "id": 707,
+    "val": "Regla mayor, respuesta 2, 1"
+  },
+  {
+    "id": 708,
+    "val": "De la primera carta de san Pedro$1 P 2, 1-17 $"
+  },
+  {
+    "id": 709,
+    "val": "Sermón 229, 1-3 (CCL 104, 905-908)"
+  },
+  {
+    "id": 710,
+    "val": "Del libro del Éxodo$Ex 6, 2-13 $"
+  },
+  {
+    "id": 711,
+    "val": "Sermón sobre el amor a los pobres 14, 23-25"
+  },
+  {
+    "id": 712,
+    "val": "Del libro del profeta Isaías$Is 41, 8-20 $"
+  },
+  {
+    "id": 713,
+    "val": "Contra los herejes 3, 20, 2-3"
+  },
+  {
+    "id": 714,
+    "val": "Del libro de Ester$Est 5, 1-5; 7, 1-10 $"
+  },
+  {
+    "id": 715,
+    "val": "L`egoismo vinto, Roma 1869, 60; Autobiografia, cap. 34"
+  },
+  {
+    "id": 716,
+    "val": "Del segundo libro de los Reyes$2 R 2, 1-15 $"
+  },
+  {
+    "id": 717,
+    "val": "Tratado sobre los misterios (52-54.58: SC 25bis, 186-188.190)"
+  },
+  {
+    "id": 718,
+    "val": "Del libro del Apocalipsis$Ap 20, 1-15 $"
+  },
+  {
+    "id": 719,
+    "val": "Sobre el evangelio de San Juan 10, 2"
+  },
+  {
+    "id": 720,
+    "val": "Del libro del profeta Miqueas$Mi 3, 1-12 $"
+  },
+  {
+    "id": 721,
+    "val": "Sobre la encarnación del Señor (28: PG 75, 1467-1470)"
+  },
+  {
+    "id": 722,
+    "val": "Del libro del profeta Ezequiel$Ez 47, 1-12 $"
+  },
+  {
+    "id": 723,
+    "val": "Tratado sobre los salmos 64, 14-15"
+  },
+  {
+    "id": 724,
+    "val": "Del libro del profeta Amós$Am 2, 4-16 $"
+  },
+  {
+    "id": 725,
+    "val": "Caps. 2, 6-10; 3, 1. 3; 4, 10-14: Funk 1, 7-9.13"
+  },
+  {
+    "id": 726,
+    "val": "Del libro de la Sabiduría$Sb 7, 7-16.22-30 $"
+  },
+  {
+    "id": 727,
+    "val": "Tratado sobre los oficios eclesiásticos (cap. 5, 1.2: PL 83, 785)"
+  },
+  {
+    "id": 728,
+    "val": "Del libro de los Números$Nm 22, 1-8b.20-35 $"
+  },
+  {
+    "id": 729,
+    "val": "Regla de la verdadera fe a Pedro 22, 63"
+  },
+  {
+    "id": 730,
+    "val": "De la carta a los Romanos$Rom 5, 12-21$"
+  },
+  {
+    "id": 731,
+    "val": "Sermón 52 (PL 158, 955-956)"
+  },
+  {
+    "id": 732,
+    "val": "Tratado sobre las vírgenes (Lib caps 2.5.7-9: PL 16 (ed. 1845), 189-191)"
+  },
+  {
+    "id": 733,
+    "val": "Del libro del profeta Isaías$Is 11, 1-10 $"
+  },
+  {
+    "id": 1092,
+    "val": "Comienza el libro del profeta Isaías $Is 1, 1-18$"
+  },
+  {
+    "id": 1093,
+    "val": "Sermón 1 sobre la venida del Señor (PL 195, 209-210)"
+  },
+  {
+    "id": 1584,
+    "val": "Del libro del profeta Isaías $Is 1, 21-27; 2, 1-5$"
+  },
+  {
+    "id": 1585,
+    "val": "Tratado sobre el salmo 14, (4-5: CSEL 22, 86-88)"
+  },
+  {
+    "id": 1348,
+    "val": "Del libro del profeta Isaías $Is 5, 1-7$"
+  },
+  {
+    "id": 1349,
+    "val": "Sermón 3 sobre la venida del Señor (PL 207, 569-572)"
+  },
+  {
+    "id": 1522,
+    "val": "Del libro del profeta Isaías $Is 16, 1-5; 17, 4-8$"
+  },
+  {
+    "id": 1523,
+    "val": "Sermón 10 sobre el admirable nacimiento de san Juan Bautista, el Precursor (PL 142, 1019-1020)"
+  },
+  {
+    "id": 1216,
+    "val": "Del libro del profeta Isaías $Is 19, 16-25$"
+  },
+  {
+    "id": 1217,
+    "val": "Comentario sobre el libro del profeta Isaías (Lib 3, t 5: PG 70, 850-851)"
+  },
+  {
+    "id": 1396,
+    "val": "Del libro del profeta Isaías $Is 22, 8b-23$"
+  },
+  {
+    "id": 1397,
+    "val": "Comentario sobre el salmo 118 (Sermón 19, 30-32: CSEL 62, 437-439)"
+  },
+  {
+    "id": 1198,
+    "val": "Del libro del profeta Isaías $Is 24, 19–25, 5$"
+  },
+  {
+    "id": 1199,
+    "val": "Tratado sobre el salmo 2 (31.34 35.37: CSEL 22, 60.63.64.65)"
+  },
+  {
+    "id": 1320,
+    "val": "Del libro del profeta Isaías $Is 25, 6–26, 6$"
+  },
+  {
+    "id": 1321,
+    "val": "Comentario sobre el libro del profeta Isaías (Lib 4, or 1: PG 70, 859-861)"
+  },
+  {
+    "id": 1368,
+    "val": "Del libro del profeta Isaías $Is 26, 7-21$"
+  },
+  {
+    "id": 1369,
+    "val": "Comentario sobre el libro del profeta Isaías (Lib 3, t l: PG 70, 563-566)"
+  },
+  {
+    "id": 1654,
+    "val": "Del libro del profeta Isaías $Is 29, 13-24$"
+  },
+  {
+    "id": 1655,
+    "val": "Comentario sobre los salmos (Sal 118, 81; Sermón 20, 1)"
+  },
+  {
+    "id": 1066,
+    "val": "Del libro del profeta Isaías $Is 30, 18-26$"
+  },
+  {
+    "id": 1067,
+    "val": "Comentario sobre el libro del profeta Miqueas, 7 (72: PG 71, 774-775)"
+  },
+  {
+    "id": 1116,
+    "val": "Del libro del profeta Isaías $Is 45, 1-13$"
+  },
+  {
+    "id": 1117,
+    "val": "Comentario sobre el libro del profeta Isaías (Lib 4, or 2: PG 70, 955-958)"
+  },
+  {
+    "id": 1548,
+    "val": "Del libro del profeta Isaías $Is 46, 1-13$"
+  },
+  {
+    "id": 1549,
+    "val": "Comentario sobre el libro del profeta Isaías (Lib 3, t 4: PG 70, 806-807)"
+  },
+{
+    "id": 1712,
+    "val": "Del libro del profeta Isaías $Is 47, 1.3b-15$"
+  },
+{
+    "id": 1713,
+    "val": "Sermón 61a, (1-3: CCL 23, 249.250-251)"
+  },
+{
+    "id": 1012,
+    "val": "Del libro del profeta Isaías $Is 48, 1-11$"
+  },
+{
+    "id": 1013,
+    "val": "Comentario sobre el libro del profeta Isaías (Lib 4, or 4: PG 70, 1035-1038)"
+  },
+{
+    "id": 1164,
+    "val": "Del libro del profeta Isaías $Is 48, 12-21; 49, 9b-13$"
+  },
+{
+    "id": 1165,
+    "val": "Sermón 1 en la Navidad del Señor (PL 142, 993-994)"
+  },
+{
+    "id": 1570,
+    "val": "Del libro del profeta Isaías $Is 49, 14–50, 1$"
+  },
+{
+    "id": 1571,
+    "val": "De unos sermones antiguos (Sermón 12: PLS 4, 770-771)"
+  },
+{
+    "id": 1690,
+    "val": "Del libro del profeta Isaías $Is 51, 1-11$"
+  },
+{
+    "id": 1691,
+    "val": "Tratado sobre el salmo 84 (CCL 78, 107-108)"
+  },
+{
+    "id": 1426,
+    "val": "Del libro del profeta Isaías $Is 51, 17—52, 2.7-10$"
+  },
+{
+    "id": 1427,
+    "val": "Comentario sobre el libro del profeta Isaías (Lib 3, t 4: PG 70, 802-803)"
+  },
+{
+    "id": 1444,
+    "val": "Del libro del profeta Isaías $Is 40, 1-8$"
+  },
+{
+    "id": 1445,
+    "val": "Sermón 149 (PL 52, 598-599)"
+  },
+{
+    "id": 1489,
+    "val": "Comentario sobre el Cantar de los cantares (Hom 3: PG 44, 827-830)"
+  },
+{
+    "id": 1234,
+    "val": "Del libro del Cantar de los cantares $Ct 1, 12 — 2, 7$"
+  },
+{
+    "id": 1235,
+    "val": "Comentario sobre el Cantar de los cantares (Cap 2: PG 44, 802)"
+  },
+{
+    "id": 1284,
+    "val": "Del libro del Cantar de los cantares $Ct 2, 8 – 3, 5$"
+  },
+{
+    "id": 1285,
+    "val": "Comentario al Cantar de los cantares (Hom 5: PG 44, 859-862.863.874.875)"
+  },
+{
+    "id": 1319,
+    "val": "Carta 140 (6. 11 CSEL 44; 158-159. 162-163)"
+  },
+{
+    "id": 1362,
+    "val": "Del libro del Cantar de los cantares $Ct 4, 1 - 5, 1$"
+  },
+{
+    "id": 1363,
+    "val": "Sobre el Espíritu Santo (Cap 26, 61.64: PG 32, 179-182.186)"
+  },
+{
+    "id": 1506,
+    "val": "Del libro del Cantar de los cantares $Ct 5, 2 - 6, 3$"
+  },
+{
+    "id": 1507,
+    "val": "Sermón 27 sobre el Cantar de los cantares (7.9 Opera omnia. Edit. Cister. 1957,I,186-188)"
+  },
+{
+    "id": 1598,
+    "val": "Del libro del Cantar de los cantares $Ct 6, 4 - 7, 10$"
+  },
+{
+    "id": 1599,
+    "val": "Sermón 1 sobre la Navidad (SC 192, 45.52.60)"
+  },
+{
+    "id": 732,
+    "val": "Del libro del Cantar de los cantares $Ct 7, 11 - 8, 7$"
+  },
+{
+    "id": 733,
+    "val": "Sermón 31 sobre el Cantar de los cantares 8-10 (Opera omnia. Edit Cisterc. 1957, I, 224-226)"
+  },
+{
+    "id": 1069,
+    "val": "Tratado sobre el salmo 66 (3-5 CSEL 22, 271-273)"
+  },
+{
+    "id": 1734,
+    "val": "Del libro del profeta Isaías $Is 54, 1-17$"
+  },
+{
+    "id": 734,
+    "val": "Del libro del profeta Isaías $Is 61, 1-11$"
+  },
+{
+    "id": 1735,
+    "val": "Sermón 1 en alabanza de santa María (4.5.6.9.10 PG 65, 683-687.690-691)"
+  },
+{
+    "id": 735,
+    "val": "Sermón 160 (PL 52, 620-622)"
+  },
+{
+    "id": 1736,
+    "val": "Del libro del profeta Isaías $Is 55, 1-13$"
+  },
+{
+    "id": 736,
+    "val": "Del libro del profeta Isaías $Is 62, 1-12$"
+  },
+{
+    "id": 1737,
+    "val": "Carta 5 (PL 141, 198-199)"
+  },
+{
+    "id": 737,
+    "val": "Sermón atribuido en la santa Teofanía (2.6-8.10: PG 10.854.858-859.862)"
+  },
+{
+    "id": 1738,
+    "val": "Del libro del profeta Isaías $Is 56, 1-8$"
+  },
+{
+    "id": 738,
+    "val": "Del libro del profeta Isaías $Is 63, 7-19$"
+  },
+{
+    "id": 1739,
+    "val": "Tratado 36 (1-2 CCL 138, 195-196)"
+  },
+{
+    "id": 739,
+    "val": "Sermón 7 en la santa Epifanía (1-2: PG 65, 758-759)"
+  },
+{
+    "id": 1740,
+    "val": "Del libro del profeta Isaías $Is 59, 15-20$"
+  },
+{
+    "id": 740,
+    "val": "Del libro del profeta Isaías $Is 63, 19b-64, 11$"
+  },
+{
+    "id": 1741,
+    "val": "Sermón 9 en el día de Pentecostés (PL 142, 1015-1016)"
+  },
+{
+    "id": 741,
+    "val": "Comentario sobre el evangelio de san Juan (Lib 2, cap 2: PG 73, 751-754)"
+  },
+{
+    "id": 1742,
+    "val": "Del libro del profeta Baruc $Ba 4, 5-29$"
+  },
+{
+    "id": 742,
+    "val": "Del libro del profeta Isaías $Is 65, 13-25$"
+  },
+{
+    "id": 1743,
+    "val": "Sermón 49 sobre el Antiguo Testamento (2-3 CCL 41, 614-616)"
+  },
+{
+    "id": 743,
+    "val": "Sermón 100, en la Epifanía (1-3: CCL 23, 398-400)"
+  },
+{
+    "id": 1744,
+    "val": "Del libro del profeta Baruc $Ba 4, 30–5, 9$"
+  },
+{
+    "id": 744,
+    "val": "Del libro del profeta Isaías $Is 66, 10-14.18-23$"
+  },
+{
+    "id": 1745,
+    "val": "Sermón 45 (1-3 CCL 23, 182-183)"
+  },
+{
+    "id": 745,
+    "val": "Sermón 5, en la Epifanía (2: PLS 3, 560-562)"
+  },
+{
+    "id": 1111,
+    "val": "Comentario sobre el salmo 35 (4-5 CCL 64, 52-53)"
+  },
+{
+    "id": 1550,
+    "val": "Comienza la carta a los Romanos $Rm 1, 1-17$"
+  },
+{
+    "id": 1551,
+    "val": "Comentario sobre la carta a los Romanos (1, 7-9: PG 14, 852-855)"
+  },
+{
+    "id": 1706,
+    "val": "De la carta a los Romanos $Rm 1, 18-32$"
+  },
+{
+    "id": 1707,
+    "val": "Homilía 3 sobre la carta a los Romanos (1: PG 60, 411-412)"
+  },
+{
+    "id": 1086,
+    "val": "De la carta a los Romanos $Rm 2, 1-16$"
+  },
+{
+    "id": 1087,
+    "val": "Comentario sobre la carta a los Romanos (Lib 2, 7: PG 14, 887-889)"
+  },
+{
+    "id": 1090,
+    "val": "De la carta a los Romanos $Rm 2, 17-29$"
+  },
+{
+    "id": 1091,
+    "val": "Comentario sobre el salmo 36 (16: PL 14, 973-974)"
+  },
+{
+    "id": 1678,
+    "val": "De la carta a los Romanos $Rm 3, 21-31$"
+  },
+{
+    "id": 1679,
+    "val": "Comentario sobre el salmo 118 (Sermón 1, 14-15: PL 15, 1270)"
+  },
+{
+    "id": 1346,
+    "val": "De la carta a los Romanos $Rm 4, 1-25$"
+  },
+{
+    "id": 1347,
+    "val": "Comentario sobre la carta a los Romanos (Lib 7: PG 14, 981-985)"
+  },
+{
+    "id": 1528,
+    "val": "De la carta a los Romanos $Rm 5, 1-11$"
+  },
+{
+    "id": 1529,
+    "val": "Tratado 33 sobre el evangelio de san Juan (9: CCL 36, 305-306)"
+  },
+{
+    "id": 1398,
+    "val": "De la carta a los Romanos $Rm 6, 12-23$"
+  },
+{
+    "id": 1399,
+    "val": "Tratado 41 sobre el evangelio de san Juan (4-5: CCL 36, 360)"
+  },
+{
+    "id": 1288,
+    "val": "De la carta a los Romanos $Rm 8,1-17$"
+  },
+{
+    "id": 1289,
+    "val": "Homilía 14 sobre la carta a los Romanos (3: PG 60, 527-528)"
+  },
+{
+    "id": 1676,
+    "val": "Del libro del profeta Isaías $Is 2, 6-22; 4, 2-6$"
+  },
+{
+    "id": 1302,
+    "val": "Del libro del profeta Isaías $Is 21, 6-12$"
+  },
+{
+    "id": 1504,
+    "val": "Del libro del profeta Isaías $Is 27, 1-13$"
+  },
+{
+    "id": 1600,
+    "val": "Del libro del profeta Isaías $Is 29, 1-8$"
+  },
+{
+    "id": 746,
+    "val": "De la Constitución pastoral Gáudium et spes, del Concilio Vaticano segundo, núm. 48"
+  },
+{
+    "id": 1746,
+    "val": "Homilía 15 sobre la carta a los Romanos (2: PG 60, 542-543)"
+  },
+{
+    "id": 747,
+    "val": "De la carta a los Romanos $Rm 8, 18-39$"
+  },
+{
+    "id": 1450,
+    "val": "De la carta a los Romanos $Rm 9, 1-18$"
+  },
+{
+    "id": 748,
+    "val": "Conferencia 6 sobre el Credo"
+  },
+{
+    "id": 1564,
+    "val": "De la carta a los Romanos $Rm 9, 19-33$"
+  },
+{
+    "id": 749,
+    "val": "De los Sermones de san Bernardo, abad, sobre el Cantar de los cantares"
+  },
+{
+    "id": 1749,
+    "val": "Comentario sobre la carta a los Gálatas (Lib 1, 27-28: CSEL 84, 92-94)"
+  },
+{
+    "id": 750,
+    "val": "Del libro del Deuteronomio $Dt 30, 1-20$"
+  },
+{
+    "id": 1750,
+    "val": "De la carta a los Romanos $Rm 10, 1-21$"
+  },
+{
+    "id": 751,
+    "val": "De los Sermones de Juan Mediocre de Nápoles, obispo (Sermón 7: PLS 4, 785-786)"
+  },
+{
+    "id": 1751,
+    "val": "Carta 29 (6-9: PL 16, 1100-1101)"
+  },
+{
+    "id": 752,
+    "val": "De la carta a los Romanos $Rm 11,1-12$"
+  },
+{
+    "id": 1578,
+    "val": "De la carta a los Romanos $Rm 3, 1-20$"
+  },
+{
+    "id": 1218,
+    "val": "De la carta a los Romanos $Rm 5, 12-21$"
+  },
+{
+    "id": 1296,
+    "val": "De la carta a los Romanos $Rm 6, 1-11$"
+  },
+{
+    "id": 1472,
+    "val": "De la carta a los Romamos $Rm 7, 1-13$"
+  },
+{
+    "id": 1160,
+    "val": "De la carta a los Romanos $Rm 11, 13-24"
+  },
+{
+    "id": 1161,
+    "val": "Del Decreto Ad Gentes, sobre la actividad misionera de la Iglesia, del Concilio Vaticano II (Núms 4-5)"
+  },
+{
+    "id": 1644,
+    "val": "De la carta a los Romanos $Rm 12,1-21$"
+  },
+{
+    "id": 1645,
+    "val": "Comentario sobre la carta a los Romanos (Lib 9 1: PG 14, 1204-1205; 1206-1207)"
+  },
+{
+    "id": 753,
+    "val": "De la primera carta a los Tesalonicenses $1 Ts 5, 1-28$"
+  },
+{
+    "id": 1753,
+    "val": "De la carta a los Romanos $Rm 14, 1-23$"
+  },
+{
+    "id": 1010,
+    "val": "De la carta a los Romanos $Rm 13, 1-14$"
+  },
+{
+    "id": 1011,
+    "val": "Comienza la carta a los Romanos (1, 1-2, 2: Funck 1, 213-215)"
+  },
+{
+    "id": 1094,
+    "val": "De la carta a los Romanos $Rm 15, 1-13$"
+  },
+{
+    "id": 1095,
+    "val": "Carta a los Romanos (5-6: Funck I, 219-221)"
+  },
+{
+    "id": 754,
+    "val": "De la segunda carta a los Tesalonicenses $2 Ts 2, 1-17$"
+  },
+{
+    "id": 1754,
+    "val": "De la carta a los Romanos $Rm 15, 14-33$"
+  },
+{
+    "id": 755,
+    "val": "De las homilías de un autor espiritual del siglo cuarto (Homilía 18, 7-11: PG 34, 639-642)"
+  },
+{
+    "id": 1755,
+    "val": "Carta a los Romanos (7-8: Funck 1, 121-123)"
+  },
+{
+    "id": 1674,
+    "val": "De la carta a los Romanos $Rm 16, 1-27$"
+  },
+{
+    "id": 1675,
+    "val": "Carta a los Romanos (9-10: Funck 1, 223)"
+  },
+{
+    "id": 1350,
+    "val": "Comienza la primera carta a los Corintios $1 Co 1, 1-17$"
+  },
+{
+    "id": 1351,
+    "val": "Homilía sobre la limosna (3: PG 51, 263-265)"
+  },
+{
+    "id": 1524,
+    "val": "De la primera carta a los Corintios $1 Co 1,18 -2, 5$"
+  },
+{
+    "id": 1214,
+    "val": "De la primera carta a los Corintios $1 Co 2, 1-16$"
+  },
+{
+    "id": 1756,
+    "val": "Homilía 7 sobre la primera carta a los Corintios (1-2: PG 61, 55-56)"
+  },
+{
+    "id": 756,
+    "val": "De las homilías sobre el libro del Génesis (Homilía 8, 6.8.9: PG 12, 206-209)"
+  },
+{
+    "id": 1300,
+    "val": "De la primera carta a los Corintios $1 Co 3, 1-23$"
+  },
+{
+    "id": 1301,
+    "val": "Homilía 8 sobre la primera carta a los Corintios (4: PG 61, 72-73)"
+  },
+{
+    "id": 1394,
+    "val": "De la primera carta a los Corintios $1 Co 4, 1-21$"
+  },
+{
+    "id": 1395,
+    "val": "Tratado sobre el santísimo sacramento de la Eucaristía (PL 204, 413-414)"
+  },
+{
+    "id": 757,
+    "val": "De la vida de Constantino Cirilo (Akademie der Wissenschaften 19)"
+  },
+{
+    "id": 1476,
+    "val": "De la primera carta a los Corintios $1 Co 5, 1-13$"
+  },
+{
+    "id": 1200,
+    "val": "De la primera carta a los Corintios $1 Co 6, 1-11$"
+  },
+{
+    "id": 758,
+    "val": "Sermón 31 (PL 194, 1292-1293)"
+  },
+{
+    "id": 1758,
+    "val": "Comentario sobre el salmo 43 (36-39: CSEL 64, 288-290)"
+  },
+{
+    "id": 1322,
+    "val": "De la primera carta a los Corintios $1 Co 6, 12-20$"
+  },
+{
+    "id": 1323,
+    "val": "Tratado contra las herejías (Lib 3, 19, 1.3-20, 1: SC 34, 332.336-338)"
+  },
+{
+    "id": 1366,
+    "val": "De la primera carta a los Corintios $1 Co 7, 1-24$"
+  },
+{
+    "id": 1367,
+    "val": "Sermón 37 sobre perícopas del AT (2-3 : CCL 41, 448-451)"
+  },
+{
+    "id": 1502,
+    "val": "De la primera carta a los Corintios $1 Co 7, 25-40$"
+  },
+{
+    "id": 1503,
+    "val": "Tratado 90 (2-3: CCL 138A, 558-561)"
+  },
+{
+    "id": 759,
+    "val": "Del libro de los Proverbios $Prov 9, 1-18$"
+  },
+{
+    "id": 1759,
+    "val": "De la primera carta a los Corintios $1 Co 8, 1-13$"
+  },
+{
+    "id": 760,
+    "val": "Del comentario sobre el libro de los Proverbios (Cap 9, PG 87, 1, 1299-1303)"
+  },
+{
+    "id": 1760,
+    "val": "De la vida en Cristo (6: PG 150, 678-679)"
+  },
+{
+    "id": 761,
+    "val": "Del libro de los Proverbios $Prov 10, 6-32$"
+  },
+{
+    "id": 1761,
+    "val": "De la primera carta a los Corintios $1 Co 9, 1-18$"
+  },
+{
+    "id": 762,
+    "val": "De sus comentarios sobre los salmos (Salmo 36, 65-66: CSEL 64, 123-125)"
+  },
+{
+    "id": 1762,
+    "val": "Comentario sobre el libro del profeta Isaías (Lib 4, or 2: PG 70, 938-939)"
+  },
+{
+    "id": 763,
+    "val": "Del libro de los Proverbios $Prov 15, 8-9.16-17.25-26.29.33; 16, 1-9; 17, 5$"
+  },
+{
+    "id": 1763,
+    "val": "De la primera carta a los Corintios $1 Co 9, 19-27$"
+  },
+{
+    "id": 764,
+    "val": "De los Tratados sobre la primera carta de san Juan (Tratado 4: PL 35, 2008-2009)"
+  },
+{
+    "id": 1764,
+    "val": "Tratado 12 para los sacerdotes (PL 204, 533-536)"
+  },
+{
+    "id": 765,
+    "val": "Del libro de los Proverbios $Prov 31, 10-31$"
+  },
+{
+    "id": 1765,
+    "val": "De la primera carta a los Corintios $1 Co 10, 1-13$"
+  },
+{
+    "id": 766,
+    "val": "De una alocución a los recién casados (Discursos y radiomensajes, 11 de marzo de 1942: 3, 385-390)"
+  },
+{
+    "id": 1766,
+    "val": "Tratado 45 sobre el evangelio de san Juan (9: CCL 36, 392-393)"
+  },
+{
+    "id": 767,
+    "val": "Comienza el libro del Qohelet $Qo 1, 1-18$"
+  },
+{
+    "id": 1767,
+    "val": "De la primera carta a los Corintios $1 Co 10,14—11,1$"
+  },
+{
+    "id": 768,
+    "val": "De los Capítulos sobre la caridad (Centuria 1, cap. 1, 4-5. 16-17. 23-24. 26-28. 30-40: PG 90, 962-967)"
+  },
+{
+    "id": 1768,
+    "val": "Homilía sobre la primera carta a los Corintios 11, 19 (PG 51, 257-258)"
+  },
+{
+    "id": 769,
+    "val": "Del libro de Qohelet $Qo 2, 1-3. 12-26$"
+  },
+{
+    "id": 1769,
+    "val": "De la primera carta a los Corintios $1 Co 11, 2-16$"
+  },
+{
+    "id": 770,
+    "val": "De las Homilías sobre el Eclesiastés (Homilía 5: PG 44,683-686)"
+  },
+{
+    "id": 1770,
+    "val": "Comentario sobre el salmo 44 (1920: CCL 38, 507-508)"
+  },
+{
+    "id": 1440,
+    "val": "De la primera carta a los Corintios $1 Co 11, 17-34$"
+  },
+{
+    "id": 1441,
+    "val": "Homilía sobre la primera carta a los Corintios 11, 19 (4-5: PG 51, 259-260)"
+  },
+{
+    "id": 1222,
+    "val": "De la primera carta a los Corintios $1 Co 12, 1-11$"
+  },
+{
+    "id": 1223,
+    "val": "Tratado 15 sobre la vida cenobítica (PL 204, 545.556-558)"
+  },
+{
+    "id": 1004,
+    "val": "De la primera carta a los Corintios $1 Co 12, 31-13, 13$"
+  },
+{
+    "id": 1005,
+    "val": "Comentario sobre la carta a los Romanos (Lib 9, 2: PG 14, 1211-1212)"
+  },
+{
+    "id": 771,
+    "val": "Del libro del Qohelet $Qo 6, 12—7, 29$"
+  },
+{
+    "id": 772,
+    "val": "De las instrucciones (Instrucción 1, Sobre la fe, 3-5: Opera, Dublín 1957, pp. 6266"
+  },
+{
+    "id": 1771,
+    "val": "De la primera carta a los Corintios $1 Co 12, 12-31$"
+  },
+{
+    "id": 1772,
+    "val": "Homilía 30 sobre la primera carta a los Corintios (1-2: PG 61, 250-251)"
+  },
+{
+    "id": 1174,
+    "val": "De la primera carta a los Corintios $1 Co 14, 1-19$"
+  },
+{
+    "id": 1175,
+    "val": "Comentario sobre el salmo 1 (9-12: CSEL 64, 7.9-10)"
+  },
+{
+    "id": 773,
+    "val": "Comienza el libro de Job $Jb 1, 1-22$"
+  },
+{
+    "id": 774,
+    "val": " De los tratados morales sobre el libro de Job (Libro 1, 2. 36: PL 75, 529-530. 543-544)"
+  },
+{
+    "id": 1773,
+    "val": "De la primera carta a los Corintios $1 Co 14, 20-40$"
+  },
+{
+    "id": 1774,
+    "val": "Homilía 25 sobre el evangelio de san Mateo (3-4: PG 57, 331)"
+  },
+{
+    "id": 1682,
+    "val": "De la primera carta a los Corintios $1 Co 15, 1-19$"
+  },
+{
+    "id": 1683,
+    "val": "Comentario sobre la carta a los Romanos (Lib 5, 8: PG 14, 1041-1042)"
+  },
+{
+    "id": 1046,
+    "val": "De la primera carta a los Corintios $1 Co 15, 20-34$"
+  },
+{
+    "id": 1047,
+    "val": "Libro sobre la muerte de su hermano Sátiro (Lib 2, 89-93: CSEL 73, 298-300)"
+  },
+{
+    "id": 1605,
+    "val": "Tratado 48 (CCL 138A 279-280)"
+  },
+{
+    "id": 1656,
+    "val": "Comienza el libro del Deuteronomio $Dt 1, 1.6-18$"
+  },
+{
+    "id": 1657,
+    "val": "Discurso 3 contra los judíos (PG 48, 867-868)"
+  },
+{
+    "id": 1064,
+    "val": "Del libro del Deuteronomio $Dt 4, 1-8.32-40$"
+  },
+{
+    "id": 1065,
+    "val": "Homilía sobre el diablo tentador (2, 6: PG 49, 263-264)"
+  },
+{
+    "id": 1114,
+    "val": "Del libro del Deuteronomio $Dt 5, 1-22$"
+  },
+{
+    "id": 1115,
+    "val": "Constitución apostólica «Paenitemini» (AAS t. 58. 1966, 178-179)"
+  },
+{
+    "id": 1544,
+    "val": "Del libro del Deuteronomio $Dt 6, 4-25$"
+  },
+{
+    "id": 1545,
+    "val": "Carta a los Corintios (49-50: Funck 1, 123-125)"
+  },
+{
+    "id": 1710,
+    "val": "Del libro del Deuteronomio $Dt 7, 6-14; 8, 1-6$"
+  },
+{
+    "id": 1711,
+    "val": "De la Constitución dogmática Lumen gentium, sobre la Iglesia (Núms 2.16)"
+  },
+{
+    "id": 1014,
+    "val": "Del libro del Deuteronomio $Dt 9, 7-21.25-29$"
+  },
+{
+    "id": 1015,
+    "val": "Homilía 14 sobre la carta a los Romanos (8: PG 60, 534-535)"
+  },
+{
+    "id": 1166,
+    "val": "Del libro del Deuteronomio $Dt 10, 12-11, 9.26-28$"
+  },
+{
+    "id": 1167,
+    "val": "Capítulos sobre la perfección espiritual (Caes 12.13.14: PG 65, 1171-1172)"
+  },
+{
+    "id": 775,
+    "val": "Del libro del Éxodo $Ex 12, 1-20$"
+  },
+{
+    "id": 776,
+    "val": "Homilía 13: PG 40,355-358.362"
+  },
+{
+    "id": 1775,
+    "val": "Del libro del Deuteronomio $Dt 12, 1-14$"
+  },
+{
+    "id": 1776,
+    "val": "Carta 14 (36-37: CCL 91, 429-431)"
+  }
+]

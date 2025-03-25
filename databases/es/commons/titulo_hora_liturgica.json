@@ -1,0 +1,30 @@
+[
+  {
+    "id": 7,
+    "val": "Completas: Viernes"
+  },
+  {
+    "id": 24,
+    "val": "Completas: Domingo después de I Vísperas \n(y en solemnidades y fiestas)"
+  },
+  {
+    "id": 32,
+    "val": "Completas: Domingo después de II Vísperas \n(y en solemnidades y fiestas)"
+  },
+  {
+    "id": 40,
+    "val": "Completas: Lunes"
+  },
+  {
+    "id": 48,
+    "val": "Completas: Martes"
+  },
+  {
+    "id": 59,
+    "val": "Completas: Miércoles"
+  },
+  {
+    "id": 67,
+    "val": "Completas: Jueves"
+  }
+]
