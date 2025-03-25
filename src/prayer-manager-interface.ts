@@ -1,19 +1,23 @@
 export interface PrayerManagerInterface {
-    getLaudes: (date?: Date) => LaudesSchema | undefined;
+    getInvitatorium(date?: Date): InvitatoriumSchema | undefined;
+
+    getLaudes(date?: Date): LaudesSchema | undefined;
 
     getVesperae(date?: Date): VesperaeSchema | undefined;
 
-    getTercia(date?: Date): IntermediateSchema | undefined;
+    getTertia(date?: Date): IntermediateSchema | undefined;
 
     getSexta(date?: Date): IntermediateSchema | undefined;
 
     getNona(date?: Date): IntermediateSchema | undefined;
 
-    getLectures(date?: Date): LecturesSchema | undefined;
-
     getCompletorium(date?: Date): CompletoriumSchema | undefined;
 
-    getInvitatorium(date?: Date): InvitatoriumSchema | undefined;
+    getOfficium(date?: Date): OfficiumSchema | undefined;
+
+    getLectures(date?: Date): LecturesSchema | undefined;
+
+    getEvangelium(date?: Date): LecturesSchema | undefined;
 }
 
 
@@ -123,4 +127,50 @@ export type CompletoriumSchema = {
     antifona_inalbis: string;
     ce_a: string;
     final: string;
+};
+
+export interface OfficiumSchema {
+    id: string;                    // Unique identifier (e.g., "advent_1_friday")
+    cycle: string;                 // Liturgical cycle (e.g., "ANY")
+    dia_semana_tiempo: number;     // Day of the week or time (e.g., 0)
+    himno: number;                 // Hymn ID (e.g., 3391)
+
+    // Psalm 1: citation, antiphon, title
+    s1_c: number;
+    s1_a: number;
+    s1_t: number;
+
+    // Psalm 2: citation, antiphon, title
+    s2_c: number;
+    s2_a: number;
+    s2_t: number;
+
+    // Psalm 3: citation, antiphon, title
+    s3_c: number;
+    s3_a: number;
+    s3_t: number;
+
+    // First responsory
+    responsorio1: number[];
+
+    // Short reading (lectio brevis): title, citation, text
+    lb_tit: number[] | number;
+    lb_c: number[] | number;
+    lb_texto: number[] | number;
+
+    // Second responsory (and variant)
+    responsorio2: number[];
+    responsorio2B: number[];
+
+    // Long reading (lectio prolixa): title, citation, text
+    lp_tit: number[] | number;
+    lp_c: number[] | number;
+    lp_texto: number[] | number;
+
+    // Third responsory (and variant)
+    responsorio3: number[];
+    responsorio3B: number[];
+
+    // Final prayer
+    o_final: number;
 };
