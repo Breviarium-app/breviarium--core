@@ -11,10 +11,6 @@ import {
     VesperaeSchema
 } from "@/prayer-manager-interface.ts";
 
-function formatDate(date: Date): string {
-    return date.toISOString().split("T")[0];
-}
-
 export default class Breviarium implements BreviariumInterface {
 
     #selectedDate: Date;
@@ -28,15 +24,6 @@ export default class Breviarium implements BreviariumInterface {
         this.#prayerManager = new PrayerManager();
     }
 
-    getInvitatorium(date?: Date): InvitatoriumSchema | undefined {
-        console.log(date)
-        return undefined;
-    }
-    getLectures(date?: Date): LecturesSchema | undefined {
-        console.log(date)
-        return undefined;
-    }
-
     setDate(date: Date): void {
         this.#selectedDate = date;
     }
@@ -45,54 +32,44 @@ export default class Breviarium implements BreviariumInterface {
         return this.#selectedDate;
     }
 
-    getLaudes(date?: Date): LaudesSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
+    getInvitatorium(date?: Date): InvitatoriumSchema | undefined {
+        return this.#prayerManager.getInvitatorium(date);
+    }
 
-        console.log(this.#prayerManager.getLaudes(date));
-        console.log(day)
-        return undefined;
+    getLectures(date?: Date): LecturesSchema | undefined {
+        return this.#prayerManager.getLectures(date);
+    }
+
+    getLaudes(date?: Date): LaudesSchema | undefined {
+        return this.#prayerManager.getLaudes(date);
     }
 
     getVesperae(date?: Date): VesperaeSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+        return this.#prayerManager.getVesperae(date);
     }
 
     getOfficium(date?: Date): OfficiumSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+        return this.#prayerManager.getOfficium(date);
     }
 
     getTertia(date?: Date): IntermediateSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+        return this.#prayerManager.getTertia(date);
     }
 
     getSexta(date?: Date): IntermediateSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+        return this.#prayerManager.getSexta(date);
     }
 
     getNona(date?: Date): IntermediateSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+        return this.#prayerManager.getNona(date);
     }
 
     getCompletorium(date?: Date): CompletoriumSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+        return this.#prayerManager.getCompletorium(date);
     }
 
     getEvangelium(date?: Date): LecturesSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+        return this.#prayerManager.getEvangelium(date);
     }
 
 

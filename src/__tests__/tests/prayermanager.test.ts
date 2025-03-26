@@ -30,4 +30,15 @@ describe("Prayer Manager module", () => {
         expect(result.lb_t).not.toBeNull();
     });
 
+    it("invitatory first day OK", () => {
+        const prayer = new PrayerManager();
+
+        const result = prayer.getInvitatorium(new Date(2025,0,1));
+
+        assert(result !== undefined);
+        expect(result.id.length).to.be.greaterThan(1);
+        expect(result.id).eq('mary_mother_of_god');
+        expect(result.val).eq(0);
+    });
+
 });

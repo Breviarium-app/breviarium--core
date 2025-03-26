@@ -17,11 +17,17 @@ import all_lectures from '@/prayers/db/all_lectures.json';
 import all_officium from '@/prayers/db/all_officium.json';
 import all_invitatorium from '@/prayers/db/all_invitatorium.json';
 import {monday} from '@/prayers/db/es/completorium/index.ts';
-import * as console from "node:console";
+
+function formatDate(date: Date | undefined): string {
+    if (!date) {
+        throw new Error("Invalid date format.");
+    }
+    return date.toISOString().split("T")[0];
+}
 
 export class PrayerManager implements PrayerManagerInterface {
     getInvitatorium(date?: Date): InvitatoriumSchema | undefined {
-        console.log('Invitatorium date:', date);
+        console.log('Invitatorium date:', formatDate(date));
         return all_invitatorium[0];
     }
 
