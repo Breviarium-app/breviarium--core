@@ -40,7 +40,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "romcal": "^3.0.0-dev.95"
+    "romcal": "^3.0.0-dev.97"
   },
   "repository": {
     "type": "git",
