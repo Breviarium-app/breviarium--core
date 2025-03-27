@@ -1,6 +1,6 @@
 import {defineConfig} from "vite";
 import dts from "vite-plugin-dts";
-import path from 'path';
+import path, {resolve} from 'path';
 
 
 export default defineConfig({
@@ -12,7 +12,7 @@ export default defineConfig({
             fileName: (format) => `breviarium.${format}.js`,
             formats: ["es", "cjs", "umd"]
         },
-        rollupOptions:{
+        rollupOptions: {
             // input: ["src/prayers"],
         }
     },
@@ -23,6 +23,7 @@ export default defineConfig({
     resolve: {
         alias: {
             '@': path.resolve(__dirname, './src'),
+            romcal: resolve(__dirname, 'node_modules/romcal/rites/roman1969/dist/esm/romcal.js'),
         },
     },
 });
