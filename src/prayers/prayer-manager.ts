@@ -17,6 +17,7 @@ import all_lectures from '@/prayers/db/all_lectures.json';
 import all_officium from '@/prayers/db/all_officium.json';
 import all_invitatorium from '@/prayers/db/all_invitatorium.json';
 import {monday} from '@/prayers/db/es/completorium/index.ts';
+import {perpetualCalendar} from "@/prayers/romcal.ts";
 
 function formatDate(date: Date | undefined): string {
     if (!date) {
@@ -26,8 +27,18 @@ function formatDate(date: Date | undefined): string {
 }
 
 export class PrayerManager implements PrayerManagerInterface {
+
+    // #perpetualCalendar: LiturgicalCalendar;
+
+    constructor() {
+
+    }
+
     getInvitatorium(date?: Date): InvitatoriumSchema | undefined {
         console.log('Invitatorium date:', formatDate(date));
+        perpetualCalendar(date?.getFullYear() || new Date().getFullYear()).then(x => {
+            console.log(x)
+        });
         return all_invitatorium[0];
     }
 
