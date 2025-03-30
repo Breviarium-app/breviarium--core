@@ -1,23 +1,23 @@
 export interface PrayerManagerInterface {
-    getInvitatorium(date?: Date): InvitatoriumSchema | undefined;
+    getInvitatorium(date?: Date): Promise<InvitatoriumSchema | undefined>;
 
-    getLaudes(date?: Date): LaudesSchema | undefined;
+    getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined>;
 
-    getVesperae(date?: Date): VesperaeSchema | undefined;
+    getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined>;
 
-    getTertia(date?: Date): IntermediateSchema | undefined;
+    getTertia(date?: Date): Promise<IntermediateSchemaOutput | undefined>;
 
-    getSexta(date?: Date): IntermediateSchema | undefined;
+    getSexta(date?: Date): Promise<IntermediateSchemaOutput | undefined>;
 
-    getNona(date?: Date): IntermediateSchema | undefined;
+    getNona(date?: Date): Promise<IntermediateSchemaOutput | undefined>;
 
-    getCompletorium(date?: Date): CompletoriumSchema | undefined;
+    getCompletorium(date?: Date): Promise<CompletoriumSchema | undefined>;
 
-    getOfficium(date?: Date): OfficiumSchema | undefined;
+    getOfficium(date?: Date): Promise<OfficiumSchema | undefined>;
 
-    getLectures(date?: Date): LecturesSchema | undefined;
+    getLectures(date?: Date): Promise<LecturesSchema | undefined>;
 
-    getEvangelium(date?: Date): LecturesSchema | undefined;
+    getEvangelium(date?: Date): Promise<LecturesSchema | undefined>;
 }
 
 
@@ -51,6 +51,31 @@ export type LaudesSchema = {
     o_final: number;
 };
 
+export type LaudesSchemaOutput = {
+    id: string;
+    cycle: string;
+    dia_semana_tiempo: string;
+    himno: string;
+    primer_salmo_cita: string;
+    primer_salmo_antifona: string;
+    primer_salmo_texto: string;
+    segundo_salmo_cita: string;
+    segundo_salmo_antifona: string;
+    segundo_salmo_texto: string;
+    tercer_salmo_cita: string;
+    tercer_salmo_antifona: string;
+    tercer_salmo_texto: string;
+    lectura_biblica_cita: string;
+    lectura_biblica: string;
+    responsorios: string[];
+    cantico_evangelico_antifona: string;
+    preces_intro: string;
+    preces_respuesta: string;
+    preces_contenido: string[];
+    invitacion_padrenuestro: string;
+    oracion_final: string;
+}
+
 export type LecturesSchema = {
     id: string;
     cycle: string;
@@ -83,6 +108,25 @@ export type IntermediateSchema = {
     o_final: number;
 };
 
+export type IntermediateSchemaOutput = {
+    id: string;
+    cycle: string;
+    himno: string;
+    primer_salmo_cita: string;
+    primer_salmo_antifona: string;
+    primer_salmo_texto: string;
+    segundo_salmo_cita: string;
+    segundo_salmo_antifona: string;
+    segundo_salmo_texto: string;
+    tercer_salmo_cita: string;
+    tercer_salmo_antifona: string;
+    tercer_salmo_texto: string;
+    lectura_biblica_cita: string;
+    lectura_biblica: string;
+    responsorios: string[];
+    oracion_final: string;
+};
+
 export type VesperaeSchema = {
     id: string;
     cycle: string;
@@ -107,6 +151,31 @@ export type VesperaeSchema = {
     preces_c: number[];
     invi_pn: number;
     o_final: number;
+};
+export type VesperaeSchemaOutput = {
+    id: string;
+    cycle: string;
+    dia_semana_tiempo: string;
+    primeras_visperas: boolean;
+    himno: string;
+    primer_salmo_cita: string;
+    primer_salmo_antifona: string;
+    primer_salmo_texto: string;
+    segundo_salmo_cita: string;
+    segundo_salmo_antifona: string;
+    segundo_salmo_texto: string;
+    tercer_salmo_cita: string;
+    tercer_salmo_antifona: string;
+    tercer_salmo_texto: string;
+    lectura_biblica_cita: string;
+    lectura_biblica: string;
+    responsorios: string[];
+    cantico_evangelico_antifona: string;
+    preces_intro: string;
+    preces_respuesta: string;
+    preces_contenido: string[];
+    invitacion_padrenuestro: string;
+    oracion_final: string;
 };
 
 export type CompletoriumSchema = {

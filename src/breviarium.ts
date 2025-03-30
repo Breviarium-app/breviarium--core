@@ -3,20 +3,15 @@ import {BreviariumInterface} from "./breviarium-interface.ts";
 import {PrayerManager} from "@/prayers/prayer-manager.ts";
 import {
     CompletoriumSchema,
-    IntermediateSchema,
+    IntermediateSchemaOutput,
     InvitatoriumSchema,
-    LaudesSchema,
+    LaudesSchemaOutput,
     LecturesSchema,
     OfficiumSchema,
-    VesperaeSchema
+    VesperaeSchemaOutput
 } from "@/prayer-manager-interface.ts";
 
-function formatDate(date: Date): string {
-    return date.toISOString().split("T")[0];
-}
-
 export default class Breviarium implements BreviariumInterface {
-
     #selectedDate: Date;
     #prayerManager: PrayerManager;
 
@@ -28,15 +23,6 @@ export default class Breviarium implements BreviariumInterface {
         this.#prayerManager = new PrayerManager();
     }
 
-    getInvitatorium(date?: Date): InvitatoriumSchema | undefined {
-        console.log(date)
-        return undefined;
-    }
-    getLectures(date?: Date): LecturesSchema | undefined {
-        console.log(date)
-        return undefined;
-    }
-
     setDate(date: Date): void {
         this.#selectedDate = date;
     }
@@ -45,55 +31,43 @@ export default class Breviarium implements BreviariumInterface {
         return this.#selectedDate;
     }
 
-    getLaudes(date?: Date): LaudesSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-
-        console.log(this.#prayerManager.getLaudes(date));
-        console.log(day)
-        return undefined;
+    async getInvitatorium(date?: Date): Promise<InvitatoriumSchema | undefined> {
+        return await this.#prayerManager.getInvitatorium(date);
     }
 
-    getVesperae(date?: Date): VesperaeSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+    async getLectures(date?: Date): Promise<LecturesSchema | undefined> {
+        return await this.#prayerManager.getLectures(date);
     }
 
-    getOfficium(date?: Date): OfficiumSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+    async getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined> {
+        return await this.#prayerManager.getLaudes(date);
     }
 
-    getTertia(date?: Date): IntermediateSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+    async getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined> {
+        return await this.#prayerManager.getVesperae(date);
     }
 
-    getSexta(date?: Date): IntermediateSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+    async getOfficium(date?: Date): Promise<OfficiumSchema | undefined> {
+        return await this.#prayerManager.getOfficium(date);
     }
 
-    getNona(date?: Date): IntermediateSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+    async getTertia(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
+        return await this.#prayerManager.getTertia(date);
     }
 
-    getCompletorium(date?: Date): CompletoriumSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+    async getSexta(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
+        return await this.#prayerManager.getSexta(date);
     }
 
-    getEvangelium(date?: Date): LecturesSchema | undefined {
-        const day = formatDate(date ?? this.getCurrentDate());
-        console.log(day)
-        return undefined;
+    async getNona(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
+        return await this.#prayerManager.getNona(date);
     }
 
+    async getCompletorium(date?: Date): Promise<CompletoriumSchema | undefined> {
+        return await this.#prayerManager.getCompletorium(date);
+    }
 
-};
+    async getEvangelium(date?: Date): Promise<LecturesSchema | undefined> {
+        return await this.#prayerManager.getEvangelium(date);
+    }
+}
