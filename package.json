@@ -16,7 +16,7 @@
   ],
   "version": "0.2.26",
   "main": "dist/breviarium.cjs.js",
-  "module": "dist/breviarium.esm.js",
+  "module": "dist/breviarium.es.js",
   "types": "dist/breviarium.d.ts",
   "type": "module",
   "files": [
