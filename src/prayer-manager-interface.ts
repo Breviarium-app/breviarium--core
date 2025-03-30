@@ -54,26 +54,26 @@ export type LaudesSchema = {
 export type LaudesSchemaOutput = {
     id: string;
     cycle: string;
-    dia_semana_tiempo: number;
-    himno: number;
-    primer_salmo_cita: number;
-    primer_salmo_antifona: number;
-    primer_salmo_texto: number;
-    segundo_salmo_cita: number;
-    segundo_salmo_antifona: number;
-    segundo_salmo_texto: number;
-    tercer_salmo_cita: number;
-    tercer_salmo_antifona: number;
-    tercer_salmo_texto: number;
-    lectura_biblica_cita: number;
-    lectura_biblica: number;
-    responsorios: number[];
-    cantico_evangelico_antifona: number;
-    preces_intro: number;
-    preces_respuesta: number;
-    preces_contenido: number[];
-    invitacion_padrenuestro: number;
-    oracion_final: number;
+    dia_semana_tiempo: string;
+    himno: string;
+    primer_salmo_cita: string;
+    primer_salmo_antifona: string;
+    primer_salmo_texto: string;
+    segundo_salmo_cita: string;
+    segundo_salmo_antifona: string;
+    segundo_salmo_texto: string;
+    tercer_salmo_cita: string;
+    tercer_salmo_antifona: string;
+    tercer_salmo_texto: string;
+    lectura_biblica_cita: string;
+    lectura_biblica: string;
+    responsorios: string[];
+    cantico_evangelico_antifona: string;
+    preces_intro: string;
+    preces_respuesta: string;
+    preces_contenido: string[];
+    invitacion_padrenuestro: string;
+    oracion_final: string;
 }
 
 export type LecturesSchema = {
