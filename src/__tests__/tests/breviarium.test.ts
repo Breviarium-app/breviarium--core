@@ -9,9 +9,9 @@ describe("Breviarium module", () => {
         assert(result !== undefined);
     });
 
-    it("properties content ok", () => {
+    it("properties content ok", async () => {
         const breviarium = new Breviarium();
-        const result = breviarium.getLaudes();
+        const result = await breviarium.getLaudes();
 
         assert(result !== undefined);
         expect(result.responsorios.length).to.be.greaterThan(1);
@@ -21,9 +21,9 @@ describe("Breviarium module", () => {
         expect(result.s1_t).not.toBeNull();
     });
 
-    it("invitatory 01/01 first day OK", () => {
+    it("invitatory 01/01 first day OK", async () => {
         const breviarium = new Breviarium();
-        const result = breviarium.getInvitatorium(new Date(2025,0,1));
+        const result = await breviarium.getInvitatorium(new Date(2025, 0, 1));
 
         assert(result !== undefined);
         expect(result.id.length).to.be.greaterThan(1);

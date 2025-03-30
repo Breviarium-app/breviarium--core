@@ -1,23 +1,23 @@
 export interface PrayerManagerInterface {
-    getInvitatorium(date?: Date): InvitatoriumSchema | undefined;
+    getInvitatorium(date?: Date): Promise<InvitatoriumSchema | undefined>;
 
-    getLaudes(date?: Date): LaudesSchema | undefined;
+    getLaudes(date?: Date): Promise<LaudesSchema | undefined>;
 
-    getVesperae(date?: Date): VesperaeSchema | undefined;
+    getVesperae(date?: Date): Promise<VesperaeSchema | undefined>;
 
-    getTertia(date?: Date): IntermediateSchema | undefined;
+    getTertia(date?: Date): Promise<IntermediateSchema | undefined>;
 
-    getSexta(date?: Date): IntermediateSchema | undefined;
+    getSexta(date?: Date): Promise<IntermediateSchema | undefined>;
 
-    getNona(date?: Date): IntermediateSchema | undefined;
+    getNona(date?: Date): Promise<IntermediateSchema | undefined>;
 
-    getCompletorium(date?: Date): CompletoriumSchema | undefined;
+    getCompletorium(date?: Date): Promise<CompletoriumSchema | undefined>;
 
-    getOfficium(date?: Date): OfficiumSchema | undefined;
+    getOfficium(date?: Date): Promise<OfficiumSchema | undefined>;
 
-    getLectures(date?: Date): LecturesSchema | undefined;
+    getLectures(date?: Date): Promise<LecturesSchema | undefined>;
 
-    getEvangelium(date?: Date): LecturesSchema | undefined;
+    getEvangelium(date?: Date): Promise<LecturesSchema | undefined>;
 }
 
 

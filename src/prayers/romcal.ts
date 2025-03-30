@@ -1,4 +1,4 @@
-import {LiturgicalCalendar, Romcal} from "romcal";
+import {LiturgicalCalendar, LiturgicalDay, Romcal} from "romcal";
 // @ts-ignore
 import {Spain_Es} from "@romcal/calendar.spain";
 
@@ -11,4 +11,23 @@ export async function perpetualCalendar(year: number): Promise<LiturgicalCalenda
         console.error(error);
         return undefined;
     }
+}
+
+
+export async function searchDay(date?: Date): Promise<LiturgicalDay | undefined> {
+    date = date || new Date();
+    const calendar: LiturgicalCalendar | undefined = await perpetualCalendar(date.getFullYear());
+    if (calendar == undefined) return undefined;
+
+    const dateToday = new Date(date)
+        .toLocaleDateString("en-ZA")
+        .replaceAll("/", "-");
+
+    for (const day of calendar[dateToday]) {
+        if (!day.isOptional) {
+            return day;
+        }
+    }
+
+    return undefined;
 }

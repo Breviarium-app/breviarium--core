@@ -10,9 +10,9 @@ describe("Prayer Manager module", () => {
         assert(result !== undefined);
     });
 
-    it("properties content ok", () => {
+    it("properties content ok", async () => {
         const prayer = new PrayerManager();
-        const result = prayer.getLaudes();
+        const result = await prayer.getLaudes();
 
         assert(result !== undefined);
         expect(result.responsorios.length).to.be.greaterThan(1);
@@ -30,10 +30,10 @@ describe("Prayer Manager module", () => {
         expect(result.lb_t).not.toBeNull();
     });
 
-    it("invitatory first day OK", () => {
+    it("invitatory first day OK", async () => {
         const prayer = new PrayerManager();
 
-        const result = prayer.getInvitatorium(new Date(2025,0,1));
+        const result = await prayer.getInvitatorium(new Date(2025, 0, 1));
 
         assert(result !== undefined);
         expect(result.id.length).to.be.greaterThan(1);
