@@ -2,7 +2,7 @@ import {
     CompletoriumSchema,
     IntermediateSchema,
     InvitatoriumSchema,
-    LaudesSchema,
+    LaudesSchemaOutput,
     LecturesSchema,
     OfficiumSchema,
     PrayerManagerInterface,
@@ -18,30 +18,24 @@ import all_officium from '@/prayers/db/all_officium.json';
 import all_invitatorium from '@/prayers/db/all_invitatorium.json';
 import {monday} from '@/prayers/db/es/completorium/index.ts';
 import {searchDay} from "@/prayers/romcal.ts";
+import {mapper_invitatorium} from "@/prayers/mappers/mapper_invitatorium.ts";
+import {mapper_laudes} from "@/prayers/mappers/mapper_laudes.ts";
 
-function formatDate(date: Date | undefined): string {
-    if (!date) {
-        throw new Error("Invalid date format.");
-    }
-    return date.toISOString().split("T")[0];
-}
 
 export class PrayerManager implements PrayerManagerInterface {
     constructor() {
     }
 
     async getInvitatorium(date?: Date): Promise<InvitatoriumSchema | undefined> {
-        console.log('Invitatorium date:', formatDate(date));
         const dayCalendar = await searchDay(date);
         const resultSelected = all_invitatorium.find(invitatory => invitatory.id === dayCalendar?.id);
-        return resultSelected;
+        return mapper_invitatorium(resultSelected);
     }
 
-    async getLaudes(date?: Date): Promise<LaudesSchema | undefined> {
-        console.log('Laudes date:', date);
+    async getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined> {
         const dayCalendar = await searchDay(date);
         const resultSelected = all_laudes.find(element => element.id === dayCalendar?.id && element.cycle === dayCalendar?.cycles.sundayCycle);
-        return resultSelected;
+        return mapper_laudes(resultSelected);
     }
 
     async getVesperae(date?: Date): Promise<VesperaeSchema | undefined> {

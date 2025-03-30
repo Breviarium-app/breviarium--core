@@ -1,11 +1,11 @@
 // src/breviarium.ts
-import { BreviariumInterface } from "./breviarium-interface.ts";
-import { PrayerManager } from "@/prayers/prayer-manager.ts";
+import {BreviariumInterface} from "./breviarium-interface.ts";
+import {PrayerManager} from "@/prayers/prayer-manager.ts";
 import {
     CompletoriumSchema,
     IntermediateSchema,
     InvitatoriumSchema,
-    LaudesSchema,
+    LaudesSchemaOutput,
     LecturesSchema,
     OfficiumSchema,
     VesperaeSchema
@@ -39,7 +39,7 @@ export default class Breviarium implements BreviariumInterface {
         return await this.#prayerManager.getLectures(date);
     }
 
-    async getLaudes(date?: Date): Promise<LaudesSchema | undefined> {
+    async getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined> {
         return await this.#prayerManager.getLaudes(date);
     }
 

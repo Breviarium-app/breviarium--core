@@ -1,7 +1,7 @@
 export interface PrayerManagerInterface {
     getInvitatorium(date?: Date): Promise<InvitatoriumSchema | undefined>;
 
-    getLaudes(date?: Date): Promise<LaudesSchema | undefined>;
+    getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined>;
 
     getVesperae(date?: Date): Promise<VesperaeSchema | undefined>;
 
@@ -50,6 +50,31 @@ export type LaudesSchema = {
     invi_pn: number;
     o_final: number;
 };
+
+export type LaudesSchemaOutput = {
+    id: string;
+    cycle: string;
+    dia_semana_tiempo: number;
+    himno: number;
+    primer_salmo_cita: number;
+    primer_salmo_antifona: number;
+    primer_salmo_texto: number;
+    segundo_salmo_cita: number;
+    segundo_salmo_antifona: number;
+    segundo_salmo_texto: number;
+    tercer_salmo_cita: number;
+    tercer_salmo_antifona: number;
+    tercer_salmo_texto: number;
+    lectura_biblica_cita: number;
+    lectura_biblica: number;
+    responsorios: number[];
+    cantico_evangelico_antifona: number;
+    preces_intro: number;
+    preces_respuesta: number;
+    preces_contenido: number[];
+    invitacion_padrenuestro: number;
+    oracion_final: number;
+}
 
 export type LecturesSchema = {
     id: string;
