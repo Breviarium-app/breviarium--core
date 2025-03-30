@@ -1,17 +1,18 @@
 import {describe, expect, it} from "vitest";
 import {PrayerManager} from "@/prayers/prayer-manager.ts";
+import {PrayerManagerInterface} from "@/prayer-manager-interface.ts";
 
 
 describe("Prayer Manager module", () => {
     it("should return content in Laudes", () => {
-        const prayer = new PrayerManager();
+        const prayer: PrayerManagerInterface = new PrayerManager();
         const result = prayer.getLaudes();
 
         assert(result !== undefined);
     });
 
     it("properties content ok", async () => {
-        const prayer = new PrayerManager();
+        const prayer: PrayerManagerInterface = new PrayerManager();
         const result = await prayer.getLaudes();
 
         assert(result !== undefined);
@@ -31,7 +32,7 @@ describe("Prayer Manager module", () => {
     });
 
     it("invitatory first day OK", async () => {
-        const prayer = new PrayerManager();
+        const prayer: PrayerManagerInterface = new PrayerManager();
 
         const result = await prayer.getInvitatorium(new Date(2025, 0, 1));
 
