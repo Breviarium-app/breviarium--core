@@ -5,11 +5,11 @@ export interface PrayerManagerInterface {
 
     getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined>;
 
-    getTertia(date?: Date): Promise<IntermediateSchema | undefined>;
+    getTertia(date?: Date): Promise<IntermediateSchemaOutput | undefined>;
 
-    getSexta(date?: Date): Promise<IntermediateSchema | undefined>;
+    getSexta(date?: Date): Promise<IntermediateSchemaOutput | undefined>;
 
-    getNona(date?: Date): Promise<IntermediateSchema | undefined>;
+    getNona(date?: Date): Promise<IntermediateSchemaOutput | undefined>;
 
     getCompletorium(date?: Date): Promise<CompletoriumSchema | undefined>;
 
@@ -111,20 +111,20 @@ export type IntermediateSchema = {
 export type IntermediateSchemaOutput = {
     id: string;
     cycle: string;
-    himno: number;
+    himno: string;
     primer_salmo_cita: string;
-    primer_salmo_antifona: number | string;
+    primer_salmo_antifona: string;
     primer_salmo_texto: string;
     segundo_salmo_cita: string;
-    segundo_salmo_antifona: number | string;
+    segundo_salmo_antifona: string;
     segundo_salmo_texto: string;
     tercer_salmo_cita: string;
-    tercer_salmo_antifona: number | string;
+    tercer_salmo_antifona: string;
     tercer_salmo_texto: string;
-    lb_c: number;
-    lb_t: number;
-    responsorios: number[];
-    o_final: number;
+    lectura_biblica_cita: string;
+    lectura_biblica: string;
+    responsorios: string[];
+    oracion_final: string;
 };
 
 export type VesperaeSchema = {

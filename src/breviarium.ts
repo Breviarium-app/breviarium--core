@@ -3,7 +3,7 @@ import {BreviariumInterface} from "./breviarium-interface.ts";
 import {PrayerManager} from "@/prayers/prayer-manager.ts";
 import {
     CompletoriumSchema,
-    IntermediateSchema,
+    IntermediateSchemaOutput,
     InvitatoriumSchema,
     LaudesSchemaOutput,
     LecturesSchema,
@@ -51,15 +51,15 @@ export default class Breviarium implements BreviariumInterface {
         return await this.#prayerManager.getOfficium(date);
     }
 
-    async getTertia(date?: Date): Promise<IntermediateSchema | undefined> {
+    async getTertia(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
         return await this.#prayerManager.getTertia(date);
     }
 
-    async getSexta(date?: Date): Promise<IntermediateSchema | undefined> {
+    async getSexta(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
         return await this.#prayerManager.getSexta(date);
     }
 
-    async getNona(date?: Date): Promise<IntermediateSchema | undefined> {
+    async getNona(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
         return await this.#prayerManager.getNona(date);
     }
 

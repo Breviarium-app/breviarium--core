@@ -1,6 +1,6 @@
 import {
     CompletoriumSchema,
-    IntermediateSchema,
+    IntermediateSchemaOutput,
     InvitatoriumSchema,
     LaudesSchemaOutput,
     LecturesSchema,
@@ -10,7 +10,7 @@ import {
 } from "@/prayer-manager-interface.ts";
 import all_laudes from '@/prayers/db/all_laudes.json';
 import all_vesperae from '@/prayers/db/all_vesperae.json';
-import all_tercia from '@/prayers/db/all_tertia.json';
+import all_tertia from '@/prayers/db/all_tertia.json';
 import all_sexta from '@/prayers/db/all_sexta.json';
 import all_nona from '@/prayers/db/all_nona.json';
 import all_lectures from '@/prayers/db/all_lectures.json';
@@ -21,6 +21,7 @@ import {searchDay} from "@/prayers/romcal.ts";
 import {mapper_invitatorium} from "@/prayers/mappers/mapper_invitatorium.ts";
 import {mapper_laudes} from "@/prayers/mappers/mapper_laudes.ts";
 import {mapper_vesperae} from "@/prayers/mappers/mapper_vesperae.ts";
+import {finder_intermediate} from "@/prayers/finders/finder_intermediate.ts";
 
 
 export class PrayerManager implements PrayerManagerInterface {
@@ -45,19 +46,19 @@ export class PrayerManager implements PrayerManagerInterface {
         return mapper_vesperae(resultSelected);
     }
 
-    async getTertia(date?: Date): Promise<IntermediateSchema | undefined> {
-        console.log('Tercia date:', date);
-        return all_tercia[0];
+    async getTertia(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
+        const dayCalendar = await searchDay(date);
+        return finder_intermediate(dayCalendar, all_tertia);
     }
 
-    async getSexta(date?: Date): Promise<IntermediateSchema | undefined> {
-        console.log('Sexta date:', date);
-        return all_sexta[0];
+    async getSexta(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
+        const dayCalendar = await searchDay(date);
+        return finder_intermediate(dayCalendar, all_sexta);
     }
 
-    async getNona(date?: Date): Promise<IntermediateSchema | undefined> {
-        console.log('Nona date:', date);
-        return all_nona[0];
+    async getNona(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
+        const dayCalendar = await searchDay(date);
+        return finder_intermediate(dayCalendar, all_nona);
     }
 
     async getLectures(date?: Date): Promise<LecturesSchema | undefined> {

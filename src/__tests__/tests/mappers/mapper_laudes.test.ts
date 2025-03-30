@@ -82,7 +82,7 @@ const laudes_post_0 = {
     oracion_final: 'Señor, que reconcilias contigo a los hombres por tu Palabra hecha carne, haz que el pueblo cristiano se apresure, con fe viva y entrega generosa, a celebrar las próximas fiestas pascuales. Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios por los siglos de los siglos.'
 }
 
-describe("Mappers", () => {
+describe("Mapper Laudes", () => {
     it("mapper laudes - laudes_pre_0", () => {
 
         const result = mapper_laudes(laudes_pre_0);

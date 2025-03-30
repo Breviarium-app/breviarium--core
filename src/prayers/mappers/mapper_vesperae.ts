@@ -3,7 +3,7 @@ import {findText} from "@/prayers/mappers/findText";
 
 export function mapper_vesperae(item: any): VesperaeSchemaOutput | undefined {
 
-    // console.log("prev", item);
+    // console.log("vesperae prev", item);
 
     const result = {
         "id": item.id,
@@ -31,6 +31,6 @@ export function mapper_vesperae(item: any): VesperaeSchemaOutput | undefined {
         "oracion_final": findText('oraciones_finales', item.o_final),
     }
 
-    // console.log("post", result);
+    // console.log("vesperae post", result);
     return result;
 }
