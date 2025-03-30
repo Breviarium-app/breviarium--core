@@ -3,7 +3,7 @@ export interface PrayerManagerInterface {
 
     getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined>;
 
-    getVesperae(date?: Date): Promise<VesperaeSchema | undefined>;
+    getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined>;
 
     getTertia(date?: Date): Promise<IntermediateSchema | undefined>;
 
@@ -108,6 +108,25 @@ export type IntermediateSchema = {
     o_final: number;
 };
 
+export type IntermediateSchemaOutput = {
+    id: string;
+    cycle: string;
+    himno: number;
+    primer_salmo_cita: string;
+    primer_salmo_antifona: number | string;
+    primer_salmo_texto: string;
+    segundo_salmo_cita: string;
+    segundo_salmo_antifona: number | string;
+    segundo_salmo_texto: string;
+    tercer_salmo_cita: string;
+    tercer_salmo_antifona: number | string;
+    tercer_salmo_texto: string;
+    lb_c: number;
+    lb_t: number;
+    responsorios: number[];
+    o_final: number;
+};
+
 export type VesperaeSchema = {
     id: string;
     cycle: string;
@@ -132,6 +151,31 @@ export type VesperaeSchema = {
     preces_c: number[];
     invi_pn: number;
     o_final: number;
+};
+export type VesperaeSchemaOutput = {
+    id: string;
+    cycle: string;
+    dia_semana_tiempo: string;
+    primeras_visperas: boolean;
+    himno: string;
+    primer_salmo_cita: string;
+    primer_salmo_antifona: string;
+    primer_salmo_texto: string;
+    segundo_salmo_cita: string;
+    segundo_salmo_antifona: string;
+    segundo_salmo_texto: string;
+    tercer_salmo_cita: string;
+    tercer_salmo_antifona: string;
+    tercer_salmo_texto: string;
+    lectura_biblica_cita: string;
+    lectura_biblica: string;
+    responsorios: string[];
+    cantico_evangelico_antifona: string;
+    preces_intro: string;
+    preces_respuesta: string;
+    preces_contenido: string[];
+    invitacion_padrenuestro: string;
+    oracion_final: string;
 };
 
 export type CompletoriumSchema = {

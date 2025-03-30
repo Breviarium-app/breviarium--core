@@ -8,7 +8,7 @@ import {
     LaudesSchemaOutput,
     LecturesSchema,
     OfficiumSchema,
-    VesperaeSchema
+    VesperaeSchemaOutput
 } from "@/prayer-manager-interface.ts";
 
 export default class Breviarium implements BreviariumInterface {
@@ -43,7 +43,7 @@ export default class Breviarium implements BreviariumInterface {
         return await this.#prayerManager.getLaudes(date);
     }
 
-    async getVesperae(date?: Date): Promise<VesperaeSchema | undefined> {
+    async getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined> {
         return await this.#prayerManager.getVesperae(date);
     }
 
