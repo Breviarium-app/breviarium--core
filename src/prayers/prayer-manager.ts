@@ -1,7 +1,7 @@
 import {
     CompletoriumSchema,
     IntermediateSchemaOutput,
-    InvitatoriumSchema,
+    InvitatoriumSchema, InvitatoriumSchemaOutput,
     LaudesSchemaOutput,
     LecturesSchema,
     OfficiumSchema,
@@ -28,7 +28,7 @@ export class PrayerManager implements PrayerManagerInterface {
     constructor() {
     }
 
-    async getInvitatorium(date?: Date): Promise<InvitatoriumSchema | undefined> {
+    async getInvitatorium(date?: Date): Promise<InvitatoriumSchemaOutput | undefined> {
         const dayCalendar = await searchDay(date);
         const resultSelected = all_invitatorium.find(invitatory => invitatory.id === dayCalendar?.id);
         return mapper_invitatorium(resultSelected);

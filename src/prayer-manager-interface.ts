@@ -1,5 +1,5 @@
 export interface PrayerManagerInterface {
-    getInvitatorium(date?: Date): Promise<InvitatoriumSchema | undefined>;
+    getInvitatorium(date?: Date): Promise<InvitatoriumSchemaOutput | undefined>;
 
     getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined>;
 
@@ -24,6 +24,11 @@ export interface PrayerManagerInterface {
 export type InvitatoriumSchema = {
     id: string;
     val: number;
+};
+
+export type InvitatoriumSchemaOutput = {
+    id: string;
+    val: string;
 };
 
 export type LaudesSchema = {
