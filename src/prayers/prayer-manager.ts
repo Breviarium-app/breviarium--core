@@ -1,7 +1,7 @@
 import {
     CompletoriumSchema,
     IntermediateSchemaOutput,
-    InvitatoriumSchema, InvitatoriumSchemaOutput,
+    InvitatoriumSchemaOutput,
     LaudesSchemaOutput,
     LecturesSchema,
     OfficiumSchema,

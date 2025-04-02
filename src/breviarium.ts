@@ -4,12 +4,13 @@ import {PrayerManager} from "@/prayers/prayer-manager.ts";
 import {
     CompletoriumSchema,
     IntermediateSchemaOutput,
-    InvitatoriumSchema,
+    InvitatoriumSchemaOutput,
     LaudesSchemaOutput,
     LecturesSchema,
     OfficiumSchema,
     VesperaeSchemaOutput
 } from "@/prayer-manager-interface.ts";
+import invitatory_psalms from './prayers/db/es/commons/invitatory_psalms.json'
 
 export default class Breviarium implements BreviariumInterface {
     #selectedDate: Date;
@@ -31,7 +32,7 @@ export default class Breviarium implements BreviariumInterface {
         return this.#selectedDate;
     }
 
-    async getInvitatorium(date?: Date): Promise<InvitatoriumSchema | undefined> {
+    async getInvitatorium(date?: Date): Promise<InvitatoriumSchemaOutput | undefined> {
         return await this.#prayerManager.getInvitatorium(date);
     }
 
@@ -69,5 +70,9 @@ export default class Breviarium implements BreviariumInterface {
 
     async getEvangelium(date?: Date): Promise<LecturesSchema | undefined> {
         return await this.#prayerManager.getEvangelium(date);
+    }
+
+    async getInvitatoriumPsalms(): Promise<any[]> {
+        return invitatory_psalms;
     }
 }

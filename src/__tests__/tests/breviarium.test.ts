@@ -115,4 +115,12 @@ describe("Breviarium module", () => {
         expect(result.id).eq('mary_mother_of_god');
     });
 
+    it("getInvitatoriumPsalms", async () => {
+        const breviarium = new Breviarium();
+        const result = await breviarium.getInvitatoriumPsalms()
+
+        assert(result !== undefined);
+        expect(result.length).eq(4); // 4 psalms invitatory
+    });
+
 });
