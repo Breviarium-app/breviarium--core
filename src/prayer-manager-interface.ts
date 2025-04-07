@@ -13,7 +13,7 @@ export interface PrayerManagerInterface {
 
     getCompletorium(date?: Date): Promise<CompletoriumSchema | undefined>;
 
-    getOfficium(date?: Date): Promise<OfficiumSchema | undefined>;
+    getOfficium(date?: Date): Promise<OfficiumSchemaOutput | undefined>;
 
     getLectures(date?: Date): Promise<LecturesSchema | undefined>;
 
@@ -208,43 +208,53 @@ export interface OfficiumSchema {
     cycle: string;                 // Liturgical cycle (e.g., "ANY")
     dia_semana_tiempo: number;     // Day of the week or time (e.g., 0)
     himno: number;                 // Hymn ID (e.g., 3391)
-
-    // Psalm 1: citation, antiphon, title
     s1_c: number;
     s1_a: number;
     s1_t: number;
-
-    // Psalm 2: citation, antiphon, title
     s2_c: number;
     s2_a: number;
     s2_t: number;
-
-    // Psalm 3: citation, antiphon, title
     s3_c: number;
     s3_a: number;
     s3_t: number;
-
-    // First responsory
     responsorio1: number[];
-
-    // Short reading (lectio brevis): title, citation, text
     lb_tit: number[] | number;
     lb_c: number[] | number;
     lb_texto: number[] | number;
-
-    // Second responsory (and variant)
     responsorio2: number[];
     responsorio2B: number[];
-
-    // Long reading (lectio prolixa): title, citation, text
     lp_tit: number[] | number;
     lp_c: number[] | number;
     lp_texto: number[] | number;
-
-    // Third responsory (and variant)
     responsorio3: number[];
     responsorio3B: number[];
-
-    // Final prayer
     o_final: number;
-};
+}
+
+export interface OfficiumSchemaOutput {
+    id: string;                    // Unique identifier (e.g., "advent_1_friday")
+    cycle: string;                 // Liturgical cycle (e.g., "ANY")
+    dia_semana_tiempo: string;     // Day of the week or time (e.g., 0)
+    himno: string;                 // Hymn ID (e.g., 3391)
+    primer_salmo_cita: string;
+    primer_salmo_antifona: string;
+    primer_salmo_texto: string;
+    segundo_salmo_cita: string;
+    segundo_salmo_antifona: string;
+    segundo_salmo_texto: string;
+    tercer_salmo_cita: string;
+    tercer_salmo_antifona: string;
+    tercer_salmo_texto: string;
+    responsorio1: string[];
+    lectura_biblica_titulo: string[] | string;
+    lectura_biblica_cita: string[] | string;
+    lectura_biblica_texto: string[] | string;
+    responsorio2: string[];
+    responsorio2B: string[];
+    lectura_patristica_titulo: string[] | string;
+    lectura_patristica_cita: string[] | string;
+    lectura_patristica_texto: string[] | string;
+    responsorio3: string[];
+    responsorio3B: string[];
+    oracion_final: string;
+}

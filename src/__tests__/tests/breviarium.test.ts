@@ -123,4 +123,11 @@ describe("Breviarium module", () => {
         expect(result.length).eq(4); // 4 psalms invitatory
     });
 
+    it("getOfficium", async () => {
+        const breviarium = new Breviarium();
+        const result = await breviarium.getOfficium()
+
+        assert(result !== undefined);
+    });
+
 });

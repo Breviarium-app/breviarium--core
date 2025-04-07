@@ -1,7 +1,7 @@
 import * as commons from "@/prayers/db/es/commons/";
 import {TableCommon, TableCommonName} from "./types";
 
-export const findText = (tableName: TableCommonName, idToFind: number | string): string => {
+export const findText = (tableName: TableCommonName, idToFind: number | string | any): string => {
     if (typeof (idToFind) === "string") {
         console.log(`id ${idToFind} Not fount in ${tableName}`);
         return '';

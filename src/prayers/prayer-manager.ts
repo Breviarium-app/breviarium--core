@@ -4,7 +4,7 @@ import {
     InvitatoriumSchemaOutput,
     LaudesSchemaOutput,
     LecturesSchema,
-    OfficiumSchema,
+    OfficiumSchemaOutput,
     PrayerManagerInterface,
     VesperaeSchemaOutput
 } from "@/prayer-manager-interface.ts";
@@ -22,6 +22,7 @@ import {mapper_invitatorium} from "@/prayers/mappers/mapper_invitatorium.ts";
 import {mapper_laudes} from "@/prayers/mappers/mapper_laudes.ts";
 import {mapper_vesperae} from "@/prayers/mappers/mapper_vesperae.ts";
 import {finder_intermediate} from "@/prayers/finders/finder_intermediate.ts";
+import {mapper_officium} from "@/prayers/mappers/mapper_officium.ts";
 
 
 export class PrayerManager implements PrayerManagerInterface {
@@ -71,9 +72,11 @@ export class PrayerManager implements PrayerManagerInterface {
         return monday;
     }
 
-    async getOfficium(date?: Date): Promise<OfficiumSchema | undefined> {
-        console.log('Officium date:', date);
-        return all_officium[0];
+    async getOfficium(date?: Date): Promise<OfficiumSchemaOutput | undefined> {
+        const dayCalendar = await searchDay(date);
+        const resultSelected = all_officium.find(element => element.id === dayCalendar?.id);
+        // TODO: If MEMORY, replace all fields but himno, lectura_patristica and oracion_final with ferialElement values
+        return mapper_officium(resultSelected);
     }
 
     async getEvangelium(date?: Date): Promise<LecturesSchema | undefined> {

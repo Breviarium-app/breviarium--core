@@ -31,3 +31,13 @@ export async function searchDay(date?: Date): Promise<LiturgicalDay | undefined>
 
     return undefined;
 }
+
+export async function searchPropertyOfDay(date: Date, property: keyof LiturgicalDay = "name"): Promise<string | undefined> {
+    const liturgicalDay = await searchDay(date);
+
+    if (liturgicalDay && property in liturgicalDay) {
+        return liturgicalDay[property] as string;
+    }
+
+    return undefined;
+}
