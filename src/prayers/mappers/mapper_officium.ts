@@ -2,7 +2,6 @@ import {OfficiumSchema, OfficiumSchemaOutput} from "@/prayer-manager-interface.t
 import {findText} from "@/prayers/mappers/findText";
 
 export function mapper_officium(item: OfficiumSchema | any): OfficiumSchemaOutput | undefined {
-    console.log("resultSelected getOfficium", item);
 
     const result = {
         "id": item.id,
@@ -31,6 +30,5 @@ export function mapper_officium(item: OfficiumSchema | any): OfficiumSchemaOutpu
         "responsorio3B": item.responsorio3B.map((id: any) => findText('responsorios', id)),
         "oracion_final": findText('oraciones_finales', item.o_final),
     }
-    console.log("resultSelected getOfficium", result);
     return result;
 }
