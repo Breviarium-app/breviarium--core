@@ -4,7 +4,6 @@ import {mapper_officium} from "@/prayers/mappers/mapper_officium.ts";
 const prev = {
     id: 'lent_5_monday',
     cycle: 'ANY',
-    dia_semana_tiempo: 0,
     himno: 3365,
     s1_c: 9996,
     s1_a: 8219,
@@ -32,7 +31,6 @@ const prev = {
 const post = {
     id: 'lent_5_monday',
     cycle: 'ANY',
-    dia_semana_tiempo: 'Jesucristo, Rey del Universo, _solemnidad_',
     himno: 'Llorando los pecados\n' +
         'tu pueblo está, Señor.\n' +
         'Vuélvenos tu mirada\n' +

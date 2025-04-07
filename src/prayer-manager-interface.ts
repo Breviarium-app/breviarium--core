@@ -206,7 +206,6 @@ export type CompletoriumSchema = {
 export interface OfficiumSchema {
     id: string;                    // Unique identifier (e.g., "advent_1_friday")
     cycle: string;                 // Liturgical cycle (e.g., "ANY")
-    dia_semana_tiempo: number;     // Day of the week or time (e.g., 0)
     himno: number;                 // Hymn ID (e.g., 3391)
     s1_c: number;
     s1_a: number;
@@ -234,7 +233,6 @@ export interface OfficiumSchema {
 export interface OfficiumSchemaOutput {
     id: string;                    // Unique identifier (e.g., "advent_1_friday")
     cycle: string;                 // Liturgical cycle (e.g., "ANY")
-    dia_semana_tiempo: string;     // Day of the week or time (e.g., 0)
     himno: string;                 // Hymn ID (e.g., 3391)
     primer_salmo_cita: string;
     primer_salmo_antifona: string;

@@ -6,7 +6,6 @@ export function mapper_officium(item: OfficiumSchema | any): OfficiumSchemaOutpu
     const result = {
         "id": item.id,
         "cycle": item.cycle,
-        "dia_semana_tiempo": findText('celebraciones', item.dia_semana_tiempo),
         "himno": findText('himnos', item.himno),
         "primer_salmo_cita": findText('salmos_citas', item.s1_c),
         "primer_salmo_antifona": findText('salmos_antifonas', item.s1_a),

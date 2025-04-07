@@ -2,6 +2,15 @@ import {describe, expect, it} from "vitest";
 import Breviarium from "@/breviarium.ts";
 
 describe("Breviarium module", () => {
+    it("should change date", () => {
+        const breviarium = new Breviarium();
+        breviarium.setDate(new Date(2025, 0, 15))
+        const result = breviarium.getCurrentDate();
+
+        assert(result !== undefined);
+        expect(result.getFullYear()).equals(new Date(2025, 0, 15).getFullYear())
+    });
+
     it("should return content in Laudes", () => {
         const breviarium = new Breviarium();
         const result = breviarium.getLaudes();
