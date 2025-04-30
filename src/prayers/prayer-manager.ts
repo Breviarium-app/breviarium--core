@@ -3,7 +3,7 @@ import {
     IntermediateSchemaOutput,
     InvitatoriumSchemaOutput,
     LaudesSchemaOutput,
-    LecturesSchema,
+    LecturesSchema, LecturesSchemaOutput,
     OfficiumSchemaOutput,
     PrayerManagerInterface,
     VesperaeSchemaOutput
@@ -23,6 +23,7 @@ import {mapper_laudes} from "@/prayers/mappers/mapper_laudes.ts";
 import {mapper_vesperae} from "@/prayers/mappers/mapper_vesperae.ts";
 import {finder_intermediate} from "@/prayers/finders/finder_intermediate.ts";
 import {mapper_officium} from "@/prayers/mappers/mapper_officium.ts";
+import {mapper_lectures} from "@/prayers/mappers/mapper_lectures.ts";
 
 
 export class PrayerManager implements PrayerManagerInterface {
@@ -62,9 +63,10 @@ export class PrayerManager implements PrayerManagerInterface {
         return finder_intermediate(dayCalendar, all_nona);
     }
 
-    async getLectures(date?: Date): Promise<LecturesSchema | undefined> {
-        console.log('Lectures date:', date);
-        return all_lectures[0];
+    async getLectures(date?: Date): Promise<(LecturesSchemaOutput[] | undefined)> {
+        const dayCalendar = await searchDay(date);
+        const resultsSelected = all_lectures.filter(element => element.id === dayCalendar?.id);
+        return resultsSelected.map(mapper_lectures);
     }
 
     async getCompletorium(date?: Date): Promise<CompletoriumSchema | undefined> {

@@ -1,6 +1,7 @@
 #!/bin/bash
 
 cp -r ./databases/* ./src/prayers/db/
+echo "Database files imported to library 💽"
 
 cd ./src/prayers/db/ || exit
 

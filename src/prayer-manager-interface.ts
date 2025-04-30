@@ -15,7 +15,7 @@ export interface PrayerManagerInterface {
 
     getOfficium(date?: Date): Promise<OfficiumSchemaOutput | undefined>;
 
-    getLectures(date?: Date): Promise<LecturesSchema | undefined>;
+    getLectures(date?: Date): Promise<LecturesSchemaOutput[] | undefined>;
 
     getEvangelium(date?: Date): Promise<LecturesSchema | undefined>;
 }
@@ -90,6 +90,19 @@ export type LecturesSchema = {
     lecturas: {
         ref: number;
         texto: number;
+        type: string; //"FIRSTLECTURE" | "PSALM" | "GOSPEL";
+    }[];
+};
+
+export type LecturesSchemaOutput = {
+    id: string;
+    cycle: string;
+    fecha_anio_liturgico?: string;
+    tiempo_ciclo_paridad?: string;
+    celebraciones_posibles: string[];
+    lecturas: {
+        ref: string;
+        texto: string;
         type: string; //"FIRSTLECTURE" | "PSALM" | "GOSPEL";
     }[];
 };
