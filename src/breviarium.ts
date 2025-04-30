@@ -7,6 +7,7 @@ import {
     InvitatoriumSchemaOutput,
     LaudesSchemaOutput,
     LecturesSchema,
+    LecturesSchemaOutput,
     OfficiumSchemaOutput,
     VesperaeSchemaOutput
 } from "@/prayer-manager-interface.ts";
@@ -39,7 +40,7 @@ export default class Breviarium implements BreviariumInterface {
         return this.#prayerManager.getInvitatorium(date);
     }
 
-    async getLectures(date?: Date): Promise<LecturesSchema | undefined> {
+    async getLectures(date?: Date): Promise<LecturesSchemaOutput[] | undefined> {
         return this.#prayerManager.getLectures(date);
     }
 
