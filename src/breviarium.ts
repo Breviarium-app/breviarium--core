@@ -36,43 +36,43 @@ export default class Breviarium implements BreviariumInterface {
     }
 
     async getInvitatorium(date?: Date): Promise<InvitatoriumSchemaOutput | undefined> {
-        return await this.#prayerManager.getInvitatorium(date);
+        return this.#prayerManager.getInvitatorium(date);
     }
 
     async getLectures(date?: Date): Promise<LecturesSchema | undefined> {
-        return await this.#prayerManager.getLectures(date);
+        return this.#prayerManager.getLectures(date);
     }
 
     async getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined> {
-        return await this.#prayerManager.getLaudes(date);
+        return this.#prayerManager.getLaudes(date);
     }
 
     async getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined> {
-        return await this.#prayerManager.getVesperae(date);
+        return this.#prayerManager.getVesperae(date);
     }
 
     async getOfficium(date?: Date): Promise<OfficiumSchemaOutput | undefined> {
-        return await this.#prayerManager.getOfficium(date);
+        return this.#prayerManager.getOfficium(date);
     }
 
     async getTertia(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
-        return await this.#prayerManager.getTertia(date);
+        return this.#prayerManager.getTertia(date);
     }
 
     async getSexta(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
-        return await this.#prayerManager.getSexta(date);
+        return this.#prayerManager.getSexta(date);
     }
 
     async getNona(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
-        return await this.#prayerManager.getNona(date);
+        return this.#prayerManager.getNona(date);
     }
 
     async getCompletorium(date?: Date): Promise<CompletoriumSchema | undefined> {
-        return await this.#prayerManager.getCompletorium(date);
+        return this.#prayerManager.getCompletorium(date);
     }
 
     async getEvangelium(date?: Date): Promise<LecturesSchema | undefined> {
-        return await this.#prayerManager.getEvangelium(date);
+        return this.#prayerManager.getEvangelium(date);
     }
 
     async getInvitatoriumPsalms(): Promise<any[]> {
