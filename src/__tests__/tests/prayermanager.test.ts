@@ -63,4 +63,13 @@ describe("Prayer Manager module", () => {
 
     });
 
+    it("getCompletorium wednesday ok", async () => {
+        const prayer: PrayerManagerInterface = new PrayerManager();
+
+        const result = await prayer.getCompletorium(new Date(2025, 0, 1));
+
+        assert(result !== undefined);
+        expect(result.oracion).eq('Completas: Miércoles');
+    });
+
 });

@@ -1,9 +1,10 @@
 import {
-    CompletoriumSchema,
+    CompletoriumSchemaOutput,
     IntermediateSchemaOutput,
     InvitatoriumSchemaOutput,
     LaudesSchemaOutput,
-    LecturesSchema, LecturesSchemaOutput,
+    LecturesSchema,
+    LecturesSchemaOutput,
     OfficiumSchemaOutput,
     PrayerManagerInterface,
     VesperaeSchemaOutput
@@ -16,7 +17,6 @@ import all_nona from '@/prayers/db/all_nona.json';
 import all_lectures from '@/prayers/db/all_lectures.json';
 import all_officium from '@/prayers/db/all_officium.json';
 import all_invitatorium from '@/prayers/db/all_invitatorium.json';
-import {monday} from '@/prayers/db/es/completorium/index.ts';
 import {searchDay} from "@/prayers/romcal.ts";
 import {mapper_invitatorium} from "@/prayers/mappers/mapper_invitatorium.ts";
 import {mapper_laudes} from "@/prayers/mappers/mapper_laudes.ts";
@@ -24,6 +24,7 @@ import {mapper_vesperae} from "@/prayers/mappers/mapper_vesperae.ts";
 import {finder_intermediate} from "@/prayers/finders/finder_intermediate.ts";
 import {mapper_officium} from "@/prayers/mappers/mapper_officium.ts";
 import {mapper_lectures} from "@/prayers/mappers/mapper_lectures.ts";
+import {mapper_completorium} from "@/prayers/mappers/mapper_completorium.ts";
 
 
 export class PrayerManager implements PrayerManagerInterface {
@@ -69,9 +70,8 @@ export class PrayerManager implements PrayerManagerInterface {
         return resultsSelected.map(mapper_lectures);
     }
 
-    async getCompletorium(date?: Date): Promise<CompletoriumSchema | undefined> {
-        console.log('Completorium date:', date);
-        return monday;
+    async getCompletorium(date?: Date): Promise<CompletoriumSchemaOutput | undefined> {
+        return mapper_completorium(date);
     }
 
     async getOfficium(date?: Date): Promise<OfficiumSchemaOutput | undefined> {

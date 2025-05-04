@@ -11,7 +11,7 @@ export interface PrayerManagerInterface {
 
     getNona(date?: Date): Promise<IntermediateSchemaOutput | undefined>;
 
-    getCompletorium(date?: Date): Promise<CompletoriumSchema | undefined>;
+    getCompletorium(date?: Date): Promise<CompletoriumSchemaOutput | undefined>;
 
     getOfficium(date?: Date): Promise<OfficiumSchemaOutput | undefined>;
 
@@ -213,6 +213,26 @@ export type CompletoriumSchema = {
     antifona_triduo: string;
     antifona_inalbis: string;
     ce_a: string;
+    final: string;
+};
+
+export type CompletoriumSchemaOutput = {
+    idd?: number;
+    oracion?: string;
+    himno: string;
+    primer_salmo_cita: string;
+    primer_salmo_antifona: string;
+    primer_salmo_texto: string;
+    segundo_salmo_cita?: string;
+    segundo_salmo_antifona?: string;
+    segundo_salmo_texto?: string;
+    lectura_biblica_cita: string;
+    lectura_biblica_texto: string;
+    responsorio: string[];
+    responsorio_pascua: string[];
+    antifona_triduo: string;
+    antifona_inalbis: string;
+    cantico_evangelico_antifona: string;
     final: string;
 };
 

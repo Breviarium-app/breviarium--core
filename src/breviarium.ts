@@ -2,7 +2,7 @@
 import {BreviariumInterface} from "./breviarium-interface.ts";
 import {PrayerManager} from "@/prayers/prayer-manager.ts";
 import {
-    CompletoriumSchema,
+    CompletoriumSchemaOutput,
     IntermediateSchemaOutput,
     InvitatoriumSchemaOutput,
     LaudesSchemaOutput,
@@ -68,7 +68,7 @@ export default class Breviarium implements BreviariumInterface {
         return this.#prayerManager.getNona(date);
     }
 
-    async getCompletorium(date?: Date): Promise<CompletoriumSchema | undefined> {
+    async getCompletorium(date?: Date): Promise<CompletoriumSchemaOutput | undefined> {
         return this.#prayerManager.getCompletorium(date);
     }
 
