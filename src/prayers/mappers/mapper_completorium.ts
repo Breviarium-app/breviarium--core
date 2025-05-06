@@ -2,11 +2,9 @@ import {CompletoriumSchema, CompletoriumSchemaOutput} from "@/prayer-manager-int
 import {friday, monday, saturday, sunday, thursday, tuesday, wednesday} from "@/prayers/db/es/completorium";
 
 export function mapper_completorium(date: any): CompletoriumSchemaOutput | undefined {
+    const currentDate = date || new Date();
 
-    if (!date) {
-        return undefined;
-    }
-    const dayOfWeek = date.getDay();
+    const dayOfWeek = currentDate.getDay();
 
     const days = [sunday, monday, tuesday, wednesday, thursday, friday, saturday];
     const item: CompletoriumSchema = days[dayOfWeek];
