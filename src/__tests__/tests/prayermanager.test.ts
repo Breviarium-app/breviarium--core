@@ -70,6 +70,10 @@ describe("Prayer Manager module", () => {
 
         assert(result !== undefined);
         expect(result.oracion).eq('Completas: Miércoles');
+        expect(result.himno).contains('Tras las cimas más altas,');
+        expect(result.primer_salmo_cita).contains('Salmo 30, 2-6: Súplica confiada de un afligido');
+        expect(result.segundo_salmo_cita).contains('Salmo 129: Desde lo hondo, a ti grito');
+        expect(result.cantico_evangelico_antifona).contains('Sálvanos, Señor, despiertos, protégenos mientras dormimos, para que velemos con Cristo y descansemos en paz');
     });
 
 });

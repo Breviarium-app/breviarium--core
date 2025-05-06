@@ -3,8 +3,6 @@ import {findText} from "@/prayers/mappers/findText";
 
 export function mapper_vesperae(item: any): VesperaeSchemaOutput | undefined {
 
-    console.log("vesperae prev", item);
-
     const result = {
         "id": item.id,
         "cycle": item.cycle,
