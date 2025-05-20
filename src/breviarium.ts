@@ -83,7 +83,7 @@ export default class Breviarium implements BreviariumInterface {
     async getLiturgyInformation(date?: Date): Promise<LiturgyInformation> {
         const dayCalendar = await searchDay(date);
 
-        if (date) {
+        if (dayCalendar) {
             return {
                 psaltery_week: dayCalendar?.cycles.psalterWeek,
                 cycle: dayCalendar?.cycles.sundayCycle,
