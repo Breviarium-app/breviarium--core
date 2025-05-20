@@ -144,8 +144,8 @@ describe("Breviarium module", () => {
         const result = await breviarium.getLiturgyInformation(new Date(2025, 0, 1))
         console.log(result)
         const expected = {
-            psaltery_week: 'WEEK_1',
-            cycle: 'YEAR_C',
+            psaltery_week: 'I',
+            cycle: 'C',
             color: 'WHITE',
             color_hex: '#bdbdbd66'
         }

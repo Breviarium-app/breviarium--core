@@ -1,4 +1,4 @@
-import {LiturgicalColors, LiturgicalSeasons, SalteryWeek} from "@/prayers/types.ts";
+import {CycleType, LiturgicalColors, LiturgicalSeasons, SalteryWeek} from "@/prayers/types.ts";
 import {Romcal} from "romcal";
 
 export function formatDate(date: Date | undefined): string {
@@ -38,6 +38,24 @@ export function getSalteryWeek(psalteryWeek: string): string {
         case(SalteryWeek.WEEK_4): {
             return "IV"
         }
+        default: {
+            return ""
+        }
+    }
+}
+
+export function getCycle(cycleYear: string): string {
+    switch (cycleYear) {
+        case(CycleType.YEAR_A): {
+            return "A"
+        }
+        case(CycleType.YEAR_B): {
+            return "B"
+        }
+        case(CycleType.YEAR_C): {
+            return "C"
+        }
+
         default: {
             return ""
         }

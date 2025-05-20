@@ -43,6 +43,12 @@ export enum SalteryWeek{
     WEEK_4 = "WEEK_4",
 }
 
+export enum CycleType{
+    YEAR_A = "YEAR_A",
+    YEAR_B = "YEAR_B",
+    YEAR_C = "YEAR_C",
+}
+
 export type LiturgyInformation = {
     psaltery_week?: string; // I, II, III, IV
     cycle?: string;
