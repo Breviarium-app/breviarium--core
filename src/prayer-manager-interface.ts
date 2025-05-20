@@ -17,7 +17,7 @@ export interface PrayerManagerInterface {
 
     getLectures(date?: Date): Promise<LecturesSchemaOutput[] | undefined>;
 
-    getEvangelium(date?: Date): Promise<LecturesSchema | undefined>;
+    getEvangelium(date?: Date): Promise<EvangeliumSchemaOutput | undefined>;
 }
 
 
@@ -81,17 +81,24 @@ export type LaudesSchemaOutput = {
     oracion_final: string;
 }
 
+export type SingleLectureSchema = {
+    ref: number;
+    texto: number;
+    type: string; //"FIRSTLECTURE" | "PSALM" | "GOSPEL";
+}
+export type SingleLectureSchemaOutput = {
+    ref: string;
+    texto: string;
+    type: string; //"FIRSTLECTURE" | "PSALM" | "GOSPEL";
+}
+
 export type LecturesSchema = {
     id: string;
     cycle: string;
     fecha_anio_liturgico: number;
     tiempo_ciclo_paridad: number;
     celebraciones_posibles: number[];
-    lecturas: {
-        ref: number;
-        texto: number;
-        type: string; //"FIRSTLECTURE" | "PSALM" | "GOSPEL";
-    }[];
+    lecturas: SingleLectureSchema[];
 };
 
 export type LecturesSchemaOutput = {
@@ -100,12 +107,14 @@ export type LecturesSchemaOutput = {
     fecha_anio_liturgico?: string;
     tiempo_ciclo_paridad?: string;
     celebraciones_posibles: string[];
-    lecturas: {
-        ref: string;
-        texto: string;
-        type: string; //"FIRSTLECTURE" | "PSALM" | "GOSPEL";
-    }[];
+    lecturas: SingleLectureSchemaOutput[];
 };
+
+export type EvangeliumSchemaOutput = {
+    id: string;
+    cycle: string;
+    evangelium_lectiones: SingleLectureSchemaOutput[];
+}
 
 export type IntermediateSchema = {
     id: string;

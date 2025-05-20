@@ -49,3 +49,10 @@ export type LiturgyInformation = {
     color?: Color;
     color_hex?: LiturgicalColors;
 }
+
+export enum LecturesType {
+    FIRSTLECTURE = 'FIRSTLECTURE',
+    PSALM = 'PSALM',
+    SECONDLECTURE = 'SECONDLECTURE',
+    GOSPEL = 'GOSPEL',
+}

@@ -1,5 +1,5 @@
 import {
-    CompletoriumSchemaOutput,
+    CompletoriumSchemaOutput, EvangeliumSchemaOutput,
     IntermediateSchemaOutput,
     InvitatoriumSchemaOutput,
     LaudesSchemaOutput,
@@ -25,6 +25,7 @@ import {finder_intermediate} from "@/prayers/finders/finder_intermediate.ts";
 import {mapper_officium} from "@/prayers/mappers/mapper_officium.ts";
 import {mapper_lectures} from "@/prayers/mappers/mapper_lectures.ts";
 import {mapper_completorium} from "@/prayers/mappers/mapper_completorium.ts";
+import {mapper_evangelium} from "@/prayers/mappers/mapper_evangelium.ts";
 
 
 export class PrayerManager implements PrayerManagerInterface {
@@ -81,8 +82,9 @@ export class PrayerManager implements PrayerManagerInterface {
         return mapper_officium(resultSelected);
     }
 
-    async getEvangelium(date?: Date): Promise<LecturesSchema | undefined> {
-        console.log('Evangelium date:', date);
-        return undefined;
+    async getEvangelium(date?: Date): Promise<EvangeliumSchemaOutput | undefined> {
+        const dayCalendar = await searchDay(date);
+        const resultsSelected: LecturesSchema[] = all_lectures.filter(element => element.id === dayCalendar?.id);
+        return mapper_evangelium(resultsSelected);
     }
 }
