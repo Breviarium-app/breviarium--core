@@ -11,7 +11,6 @@ export function mapper_evangelium(items: LecturesSchema[]): EvangeliumSchemaOutp
 
     const item = items[0];
 
-    console.log("mapper_evangelium prev", item);
     const evangeliums: SingleLectureSchemaOutput[] = []
     item?.lecturas.forEach((lectura:SingleLectureSchema) => {
         if(lectura.type == LecturesType.GOSPEL){
@@ -22,13 +21,10 @@ export function mapper_evangelium(items: LecturesSchema[]): EvangeliumSchemaOutp
             });
         }
     })
-    const result = {
+    return {
         id: item.id,
         cycle: item.cycle,
         evangelium_lectiones: evangeliums
-    }
-
-    console.log("mapper_evangelium post", result);
-    return result;
+    };
 
 }
