@@ -34,7 +34,7 @@
     "@vitest/ui": "^3.0.5",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3",
-    "vite": "^6.0.5",
+    "vite": "6.3.4",
     "vite-plugin-dts": "^2.0.0",
     "vitest": "^3.0.5"
   },
@@ -43,8 +43,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "romcal": "^3.0.0-dev.97",
-    "@romcal/calendar.spain": "^3.0.0-dev.97"
+    "@romcal/calendar.spain": "^3.0.0-dev.97",
+    "romcal": "^3.0.0-dev.97"
   },
   "repository": {
     "type": "git",

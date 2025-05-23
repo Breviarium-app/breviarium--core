@@ -13,7 +13,7 @@ export function mapper_evangelium(items: LecturesSchema[]): EvangeliumSchemaOutp
 
     const evangeliums: SingleLectureSchemaOutput[] = []
     item?.lecturas.forEach((lectura:SingleLectureSchema) => {
-        if(lectura.type == LecturesType.GOSPEL){
+        if(lectura.type == LecturesType.GOSPEL || lectura.type == LecturesType.CELEBRATION_GOSPEL){
             evangeliums.push({
                 ref: findText('lecturas_referencia', lectura.ref),
                 texto: findText('lecturas_texto', lectura.texto),

@@ -20,5 +20,4 @@ test-coverage: ## execute test with coverage
 	@npm run test:coverage
 
 process-and-compress: ## process database and compress texts
-	./process-and-compress.sh
-	python processDB.py
+	./processor/process-and-compress.sh
