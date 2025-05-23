@@ -54,6 +54,11 @@ export type LiturgyInformation = {
     cycle?: string;
     color?: Color;
     color_hex?: LiturgicalColors;
+    celebration?: string;
+    rank?: string;
+    periods?: string[];
+    precedence?: string;
+    seasons?: string[];
 }
 
 export enum LecturesType {

@@ -88,14 +88,16 @@ export default class Breviarium implements BreviariumInterface {
                 psaltery_week: getSalteryWeek(dayCalendar?.cycles.psalterWeek),
                 cycle: getCycle(dayCalendar?.cycles.sundayCycle),
                 color: dayCalendar?.colors[0],
-                color_hex: getHexLiturgicalColor(dayCalendar?.colors[0])
+                color_hex: getHexLiturgicalColor(dayCalendar?.colors[0]),
+                celebration: dayCalendar.name,
+                rank: dayCalendar.rank,
+                seasons: dayCalendar.seasons,
+                precedence: dayCalendar.precedence,
+                periods: dayCalendar.periods
             }
         }
         return {
             psaltery_week: "I",
-            cycle: undefined,
-            color: undefined,
-            color_hex: undefined
         };
     }
 }
