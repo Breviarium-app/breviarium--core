@@ -1,5 +1,3 @@
-import {Color} from "romcal";
-
 export enum LiturgicalSeasons {
     EASTER = "EASTER_TIME",
     CHRISTMAS = "CHRISTMAS_TIME",
@@ -13,7 +11,7 @@ export enum PropertyCerpetualCalendar {
     Calendar = 'calendar',
     Colors = 'colors',
     Rank = 'rank',
-    Precedence ='precedence',
+    Precedence = 'precedence',
     Periods = 'periods',
     Weekday = 'weekday'
 }
@@ -21,7 +19,7 @@ export enum PropertyCerpetualCalendar {
 /**
  * Color string and color hexadecimal code
  */
-export enum LiturgicalColors{
+export enum LiturgicalColors {
     GREEN = "GREEN",
     GREEN_C = "#70b26f",
     PURPLE = "PURPLE",
@@ -36,29 +34,17 @@ export enum LiturgicalColors{
     RED_C = "#ff5654"
 }
 
-export enum SalteryWeek{
+export enum SalteryWeek {
     WEEK_1 = "WEEK_1",
     WEEK_2 = "WEEK_2",
     WEEK_3 = "WEEK_3",
     WEEK_4 = "WEEK_4",
 }
 
-export enum CycleType{
+export enum CycleType {
     YEAR_A = "YEAR_A",
     YEAR_B = "YEAR_B",
     YEAR_C = "YEAR_C",
-}
-
-export type LiturgyInformation = {
-    psaltery_week?: string; // I, II, III, IV
-    cycle?: string;
-    color?: Color;
-    color_hex?: LiturgicalColors;
-    celebration?: string;
-    rank?: string;
-    periods?: string[];
-    precedence?: string;
-    seasons?: string[];
 }
 
 export enum LecturesType {

@@ -1,3 +1,6 @@
+import {Color} from "romcal";
+import {LiturgicalColors} from "@/prayers/types.ts";
+
 export interface PrayerManagerInterface {
     getInvitatorium(date?: Date): Promise<InvitatoriumSchemaOutput | undefined>;
 
@@ -297,4 +300,16 @@ export interface OfficiumSchemaOutput {
     responsorio3: string[];
     responsorio3B: string[];
     oracion_final: string;
+}
+
+export type LiturgyInformation = {
+    psaltery_week?: string; // I, II, III, IV
+    cycle?: string;
+    color?: Color;
+    color_hex?: LiturgicalColors;
+    celebration?: string;
+    rank?: string;
+    periods?: string[];
+    precedence?: string;
+    seasons?: string[];
 }

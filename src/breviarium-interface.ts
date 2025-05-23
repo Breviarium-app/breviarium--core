@@ -1,5 +1,4 @@
-import {PrayerManagerInterface} from "@/prayer-manager-interface.ts";
-import {LiturgyInformation} from "@/prayers/types.ts";
+import {LiturgyInformation, PrayerManagerInterface} from "@/prayer-manager-interface.ts";
 
 export interface BreviariumInterface extends PrayerManagerInterface {
     getCurrentDate(): Date;

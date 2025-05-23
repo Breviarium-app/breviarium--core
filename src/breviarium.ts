@@ -7,12 +7,11 @@ import {
     IntermediateSchemaOutput,
     InvitatoriumSchemaOutput,
     LaudesSchemaOutput,
-    LecturesSchemaOutput,
+    LecturesSchemaOutput, LiturgyInformation,
     OfficiumSchemaOutput,
     VesperaeSchemaOutput
 } from "@/prayer-manager-interface.ts";
 import invitatory_psalms from './prayers/db/es/commons/invitatory_psalms.json'
-import {LiturgyInformation} from "@/prayers/types.ts";
 import {searchDay} from "@/prayers/romcal.ts";
 import {getCycle, getHexLiturgicalColor, getSalteryWeek} from "@/prayers/utils.ts";
 
