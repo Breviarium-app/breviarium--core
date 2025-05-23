@@ -1054,21 +1054,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 443,
                 "texto": 460,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -1094,21 +1079,6 @@
             112
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 370,
                 "texto": 460,
@@ -1167,21 +1137,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 794,
                 "texto": 997,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -1208,21 +1163,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 520,
                 "texto": 650,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -1248,21 +1188,6 @@
             63
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 197,
                 "texto": 246,
@@ -1316,21 +1241,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1878,
                 "texto": 312,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -1361,21 +1271,6 @@
             76
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 251,
                 "texto": 312,
@@ -1496,21 +1391,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 221,
                 "texto": 276,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -1536,21 +1416,6 @@
             74
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 239,
                 "texto": 298,
@@ -1720,21 +1585,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 794,
                 "texto": 997,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -1760,21 +1610,6 @@
             1007
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 896,
                 "texto": 1125,
@@ -1975,23 +1810,7 @@
         "celebraciones_posibles": [
             1436
         ],
-        "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            }
-        ]
+        "lecturas": []
     },
     {
         "id": "benedict_of_nursia_abbot",
@@ -2001,23 +1820,7 @@
         "celebraciones_posibles": [
             1387
         ],
-        "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            }
-        ]
+        "lecturas": []
     },
     {
         "id": "bernard_of_clairvaux_abbot",
@@ -2028,21 +1831,6 @@
             355
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 1063,
                 "texto": 852,
@@ -2070,21 +1858,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 296,
                 "texto": 367,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -2110,21 +1883,6 @@
             40
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 125,
                 "texto": 156,
@@ -2176,23 +1934,7 @@
         "celebraciones_posibles": [
             554
         ],
-        "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            }
-        ]
+        "lecturas": []
     },
     {
         "id": "cecilia_of_rome_virgin",
@@ -2203,21 +1945,6 @@
             1301
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 1024,
                 "texto": 1284,
@@ -2271,21 +1998,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1946,
                 "texto": 2426,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -2311,21 +2023,6 @@
             501
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 614,
                 "texto": 769,
@@ -2538,21 +2235,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1215,
                 "texto": 1418,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -2635,21 +2317,6 @@
             102
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 336,
                 "texto": 418,
@@ -2826,21 +2493,6 @@
             979
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 2042,
                 "texto": 2544,
@@ -4898,21 +4550,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 209,
                 "texto": 261,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -5068,21 +4705,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 197,
                 "texto": 246,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -5109,21 +4731,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1051,
                 "texto": 1317,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -5149,21 +4756,6 @@
             410
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 1230,
                 "texto": 1537,
@@ -5273,21 +4865,6 @@
             901
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 963,
                 "texto": 1208,
@@ -5422,21 +4999,6 @@
             1143
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 271,
                 "texto": 336,
@@ -5982,21 +5544,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1045,
                 "texto": 1310,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -6022,21 +5569,6 @@
             1350
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 913,
                 "texto": 1146,
@@ -6168,21 +5700,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1506,
                 "texto": 1886,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -6208,21 +5725,6 @@
             326
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 975,
                 "texto": 1223,
@@ -6275,21 +5777,6 @@
             45
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 141,
                 "texto": 176,
@@ -6348,21 +5835,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 599,
                 "texto": 750,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -6388,21 +5860,6 @@
             1218
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 245,
                 "texto": 305,
@@ -6456,21 +5913,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1008,
                 "texto": 1264,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -6496,21 +5938,6 @@
             1014
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 1844,
                 "texto": 990,
@@ -6543,21 +5970,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1706,
                 "texto": 2136,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -6583,21 +5995,6 @@
             957
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 523,
                 "texto": 2441,
@@ -6625,21 +6022,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 2042,
                 "texto": 2544,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -6665,21 +6047,6 @@
             1184
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 1844,
                 "texto": 990,
@@ -6742,21 +6109,6 @@
             1320
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 4011,
                 "texto": 5012,
@@ -8122,21 +7474,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1618,
                 "texto": 2029,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -8162,21 +7499,6 @@
             149
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 480,
                 "texto": 599,
@@ -8256,21 +7578,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 895,
                 "texto": 1085,
                 "type": "CELEBRATION_GOSPEL"
@@ -8296,21 +7603,6 @@
             529
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 529,
                 "texto": 298,
@@ -8410,21 +7702,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1385,
                 "texto": 1070,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -8508,21 +7785,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 804,
                 "texto": 1009,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -8579,21 +7841,6 @@
             257
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 785,
                 "texto": 986,
@@ -22873,21 +22120,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1153,
                 "texto": 471,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -22985,21 +22217,6 @@
             598
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 327,
                 "texto": 407,
@@ -23331,21 +22548,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1409,
                 "texto": 1765,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -23371,21 +22573,6 @@
             281
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 844,
                 "texto": 198,
@@ -23763,21 +22950,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1788,
                 "texto": 1264,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -23803,21 +22975,6 @@
             1463
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 645,
                 "texto": 198,
@@ -23845,21 +23002,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 44,
                 "texto": 56,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -23885,21 +23027,6 @@
             116
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 379,
                 "texto": 471,
@@ -23962,21 +23089,6 @@
             1377
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 717,
                 "texto": 124,
@@ -24056,21 +23168,6 @@
             288
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 862,
                 "texto": 1083,
@@ -24163,23 +23260,7 @@
         "celebraciones_posibles": [
             1224
         ],
-        "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            }
-        ]
+        "lecturas": []
     },
     {
         "id": "stephen_the_first_martyr",
@@ -24351,21 +23432,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 280,
                 "texto": 347,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -24423,21 +23489,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 1147,
                 "texto": 387,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -24489,21 +23540,6 @@
             948
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 2146,
                 "texto": 2674,
@@ -24584,21 +23620,6 @@
             676
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 66,
                 "texto": 85,
@@ -24751,21 +23772,6 @@
         ],
         "lecturas": [
             {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
-            {
                 "ref": 489,
                 "texto": 610,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -24791,21 +23797,6 @@
             875
         ],
         "lecturas": [
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "FIRSTLECTURE"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "PSALM"
-            },
-            {
-                "ref": 0,
-                "texto": 0,
-                "type": "GOSPEL"
-            },
             {
                 "ref": 1030,
                 "texto": 418,

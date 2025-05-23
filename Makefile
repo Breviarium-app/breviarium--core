@@ -21,3 +21,4 @@ test-coverage: ## execute test with coverage
 
 process-and-compress: ## process database and compress texts
 	./process-and-compress.sh
+	python processDB.py
