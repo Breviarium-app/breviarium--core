@@ -37,43 +37,43 @@ export default class Breviarium implements BreviariumInterface {
     }
 
     async getInvitatorium(date?: Date): Promise<InvitatoriumSchemaOutput | undefined> {
-        return this.#prayerManager.getInvitatorium(date);
+        return this.#prayerManager.getInvitatorium(date || this.getCurrentDate());
     }
 
     async getLectures(date?: Date): Promise<LecturesSchemaOutput[] | undefined> {
-        return this.#prayerManager.getLectures(date);
+        return this.#prayerManager.getLectures(date || this.getCurrentDate());
     }
 
     async getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined> {
-        return this.#prayerManager.getLaudes(date);
+        return this.#prayerManager.getLaudes(date || this.getCurrentDate());
     }
 
     async getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined> {
-        return this.#prayerManager.getVesperae(date);
+        return this.#prayerManager.getVesperae(date || this.getCurrentDate());
     }
 
     async getOfficium(date?: Date): Promise<OfficiumSchemaOutput | undefined> {
-        return this.#prayerManager.getOfficium(date);
+        return this.#prayerManager.getOfficium(date || this.getCurrentDate());
     }
 
     async getTertia(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
-        return this.#prayerManager.getTertia(date);
+        return this.#prayerManager.getTertia(date || this.getCurrentDate());
     }
 
     async getSexta(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
-        return this.#prayerManager.getSexta(date);
+        return this.#prayerManager.getSexta(date || this.getCurrentDate());
     }
 
     async getNona(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
-        return this.#prayerManager.getNona(date);
+        return this.#prayerManager.getNona(date || this.getCurrentDate());
     }
 
     async getCompletorium(date?: Date): Promise<CompletoriumSchemaOutput | undefined> {
-        return this.#prayerManager.getCompletorium(date);
+        return this.#prayerManager.getCompletorium(date || this.getCurrentDate());
     }
 
     async getEvangelium(date?: Date): Promise<EvangeliumSchemaOutput | undefined> {
-        return this.#prayerManager.getEvangelium(date);
+        return this.#prayerManager.getEvangelium(date || this.getCurrentDate());
     }
 
     async getInvitatoriumPsalms(): Promise<any[]> {
@@ -81,7 +81,7 @@ export default class Breviarium implements BreviariumInterface {
     }
 
     async getLiturgyInformation(date?: Date): Promise<LiturgyInformation> {
-        const dayCalendar = await searchDay(date);
+        const dayCalendar = await searchDay(date || this.getCurrentDate());
 
         if (dayCalendar) {
             return {
