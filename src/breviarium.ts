@@ -7,7 +7,7 @@ import {
     IntermediateSchemaOutput,
     InvitatoriumSchemaOutput,
     LaudesSchemaOutput,
-    LecturesSchemaOutput, LiturgyInformation,
+    LecturesSchemaOutput, LiturgyInformationOutput,
     OfficiumSchemaOutput,
     VesperaeSchemaOutput
 } from "@/prayer-manager-interface.ts";
@@ -79,7 +79,7 @@ export default class Breviarium implements BreviariumInterface {
         return invitatory_psalms;
     }
 
-    async getLiturgyInformation(date?: Date): Promise<LiturgyInformation> {
+    async getLiturgyInformation(date?: Date): Promise<LiturgyInformationOutput> {
         const dayCalendar = await searchDay(date || this.getCurrentDate());
 
         if (dayCalendar) {

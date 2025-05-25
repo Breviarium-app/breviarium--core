@@ -302,7 +302,7 @@ export interface OfficiumSchemaOutput {
     oracion_final: string;
 }
 
-export type LiturgyInformation = {
+export type LiturgyInformationOutput = {
     psaltery_week?: string; // I, II, III, IV
     cycle?: string;
     color?: Color;
