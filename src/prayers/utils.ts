@@ -9,7 +9,7 @@ export function formatDate(date: Date | undefined): string {
 }
 
 export function showTeDeum(rank: string, season: string) {
-    if (season === LiturgicalSeasons.CHRISTMAS) {
+    if (season === LiturgicalSeasons.CHRISTMAS_TIME) {
         return true;
     }
     if (rank === Romcal.Ranks.Solemnity) {

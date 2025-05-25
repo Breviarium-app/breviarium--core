@@ -309,7 +309,12 @@ export type LiturgyInformationOutput = {
     color_hex?: LiturgicalColors;
     celebration?: string;
     rank?: string;
-    periods?: string[];
-    precedence?: string;
     seasons?: string[];
+    precedence?: string;
+    periods?: string[];
+    is_easter: boolean;
+    is_triduum: boolean;
+    is_in_albis: boolean;
+    is_lent: boolean;
+    is_ordinary_time: boolean;
 }
