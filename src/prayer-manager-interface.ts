@@ -312,9 +312,4 @@ export type LiturgyInformationOutput = {
     seasons?: string[];
     precedence?: string;
     periods?: string[];
-    is_easter: boolean;
-    is_triduum: boolean;
-    is_in_albis: boolean;
-    is_lent: boolean;
-    is_ordinary_time: boolean;
 }
