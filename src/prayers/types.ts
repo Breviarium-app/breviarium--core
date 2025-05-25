@@ -7,7 +7,7 @@ export enum LiturgicalSeasons {
     LENT = "LENT"
 }
 
-declare enum LiturgicalPeriods {
+export enum LiturgicalPeriods {
     CHRISTMAS_OCTAVE = "CHRISTMAS_OCTAVE",
     DAYS_BEFORE_EPIPHANY = "DAYS_BEFORE_EPIPHANY",
     DAYS_FROM_EPIPHANY = "DAYS_FROM_EPIPHANY",
