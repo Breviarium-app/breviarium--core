@@ -22,6 +22,9 @@ describe("Romcal module", () => {
             seasons: [
                 "CHRISTMAS_TIME",
             ],
+            calendar: {
+                endOfLiturgycalSeason: "2025-11-29",
+            }
 
         }
 

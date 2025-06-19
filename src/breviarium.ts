@@ -92,7 +92,10 @@ export default class Breviarium implements BreviariumInterface {
                 rank: dayCalendar.rank,
                 seasons: dayCalendar.seasons,
                 precedence: dayCalendar.precedence,
-                periods: dayCalendar.periods
+                periods: dayCalendar.periods,
+                calendar: {
+                    endOfLiturgycalSeason: dayCalendar.calendar.endOfLiturgicalYear
+                }
             }
         }
         return {
