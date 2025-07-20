@@ -1,5 +1,6 @@
 import {
-    CompletoriumSchemaOutput, EvangeliumSchemaOutput,
+    CompletoriumSchemaOutput,
+    EvangeliumSchemaOutput,
     IntermediateSchemaOutput,
     InvitatoriumSchemaOutput,
     LaudesSchemaOutput,
@@ -84,7 +85,21 @@ export class PrayerManager implements PrayerManagerInterface {
 
     async getEvangelium(date?: Date): Promise<EvangeliumSchemaOutput | undefined> {
         const dayCalendar = await searchDay(date);
-        const resultsSelected: LecturesSchema[] = all_lectures.filter(element => element.id === dayCalendar?.id);
-        return mapper_evangelium(resultsSelected);
+        const data: LecturesSchema[] = all_lectures.filter(element => element.id === dayCalendar?.id);
+
+        let result = data?.filter(x => x.cycle == dayCalendar?.cycles.sundayCycle)
+        const isEven: boolean = (Number(dayCalendar?.calendar.endOfLiturgicalYear.split('-')[0]) % 2) == 0;
+
+
+        // if not cycle found, EVEN/ODD or default
+        if (result == undefined || result.length == 0) {
+            if (isEven) {
+                return mapper_evangelium(data?.filter(x => x.cycle == "EVEN")); // TODO: test this case
+            } else {
+                return mapper_evangelium(data?.filter(x => x.cycle == "ODD")); // TODO: test this case
+            }
+        }
+
+        return mapper_evangelium(result);
     }
 }

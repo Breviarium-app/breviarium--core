@@ -76,4 +76,5 @@ describe("Prayer Manager module", () => {
         expect(result.cantico_evangelico_antifona).contains('Sálvanos, Señor, despiertos, protégenos mientras dormimos, para que velemos con Cristo y descansemos en paz');
     });
 
+
 });
