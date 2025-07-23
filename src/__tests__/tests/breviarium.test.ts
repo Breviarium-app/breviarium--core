@@ -151,4 +151,14 @@ describe("Breviarium module", () => {
         expect(result.evangelium_lectiones[0].ref).eq('Lc 10, 38-42: _Marta lo recibió. María ha escogido la parte mejor._')
     });
 
+    it("getEvangelium ANY ok", async () => {
+        const breviarium = new Breviarium();
+
+        const result = await breviarium.getEvangelium(new Date(2025, 6, 23));
+
+        assert(result !== undefined);
+        expect(result.cycle).eq('ANY');
+        expect(result.evangelium_lectiones[0].ref).eq('Jn 15, 1-8: _El que permanece en mí y yo en él, ese da fruto abundante._')
+    });
+
 });

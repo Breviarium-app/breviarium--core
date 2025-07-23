@@ -21,6 +21,7 @@ export function mapper_evangelium(items: LecturesSchema[]): EvangeliumSchemaOutp
             });
         }
     })
+    console.log(items)
     return {
         id: item.id,
         cycle: item.cycle,

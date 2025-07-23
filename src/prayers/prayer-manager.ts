@@ -91,12 +91,17 @@ export class PrayerManager implements PrayerManagerInterface {
         const isEven: boolean = (Number(dayCalendar?.calendar.endOfLiturgicalYear.split('-')[0]) % 2) == 0;
 
 
+        // check if ANY
+        if (result.length == 0) {
+            return mapper_evangelium(data?.filter(x => x.cycle == "ANY"));
+        }
+
         // if not cycle found, EVEN/ODD or default
-        if (result == undefined || result.length == 0) {
+        if (result.length == 0) {
             if (isEven) {
-                return mapper_evangelium(data?.filter(x => x.cycle == "EVEN")); // TODO: test this case
+                return mapper_evangelium(data?.filter(x => x.cycle == "EVEN"));
             } else {
-                return mapper_evangelium(data?.filter(x => x.cycle == "ODD")); // TODO: test this case
+                return mapper_evangelium(data?.filter(x => x.cycle == "ODD"));
             }
         }
 
