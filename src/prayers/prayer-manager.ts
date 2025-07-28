@@ -90,21 +90,19 @@ export class PrayerManager implements PrayerManagerInterface {
         let result = data?.filter(x => x.cycle == dayCalendar?.cycles.sundayCycle)
         const isEven: boolean = (Number(dayCalendar?.calendar.endOfLiturgicalYear.split('-')[0]) % 2) == 0;
 
-
         // check if ANY
         if (result.length == 0) {
-            return mapper_evangelium(data?.filter(x => x.cycle == "ANY"));
+            result = data?.filter(x => x.cycle == "ANY");
         }
 
         // if not cycle found, EVEN/ODD or default
         if (result.length == 0) {
             if (isEven) {
-                return mapper_evangelium(data?.filter(x => x.cycle == "EVEN"));
+                result = data?.filter(x => x.cycle == "EVEN");
             } else {
-                return mapper_evangelium(data?.filter(x => x.cycle == "ODD"));
+                result = (data?.filter(x => x.cycle == "ODD"));
             }
         }
-
         return mapper_evangelium(result);
     }
 }

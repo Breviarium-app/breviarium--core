@@ -161,4 +161,14 @@ describe("Breviarium module", () => {
         expect(result.evangelium_lectiones[0].ref).eq('Jn 15, 1-8: _El que permanece en mí y yo en él, ese da fruto abundante._')
     });
 
+    it("getEvangelium EVEN/ODD", async () => {
+        const breviarium = new Breviarium();
+
+        const result = await breviarium.getEvangelium(new Date(2025, 6, 28));
+        assert(result !== undefined);
+        expect(result.cycle).eq('ODD');
+        expect(result.evangelium_lectiones?.length).to.be.greaterThan(0);
+        expect(result.evangelium_lectiones[0].ref).eq("Mt 13, 31-35: _El grano de mostaza se hace un arbusto, y vienen los pájaros a anidar en sus ramas._");
+    });
+
 });
