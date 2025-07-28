@@ -2,10 +2,10 @@ name: Build project
 
 on:
   pull_request:
-    branches: [main]
-    types: [opened, reopened, closed]
+    branches: [ main ]
+    types: [ opened, reopened, closed ]
   push:
-    branches: [feat/*, feature/*, fix/*, hotfix/*]
+    branches: [ feat/*, feature/*, fix/*, hotfix/* ]
 
 permissions:
   contents: write
@@ -29,3 +29,22 @@ jobs:
 
       - name: Build package 📦
         run: npm run build
+
+      - name: Run tests with coverage
+        run: npm run test:coverage
+
+      - name: Generate coverage badges
+        uses: jpb06/coverage-badges-action@latest
+        with:
+          badges-icon: vitest # Optional: specifies Vitest style for badges
+          branches: main # Generate badges only for main branch
+          target-branch: gh-pages # Push badges to gh-pages branch
+          destination: badges # Folder to store badges
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./badges
+          publish_branch: gh-pages
+          allow_empty_commit: true
