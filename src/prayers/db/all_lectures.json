@@ -7578,11 +7578,6 @@
         ],
         "lecturas": [
             {
-                "ref": 895,
-                "texto": 1085,
-                "type": "CELEBRATION_GOSPEL"
-            },
-            {
                 "ref": 896,
                 "texto": 1125,
                 "type": "CELEBRATION_FIRSTLECTURE"
@@ -7591,6 +7586,10 @@
                 "ref": 160,
                 "texto": 199,
                 "type": "CELEBRATION_PSALM"
+            },{
+                "ref": 895,
+                "texto": 1085,
+                "type": "CELEBRATION_GOSPEL"
             }
         ]
     },
