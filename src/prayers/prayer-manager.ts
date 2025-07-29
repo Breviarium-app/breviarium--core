@@ -90,7 +90,12 @@ export class PrayerManager implements PrayerManagerInterface {
         let result = data?.filter(x => x.cycle == dayCalendar?.cycles.sundayCycle)
         const isEven: boolean = (Number(dayCalendar?.calendar.endOfLiturgicalYear.split('-')[0]) % 2) == 0;
 
-        // check if ANY
+
+        // check if MEMORY
+        if (result.length == 0) {
+            result = data?.filter(x => x.cycle == "MEMORY");
+        }
+
         if (result.length == 0) {
             result = data?.filter(x => x.cycle == "ANY");
         }
@@ -103,6 +108,11 @@ export class PrayerManager implements PrayerManagerInterface {
                 result = (data?.filter(x => x.cycle == "ODD"));
             }
         }
+
+        if (result?.length == 0 && data.length > 0) {
+            result = [data[0]]
+        }
+        console.log("result:", result)
         return mapper_evangelium(result);
     }
 }

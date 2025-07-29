@@ -171,4 +171,12 @@ describe("Breviarium module", () => {
         expect(result.evangelium_lectiones[0].ref).eq("Mt 13, 31-35: _El grano de mostaza se hace un arbusto, y vienen los pájaros a anidar en sus ramas._");
     });
 
+    it("getEvangelium 29/07", async () => {
+        const breviarium = new Breviarium();
+
+        const result = await breviarium.getEvangelium(new Date(2025, 6, 29));
+        assert(result !== undefined);
+        expect(result.cycle).eq('MEMORY');
+    });
+
 });
