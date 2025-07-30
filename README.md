@@ -30,7 +30,32 @@
 
 ## Quickstart setup
 
-> TODO
+1. Install with your prefered package manager
+```shell [npm]
+npm install breviarium
+```
+```shell [pnpm]
+pnpm install breviarium
+```
+```shell [yarn]
+yarn add breviarium
+```
+
+2. Import and use the library to retrieve the desired data (ex: Laudes)
+Usage:
+```ts
+const breviarium = new Breviarium(useDateStore().getCurrentDate);
+
+// get laudes for today
+await breviarium.getLaudes().then((data) => { console.log("laudes data:", data) })
+```
+
+```ts
+const breviarium = new Breviarium(useDateStore().getCurrentDate);
+
+// get laudes for a given date (example for 2025-7-30)
+await breviarium.getLaudes(new Date(2025, 6, 30)).then((data) => { console.log("laudes data:", data) })
+```
 
 ## Function Documentation
 
