@@ -1,0 +1,108 @@
+## Contributing
+
+Like any other open-source projects, there are multiple ways to contribute to this project:
+
+- as a developer, depending on your skills and experience,
+- as a user who enjoys breviarium and wants to help.
+
+##### Reporting Bugs
+
+If you found something broken or not working properly, feel free to create an issue in GitHub with as much information
+as possible, such as logs and how to reproduce the problem. Before opening the issue, make sure that:
+
+- You have read this documentation.
+- You are using the latest version of breviarium.
+- You already searched other issues to see if your problem or request was already reported.
+
+##### Improving the Documentation
+
+Currently, the documentation resides in the [`README.md`](README.md) file, but we plan to move it the GitHub
+Wiki ([#57](https://github.com/romcal/romcal/issues/57)). Therefore currently, you can improve this documentation by
+forking the `breviarium--core` repository, updating the content of [`README.md`](README.md) and creating a pull request.
+
+[//]: # (If you are new to the Git workflow, do check out our)
+
+[//]: # (simple [Contributor’s Guide]&#40;https://github.com/romcal/romcal/wiki/Contributor’s-guide&#41;.)
+
+#### We ❤️ Pull Requests
+
+A pull request does not need to be a fix for a bug or implementing something new. Software can always be improved,
+legacy code removed and tests are always welcome!
+
+Please do not be afraid of contributing code, make sure it follows these rules:
+
+- Your code compiles, does not break any of the existing code in the `main` branch and does not cause conflicts.
+- The code must pass all the tests.
+- The code is readable and has comments, that aren’t superfluous or unnecessary.
+- An overview or context is provided as the description (initial message) of the pull request. It does not need to be
+  too extensive.
+
+Extra points if your code comes with tests!
+
+#### Bootstrapping code!
+
+We leverage `fnm` ([Fast Node Manager](https://github.com/Schniz/fnm)) to standardize our node version usage. You can
+use the same version we use for tests & development
+with 2 simple commands:
+
+```shell
+$ fnm install
+$ fnm use
+```
+
+assuming you have fnm installed, obviously.
+
+Learn more: [fnm](https://github.com/Schniz/fnm)
+Automatic fnm switching: [Configuration](https://github.com/Schniz/fnm)
+
+After that, you just have to install dependencies:
+
+```shell
+$ npm ci
+```
+
+And you're bootstrapped. **Thanks for contributing**!
+
+[//]: # (#### Code Style)
+
+[//]: # ()
+
+[//]: # (We leverage `@typescript-eslint` and `prettier` to enforce code style. You can run the following command to check if)
+
+[//]: # (your code is compliant:)
+
+[//]: # ()
+
+[//]: # (Code style:)
+
+[//]: # ()
+
+[//]: # (```shell)
+
+[//]: # ($ npm run lint)
+
+[//]: # ()
+
+[//]: # (# to fix it)
+
+[//]: # ($ npm run lint:fix)
+
+[//]: # (```)
+
+[//]: # ()
+
+[//]: # (File formatting &#40;Prettier&#41;:)
+
+[//]: # ()
+
+[//]: # (```shell)
+
+[//]: # ($ npm run prettier)
+
+[//]: # ()
+
+[//]: # (# to fix it)
+
+[//]: # ($ npm run prettier:fix)
+
+[//]: # (```)
