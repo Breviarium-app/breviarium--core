@@ -1,0 +1,830 @@
+[
+  {
+    "id": -1,
+    "val": "not applicable"
+  },
+  {
+    "id": 1,
+    "val": "_Apacienta a tu pueblo, Señor._"
+  },
+  {
+    "id": 2,
+    "val": "_Haznos perfectos en la caridad, Señor._"
+  },
+  {
+    "id": 3,
+    "val": "_Salva, Señor, a los que redimiste con tu sangre._"
+  },
+  {
+    "id": 5,
+    "val": "_Te alabamos, Señor, esperamos en ti._"
+  },
+  {
+    "id": 6,
+    "val": "_Ilumínanos, Señor, con tu palabra._"
+  },
+  {
+    "id": 7,
+    "val": "_Autor de la vida, vivifícanos._"
+  },
+  {
+    "id": 8,
+    "val": "_Por tu cruz, sálvanos, Señor._"
+  },
+  {
+    "id": 9,
+    "val": "_El coro de los apóstoles te ensalza, Señor._"
+  },
+  {
+    "id": 10,
+    "val": "_Bendito el que viene en nombre del Señor._"
+  },
+  {
+    "id": 11,
+    "val": "_Escúchanos, Señor, por la gloria de tu nombre._"
+  },
+  {
+    "id": 13,
+    "val": "_Rey amantísimo, ten piedad de nosotros._"
+  },
+  {
+    "id": 14,
+    "val": "_Ven, Señor Jesús._"
+  },
+  {
+    "id": 15,
+    "val": "_Quédate con nosotros, Señor._"
+  },
+  {
+    "id": 16,
+    "val": "_Cristo, pan de las almas y salvación de los hombres, fortalece nuestra debilidad._"
+  },
+  {
+    "id": 17,
+    "val": "_Por tu victoria, sálvanos, Señor._"
+  },
+  {
+    "id": 18,
+    "val": "_Guárdanos, Señor, en tu camino._"
+  },
+  {
+    "id": 20,
+    "val": "_Señor, colma de bienes a tu Iglesia._"
+  },
+  {
+    "id": 21,
+    "val": "_Ilumínanos, Señor, con la claridad de Jesucristo._"
+  },
+  {
+    "id": 23,
+    "val": "_Señor, nuestro Dios y nuestro Salvador._"
+  },
+  {
+    "id": 24,
+    "val": "_Ayúdanos, Señor, con tu gracia._"
+  },
+  {
+    "id": 25,
+    "val": "_Mira, Señor, a tu Iglesia._"
+  },
+  {
+    "id": 26,
+    "val": "_Acuérdate, Señor, de tu pueblo._"
+  },
+  {
+    "id": 27,
+    "val": "_Que se goce la tierra, Señor, con tu venida._"
+  },
+  {
+    "id": 28,
+    "val": "_Confirma a tu Iglesia en la fe y en la caridad._"
+  },
+  {
+    "id": 29,
+    "val": "_Mira a la Madre de tu Hijo y escúchanos._"
+  },
+  {
+    "id": 30,
+    "val": "_Señor, ten piedad de nosotros._"
+  },
+  {
+    "id": 31,
+    "val": "_Nos has comprado, Señor, con tu sangre._"
+  },
+  {
+    "id": 32,
+    "val": "_Santifica a tus hermanos, Señor._"
+  },
+  {
+    "id": 33,
+    "val": "_Cristo, Rey de la gloria, sé nuestra luz y nuestro gozo._"
+  },
+  {
+    "id": 34,
+    "val": "_Escucha, Señor, y ten piedad._"
+  },
+  {
+    "id": 35,
+    "val": "_Tú solo eres santo, Señor._"
+  },
+  {
+    "id": 37,
+    "val": "_Cristo, vida nuestra, sálvanos._"
+  },
+  {
+    "id": 38,
+    "val": "_Concédenos, Señor, los tesoros de tu amor._"
+  },
+  {
+    "id": 42,
+    "val": "_Guíanos por tus senderos, Señor._"
+  },
+  {
+    "id": 45,
+    "val": "_Hijo de la Virgen María, ten piedad de nosotros._"
+  },
+  {
+    "id": 46,
+    "val": "_Sálvanos, Señor, por la intercesión de los santos._"
+  },
+  {
+    "id": 48,
+    "val": "_¡Oh Señor, vida y salvación nuestra!_"
+  },
+  {
+    "id": 50,
+    "val": "_Ilumínanos, Señor, con la claridad de Cristo._"
+  },
+  {
+    "id": 56,
+    "val": "_Tu luz, Señor, nos haga ver la luz._"
+  },
+  {
+    "id": 58,
+    "val": "_Que tu palabra, Señor, sea luz para nuestros pasos._"
+  },
+  {
+    "id": 63,
+    "val": "_Ilumina nuestros ojos, Señor._"
+  },
+  {
+    "id": 64,
+    "val": "_Que tu Madre, Señor, interceda por nosotros._"
+  },
+  {
+    "id": 65,
+    "val": "_Bendecid al Señor, ángeles suyos._"
+  },
+  {
+    "id": 67,
+    "val": "_Jesús, corona de las vírgenes, escúchanos._"
+  },
+  {
+    "id": 68,
+    "val": "_Renuévanos Señor, por tu Espíritu Santo._"
+  },
+  {
+    "id": 69,
+    "val": "_Acuérdate, Señor, de tu Iglesia._"
+  },
+  {
+    "id": 74,
+    "val": "_Señor Jesucristo, danos tu Espíritu._"
+  },
+  {
+    "id": 77,
+    "val": "_Escúchanos, Señor._"
+  },
+  {
+    "id": 85,
+    "val": "_Te alabamos, Señor, y confiamos en ti._"
+  },
+  {
+    "id": 86,
+    "val": "_Infúndenos, Señor, un espíritu nuevo._"
+  },
+  {
+    "id": 88,
+    "val": "_Concede, Señor, la paz a todos los hombres._"
+  },
+  {
+    "id": 89,
+    "val": "_Concédenos, Señor, tu misericordia._"
+  },
+  {
+    "id": 91,
+    "val": "_Que tu resurrección, Señor, nos haga crecer en gracia._"
+  },
+  {
+    "id": 95,
+    "val": "_Señor Jesús, tú que quisiste ser obediente, santifícanos._"
+  },
+  {
+    "id": 97,
+    "val": "_Vivifícanos, Señor, con tu Espíritu Santo._"
+  },
+  {
+    "id": 101,
+    "val": "_Gloria a ti, Señor, por los siglos._"
+  },
+  {
+    "id": 102,
+    "val": "_Luz de luz, ilumina nuestro día._"
+  },
+  {
+    "id": 105,
+    "val": "_Que el Señor Jesús sea nuestra vida._"
+  },
+  {
+    "id": 106,
+    "val": "_Concédenos, Señor, tu Espíritu._"
+  },
+  {
+    "id": 107,
+    "val": "_Dichoso el que coma en el banquete de tu reino, Señor._"
+  },
+  {
+    "id": 110,
+    "val": "_Glorificado sea tu nombre, Señor._"
+  },
+  {
+    "id": 112,
+    "val": "_Tú eres el Rey de la gloria, Cristo._"
+  },
+  {
+    "id": 114,
+    "val": "_Tú que has muerto por nosotros, escúchanos, Señor._"
+  },
+  {
+    "id": 118,
+    "val": "_Nuestra paz, Señor, es cumplir tu voluntad._"
+  },
+  {
+    "id": 120,
+    "val": "_Bendícenos y santifícanos, Señor._"
+  },
+  {
+    "id": 122,
+    "val": "_Señor, danos paz y alegría._"
+  },
+  {
+    "id": 123,
+    "val": "_Haz que te glorifiquemos, Señor._"
+  },
+  {
+    "id": 124,
+    "val": "_Quédate con nosotros, Oh Emmanuel._"
+  },
+  {
+    "id": 126,
+    "val": "_Señor, Jesús, santifícanos en el Espíritu._"
+  },
+  {
+    "id": 136,
+    "val": "_Muéstranos, Señor, tu misericordia._"
+  },
+  {
+    "id": 139,
+    "val": "_Ven, Señor, en nuestra ayuda y sálvanos._"
+  },
+  {
+    "id": 141,
+    "val": "_Ilumínanos, Señor, con la luz de Cristo._"
+  },
+  {
+    "id": 142,
+    "val": "_Ilumina, Señor, a tu pueblo._"
+  },
+  {
+    "id": 150,
+    "val": "_Señor, danos tu Espíritu._"
+  },
+  {
+    "id": 152,
+    "val": "_Renuévanos con tu gracia, Señor._"
+  },
+  {
+    "id": 158,
+    "val": "_Quédate junto a nosotros, Señor._"
+  },
+  {
+    "id": 160,
+    "val": "_Señor, ten piedad._"
+  },
+  {
+    "id": 165,
+    "val": "_Salva, Señor, a nuestro pueblo._"
+  },
+  {
+    "id": 167,
+    "val": "_Guarda a tu pueblo, Señor._"
+  },
+  {
+    "id": 169,
+    "val": "_Danos, Señor, tu Espíritu Santo._"
+  },
+  {
+    "id": 171,
+    "val": "_Hijo amado de Dios, escucha nuestra oración._"
+  },
+  {
+    "id": 180,
+    "val": "_Visítanos, Sol que naces de lo alto._"
+  },
+  {
+    "id": 184,
+    "val": "_Que la palabra de Cristo habite en nosotros con toda su riqueza._"
+  },
+  {
+    "id": 188,
+    "val": "_Consérvanos en tu servicio, Señor._"
+  },
+  {
+    "id": 197,
+    "val": "_Rey de la gloria, escúchanos._"
+  },
+  {
+    "id": 200,
+    "val": "_Quédate, con nosotros, Señor._"
+  },
+  {
+    "id": 226,
+    "val": "_Interceda por nosotros la santa Madre de Dios._"
+  },
+  {
+    "id": 232,
+    "val": "_Gloria al Padre, y al Hijo, y al Espíritu Santo._"
+  },
+  {
+    "id": 244,
+    "val": "_Concédenos, Señor, los frutos de tu resurrección._"
+  },
+  {
+    "id": 277,
+    "val": "_Cristo, óyenos._"
+  },
+  {
+    "id": 315,
+    "val": "_Danos vida con tu justicia, Señor._"
+  },
+  {
+    "id": 383,
+    "val": "_Gloria a ti, Señor Jesús._"
+  },
+  {
+    "id": 386,
+    "val": "_Ésta es la casa de Dios y la puerta del cielo._"
+  },
+  {
+    "id": 387,
+    "val": "_Bendito seas, Señor._"
+  },
+  {
+    "id": 412,
+    "val": "_Ilumina, Señor, nuestras mentes._"
+  },
+  {
+    "id": 417,
+    "val": "_Por tu nacimiento, líbranos, Señor, de todo mal._"
+  },
+  {
+    "id": 422,
+    "val": "_Renueva, Señor, la faz de la tierra._"
+  },
+  {
+    "id": 465,
+    "val": "_Señor, óyenos._"
+  },
+  {
+    "id": 479,
+    "val": "_Te adoramos, Hijo unigénito de Dios._"
+  },
+  {
+    "id": 492,
+    "val": "_Venga a nosotros tu Reino, Señor._"
+  },
+  {
+    "id": 493,
+    "val": "_Que nuestros ojos, Señor, vean tu salvación._"
+  },
+  {
+    "id": 513,
+    "val": "_Enciende, Señor, en nosotros la llama de tu amor._"
+  },
+  {
+    "id": 523,
+    "val": "_Padre nuestro, escucha la voz de tus hijos._"
+  },
+  {
+    "id": 540,
+    "val": "_Luz de luz, ilumínanos._"
+  },
+  {
+    "id": 555,
+    "val": "_Renuévanos por tu nacimiento._"
+  },
+  {
+    "id": 572,
+    "val": "_Señor, danos la vida en Cristo._"
+  },
+  {
+    "id": 601,
+    "val": "_Te ensalza, Señor, el blanco ejército de los mártires._"
+  },
+  {
+    "id": 607,
+    "val": "_Acuérdate, Señor, de que somos hijos tuyos._"
+  },
+  {
+    "id": 633,
+    "val": "_Que tu nacimiento, Señor, nos salve._"
+  },
+  {
+    "id": 796,
+    "val": "_Gloria a Dios en el cielo._"
+  },
+  {
+    "id": 1000,
+    "val": "_Venga a nosotros tu reino, Señor._"
+  },
+  {
+    "id": 1097,
+    "val": "_Salva a tu pueblo, Señor._"
+  },
+  {
+    "id": 1098,
+    "val": "_Muéstranos, Señor, tu amor._"
+  },
+  {
+    "id": 1099,
+    "val": "_Señor, ten piedad de tu pueblo._"
+  },
+  {
+    "id": 1101,
+    "val": "_Escúchanos, Dios nuestro._"
+  },
+  {
+    "id": 1102,
+    "val": "_Escucha a tu pueblo, Señor._"
+  },
+  {
+    "id": 1103,
+    "val": "_Señor Jesús, tú que siempre vives para interceder por nosotros, escúchanos._"
+  },
+  {
+    "id": 1104,
+    "val": "_Por tu cruz, llévanos a tu reino._"
+  },
+  {
+    "id": 1105,
+    "val": "_¡Ven, Señor, y no tardes más!_"
+  },
+  {
+    "id": 1106,
+    "val": "_Santifica, Señor, al pueblo que redimiste con tu sangre._"
+  },
+  {
+    "id": 1107,
+    "val": "_Señor, escúchanos._"
+  },
+  {
+    "id": 1111,
+    "val": "_Multiplica la gracia y la paz, Señor._"
+  },
+  {
+    "id": 1112,
+    "val": "_Oh Señor, escucha y ten piedad._"
+  },
+  {
+    "id": 1113,
+    "val": "_Oh Cristo, siempre vivo para interceder por los hombres, escucha nuestra oración._"
+  },
+  {
+    "id": 1114,
+    "val": "_Protege a tu pueblo, Señor._"
+  },
+  {
+    "id": 1116,
+    "val": "_Señor, ven en ayuda de tu pueblo._"
+  },
+  {
+    "id": 1117,
+    "val": "_Hijo de Dios vivo, bendice a tu pueblo._"
+  },
+  {
+    "id": 1119,
+    "val": "_Por el honor de tu nombre, escúchanos, Señor._"
+  },
+  {
+    "id": 1120,
+    "val": "_Renueva, Señor, a tu pueblo._"
+  },
+  {
+    "id": 1121,
+    "val": "_Que tu pueblo te alabe, Señor._"
+  },
+  {
+    "id": 1122,
+    "val": "_Tú eres la esperanza de tu pueblo, Señor._"
+  },
+  {
+    "id": 1123,
+    "val": "_Que tu nacimiento, Señor, traiga la paz a todos los hombres._"
+  },
+  {
+    "id": 1125,
+    "val": "_Míranos y escúchanos, Señor._"
+  },
+  {
+    "id": 1127,
+    "val": "_Te glorificamos, Señor._"
+  },
+  {
+    "id": 1128,
+    "val": "_Muestra, Señor, tu caridad._"
+  },
+  {
+    "id": 1129,
+    "val": "_Acuérdate de tu pueblo, Señor._"
+  },
+  {
+    "id": 1131,
+    "val": "_Seamos santos, porque tú, Señor, eres Santo._"
+  },
+  {
+    "id": 1133,
+    "val": "_Cristo, Rey victorioso, escucha nuestra oración._"
+  },
+  {
+    "id": 1134,
+    "val": "_Escúchanos, Señor, que confiamos en ti._"
+  },
+  {
+    "id": 1138,
+    "val": "_Derrama, Señor, tu gracia, sobre nosotros._"
+  },
+  {
+    "id": 1141,
+    "val": "_Hijo de La Virgen María, escúchanos._"
+  },
+  {
+    "id": 1145,
+    "val": "_Que la llena de gracia interceda por nosotros._"
+  },
+  {
+    "id": 1146,
+    "val": "_Por la victoria de Cristo, salva, Señor, a tus redimidos._"
+  },
+  {
+    "id": 1152,
+    "val": "_¡Dios nuestro, alumbra nuestras tinieblas!_"
+  },
+  {
+    "id": 1154,
+    "val": "_Acrecienta, Señor, la caridad de tu Iglesia._"
+  },
+  {
+    "id": 1161,
+    "val": "_Con los ángeles, cantamos el himno de tu gloria._"
+  },
+  {
+    "id": 1163,
+    "val": "_Jesús, rey de las vírgenes, escúchanos._"
+  },
+  {
+    "id": 1164,
+    "val": "_Venga a nosotros, Señor, tu reino y su justicia._"
+  },
+  {
+    "id": 1165,
+    "val": "_Que la gracia de tu Hijo nos acompañe, Señor._"
+  },
+  {
+    "id": 1168,
+    "val": "_Jesús, Hijo de David, compadécete de nosotros._"
+  },
+  {
+    "id": 1173,
+    "val": "_Concédenos, Señor, la salud y la paz._"
+  },
+  {
+    "id": 1179,
+    "val": "_Bendice a tu pueblo, Señor._"
+  },
+  {
+    "id": 1181,
+    "val": "_Escucha, Señor, nuestra oración._"
+  },
+  {
+    "id": 1182,
+    "val": "_Señor, ten piedad de tu pueblo._"
+  },
+  {
+    "id": 1184,
+    "val": "_Dios de misericordia, ten piedad de nosotros._"
+  },
+  {
+    "id": 1187,
+    "val": "_Hijo de Dios vivo, protege a tu pueblo._"
+  },
+  {
+    "id": 1191,
+    "val": "_Tú eres, Señor, el modelo y el salvador de los hombres._"
+  },
+  {
+    "id": 1193,
+    "val": "_Instaura, Señor, tu reino en el mundo._"
+  },
+  {
+    "id": 1194,
+    "val": "_Acuérdate, Señor, de tu pueblo._"
+  },
+  {
+    "id": 1195,
+    "val": "_Ven, Señor, y sálvanos._"
+  },
+  {
+    "id": 1197,
+    "val": "_Señor, refugio nuestro, escúchanos._"
+  },
+  {
+    "id": 1198,
+    "val": "_Salva, Señor, la vida de los pobres._"
+  },
+  {
+    "id": 1201,
+    "val": "_Rey de la gloria escúchanos._"
+  },
+  {
+    "id": 1202,
+    "val": "_Trata con bondad a tu pueblo, Señor._"
+  },
+  {
+    "id": 1203,
+    "val": "_Cristo, pan celestial, danos la vida eterna._"
+  },
+  {
+    "id": 1206,
+    "val": "_Favorécenos, Señor, por tu bondad._"
+  },
+  {
+    "id": 1210,
+    "val": "_Compadécete, Señor, de tu pueblo._"
+  },
+  {
+    "id": 1216,
+    "val": "_Mira a tus hijos, Señor._"
+  },
+  {
+    "id": 1218,
+    "val": "_Tú que vives eternamente, escúchanos, Señor._"
+  },
+  {
+    "id": 1219,
+    "val": "_Atrae a todos hacia ti, Señor._"
+  },
+  {
+    "id": 1220,
+    "val": "_Que tu nacimiento llene de gozo al mundo entero._"
+  },
+  {
+    "id": 1222,
+    "val": "_Envía tu Espíritu, Señor, y renueva el mundo._"
+  },
+  {
+    "id": 1232,
+    "val": "_Ven, Señor, y quédate con nosotros._"
+  },
+  {
+    "id": 1235,
+    "val": "_Que la gracia del Espíritu Santo abunde, Señor, en el mundo._"
+  },
+  {
+    "id": 1237,
+    "val": "_Guarda, Señor, a tu pueblo, por la gloria de Cristo._"
+  },
+  {
+    "id": 1238,
+    "val": "_Renueva, Señor, las maravillas de tu amor._"
+  },
+  {
+    "id": 1243,
+    "val": "_Manifiesta, Señor, tu gloria a los hombres._"
+  },
+  {
+    "id": 1246,
+    "val": "_Levanta, Señor, la esperanza de tu Iglesia._"
+  },
+  {
+    "id": 1248,
+    "val": "_Salva, Señor, a los que has redimido._"
+  },
+  {
+    "id": 1256,
+    "val": "_Envía, Señor, tu Espíritu sobre nosotros._"
+  },
+  {
+    "id": 1265,
+    "val": "_Bendice, Señor, a tu pueblo._"
+  },
+  {
+    "id": 1276,
+    "val": "_Guía, Señor, nuestros pasos por el camino de la paz._"
+  },
+  {
+    "id": 1280,
+    "val": "_Atrae, Señor, a todos los hombres hacia ti._"
+  },
+  {
+    "id": 1284,
+    "val": "_Atiende, Señor, los deseos de tu pueblo._"
+  },
+  {
+    "id": 1291,
+    "val": "_Líbranos, Señor, de todo mal._"
+  },
+  {
+    "id": 1293,
+    "val": "_Alégrense todos los que esperan en ti, Señor._"
+  },
+  {
+    "id": 1296,
+    "val": "_Tú que has resucitado de entre los muertos, escucha, Señor, nuestra oración._"
+  },
+  {
+    "id": 1319,
+    "val": "_Ven, Señor, Jesús._"
+  },
+  {
+    "id": 1327,
+    "val": "_Renueva y da vida a todas las cosas, Señor._"
+  },
+  {
+    "id": 1343,
+    "val": "_Tú, Señor, eres nuestra vida y nuestra resurrección._"
+  },
+  {
+    "id": 1355,
+    "val": "_Cristo, vida nuestra, escúchanos._"
+  },
+  {
+    "id": 1411,
+    "val": "_Padre nuestro, que estás en los cielos, escúchanos._"
+  },
+  {
+    "id": 1418,
+    "val": "_Por tu nacimiento, socorre, Señor, a quienes has redimido._"
+  },
+  {
+    "id": 1454,
+    "val": "_Que tu gracia, Señor, nos acompañe siempre._"
+  },
+  {
+    "id": 1513,
+    "val": "_Escucha a tus hijos, Padre santo._"
+  },
+  {
+    "id": 1518,
+    "val": "_Envía, Señor, a la Iglesia tu Espíritu Santo._"
+  },
+  {
+    "id": 1529,
+    "val": "_Te rogamos, óyenos._"
+  },
+  {
+    "id": 1540,
+    "val": "_Concede, Señor, tu paz a todos los hombres._"
+  },
+  {
+    "id": 1561,
+    "val": "_Escúchanos, Señor, te suplicamos con fe._"
+  },
+  {
+    "id": 1609,
+    "val": "_Atiende, Señor, a tu Iglesia._"
+  },
+  {
+    "id": 1636,
+    "val": "_Ilumina a tu pueblo, Señor._"
+  },
+  {
+    "id": 1637,
+    "val": "_Por la muerte de tu Hijo, escúchanos, Señor._"
+  },
+  {
+    "id": 1645,
+    "val": "_Oh Cristo, sol que naces de lo alto, ilumínanos con tu luz._"
+  },
+  {
+    "id": 1699,
+    "val": "_Ten piedad de tu pueblo, Señor._"
+  },
+  {
+    "id": 1703,
+    "val": "_Renueva, Señor, al pueblo redimido por Cristo._"
+  },
+  {
+    "id": 1773,
+    "val": "_Virgen del Pilar, intercede por nosotros._"
+  }
+]
