@@ -3,7 +3,6 @@ import {findText} from "@/prayers/mappers/findText";
 
 export function mapper_officium(item: OfficiumSchema | any): OfficiumSchemaOutput | undefined {
 
-    console.log("!!!! item", item)
     const result = {
         "id": item.id,
         "cycle": item.cycle,
@@ -42,20 +41,6 @@ export function mapper_officium(item: OfficiumSchema | any): OfficiumSchemaOutpu
         "responsorio3_a": item.resp_3_a.map((id: any) => findText('responsorios', id)),
         "responsorio3_i": item.resp_3_i.map((id: any) => findText('responsorios', id)),
         "responsorio3_p": item.resp_3_p.map((id: any) => findText('responsorios', id)),
-        //
-        // "responsorio1": item.responsorio1.map((id: any) => findText('responsorios', id)),
-        // "lectura_biblica_titulo": Array.isArray(item.lb_tit) ? item.lb_tit.map((id: any) => findText('oficio_titulos', id)) : findText('oficio_titulos', item.lb_tit),
-        // "lectura_biblica_cita": Array.isArray(item.lb_c) ? item.lb_c.map((id: any) => findText('oficio_citas', id)) : findText('oficio_citas', item.lb_c),
-        // "lectura_biblica_texto": Array.isArray(item.lb_texto) ? item.lb_texto.map((id: any) => findText('oficio_textos', id)) : findText('oficio_textos', item.lb_texto),
-        // "responsorio2": item.responsorio2.map((id: any) => findText('responsorios', id)),
-        // "responsorio2B": item.responsorio2B.map((id: any) => findText('responsorios', id)),
-        // "lectura_patristica_titulo": Array.isArray(item.lp_tit) ? item.lp_tit.map((id: any) => findText('oficio_titulos', id)) : findText('oficio_titulos', item.lp_tit),
-        // "lectura_patristica_cita": Array.isArray(item.lp_c) ? item.lp_c.map((id: any) => findText('oficio_citas', id)) : findText('oficio_citas', item.lp_c),
-        // "lectura_patristica_texto": Array.isArray(item.lp_texto) ? item.lp_texto.map((id: any) => findText('oficio_textos', id)) : findText('oficio_textos', item.lp_texto),
-        // "responsorio3": item.responsorio3.map((id: any) => findText('responsorios', id)),
-        // "responsorio3B": item.responsorio3B.map((id: any) => findText('responsorios', id)),
-
-        // fin
         "oracion_final": findText('oraciones_finales', item.o_final),
     }
     return result;

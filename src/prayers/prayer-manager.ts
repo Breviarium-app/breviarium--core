@@ -112,7 +112,6 @@ export class PrayerManager implements PrayerManagerInterface {
         if (result?.length == 0 && data.length > 0) {
             result = [data[0]]
         }
-        console.log("result:", result)
         return mapper_evangelium(result);
     }
 }

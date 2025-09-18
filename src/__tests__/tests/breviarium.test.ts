@@ -145,7 +145,6 @@ describe("Breviarium module", () => {
 
         const result = await breviarium.getEvangelium(new Date(2025, 6, 20));
 
-        console.log(result)
         assert(result !== undefined);
         expect(result.cycle).eq('YEAR_C');
         expect(result.evangelium_lectiones[0].ref).eq('Lc 10, 38-42: _Marta lo recibió. María ha escogido la parte mejor._')

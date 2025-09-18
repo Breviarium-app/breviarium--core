@@ -3,8 +3,6 @@ import {findText} from "@/prayers/mappers/findText";
 
 export function mapper_laudes(item: any): LaudesSchemaOutput | undefined {
 
-    console.log("prev", item);
-
     const result = {
         "id": item?.id,
         "cycle": item?.cycle,
@@ -21,11 +19,11 @@ export function mapper_laudes(item: any): LaudesSchemaOutput | undefined {
         "tercer_salmo_texto": findText('salmos_textos', item.s3_t),
         "lectura_biblica_cita": findText('lectura_breve_citas', item.lb_c),
         "lectura_biblica": findText('lectura_breve_textos', item.lb_t),
-        "responsorios": item.responsorios.map((id:any) => findText('responsorios', id)),
+        "responsorios": item.responsorios.map((id: any) => findText('responsorios', id)),
         "cantico_evangelico_antifona": findText('cantico_evangelico_antifonas', item.ce_a),
         "preces_intro": findText('preces_intro', item.preces_i),
         "preces_respuesta": findText('preces_respuesta', item.preces_r),
-        "preces_contenido": item.preces_c.map((id:any) => findText('preces_contenido', id)),
+        "preces_contenido": item.preces_c.map((id: any) => findText('preces_contenido', id)),
         "invitacion_padrenuestro": findText('invitacion_padrenuestro', item.invi_pn),
         "oracion_final": findText('oraciones_finales', item.o_final),
     }
