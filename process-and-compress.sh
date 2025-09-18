@@ -44,4 +44,35 @@ find . -type f -exec sed -i '' 's/"lectura_biblica_texto"/"lb_texto"/g' {} +
 find . -type f -exec sed -i '' 's/"lectura_patristica_titulo"/"lp_tit"/g' {} +
 find . -type f -exec sed -i '' 's/"lectura_patristica_cita"/"lp_cita"/g' {} +
 find . -type f -exec sed -i '' 's/"lectura_patristica_texto"/"lp_texto"/g' {} +
+
+find . -type f -exec sed -i '' 's/"lectura_biblica_titulo_a"/"lb_tit_a"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_biblica_titulo_i"/"lb_tit_i"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_biblica_titulo_p"/"lb_tit_p"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_biblica_cita_a"/"lb_cita_a"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_biblica_cita_i"/"lb_cita_i"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_biblica_cita_p"/"lb_cita_p"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_biblica_texto_a"/"lb_texto_a"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_biblica_texto_i"/"lb_texto_i"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_biblica_texto_p"/"lb_texto_p"/g' {} +
+
+find . -type f -exec sed -i '' 's/"lectura_patristica_titulo_a"/"lp_tit_a"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_patristica_titulo_i"/"lp_tit_i"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_patristica_titulo_p"/"lp_tit_p"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_patristica_cita_a"/"lp_cita_a"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_patristica_cita_i"/"lp_cita_i"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_patristica_cita_p"/"lp_cita_p"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_patristica_texto_a"/"lp_texto_a"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_patristica_texto_i"/"lp_texto_i"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_patristica_texto_p"/"lp_texto_p"/g' {} +
+
+echo "lectura_biblica, lectura_patristica compressed 🗜️"
+
+find . -type f -exec sed -i '' 's/"responsorio1"/"resp_1"/g' {} +
+find . -type f -exec sed -i '' 's/"responsorio2_a"/"resp_2_a"/g' {} +
+find . -type f -exec sed -i '' 's/"responsorio2_i"/"resp_2_i"/g' {} +
+find . -type f -exec sed -i '' 's/"responsorio2_p"/"resp_2_p"/g' {} +
+find . -type f -exec sed -i '' 's/"responsorio3_a"/"resp_3_a"/g' {} +
+find . -type f -exec sed -i '' 's/"responsorio3_i"/"resp_3_i"/g' {} +
+find . -type f -exec sed -i '' 's/"responsorio3_p"/"resp_3_p"/g' {} +
+
 echo "lectura_biblica, lectura_patristica compressed 🗜️"

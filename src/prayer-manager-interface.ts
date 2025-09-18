@@ -265,9 +265,9 @@ export interface OfficiumSchema {
     lb_tit_a: string;
     lb_tit_i: string;
     lb_tit_p: string;
-    lb_c_a: string;
-    lb_c_i: string;
-    lb_c_p: string;
+    lb_cita_a: string;
+    lb_cita_i: string;
+    lb_cita_p: string;
     lb_texto_a: string;
     lb_texto_i: string;
     lb_texto_p: string;
