@@ -42,6 +42,6 @@ echo "preces, cantico_evangelico, preces, oracion_final compressed 🗜️"
 find . -type f -exec sed -i '' 's/"lectura_biblica_titulo"/"lb_tit"/g' {} +
 find . -type f -exec sed -i '' 's/"lectura_biblica_texto"/"lb_texto"/g' {} +
 find . -type f -exec sed -i '' 's/"lectura_patristica_titulo"/"lp_tit"/g' {} +
-find . -type f -exec sed -i '' 's/"lectura_patristica_cita"/"lp_c"/g' {} +
+find . -type f -exec sed -i '' 's/"lectura_patristica_cita"/"lp_cita"/g' {} +
 find . -type f -exec sed -i '' 's/"lectura_patristica_texto"/"lp_texto"/g' {} +
 echo "lectura_biblica, lectura_patristica compressed 🗜️"

@@ -1,5 +1,13 @@
 [
   {
+    "id": -1,
+    "val": "not applicable"
+  },
+  {
+    "id": 1,
+    "val": "_Cuando salga el sol, veréis al Rey de reyes, que viene del Padre, como el esposo sale de su cámara nupcial._"
+  },
+  {
     "id": 5,
     "val": "_Sálvanos, Señor, despiertos, protégenos mientras dormimos, para que velemos con Cristo y descansemos en paz._"
   },
@@ -93,7 +101,7 @@
   },
   {
     "id": 33,
-    "val": "_Gloria a Dios en el Cielo y en la tierra paz a los hombres que ama el Señor. Aleluya._"
+    "val": "_Gloria a Dios en el cielo y en la tierra paz a los hombres que ama el Señor. Aleluya._"
   },
   {
     "id": 34,
@@ -337,11 +345,11 @@
   },
   {
     "id": 120,
-    "val": "_«Maestro, ¿cuál es el mandamiento principal de la ley?» Jesús le dijo: «Amaras al Señor, tu Dios, con todo tu corazón.»_"
+    "val": "_«Maestro, ¿cuál es el mandamiento principal de la ley?» Jesús le dijo: «Amarás al Señor, tu Dios, con todo tu corazón.»_"
   },
   {
     "id": 122,
-    "val": "_Lázaro, nuestro amigo, está dormido: voy a despertarle._"
+    "val": "_Lázaro, nuestro amigo, está dormido: voy a despertarlo._"
   },
   {
     "id": 123,
@@ -409,7 +417,7 @@
   },
   {
     "id": 152,
-    "val": "_«El que permanece en mí y yo en él, ése da fruto abundante», dice el Señor Aleluya._"
+    "val": "_«El que permanece en mí y yo en él, ése da fruto abundante», dice el Señor. Aleluya._"
   },
   {
     "id": 153,
@@ -1013,7 +1021,7 @@
   },
   {
     "id": 550,
-    "val": "_Dichosos los perseguidos por causa de la justicia, pues de ellos es el reino de los cielos. Aleluya._"
+    "val": "$Fuera del tiempo pascual:$\n_Dichosos los perseguidos por causa de la justicia, pues de ellos es el reino de los cielos._\n$Tiempo pascual:$\n_Estad alegres y contentos, santos de Dios, porque vuestra recompensa es grande en el cielo. Aleluya._"
   },
   {
     "id": 552,
@@ -1137,7 +1145,7 @@
   },
   {
     "id": 671,
-    "val": "_La semilla es la palabra de Dios, el sembrador es Cristo; todo el que lo escucha vivirá para siempre._"
+    "val": "_La semilla es la Palabra de Dios, el sembrador es Cristo; todo el que lo escucha vivirá para siempre._"
   },
   {
     "id": 680,
@@ -1241,7 +1249,7 @@
   },
   {
     "id": 899,
-    "val": "_El que se aborrece a sí mismo en este mundo se guardará para la vida eterna. Aleluya._"
+    "val": "_El que se aborrece a sí mismo en este mundo se guardará para la vida eterna. $(Tiempo pascual:$ Aleluya.$)$_"
   },
   {
     "id": 902,
@@ -1333,7 +1341,7 @@
   },
   {
     "id": 1103,
-    "val": "_Éste es el criado fiel y solícito a quien el Señor ha puesto al frente de su servidumbre para que les reparta la ración a sus horas._\n$O bien:$\n_Te doy gracias, Cristo, pastor bueno, porque has querido glorificarme; te suplico que las ovejas que pusiste a mi cuidado participen conmigo eternamente de tu gloria._"
+    "val": "_Éste es el criado fiel y solícito a quien el amo ha puesto al frente de su servidumbre para que les reparta la ración a sus horas._\n$O bien:$\n_Te doy gracias, Cristo, pastor bueno, porque has querido glorificarme; te suplico que las ovejas que pusiste a mi cuidado participen conmigo eternamente de tu gloria._"
   },
   {
     "id": 1104,
@@ -1377,7 +1385,7 @@
   },
   {
     "id": 1116,
-    "val": "_Oh Llave de David y Cetro de la casa de Israel, que abres y nadie puede cerrar, cierras y nadie puede abrir, ven y libra a los cautivos que viven en tinieblas y en sombras de muerte._"
+    "val": "_Oh Llave de David y Cetro de la casa de Israel, que abres y nadie puede cerrar, cierras y nadie puede abrir, ven y libra a los cautivos que viven en tinieblas y en sombra de muerte._"
   },
   {
     "id": 1117,
@@ -1417,7 +1425,7 @@
   },
   {
     "id": 1129,
-    "val": "_Hoy ha nacido Jesucristo; hoy ha aparecido el Salvador; hoy en la tierra cantan los ángeles, se alegran los arcángeles; hoy saltan de gozo los justos, diciendo: «Gloria a Dios en el Cielo.» Aleluya_"
+    "val": "_Hoy ha nacido Jesucristo; hoy ha aparecido el Salvador; hoy en la tierra cantan los ángeles, se alegran los arcángeles; hoy saltan de gozo los justos, diciendo: «Gloria a Dios en el cielo.» Aleluya_"
   },
   {
     "id": 1130,
@@ -1541,7 +1549,7 @@
   },
   {
     "id": 1169,
-    "val": "$Para una virgen mártir:$\n_En una sola víctima celebramos un doble triunfo: la gloria de la virginidad y la victoria sobre la muerte; permaneció virgen y obtuvo la palma del martirio._\n$Para una virgen:$\n_Ven, esposa de Cristo, recibe la corona eterna que el Señor te tiene preparada._\n$Para varias vírgenes:$\n_Éste es el grupo que busca al Señor, que viene a la presencia de nuestro Dios._"
+    "val": "_Ven, esposa de Cristo, recibe la corona eterna que el Señor te tiene preparada._"
   },
   {
     "id": 1170,
@@ -1549,7 +1557,7 @@
   },
   {
     "id": 1171,
-    "val": "_Por ti, Virgen María, han llegado a su cumplimiento los oráculos de los profetas que anunciaron a Cristo: siendo virgen, concebiste al Hijo de Dios, y, permaneciendo virgen, lo engendraste._"
+    "val": "_Por ti, Virgen María, han llegado a su cumplimiento los oráculos de los profetas que anunciaron a Cristo: siendo virgen, concebiste al Hijo de Dios y, permaneciendo virgen, lo engendraste._"
   },
   {
     "id": 1174,
@@ -1617,7 +1625,7 @@
   },
   {
     "id": 1197,
-    "val": "_El niño Jesús se quedó en Jerusalén, sin que lo supieran sus padres. Ellos, creyendo que estaba en la caravana, se pusieron a buscarlo entre los parientes y conocidos._"
+    "val": "_El niño Jesús se quedó en Jerusalén, sin que lo supieran sus padres. Éstos, creyendo que estaba en la caravana, se pusieron a buscarlo entre los parientes y conocidos._"
   },
   {
     "id": 1198,
@@ -1633,7 +1641,7 @@
   },
   {
     "id": 1201,
-    "val": "_Me felicitarán todas las generaciones, porque Dios ha mirado la humillación de su esclava._"
+    "val": "_Me felicitarán todas las generaciones, porque Dios miró a su humilde esclava._"
   },
   {
     "id": 1202,
@@ -1645,7 +1653,7 @@
   },
   {
     "id": 1204,
-    "val": "_Veneremos este día santo, honrado con tres prodigios: hoy la estrella condujo a los magos al pesebre; hoy, el agua se convirtió en vino en las bodas de Caná; hoy, Cristo fue bautizado por Juan en el Jordán para salvarnos. Aleluya._"
+    "val": "_Veneremos este día santo, honrado con tres prodigios: hoy, la estrella condujo a los magos al pesebre; hoy, el agua se convirtió en vino en las bodas de Caná; hoy, Cristo fue bautizado por Juan en el Jordán, para salvarnos. Aleluya._"
   },
   {
     "id": 1206,
@@ -1701,7 +1709,7 @@
   },
   {
     "id": 1226,
-    "val": "_Regocijémonos en el Señor, y alegrémonos con júbilo espiritual, porque apareció en el mundo la salvación eterna. Aleluya._"
+    "val": "_Regocijémonos en el Señor y alegrémonos con júbilo espiritual, porque apareció en el mundo la salvación eterna. Aleluya._"
   },
   {
     "id": 1228,
@@ -1749,7 +1757,7 @@
   },
   {
     "id": 1245,
-    "val": "_Quien cumpla y enseñe los preceptos del Señor, será grande en el reino de los cielos._"
+    "val": "_Quien cumpla y enseñe mi ley, será grande en el reino de los cielos._"
   },
   {
     "id": 1246,
@@ -1793,7 +1801,7 @@
   },
   {
     "id": 1262,
-    "val": "_Cristo Jesús nos amó, nos ha librado de nuestros pecados por su sangre, nos ha convertido en un reino y hecho sacerdotes de Dios, su Padre, a él la gloria y el poder por los siglos de los siglos._"
+    "val": "_Cristo Jesús nos amó, nos ha librado de nuestros pecados por su sangre, nos ha convertido en un reino y hecho sacerdotes de Dios, su Padre. A él la gloria y el poder por los siglos de los siglos._"
   },
   {
     "id": 1267,
@@ -1897,7 +1905,7 @@
   },
   {
     "id": 1305,
-    "val": "_Éste es el criado fiel y solícito a quien el Señor ha puesto al frente de su servidumbre para que les reparta la ración a sus horas. Aleluya._\n$O bien:\n$_Te doy gracias, Cristo, pastor bueno, porque has querido glorificarme; te suplico que las ovejas que pusiste a mi cuidado participen conmigo eternamente de tu gloria. Aleluya._"
+    "val": "_Éste es el criado fiel y solícito a quien el amo ha puesto al frente de su servidumbre para que les reparta la ración a sus horas. Aleluya._\n$O bien:\n$_Te doy gracias, Cristo, pastor bueno, porque has querido glorificarme; te suplico que las ovejas que pusiste a mi cuidado participen conmigo eternamente de tu gloria. Aleluya._"
   },
   {
     "id": 1308,
@@ -1925,7 +1933,7 @@
   },
   {
     "id": 1322,
-    "val": "_La gente se agolpaba alrededor de Jesús para oír la palabra de Dios._"
+    "val": "_La gente se agolpaba alrededor de Jesús para oír la Palabra de Dios._"
   },
   {
     "id": 1324,
@@ -2073,7 +2081,7 @@
   },
   {
     "id": 1384,
-    "val": "_Una mujer de entre el gentío levantó la voz, diciendo: «Dichoso el vientre que te llevó, y los pechos que te criaron.» Pero Jesús repuso: «Mejor, dichosos los que escuchan la palabra de Dios y la cumplen.»_"
+    "val": "_Una mujer de entre el gentío levantó la voz, diciendo: «Dichoso el vientre que te llevó, y los pechos que te criaron.» Pero Jesús repuso: «Mejor, dichosos los que escuchan la Palabra de Dios y la cumplen.»_"
   },
   {
     "id": 1385,
@@ -2089,7 +2097,7 @@
   },
   {
     "id": 1389,
-    "val": "_María escuchaba la palabra de Dios y la cumplía, meditándola en su corazón._"
+    "val": "_María escuchaba la Palabra de Dios y la cumplía, meditándola en su corazón._"
   },
   {
     "id": 1390,
@@ -2169,7 +2177,7 @@
   },
   {
     "id": 1436,
-    "val": "_Éste es el criado fiel y solícito a quien el Señor ha puesto al frente de su  familia._"
+    "val": "_Éste es el criado fiel y solícito a quien el amo ha puesto al frente de su  familia._"
   },
   {
     "id": 1437,
@@ -2241,7 +2249,7 @@
   },
   {
     "id": 1481,
-    "val": "_Todo lo que, en otro tiempo, sucedía a nuestros padres era como un ejemplo para nosotros._"
+    "val": "$ Año A: $_Justificados por la fe, estamos en paz con Dios, por medio de nuestro Señor Jesucristo._\n$Año B: $_Cantemos a Cristo crucificado: escándalo para los judíos, necedad para los gentiles; pero, para los llamados, un Mesías que es fuerza de Dios._\n$Año C: $_Todo lo que, en otro tiempo, sucedía a nuestros padres era como un ejemplo para nosotros._"
   },
   {
     "id": 1482,
@@ -2249,7 +2257,7 @@
   },
   {
     "id": 1485,
-    "val": "_El Salvador vino a ser bautizado para renovar al hombre envejecido; quiso restaurar por el agua nuestra humana naturaleza corrompida y nos vistió con su incorruptibilidad._"
+    "val": "_El Salvador vino a ser bautizado para renovar al hombre envejecido; quiso restaurar por el agua nuestra naturaleza corrompida y nos vistió con su incorruptibilidad._"
   },
   {
     "id": 1488,
@@ -2269,7 +2277,7 @@
   },
   {
     "id": 1493,
-    "val": "_Oh renuevo del tronco de Jesé, que te alzas como un signo para los pueblos, ante quien los reyes enmudecen y cuyo auxilio imploran las naciones, ven a librarnos, no tardes más._"
+    "val": "_Oh Renuevo del tronco de Jesé, que te alzas como un signo para los pueblos, ante quien los reyes enmudecen y cuyo auxilio imploran las naciones, ven a librarnos, no tardes más._"
   },
   {
     "id": 1499,
@@ -2389,7 +2397,7 @@
   },
   {
     "id": 1576,
-    "val": "_Ven, Señor, y danos tu paz: tu visita nos retornará a la rectitud y podremos alegrarnos en tu presencia._"
+    "val": "_Ven, Señor, y danos tu paz; tu visita nos retornará a la rectitud y podremos alegrarnos en tu presencia._"
   },
   {
     "id": 1577,
@@ -2397,7 +2405,7 @@
   },
   {
     "id": 1585,
-    "val": "_Estos son hombres santos, amigos de Dios, pregoneros insignes de la verdad divina._"
+    "val": "_Éstos son hombres santos, amigos de Dios, pregoneros insignes de la verdad divina._"
   },
   {
     "id": 1586,
@@ -2497,7 +2505,7 @@
   },
   {
     "id": 1651,
-    "val": "_Al ver la estrella los magos se llenaron de inmensa alegría; y, entrando en la casa, ofrecieron al Señor oro, incienso y mirra._"
+    "val": "_Al ver la estrella, los magos se llenaron de inmensa alegría; y, entrando en la casa, ofrecieron al Señor oro, incienso y mirra._"
   },
   {
     "id": 1655,
@@ -2986,5 +2994,685 @@
   {
     "id": 2197,
     "val": "_Dice el Señor: «Como el cielo es más alto que la tierra, mis caminos son más altos que los vuestros, mis planes, que vuestros planes.»_"
+  },
+  {
+    "id": 2200,
+    "val": "_Todos se admiraban de las palabras que salían de la boca de Dios._"
+  },
+  {
+    "id": 2201,
+    "val": "_Jesús, hablando en Nazaret, donde se había criado, dijo: «Ningún profeta es bien mirado e su tierra.»_"
+  },
+  {
+    "id": 2202,
+    "val": "_Querían matar a Jesús, pero él se abrió paso entre ellos y se alejaba._"
+  },
+  {
+    "id": 2203,
+    "val": "_Llevaron a Jesús un paralítico; viendo la fe que tenían, dijo: «Hijo, tus pecados quedan perdonados.»_"
+  },
+  {
+    "id": 2204,
+    "val": "_El Hijo del hombre tiene potestad en la tierra para perdonar pecados. Aleluya._"
+  },
+  {
+    "id": 2205,
+    "val": "_Cogió el paralítico la camilla donde estaba tendido, dando gloria a Dios. Todos, al verlo, dban gloria a Dios._"
+  },
+  {
+    "id": 2206,
+    "val": "_Sobre todo buscad el reino de Dios y su justicia; lo demás se os dará por añadidura. Aleluya._"
+  },
+  {
+    "id": 2207,
+    "val": "_Nadie echa vino nuevo en odres viejos; a vino nuevo, odres nuevos._"
+  },
+  {
+    "id": 2208,
+    "val": "_No podéis servir a Dios y al dinero; Dios es el único Señor._"
+  },
+  {
+    "id": 2209,
+    "val": "_Cristo, Esposo y Señor de la Iglesia, quédate siempre con nosotros._"
+  },
+  {
+    "id": 2210,
+    "val": "_Dios Padre, que alimenta a los pájaros del cielo y hace crecer los lirios del campo, ¿no hará mucho más por vosotros, sus hijos?_"
+  },
+  {
+    "id": 2211,
+    "val": "_En los días de tristeza, mientras el Esposo está lejos, no perdáis la esperanza: Cristo volverá._"
+  },
+  {
+    "id": 2212,
+    "val": "_No todo el que me dice: «Señor, Señor» entrará en el reino de los cielos, sino el que cumple la voluntad de mi Padre que está en el cielo._"
+  },
+  {
+    "id": 2213,
+    "val": "_El sábado se hizo para el hombre y no el hombre para el sábado._"
+  },
+  {
+    "id": 2214,
+    "val": "_Jesús, a ruegos de los ancianos, se fue a casa del centurión para curar a su criado._"
+  },
+  {
+    "id": 2215,
+    "val": "_«El que escucha estas palabras mías y no las pone en práctica -dice el Señor- se parece a aquel hombre necio que edificó su casa sobre arena.»_"
+  },
+  {
+    "id": 2216,
+    "val": "_¿No es lo más apropiado para un sábado hacer lo bueno y salvarle la vida a un hombre?_"
+  },
+  {
+    "id": 2217,
+    "val": "_Señor, no soy yo quién para que entres bajo mi techo; dilo de palabra, y mi criado quedará sano._"
+  },
+  {
+    "id": 2218,
+    "val": "_«El que escucha estas palabras mías y las pone en práctica -dice el Señor- se parece a aquel hombre prudente que edificó su casa sobre roca.»_"
+  },
+  {
+    "id": 2219,
+    "val": "_Jesús dice: «El hijo del hombre es señor también del sábado.»_"
+  },
+  {
+    "id": 2220,
+    "val": "_«Os digo que ni en Israel he encontrado tanta fe», dice el Señor._"
+  },
+  {
+    "id": 2221,
+    "val": "_Jesús, al pasar, dijo a Mateo el publicano: «Sígueme.» Él se levantó y lo siguió._"
+  },
+  {
+    "id": 2222,
+    "val": "_A la entrada de Naín, Jesús consoló a una madre viuda, diciéndole: «No llores.»_"
+  },
+  {
+    "id": 2223,
+    "val": "_Muchos publicanos y pecadores se sentaron a la mesa con Jesús._"
+  },
+  {
+    "id": 2224,
+    "val": "_Se acercó Jesús al ataúd y dijo: «Muchacho, levántate.» Y se lo entregó a su madre._"
+  },
+  {
+    "id": 2225,
+    "val": "_Un gran profeta ha surgido entre nosotros. Dios ha visitado a su pueblo._"
+  },
+  {
+    "id": 2226,
+    "val": "_Una mujer pecadora se puso a regar los pies de Jesús con sus lágrimas y se los ungía con perfume._"
+  },
+  {
+    "id": 2227,
+    "val": "_Mujer, tus muchos pecados están perdonados, porque tienes mucho amor._"
+  },
+  {
+    "id": 2228,
+    "val": "_Jesús dijo a la mujer: «Tu fe te ha salvado, vete en paz.»_"
+  },
+  {
+    "id": 2229,
+    "val": "_Si uno se pone de mi parte ante los hombres, yo también me pondré de su parte ante mi Padre._"
+  },
+  {
+    "id": 2230,
+    "val": "_El Señor preguntó: «Y vosotros, ¿quién decís que soy yo?» El Mesías de Dios._"
+  },
+  {
+    "id": 2231,
+    "val": "_El Hijo del hombre tiene que padecer mucho, ser desechado, ser ejecutado y resucitar al tercer día._"
+  },
+  {
+    "id": 2232,
+    "val": "_Los discípulos se decían unos a otros: «¿Pero quién es este? ¡Hasta el viento y las aguas le obedecen!»_"
+  },
+  {
+    "id": 2233,
+    "val": "_El que quiera seguirme, que se niegue a sí mismo, cargue con su cruz y se venga conmigo._"
+  },
+  {
+    "id": 2234,
+    "val": "_Una mujer enferma tocó el manto de Jesús, e inmediatamente notó que su cuerpo estaba curado._"
+  },
+  {
+    "id": 2235,
+    "val": "_Jesús tomó la decisión de ir a Jerusalén, para sufrir allí la pasión._"
+  },
+  {
+    "id": 2236,
+    "val": "_Las zorras tienne madriguera y los pájaros nido, pero el Hijo del hombre no tiene donde reclinar la cabeza._"
+  },
+  {
+    "id": 2237,
+    "val": "_El que echa mano al arado y sigue mirando atrás no vale para el reino de Dios._"
+  },
+  {
+    "id": 2238,
+    "val": "_Venid, comprad de balde y comed un pan que da hartura para siempre._"
+  },
+  {
+    "id": 2239,
+    "val": "_Jesús multiplicó los panes, y comieron todos hasta quedar satisfechos._"
+  },
+  {
+    "id": 2240,
+    "val": "_Como había mucha gente y no tenían qué comer, Jesús llamó a sus discípulos y les dijo: «Me da lástima de esta gente.»_"
+  },
+  {
+    "id": 2241,
+    "val": "_Deberías alegrarte, porque este hermano tuyo estaba muerto y ha revivido, estaba perdido y lo hemos encontrado._"
+  },
+  {
+    "id": 2242,
+    "val": "_Podéis fiaros y aceptar sin reserva lo que os digo: que Cristo Jesús vino al mundo para salvar a los pecadores. Aleluya._"
+  },
+  {
+    "id": 2243,
+    "val": "_Os digo que habrá alegría entre los ángeles de Dios por un solo pecador que se convierta._"
+  },
+  {
+    "id": 2244,
+    "val": "_El Señor, nuestro Dios, es solamente uno. Amarás al Señor, tu Dios, con todo el corazón, con toda el alma, con todas las fuerzas. Las palabras que hoy te digo quedarán en tu memoria._"
+  },
+  {
+    "id": 2245,
+    "val": "_Tú Señor, amas a todos los seres y no odias nada de lo que has hecho, para que se conviertan y crean en ti, Dios nuestro._"
+  },
+  {
+    "id": 2246,
+    "val": "_La viuda echó para el Señor todo lo que tenía, y no le faltó lo necesario para vivir._"
+  },
+  {
+    "id": 2247,
+    "val": "_Vale la pena morir a manos de los hombres cuando se espera que Dios mismo nos resicitará para la vida._"
+  },
+  {
+    "id": 2248,
+    "val": "_Los que sean juzgados dignos de la vida futura son hijos de Dios, porque participarán en la resurrección._"
+  },
+  {
+    "id": 2249,
+    "val": "_Dios no es Dios de muertos, sino de vivos, porque para Él todos están vivos. Aleluya._"
+  },
+  {
+    "id": 2250,
+    "val": "_Todo lo que, en otro tiempo, sucedía a nuestros padres era como un ejemplo para nosotros._"
+  },
+  {
+    "id": 2251,
+    "val": "_«El que permanece en mí y yo en él, ése da fruto abundante», dice el Señor._"
+  },
+  {
+    "id": 2252,
+    "val": "_El Padre, que resucitó de entre los muertos a Cristo Jesús, vivificará también vuestros cuerpos mortales, por el mismo Espíritu que habita en vosotros._"
+  },
+  {
+    "id": 2253,
+    "val": "_En toda oblación alabamos al Creador del universo por medio de Jesucristo, su Hijo, y del Espíritu Santo. $(Tiempo pascual:$ Aleluya.$)$_"
+  },
+  {
+    "id": 2254,
+    "val": "_El fuego se apoderó inmediatamente de mi alma, y me invadió el amor de los profetas y de hombres que son amigos de Cristo. $(Tiempo pascual:$ Aleluya.$)$_"
+  },
+  {
+    "id": 2255,
+    "val": "_Dejad que los niños se acerquen a mí: no se lo impidáis; de los que son como ellos es el reino de Dios._"
+  },
+  {
+    "id": 2400,
+    "val": "$ Año A: $_Éste es el Cordero de Dios que quita el pecado del mundo. Aleluya._\n$Año B: $_Fueron los discípulos, vieron donde vivía Jesús y se quedaron con él aquel día._\n$Año C: $_Había una boda en Caná de Galilea, y Jesús estaba allí, junto con María, su madre._"
+  },
+  {
+    "id": 2401,
+    "val": "$ Año A: $_El Espíritu bajó del cielo como una paloma, y se posó sobre Jesús._\n$Año B: $_«Maestro, ¿dónde vives?» Jesús les dijo: «Venid y lo veréis.»_\n$Año C: $_Jesús, a petición de María, su madre, cambió el agua en el vino de la nueva alianza._"
+  },
+  {
+    "id": 2402,
+    "val": "$ Año A: $_Juan, testigo de la luz, dijo: «Jesús es el Hijo de Dios.»_\n$Año B: $_Andrés dijo a Simón: «Hemos encontrado al Mesías.» Y lo llevó a Jesús._\n$Año C: $_En Caná de Galilea, Jesús comenzó sus signos, manifestó su gloria, y creció la fe de sus discípulos en él._"
+  },
+  {
+    "id": 2403,
+    "val": "$ Año A: $_Jesús proclamaba el Evangelio del reino y curaba las enfermedades del pueblo._\n$Año B: $_«Se ha cumplido el plazo, está cerca el reino de Dios», dice el Señor._\n$Año C: $_Jesús entró en la sinagoga, como era su costumbre los sábados, y se puso en pie para hacer la lectura del libro del Profeta._"
+  },
+  {
+    "id": 2404,
+    "val": "$ Año A: $_«Convertíos, porque está cerca el reino de los cielos», dice el Señor._\n$Año B: $_«Convertíos y creed en el Evangelio», dice el Señor._\n$Año C: $_El Espíritu del Señor está sobre mí, me ha enviado para anunciar el Evangelio a los pobres._"
+  },
+  {
+    "id": 2405,
+    "val": "$ Año A: $_Inmediatamente los discípulos dejaron las redes y siguieron a Jesús._\n$Año B: $_«Venid conmigo -dice el Señor-, y os haré pescadores de hombres.»_\n$Año C: $_Hoy se cumple esta Escritura que acabáis de oír._"
+  },
+  {
+    "id": 2406,
+    "val": "$ Año A: $_Al ver Jesús el gentío, subió a la montaña, se sentó, y se acercaron sus discípulos; y él se puso a hablar, enseñándoles._\n$Año B: $_Se quedaron asombrados de la doctrina de Jesús, porque enseñaba con autoridad._\n$Año C: $_Todos se admiraban de las palabras que salían de la boca de Dios._"
+  },
+  {
+    "id": 2407,
+    "val": "$ Año A: $_Dichosos los limpios de corazón, porque ellos verán a Dios._\n$Año B: $_Jesús Nazareno, el Santo de Dios, ha visitado y redimido a su pueblo._\n$Año C: $_Jesús, hablando en Nazaret, donde se había criado, dijo: «Ningún profeta es bien mirado e su tierra.»_"
+  },
+  {
+    "id": 2408,
+    "val": "$ Año A: $_Dichosos los que trabajan por la paz, porque ellos se llamarán los Hijos de Dios._\n$Año B: $_La fama de Jesús se extendió por toda Galilea, y todos glorificaban a Dios._\n$Año C: $_Querían matar a Jesús, pero él se abrió paso entre ellos y se alejaba._"
+  },
+  {
+    "id": 2409,
+    "val": "$ Año A: $_Sed como la luz que alumbra a todos los de la casa._\n$Año B: $_Al anochecer, cuando se puso el sol, llevaron todos los enfermos y endemoniados a Jesús, y él los curó._\n$Año C: $_La gente se agolpaba alrededor de Jesús para oír la Palabra de Dios._"
+  },
+  {
+    "id": 2410,
+    "val": "$ Año A: $_Vosotros sois la luz del mundo; alumbre vuestra luz a los hombres, para que vean vuestras buenas obras y den gloria a vuestro Padre que está en el cielo._\n$Año B: $_Se levantó Jesús de madrugada, se marchó al descampado y allí se puso a orar._\n$Año C: $_Maestro, nos hemos pasado la noche bregando y no hemos cogido nada; pero, por tu palabra, echaré las redes._"
+  },
+  {
+    "id": 2411,
+    "val": "$ Año A: $_Vosotros, mis discípulos, sois la sal de la tierra y la luz del mundo._\n$Año B: $_Para eso he salido, para traer a todos el mensaje de la salvación._\n$Año C: $_«Apártate de mí, Señor, que soy un pecador.» «No temas, Simón Pedro, desde ahora serás pescador de hombres.»_"
+  },
+  {
+    "id": 2412,
+    "val": "$ Año A: $_Si no sois mejores que los escribas y fariseos, no entraréis en el reino de los cielos._\n$Año B: $_Jesús extendió la mano y tocó al leproso, e inmediatamente quedó limpio._\n$Año C: $_Cuando llegue la renovación, y el Hijo del hombre se siente en el trono de su gloria, os sentaréis también vosotros en doce tronos para regir a las doce tribus de Israel._"
+  },
+  {
+    "id": 2413,
+    "val": "$ Año A: $_Si, cuando vas a poner tu ofrenda sobre el altar, te acuerdas de que tu hermano tiene quejas contra ti, deja allí tu ofrenda ante el altar y vete primero a reconciliarte con tu hermano, y entonces vuelve a presentar tu ofrenda. Aleluya_\n$Año B: $_«Señor, si quieres, puedes limpiarme.» Jesús dijo: «Quiero: queda limpio.»_\n$Año C: $_Dichosos los que ahora lloráis, porque reiréis._"
+  },
+  {
+    "id": 2414,
+    "val": "$ Año A: $_Quien cumpla y enseñe mi ley será grande en el reino de los cielos._\n$Año B: $_El leproso curado empezó a divulgar las maravillas del Señor._\n$Año C: $_Dichosos vosotros, cuando proscriban vuestro nombre como infame, por causa del Hijo del hombre. Alegraos ese día y saltad de gozo: porque vuestra recompensa será grande en el cielo._"
+  },
+  {
+    "id": 2415,
+    "val": "$ Año A: $_«Rezad por los que os persiguen, así seréis hijos de vuestro Padre que está en el cielo», dice el Señor._\n$Año B: $_Llevaron a Jesús un paralítico; viendo la fe que tenían, dijo: «Hijo, tus pecados quedan perdonados.»_\n$Año C: $_A los que me escucháis os digo: «Amad a vuestros enemigos, haced el bien a los que os odian.»_"
+  },
+  {
+    "id": 2416,
+    "val": "$ Año A: $_Dios, vuestro Padre, hace salir el sol sobre malos y buenos._\n$Año B: $_El Hijo del hombre tiene potestad en la tierra para perdonar pecados. Aleluya._\n$Año C: $_«Tratad a los demás como queréis que ellos os traten», dice el Señor._"
+  },
+  {
+    "id": 2417,
+    "val": "$ Año A: $_Sed perfectos, como vuestro Padre celestial es perfecto._\n$Año B: $_Cogió el paralítico la camilla donde estaba tendido, dando gloria a Dios. Todos, al verlo, dban gloria a Dios._\n$Año C: $_«No juzguéis y no os juzgarán; porque os van a juzgar como juzguéis vosotros», dice el Señor._"
+  },
+  {
+    "id": 2418,
+    "val": "$ Año A: $_Sobre todo buscad el reino de Dios y su justicia; lo demás se os dará por añadidura. Aleluya._\n$Año B: $_Nadie echa vino nuevo en odres viejos; a vino nuevo, odres nuevos._\n$Año C: $_Un discípulo no es más que su maestro, si bien, cuando termine su aprendizaje, será como su maestro._"
+  },
+  {
+    "id": 2419,
+    "val": "$ Año A: $_No podéis servir a Dios y al dinero; Dios es el único Señor._\n$Año B: $_Cristo, Esposo y Señor de la Iglesia, quédate siempre con nosotros._\n$Año C: $_No hay árbol sano que dé fruto dañado, ni árbol dañado que dé fruto sano._"
+  },
+  {
+    "id": 2420,
+    "val": "$ Año A: $_Dios Padre, que alimenta a los pájaros del cielo y hace crecer los lirios del campo, ¿no hará mucho más por vosotros, sus hijos?_\n$Año B: $_En los días de tristeza, mientras el Esposo está lejos, no perdáis la esperanza: Cristo volverá._\n$Año C: $_El que es bueno, de la bondad que atesora en su corazón saca el bien._"
+  },
+  {
+    "id": 2421,
+    "val": "$ Año A: $_No todo el que me dice: «Señor, Señor» entrará en el reino de los cielos, sino el que cumple la voluntad de mi Padre que está en el cielo._\n$Año B: $_El sábado se hizo para el hombre y no el hombre para el sábado._\n$Año C: $_Jesús, a ruegos de los ancianos, se fue a casa del centurión para curar a su criado._"
+  },
+  {
+    "id": 2422,
+    "val": "$ Año A: $_«El que escucha estas palabras mías y no las pone en práctica -dice el Señor- se parece a aquel hombre necio que edificó su casa sobre arena.»_\n$Año B: $_¿No es lo más apropiado para un sábado hacer lo bueno y salvarle la vida a un hombre?_\n$Año C: $_Señor, no soy yo quién para que entres bajo mi techo; dilo de palabra, y mi criado quedará sano._"
+  },
+  {
+    "id": 2423,
+    "val": "$ Año A: $_«El que escucha estas palabras mías y las pone en práctica -dice el Señor- se parece a aquel hombre prudente que edificó su casa sobre roca.»_\n$Año B: $_Jesús dice: «El hijo del hombre es señor también del sábado.»_\n$Año C: $"
+  },
+  {
+    "id": 2424,
+    "val": "$ Año A: $_Jesús, al pasar, dijo a Mateo el publicano: «Sígueme.» Él se levantó y lo siguió._\n$Año B: $_«Una familia dividida no puede subsistir», dice el Señor._\n$Año C: $_A la entrada de Naín, Jesús consoló a una madre viuda, diciéndole: «No llores.»_"
+  },
+  {
+    "id": 2425,
+    "val": "$ Año A: $_Muchos publicanos y pecadores se sentaron a la mesa con Jesús._\n$Año B: $_Todo se les podrá perdonar a los hombres, pero el que blasfema contra el Espíritu Santo no tendrá perdón jamás._\n$Año C: $_Se acercó Jesús al ataúd y dijo: «Muchacho, levántate.» Y se lo entregó a su madre._"
+  },
+  {
+    "id": 2426,
+    "val": "$ Año A: $_«Misericordia quiero y no sacrificios -dice el Señor-: que no he venido a llamar a los justos, sino a los pecadores.»_\n$Año B: $_El que cumple la voluntad de Dios, ése es mi hermano y mi hermana y mi madre._\n$Año C: $_Un gran profeta ha surgido entre nosotros. Dios ha visitado a su pueblo._"
+  },
+  {
+    "id": 2427,
+    "val": "$ Año A: $_Jesús, al ver a las gentes, se compadecía de ellas, porque estaban extenuadas y abandonadas, como ovejas que no tienen pastor._\n$Año B: $_Jesús anunciaba el reino de Dios con muchas parábolas._\n$Año C: $_Una mujer pecadora se puso a regar los pies de Jesús con sus lágrimas y se los ungía con perfume._"
+  },
+  {
+    "id": 2428,
+    "val": "$ Año A: $_Señor, manda trabajadores a tu mies._\n$Año B: $_El reino de Dios se parece a un hombre que echa simiente en la tierra. Él duerme de noche y se levanta de mañana; la semilla germina y va creciendo._\n$Año C: $_Mujer, tus muchos pecados están perdonados, porque tienes mucho amor._"
+  },
+  {
+    "id": 2429,
+    "val": "$ Año A: $_Id y proclamad el Evangelio del reino. Lo que habéis recibido gratis, dadlo gratis. Aleluya._\n$Año B: $_El reino de los cielos se parece a un grano de mostaza: al sembrarlo en la tierra, es la semilla más pequeña, pero después brota y se hace más alta que las demás hortalizas._\n$Año C: $_Jesús dijo a la mujer: «Tu fe te ha salvado, vete en paz.»_"
+  },
+  {
+    "id": 2430,
+    "val": "$ Año A: $_Si uno se pone de mi parte ante los hombres, yo también me pondré de su parte ante mi Padre._\n$Año B: $_Se levantó un fuerte huracán, y Jesús estaba dormido. Los discípulos lo despertaron, diciéndole: «¡Señor, sálvanos, que nos hundimos!»_\n$Año C: $_El Señor preguntó: «Y vosotros, ¿quién decís que soy yo?» El Mesías de Dios._"
+  },
+  {
+    "id": 2431,
+    "val": "$ Año A: $_«Lo que escuchéis al oído, pregonadlo desde la azotea», dice el Señor._\n$Año B: $_El Señor se puso en pie, increpó al viento y al lago, y vino una gran calma._\n$Año C: $_El Hijo del hombre tiene que padecer mucho, ser desechado, ser ejecutado y resucitar al tercer día._"
+  },
+  {
+    "id": 2432,
+    "val": "$ Año A: $_No tengáis miedo a los que matan el cuerpo, pero no pueden matar el alma._\n$Año B: $_Los discípulos se decían unos a otros: «¿Pero quién es este? ¡Hasta el viento y las aguas le obedecen!»_\n$Año C: $_El que quiera seguirme, que se niegue a sí mismo, cargue con su cruz y se venga conmigo._"
+  },
+  {
+    "id": 2433,
+    "val": "$ Año A: $_«El que os recibe a vosotros me recibe a mí, y el que me recibe recibe al que me ha enviado», dice el Señor._\n$Año B: $_Una mujer enferma tocó el manto de Jesús, e inmediatamente notó que su cuerpo estaba curado._\n$Año C: $_Jesús tomó la decisión de ir a Jerusalén, para sufrir allí la pasión._"
+  },
+  {
+    "id": 2434,
+    "val": "$ Año A: $_«El que no coge su cruz y me sigue no es digno de mí», dice el Señor._\n$Año B: $_Jesús se volvió y, al ver a la mujer, le dijo: «¡Ánimo, hija!, tu fe te ha curado.» Aleluya._\n$Año C: $_Las zorras tienne madriguera y los pájaros nido, pero el Hijo del hombre no tiene donde reclinar la cabeza._"
+  },
+  {
+    "id": 2435,
+    "val": "$ Año A: $_El que encuentre su vida la perderá, y el que pierda su vida por mí la encontrará._\n$Año B: $_Entró Jesús en la casa y les dijo: «La niña no está muerta, está dormida.» La cogió de la mano y le dijo: «Niña, levántate.»_\n$Año C: $_El que echa mano al arado y sigue mirando atrás no vale para el reino de Dios._"
+  },
+  {
+    "id": 2436,
+    "val": "$ Año A: $_Cargad con mi yugo y aprended de mí, que soy manso y humilde de corazón._\n$Año B: $_Jesús recorría los pueblos de alrededor enseñando._\n$Año C: $_La mies es abundante y los obreros pocos: rogad, pues, al dueño de la mies que mande obreros a su mies._"
+  },
+  {
+    "id": 2437,
+    "val": "$ Año A: $_Te doy gracias, Padre, Señor de cielo y tierra, porque has escondido estas cosas a los sabios y entendidos y se las has revelado a la gente sencilla._\n$Año B: $_La multitud que oía a Jesús se preguntaba asombrada: «¿De dónde saca todo esto? ¿No es éste el carpintero, el hijo de María?»_\n$Año C: $_Cuando entréis en una casa, decid: «Paz.» Y descansará sobre ella vuestra paz._"
+  },
+  {
+    "id": 2438,
+    "val": "$ Año A: $_«Mi yugo es llevadero y mi carga ligera», dice el Señor._\n$Año B: $_Jesús vino a su casa, y los suyos no lo recibieron. Pero a cuantos lo recibieron, les da poder para ser hijos de Dios._\n$Año C: $_Los discípulos volvieron muy contentos y dijeron: «Señor, hasta los demonios se nos someten.» Jesús les contestó: «Estad alegres porque vuestros nombres están inscritos en el cielo.»_"
+  },
+  {
+    "id": 2439,
+    "val": "$ Año A: $_Jesús se subió a una barca y habló mucho rato en parábolas a la gente que había acudido a él._\n$Año B: $_Jesús llamó a los Doce y los fue enviando de dos en dos a predicar la conversión._\n$Año C: $_«Maestro, ¿cuál es el mandamiento principal de la ley?» Jesús le dijo: «Amarás al Señor, tu Dios, con todo tu corazón.» Aleluya._"
+  },
+  {
+    "id": 2440,
+    "val": "$ Año A: $_La semilla es la Palabra de Dios, el sembrador es Cristo; todo el que lo escucha vivirá para siempre._\n$Año B: $_Los discípulos salieron a predicar la conversión, ungían con aceite a muchos enfermos y los curaban._\n$Año C: $_El buen samaritano se acercó a un hombre medio muerto, le dio lástima, y le vendó las heridas._"
+  },
+  {
+    "id": 2441,
+    "val": "$ Año A: $_Jesús dijo a sus discípulos: «A vosotros se os ha concedido conocer los secretos del reino.»_\n$Año B: $_Los discípulos, sin llevar pan, ni alforja, ni dinero, predicaban la conversión._\n$Año C: $_Cuida de tu prójimo y, cuando yo vuelva, te pagaré lo que hayas gastado en él._"
+  },
+  {
+    "id": 2442,
+    "val": "$ Año A: $_Abriré mi boca diciendo parábolas, anunciaré lo secreto desde la fundación del mundo._\n$Año B: $_Jesús dice: «Venid vosotros solos a un sitio tranquilo a descansar un poco.»_\n$Año C: $_Entró Jesús en una aldea, y Marta lo recibió en su casa y lo servía._"
+  },
+  {
+    "id": 2443,
+    "val": "$ Año A: $_El reino de los cielos se parece a la levadura, una mujer la amasa con tres medidas de harina, y basta para que todo fermente._\n$Año B: $_Los apóstoles volvieron a reunirse con Jesús y le contaron todo lo que habían hecho y enseñado._\n$Año C: $_Una hermana de Marta, llamada María, sentada a los pies del Señor escuchaba su palabra._"
+  },
+  {
+    "id": 2444,
+    "val": "$ Año A: $_Al fin del tiempo, el Hijo del hombre separará el trigo de la cizaña. Entonces los justos brillarán como el sol en el reino del Padre._\n$Año B: $_Jesús vio una multitud y le dio lástima de ellos, porque andaban como ovejas sin pastor._\n$Año C: $_María ha escogido la parte mejor, y no se la quitarán._"
+  },
+  {
+    "id": 2445,
+    "val": "$ Año A: $_Un escriba que entiende del reino de los cielos es como un padre de familia que va sacando del arca lo nuevo y lo antiguo._\n$Año B: $_Jesús, al ver que acudía mucha gente, dijo a Felipe: «¿Con qué compraremos panes para que coman éstos?»_\n$Año C: $_Estaba Jesús orando en cierto lugar; cuando terminó, uno de los discípulos le dijo: «Señor, enséñanos a orar.»_"
+  },
+  {
+    "id": 2446,
+    "val": "$ Año A: $_El reino de los cielos se parece a la red que echan en el mar. Cuando está llena, la arrastran a la orilla y separan a los malos de los buenos._\n$Año B: $_Un muchacho ofreció cinco panes de cebada y un par de peces. Jesús dijo la acción de gracias y los repartió, todo lo que quisieron._\n$Año C: $_Si vosotros, que sois malos, sabéis dar cosas buenas a vuestros hijos, ¿cuánto más vuestro Padre celestial dará el Espíritu Santo a los que se lo piden?_"
+  },
+  {
+    "id": 2447,
+    "val": "$ Año A: $_El reino de los cielos se parece a un comerciante de perlas finas que, al encontrar una de gran valor, se va a vender todo lo que tiene y la compra._\n$Año B: $_La gente, al ver el signo que Jesús había hecho, decía: «Éste sí que es el profeta que tenía que venir al mundo.»_\n$Año C: $_Pedid y se os dará; buscad y hallaréis; llamad y se os abrirá. Aleluya._"
+  },
+  {
+    "id": 2448,
+    "val": "$ Año A: $_Venid, comprad de balde y comed un pan que da hartura para siempre._\n$Año B: $_Dios hizo llover maná para el pueblo, y les dio pan del cielo. Aleluya._\n$Año C: $_Guardaos de toda clase de codicia; aunque uno ande sobrado, su vida no depende de sus bienes._"
+  },
+  {
+    "id": 2449,
+    "val": "$ Año A: $_Jesús multiplicó los panes, y comieron todos hasta quedar satisfechos._\n$Año B: $_Yo soy el pan de la vida. El que viene a mí no pasará hambre, y el que cree en mí nunca pasará sed._\n$Año C: $_Ya que habéis resucitado con Cristo, buscad los bienes de allá arriba. Aleluya._"
+  },
+  {
+    "id": 2450,
+    "val": "$ Año A: $_Como había mucha gente y no tenían qué comer, Jesús llamó a sus discípulos y les dijo: «Me da lástima de esta gente.»_\n$Año B: $_Trabajad, no por el alimento que perece, sino por el alimento que perdura para la vida eterna._\n$Año C: $_Hermanos, si queréis ser verdaderamente ricos, amad las verdaderas riquezas._"
+  },
+  {
+    "id": 2451,
+    "val": "$ Año A: $_Jesús subió al monte a solas para orar y, llegada la noche, estaba allí solo._\n$Año B: $_Con la fuerza de aquel alimento, caminó cuarenta días y cuarenta noches hasta el monte de Dios._\n$Año C: $_Estad en vela, como los que aguardan a que su Señor vuelva de la boda._"
+  },
+  {
+    "id": 2452,
+    "val": "$ Año A: $_De madrugada, se acercó Jesús a los discípulos andando sobre el agua, y les dijo: «¡Ánimo, soy yo, no tengáis miedo!»_\n$Año B: $_El pan que yo daré es mi carne para la vida del mundo._\n$Año C: $_«Donde está vuestro tesoro, allí estará también vuestro corazón», dice el Señor._"
+  },
+  {
+    "id": 2453,
+    "val": "$ Año A: $_«Señor, mándame ir hacia ti andando sobre el agua.» Jesús extendió la mano, lo agarró y le dijo: «¡Qué poca fe! ¿Por qué has dudado?»_\n$Año B: $_Os lo aseguro: el que cree en mí tiene vida eterna. Aleluya._\n$Año C: $_Dichosos los criados a quienes el Señor, al llegar, los encuentre en vela: los hará sentar a la mesa y los irá sirviendo._"
+  },
+  {
+    "id": 2454,
+    "val": "$ Año A: $_Mi casa es casa de oración, y así la llamarán todos los pueblos; los traeré a mi casa y los alegraré._\n$Año B: $_Venid a comer de mi pan y a beber el vino que he mezclado; seguid el camino de la prudencia._\n$Año C: $_El aspecto del cielo sabéis interpretarlo, ¿y los signos de los tiempos no sois capaces?_"
+  },
+  {
+    "id": 2455,
+    "val": "$ Año A: $_Dios nos encerró a todos en la rebeldía, para tener misericordia de todos._\n$Año B: $_El que come mi carne y bebe mi sangre habita en mí, y yo en él._\n$Año C: $_Jesús quiso pasar por un bautismo y beber el cáliz de la pasión._"
+  },
+  {
+    "id": 2456,
+    "val": "$ Año A: $_Mujer, qué grande es tu fe: que se cumpla lo que deseas._\n$Año B: $_Yo soy el pan vivo que ha bajado del cielo: el que coma de este pan vivirá para siempre. Y el pan que yo os daré es mi carne para la vida del mundo. Aleluya._\n$Año C: $_He venido a prender fuego en el mundo: ¡y ojalá estuviera ya ardiendo!_"
+  },
+  {
+    "id": 2457,
+    "val": "$ Año A: $_Colgaré del hombro de mi siervo la llave de mi casa; lo que él abra nadie lo cerrará, lo que él cierre nadie lo abrirá._\n$Año B: $_El Hijo del hombre ha subido a donde estaba antes. Él es quien da vida al mundo._\n$Año C: $_«Yo vendré para reunir a las naciones de toda lengua: vendrán para ver mi gloria», dice el Señor._"
+  },
+  {
+    "id": 2458,
+    "val": "$ Año A: $_«Tú eres el Mesías, el Hijo de Dios vivo.» «¡Dichoso tú, Simón, hijo de Jonás!»_\n$Año B: $_El Espíritu es quien da la vida; la carne no sirve de nada. Las palabras que os he dicho son espíritu y vida._\n$Año C: $_«Esforzaos en entrar por la puerta estrecha -dice el Señor-; es la puerta de la vida.»_"
+  },
+  {
+    "id": 2459,
+    "val": "$ Año A: $_A ti, Simón Pedro, te daré las llaves del reino de los cielos; lo que ates en la tierra quedará atado en el cielo, y lo que desates en la tierra quedará desatado en el cielo._\n$Año B: $_Señor, ¿a quién vamos a acudir? Tú tienes palabras de vida eterna; nosotros creemos y sabemos que tú eres el Santo consagrado por Dios. Aleluya._\n$Año C: $_Vendrán muchos de Oriente y Occidente y se sentarán a la mesa con Abrahán, Isaac y Jacob en el reino de los cielos._"
+  },
+  {
+    "id": 2460,
+    "val": "$ Año A: $_El Hijo del hombre vendrá con la gloria de su Padre, y entonces pagará a cada uno según su conducta._\n$Año B: $_Cumplid los mandatos del Señor, porque ellos son vuestra sabiduría y vuestra inteligencia a los ojos de los pueblos._\n$Año C: $_Hazte pequeño en las grandezas humanas, y alcanzarás el favor de Dios, porque él revela sus secretos a los humildes._"
+  },
+  {
+    "id": 2461,
+    "val": "$ Año A: $_Presentad vuestros cuerpos como hostia viva, santa, agradable a Dios; éste es vuestro culto razonable._\n$Año B: $_Aceptad dócilmente la palabra que ha sido plantada y es capaz de salvaros._\n$Año C: $_Cuando des un banquete, invita a los pobres que no pueden pagarte; te pagarán cuando resuciten los justos._"
+  },
+  {
+    "id": 2462,
+    "val": "$ Año A: $_¿De qué le sirve a un hombre ganar el mundo entero, si arruina su vida?_\n$Año B: $_Escuchad y entended la tradición que os ha dado el Señor._\n$Año C: $_Cuando te conviden a una boda, vete a sentarte en el último puesto, para que, cuando venga el que te convidó, te diga: «Amigo, sube más arriba.» Entonces quedarás muy bien ante todos los comensales. Aleluya._"
+  },
+  {
+    "id": 2463,
+    "val": "$ Año A: $_Si tu hermano peca, repréndelo a solas entre los dos. Si te hace caso, has salvado a tu hermano._\n$Año B: $_Los oídos del sordo se abrirán y la lengua del mudo cantará: Dios viene en persona y os salvará. Aleluya._\n$Año C: $_Señor, ¿quién conocerá tu designio, si tú no le das la sabiduría, enviando tu Santo Espíritu desde el cielo?_"
+  },
+  {
+    "id": 2464,
+    "val": "$ Año A: $_A nadie le debáis nada, más que amor; porque el que ama tiene cumplido el resto de la ley._\n$Año B: $_Abre, Señor, nuestro corazón para que comprendamos tus palabras; abre nuestros labios, y proclamaremos tu alabanza._\n$Año C: $_Dice el Señor: «El que no renuncia a todos sus bienes, no puede ser discípulo mío.»_"
+  },
+  {
+    "id": 2465,
+    "val": "$ Año A: $_«Donde dos o tres están reunidos en mi nombre, allí estoy yo en medio de ellos», dice el Señor._\n$Año B: $_Todo lo ha hecho bien: hace oír a los sordos y hablar a los mudos. Aleluya._\n$Año C: $_«Quien no lleve su cruz detrás de mí no puede ser discípulo mío», dice el Señor._"
+  },
+  {
+    "id": 2466,
+    "val": "$ Año A: $_Recuerda la alianza del Señor, y perdona el error._\n$Año B: $_Dios me libre de gloriarme si no es en la cruz de nuestro Señor Jesucristo; porque yo llevo en mi cuerpo las marcas de Jesús._\n$Año C: $_Deberías alegrarte, porque este hermano tuyo estaba muerto y ha revivido, estaba perdido y lo hemos encontrado._"
+  },
+  {
+    "id": 2467,
+    "val": "$ Año A: $_El Padre del cielo os perdonará, si cada cual perdona de corazón a su hermano._\n$Año B: $_El que quiera venirse conmigo, que se niegue a sí mismo, que cargue con su cruz y me siga._\n$Año C: $_Podéis fiaros y aceptar sin reserva lo que os digo: que Cristo Jesús vino al mundo para salvar a los pecadores. Aleluya._"
+  },
+  {
+    "id": 2468,
+    "val": "$ Año A: $_Jesús dijo a Pedro: «No te digo que perdones hasta siete veces, sino hasta setenta veces siete.»_\n$Año B: $_«El que pierda su vida por mí y por el Evangelio la salvará», dice el Señor._\n$Año C: $_Os digo que habrá alegría entre los ángeles de Dios por un solo pecador que se convierta._"
+  },
+  {
+    "id": 2469,
+    "val": "$ Año A: $_Dice el Señor: «Como el cielo es más alto que la tierra, mis caminos son más altos que los vuestros, mis planes, que vuestros planes.»_\n$Año B: $_El que acoge un niño como éste en mi nombre me acoge a mí, y al que me ha enviado._\n$Año C: $"
+  },
+  {
+    "id": 2470,
+    "val": "$ Año A: $_El propietario salió al amanecer a contratar jornaleros para su viña._\n$Año B: $_El Hijo del hombre tenía que morir y resucitar para salvar al mundo._\n$Año C: $_Sed de fiar en lo menudo, y Dios os confiará lo que vale de veras._"
+  },
+  {
+    "id": 2471,
+    "val": "$ Año A: $_Id también vosotros a mi viña, y os pagaré lo debido._\n$Año B: $_«El primero entre vosotros será vuestro servidor -dice el Señor-, pues el que se humilla será enaltecido.» Aleluya._\n$Año C: $_Ningún siervo puede servir a dos amos; no podéis servir a Dios y al dinero._"
+  },
+  {
+    "id": 2472,
+    "val": "$ Año A: $_«Si el malvado se convierte de la maldad que hizo, y practica el derecho y la justicia, él mismo salva su vida», dice el Señor._\n$Año B: $_¡Ojalá todo el pueblo del Señor fuera profeta y recibiera el Espíritu del Señor!_\n$Año C: $_Si no escuchan a Moisés y a los profetas, no harán caso ni aunque resucite un muerto._"
+  },
+  {
+    "id": 2473,
+    "val": "$ Año A: $_Todo el que hace la voluntad del Padre es verdadero hijo de Dios. Aleluya._\n$Año B: $_«El que no está contra nosotros está a favor nuestro», dice el Señor._\n$Año C: $_Dichosos los pobres en el espíritu, porque de ellos es el reino de los cielos._"
+  },
+  {
+    "id": 2474,
+    "val": "$ Año A: $_No todo el que me dice: «Señor, Señor», sino el que cumple la voluntad de mi Padre entrará en el reino de los cielos. Aleluya._\n$Año B: $_«El que os dé a beber un vaso de agua, porque seguís al Mesías, os aseguro que no se quedará sin recompensa», dice el Señor._\n$Año C: $_Hijo, recuerda que recibiste tus bienes en vida, y Lázaro, a su vez, males._"
+  },
+  {
+    "id": 2475,
+    "val": "$ Año A: $_La viña del Señor de los ejércitos es la casa de Israel. Aleluya._\n$Año B: $_El hombre se unirá a su mujer, y serán los dos una sola carne. Es éste un gran misterio: y yo lo refiero a Cristo y a la Iglesia._\n$Año C: $_El injusto tiene el alma hinchada, pero el justo vivirá por su fe._"
+  },
+  {
+    "id": 2476,
+    "val": "$ Año A: $_La piedra que desecharon los arquitectos es ahora la piedra angular de la casa de Dios._\n$Año B: $_El que no acepte el reino de Dios como un niño no entrará en la casa de mi Padre._\n$Año C: $_Guarda este precioso depósito con la ayuda del Espíritu Santo que habita en nosotros._"
+  },
+  {
+    "id": 2477,
+    "val": "$ Año A: $_Hará morir de mala muerte a esos malvados y arrendará la viña a otros labradores, que le entreguen los frutos a sus tiempos._\n$Año B: $_Dejad que los niños se acerquen a mí; de los que son como ellos es el reino de Dios._\n$Año C: $_Decid: «Somos unos pobres siervos, hemos hecho lo que teníamos que hacer.»_"
+  },
+  {
+    "id": 2478,
+    "val": "$ Año A: $_El Señor de los ejércitos prepara para todos los pueblos un festín. Aleluya._\n$Año B: $_¡Qué difícil les va a ser a los ricos entrar en el reino de Dios!_\n$Año C: $_¿No ha vuelto más que este extranjero para dar gloria a Dios? Levántate, vete: tu fe te ha salvado._"
+  },
+  {
+    "id": 2479,
+    "val": "$ Año A: $_Id a los cruces de los caminos y, a todos los que encontréis, convidadlos a la boda._\n$Año B: $_Invoqué, y vino a mí el espíritu de sabiduría. Con ella me vinieron todos los bienes juntos y riquezas incontables._\n$Año C: $_Si perseveramos con Cristo, reinaremos con él; si somos infieles, él permanece fiel._"
+  },
+  {
+    "id": 2480,
+    "val": "$ Año A: $_Un hombre daba un gran banquete y convidó a mucha gente; a la hora del banquete, mandó un criado a avisar a los convidados: «Venid, que ya está preparado.» Aleluya._\n$Año B: $_Vosotros, los que lo habéis dejado todo y me habéis seguido, recibiréis cien veces más, y heredaréis la vida eterna._\n$O bien:$\n_En donde se reúnen los hermanos para glorificar a Dios, allí el Señor bendecirá a su pueblo._\n$Año C: $_Uno de los leprosos, viendo que estaba curado, se volvió alabando a Dios a grandes gritos. Aleluya._"
+  },
+  {
+    "id": 2481,
+    "val": "$ Año A: $_De oriente a occidente no hay otro Dios fuera de mí. Yo soy el Señor, y no hay otro._\n$Año B: $_«El cáliz que yo voy a beber lo beberéis, y os bautizaréis con el bautismo con que yo me voy a bautizar», dice el Señor._\n$Año C: $_Moisés sostuvo en alto las manos, orando, hasta la puesta del sol._"
+  },
+  {
+    "id": 2482,
+    "val": "$ Año A: $_Maestro, sabemos que eres sincero y que enseñas el camino de Dios conforme a la verdad. Aleluya._\n$Año B: $_El que quiera ser grande entre vosotros sea vuestro servidor; y el que quiera ser el primero sea esclavo de todos._\n$Año C: $_Dios hará justicia a sus elegidos que le gritan día y noche._"
+  },
+  {
+    "id": 2483,
+    "val": "$ Año A: $_Pagadle al César lo que es del César y a Dios lo que es de Dios. Aleluya._\n$Año B: $_El Hijo del hombre no ha venido para que le sirvan, sino para servir y dar su vida en rescate por todos._\n$Año C: $_Cuando venga el Hijo del hombre, ¿encontrará fe en la tierra?_"
+  },
+  {
+    "id": 2484,
+    "val": "$ Año A: $_El amor no lleva cuentas del mal; amar es cumplir la ley entera._\n$Año B: $_El Señor ha salvado a su pueblo: ciegos y cojos retornan por un camino llano en que no tropezarán._\n$Año C: $_El Señor escucha las súplicas del oprimido; los gritos del pobre atraviesan las nubes hasta alcanzar a Dios._"
+  },
+  {
+    "id": 2485,
+    "val": "$ Año A: $_Amarás a tu prójimo como a ti mismo._\n$Año B: $_«Hijo de David, ten compasión de mí.» «¿Qué quieres que haga por ti?» «Maestro, que pueda ver.»_\n$Año C: $_El publicano se quedó atrás y no se atrevía ni a levantar los ojos al cielo; sólo se golpeaba el pecho, diciendo: «¡Oh Dios!, ten compasión de este pecador.»_"
+  },
+  {
+    "id": 2486,
+    "val": "$ Año A: $_«Maestro, ¿cuál es el mandamiento principal de la ley?» Jesús le dijo: «Amarás al Señor, tu Dios, con todo tu corazón.» Aleluya._\n$Año B: $_Jesús dijo al ciego: «Anda, tu fe te ha curado.» Y, al momento, recobró la vista y lo seguía._\n$Año C: $_El que se enaltece será humillado, y el que se humilla será enaltecido._"
+  },
+  {
+    "id": 2487,
+    "val": "$ Año A: $_El que se enaltece será humillado, y el que se humilla será enaltecido._\n$Año B: $_El Señor, nuestro Dios, es solamente uno. Amarás al Señor, tu Dios, con todo el corazón, con toda el alma, con todas las fuerzas. Las palabras que hoy te digo quedarán en tu memoria._\n$Año C: $_Tú Señor, amas a todos los seres y no odias nada de lo que has hecho, para que se conviertan y crean en ti, Dios nuestro._"
+  },
+  {
+    "id": 2488,
+    "val": "$ Año A: $_Uno solo es vuestro Padre, el Dios del cielo y de la tierra._\n$Año B: $_Amar al prójimo como a uno mismo vale más que todos los holocaustos y sacrificios._\n$Año C: $_Zaqueo recibió muy contento a Jesús en su casa: Hoy ha sido la salvación de esta casa. Aleluya._"
+  },
+  {
+    "id": 2489,
+    "val": "$ Año A: $_Uno solo es vuestro maestro, el del cielo, Cristo el Señor._\n$Año B: $_Amarás al Señor, tu Dios, con todo tu corazón. Amarás a tu prójimo como a ti mismo. No hay mandamiento mayor que éstos._\n$Año C: $_El Hijo del hombre ha venido a buscar y a salvar lo que estaba perdido._"
+  },
+  {
+    "id": 2490,
+    "val": "$ Año A: $_Aunque el Esposo tarde, velad, porque no sabéis el día ni la hora._\n$Año B: $_La viuda echó para el Señor todo lo que tenía, y no le faltó lo necesario para vivir._\n$Año C: $_Vale la pena morir a manos de los hombres cuando se espera que Dios mismo nos resicitará para la vida._"
+  },
+  {
+    "id": 2491,
+    "val": "$ Año A: $_Resucitaremos para salir al encuentro del Señor, y así estaremos siempre con él._\n$Año B: $_Con la fuerza de Dios, somos los afligidos siempre alegres, los pobretones que enriquecen a muchos, los necesitados que todo lo poseen._\n$Año C: $_Los que sean juzgados dignos de la vida futura son hijos de Dios, porque participarán en la resurrección._"
+  },
+  {
+    "id": 2492,
+    "val": "$ Año A: $_A medianoche se oyó una voz: «¡Que llega el Esposo, salid a recibirlo!»_\n$Año B: $_Aquella pobre viuda echó más que nadie, pues echó todo lo que tenía para vivir._\n$Año C: $_Dios no es Dios de muertos, sino de vivos, porque para Él todos están vivos. Aleluya._"
+  },
+  {
+    "id": 2493,
+    "val": "$ Año A: $_«Al que tiene se le dará y le sobrará, pero al que no tiene se le quitará hasta lo que tiene», dice el Señor._\n$Año B: $_El cielo y la tierra pasarán, mis palabras no pasarán._\n$Año C: $_«A los que honran mi nombre los iluminará un sol de justicia», dice el Señor._"
+  },
+  {
+    "id": 2494,
+    "val": "$ Año A: $_Nosotros somos hijos de la luz e hijos del día, por eso hemos de estar vigilantes, esperando la venida del Señor._\n$Año B: $_Los sabios brillarán con esplendor de cielo, y los que enseñan la justicia a las multitudes serán como estrellas por toda la eternidad._\n$Año C: $_Os perseguirán por causa de mi nombre: así tendréis ocasión de dar testimonio; yo os daré palabras y sabiduría a las que no podrá hacer frente ningún adversario vuestro._"
+  },
+  {
+    "id": 2495,
+    "val": "$ Año A: $_Muy bien. Eres un empleado fiel y cumplidor; como has sido fiel en lo poco, pasa al banquete de tu Señor._\n$Año B: $_Verán venir al Hijo del hombre sobre las nubes con gran poder y majestad._\n$Año C: $_«Con vuestra perseverancia salvaréis vuestras almas», dice el Señor._"
+  },
+  {
+    "id": 2496,
+    "val": "$ Año A: $_Justificados por la fe, estamos en paz con Dios, por medio de nuestro Señor Jesucristo._\n$Año B: $_Cantemos a Cristo crucificado: escándalo para los judíos, necedad para los gentiles; pero, para los llamados, un Mesías que es fuerza de Dios._\n$Año C: $_Todo lo que, en otro tiempo, sucedía a nuestros padres era como un ejemplo para nosotros._"
+  },
+  {
+    "id": 2497,
+    "val": "$ Año A: $_Dios es espíritu, y los que le dan culto deben hacerlo en espíritu y verdad._\n$Año B: $_«Destruid este templo -dice el Señor-, y en tres días lo levantaré.» Él hablaba del templo de su cuerpo._\n$Año C: $_El Señor Dios de vuestros padres me envía a vosotros._"
+  },
+  {
+    "id": 2498,
+    "val": "$ Año A: $_Dice el Señor: «El que beba del agua que yo le daré nunca más tendrá sed.»_\n$Año B: $_«La casa de mi Padre es casa de oración», dice el Señor._\n$Año C: $_«El que permanece en mí y yo en él, ése da fruto abundante», dice el Señor._"
+  },
+  {
+    "id": 2499,
+    "val": "$ Año A: $_En otro tiempo erais tinieblas; ahora sois luz en el Señor._\n$Año B: $_Tanto amó Dios al mundo, que entregó a su Hijo único para que no perezca ninguno de los que creen en él, sino que tengan vida eterna._\n$Año C: $_Cristo ha reconciliado al mundo con Dios; el que es de Cristo es una criatura nueva._"
+  },
+  {
+    "id": 2500,
+    "val": "$ Año A: $_Jamás se oyó decir que nadie, a no ser Cristo, el Hijo de Dios, abriera los ojos a un ciego de nacimiento._\n$Año B: $_Dios, por el gran amor con que nos amó, estando nosotros muertos por los pecados, nos ha hecho vivir con Cristo._\n$Año C: $_Padre, he pecado contra ti; ya no merezco llamarme hijo tuyo._"
+  },
+  {
+    "id": 2501,
+    "val": "$ Año A: $_He lavado mis ojos, y ahora veo; y creo en ti, Señor._\n$Año B: $_El Hijo del hombre tiene que ser elevado, para que todo el que cree en él tenga vida eterna._\n$Año C: $_Hijo, tú siempre estás conmigo, y todo lo mío es tuyo: deberías alegrarte, porque este hermano tuyo estaba muerto y ha revivido, estaba perdido y lo hemos encontrado._"
+  },
+  {
+    "id": 2502,
+    "val": "$ Año A: $_El Padre, que resucitó de entre los muertos a Cristo Jesús, vivificará también vuestros cuerpos mortales, por el mismo Espíritu que habita en vosotros._\n$Año B: $_Si el grano de trigo no cae en la tierra y muere, queda infecundo; pero si muere da mucho fruto._\n$Año C: $_Existimos en Cristo, no con la justicia de la ley, sino con la que viene de la fe de Cristo._"
+  },
+  {
+    "id": 2503,
+    "val": "$ Año A: $_Lázaro, nuestro amigo, está dormido: voy a despertarlo._\n$Año B: $_Haré con vosotros una alianza nueva: yo seré vuestro Dios, y vosotros seréis mi pueblo._\n$Año C: $_No penséis en lo antiguo: mirad que realizo algo nuevo._"
+  },
+  {
+    "id": 2504,
+    "val": "$ Año A: $_Yo soy la resurrección y la vida, el que cree en mí no morirá para siempre._\n$Año B: $_Cuando yo sea elevado sobre la tierra, atraeré a todos hacia mí._\n$Año C: $_Mujer, yo no te condeno; anda, y en adelante no peques más._"
+  },
+  {
+    "id": 2505,
+    "val": "$ Año A: $_Quédate con nosotros, porque atardece y el día va de caída. Aleluya._\n$Año B: $_En Cristo se ha cumplido todo lo escrito en la ley de Moisés y en los profetas y salmos. Aleluya._\n$Año C: $_Aquel discípulo que Jesús tanto quería le dice a Pedro: «Es el Señor.» Aleluya._"
+  },
+  {
+    "id": 2506,
+    "val": "$ Año A: $_Era necesario que el Mesías padeciera y resucitara de entre los muertos al tercer día. Aleluya._\n$Año B: $_Se presentó Jesús en medio de sus discípulos y les dijo: «Paz a vosotros.» Aleluya._\n$Año C: $_Ninguno de los discípulos se atrevía a preguntarle quién era, porque sabían bien que era el Señor. Aleluya._"
+  },
+  {
+    "id": 2507,
+    "val": "$ Año A: $_Jesús, comenzando por Moisés y siguiendo por los profetas, explicó a los discípulos lo que se refería a él en toda la Escritura. Aleluya._\n$Año B: $_Los discípulos reconocieron a Jesús al partir el pan. Aleluya._\n$Año C: $_Dijo Jesús a sus discípulos: «Traed de los peces que acabáis de coger.» Simón Pedro subió a la barca y arrastró hasta la orilla la red repleta de peces grandes. Aleluya._"
+  },
+  {
+    "id": 2508,
+    "val": "$ Año A: $_Yo soy el camino, y la verdad, y la vida. Nadie va al Padre, sino por mí. Aleluya._\n$Año B: $_Vosotros ya estáis limpios por las palabras que os he hablado. Aleluya._\n$Año C: $_Ahora es glorificado el Hijo del hombre, y Dios es glorificado en él. Aleluya._"
+  },
+  {
+    "id": 2509,
+    "val": "$ Año A: $_Jesús dijo: «Quien me ha visto a mí ha visto al Padre.» Aleluya._\n$Año B: $_«El que permanece en mí y yo en él, ése da fruto abundante», dice el Señor. Aleluya._\n$Año C: $_La señal por la que conocerán que sois discípulos míos será que os amáis unos a otros. Aleluya._"
+  },
+  {
+    "id": 2510,
+    "val": "$ Año A: $_Me voy a prepararos sitio; volveré y os llevaré conmigo, para que donde estoy yo, estéis también vosotros. Aleluya._\n$Año B: $_Sí permanecéis en mí y mis palabras permanecen en vosotros, pediréis lo que deseéis, y se realizará. Aleluya._\n$Año C: $_«Os doy un mandamiento nuevo: que os améis unos a otros como yo os he amado», dice el Señor. Aleluya._"
+  },
+  {
+    "id": 2511,
+    "val": "$ Año A: $_Le pediré al Padre que os dé otro Defensor, que esté siempre con vosotros. Aleluya._\n$Año B: $_Guardad mis mandamientos, para que mi alegría esté en vosotros, y vuestra alegría llegue a la plenitud. Aleluya._\n$Año C: $_El Espíritu Santo, que enviará el Padre en mi nombre, será quien os vaya recordando todo lo que os he dicho. Aleluya._"
+  },
+  {
+    "id": 2512,
+    "val": "$ Año A: $_Vosotros conocéis al Espíritu Santo, porque viene con vosotros y está con vosotros. Aleluya._\n$Año B: $_Como el Padre me ha amado, así os he amado yo; permaneced en mi amor. Aleluya._\n$Año C: $_La palabra que estáis oyendo no es mía, sino del Padre que me envió. Aleluya._"
+  },
+  {
+    "id": 2513,
+    "val": "$ Año A: $_El que me ama guardará mi palabra, y mi Padre lo amará, y vendremos a él y haremos morada en él. Aleluya._\n$Año B: $_Vosotros sois mis amigos, si hacéis lo que yo os mando. Aleluya._\n$Año C: $_La paz os dejo, mi paz os doy. Aleluya._"
   }
 ]

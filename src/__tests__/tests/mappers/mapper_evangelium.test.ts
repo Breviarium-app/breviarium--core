@@ -5,9 +5,9 @@ import {EvangeliumSchemaOutput, LecturesSchema} from "@/prayer-manager-interface
 const prev: LecturesSchema = {
     id: 'mary_mother_of_god',
     cycle: 'ANY',
-    fecha_anio_liturgico: 45,
-    tiempo_ciclo_paridad: 45,
-    celebraciones_posibles: [58],
+    // fecha_anio_liturgico: 45,
+    // tiempo_ciclo_paridad: 45,
+    // celebraciones_posibles: [58],
     lecturas: [
         {ref: 178, texto: 223, type: 'FIRSTLECTURE'},
         {ref: 179, texto: 224, type: 'PSALM'},

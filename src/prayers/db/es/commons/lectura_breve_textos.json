@@ -1,5 +1,9 @@
 [
   {
+    "id": -1,
+    "val": "not applicable"
+  },
+  {
     "id": 4,
     "val": "Tú estás en medio de nosotros, Señor; tu nombre ha sido invocado sobre nosotros: no nos abandones, Señor, Dios nuestro."
   },
@@ -81,7 +85,7 @@
   },
   {
     "id": 81,
-    "val": "¿Quién podrá apartarnos del amor de Cristo?: ¿la aflicción?, ¿la angustia?, ¿la persecución?, ¿el hambre?, ¿la desnudez?, ¿el peligro?, ¿la espada? En todo esto vencemos fácilmente por aquel que nos ha amado."
+    "val": "¿Quién podrá apartarnos del amor de Cristo?: ¿la aflicción?, ¿la angustia?, ¿la persecución?, ¿el hambre?, ¿la desnudez?, ¿el peligro?, ¿la espada? En todo esto vencemos fácilmente por aquél que nos ha amado."
   },
   {
     "id": 82,
@@ -241,7 +245,7 @@
   },
   {
     "id": 157,
-    "val": "Ninguno de nosotros vive para sí mismo, y ninguno muere para sí mismo. Si vivimos, vivimos para el Señor; si morimos, morimos para el Señor. "
+    "val": "Ninguno de nosotros vive para sí mismo, y ninguno muere para sí mismo. Si vivimos, vivimos para el Señor; si morimos, morimos para el Señor; en la vida y en la muerte somos del Señor. Para esto murió y resucitó Cristo; para ser Señor de vivos y muertos."
   },
   {
     "id": 161,
@@ -277,7 +281,7 @@
   },
   {
     "id": 184,
-    "val": "Ahora estáis en Cristo Jesús. Ahora, por la sangre de Cristo, estáis cerca los que antes estabais lejos. Él es nuestra paz. Él ha hecho de los dos pueblos, judíos y gentiles, una sola cosa, derribando con su cuerpo el muro que los separaba: el odio. Él ha abolido la ley con sus mandamientos y reglas, haciendo las paces, para crear con los dos, en él, un solo hombre nuevo. Reconcilió con Dios a los dos pueblos, uniéndolos en un solo cuerpo mediante la cruz, dando muerte, en él, al odio."
+    "val": "Ahora estáis en Cristo Jesús. Ahora, por la sangre de Cristo, estáis cerca los que antes estabais lejos. Él es nuestra paz. Él ha hecho de los dos pueblos una sola cosa, derribando con su carne el muro que los separaba: el odio. Él ha abolido la ley con sus mandamientos y reglas, haciendo las paces, para crear con los dos, en él, un solo hombre nuevo. Reconcilió con Dios a los dos pueblos, uniéndolos en un solo cuerpo mediante la cruz, dando muerte, en él, al odio."
   },
   {
     "id": 186,
@@ -285,7 +289,7 @@
   },
   {
     "id": 189,
-    "val": "Hablad y actuad como quienes han de ser juzgados por una ley de libertad, Pues el juicio será sin misericordia para el que no practicó la misericordia. La misericordia se ríe del juicio."
+    "val": "Hablad y actuad como quienes han de ser juzgados por una ley de libertad, pues el juicio será sin misericordia para el que no practicó la misericordia. La misericordia se ríe del juicio."
   },
   {
     "id": 190,
@@ -341,7 +345,7 @@
   },
   {
     "id": 254,
-    "val": "Cuando encontraba palabras tuyas las devoraba; tus palabras eran mi gozo y la alegría de mi corazón, porque tu nombre fue pronunciado sobre mí,  Señor, Dios de los ejércitos."
+    "val": "Cuando encontraba palabras tuyas, las devoraba; tus palabras eran mi gozo y la alegría de mi corazón, porque tu nombre fue pronunciado sobre mí,  Señor, Dios de los ejércitos."
   },
   {
     "id": 260,
@@ -397,7 +401,7 @@
   },
   {
     "id": 410,
-    "val": "Derramaré sobre la dinastía de David y sobre los habitantes de Jerusalén un espíritu de gracia y de clemencia. Me miraran a mí, a quien traspasaron, harán llanto como llanto por el hijo único, y llorarán como se llora al primogénito. Aquel día será grande el luto de Jerusalén."
+    "val": "Derramaré sobre la dinastía de David y sobre los habitantes de Jerusalén un espíritu de gracia y de clemencia. Me mirarán a mí, a quien traspasaron, harán llanto como llanto por el hijo único, y llorarán como se llora al primogénito. Aquel día será grande el luto de Jerusalén."
   },
   {
     "id": 422,
@@ -425,7 +429,7 @@
   },
   {
     "id": 531,
-    "val": "Cuando Cristo entró en el mundo, dijo «Tú no quieres sacrificios ni ofrendas, pero me has preparado un cuerpo; no aceptas holocaustos ni víctimas expiatorias. Entonces yo dije lo que está escrito en el libro: \"Aquí estoy, oh Dios, para hacer tu voluntad.\"» Primero dice: «No quieres ni aceptas sacrificios ni ofrendas, holocaustos ni víctimas expiatorias», que se ofrecen según la ley. Después añade: «Aquí estoy yo para hacer tu voluntad.» Niega lo primero, para afirmar lo segundo. Y conforme a esa voluntad todos quedamos santificados por la oblación del cuerpo de Jesucristo, hecha una vez para siempre."
+    "val": "Cuando Cristo entró en el mundo, dijo «Tú no quieres sacrificios ni ofrendas, pero me has preparado un cuerpo; no aceptas holocaustos ni víctimas expiatorias. Entonces yo dije lo que está escrito en el libro: \"Aquí estoy, oh Dios para hacer tu voluntad.\"» Primero dice: «No quieres ni aceptas sacrificios ni ofrendas, holocaustos ni víctimas expiatorias», que se ofrecen según la ley. Después añade: «Aquí estoy yo para hacer tu voluntad.» Niega lo primero, para afirmar lo segundo. Y conforme a esa voluntad todos quedamos santificados por la oblación del cuerpo de Jesucristo, hecha una vez para siempre."
   },
   {
     "id": 545,
@@ -445,7 +449,7 @@
   },
   {
     "id": 667,
-    "val": "Una voz se escucha en Ramá: gemidos y llanto amargo: Raquel está llorando a sus hijos, y no se consuela, porque ya no existen."
+    "val": "Una voz se escucha en Ramá: gemido y llanto amargo: Raquel está llorando a sus hijos, y no se consuela, porque ya no existen."
   },
   {
     "id": 669,
@@ -525,7 +529,7 @@
   },
   {
     "id": 1179,
-    "val": "El Evangelio es la fuerza de salvación de Dios para todo el que cree. Porque en él se revela la justicia salvadora de Dios para los que creen, en virtud de su fe, como dice la Escritura: «el justo vivirá por su fe.»"
+    "val": "El Evangelio es la fuerza de salvación de Dios para todo el que cree. Porque en él se revela la justicia salvadora de Dios para los que creen, en virtud de su fe, como dice la Escritura: «El justo vivirá por su fe.»"
   },
   {
     "id": 1180,
@@ -541,7 +545,7 @@
   },
   {
     "id": 1183,
-    "val": "¿Qué es lo que te exige el Señor, tu Dios? Que temas al Señor, tu Dios, que sigas sus caminos y lo ames, que sirvas al Señor, tu Dios, con todo el corazón y toda el alma."
+    "val": "¿Qué es lo que te exige el Señor, tu Dios? Que temas al Señor, tu Dios, que sigas sus caminos y lo ames, que sirvas al Señor, tu Dios, con todo el corazón y con toda el alma."
   },
   {
     "id": 1184,
@@ -921,7 +925,7 @@
   },
   {
     "id": 1333,
-    "val": "Nuestro Dios es el Dios vivo que permanece siempre. Su reino no será destruido, su imperio dura hasta el fin. El salva y libra, hace signos y prodigios en el cielo y en la tierra."
+    "val": "Nuestro Dios es el Dios vivo que permanece siempre. Su reino no será destruido, su imperio dura hasta el fin. Él salva y libra, hace signos y prodigios en el cielo y en la tierra."
   },
   {
     "id": 1334,
@@ -1037,7 +1041,7 @@
   },
   {
     "id": 1428,
-    "val": "Paraos en los caminos a mirar, preguntad por la vieja senda: «¿Cuál es el buen camino?»; seguidlo, hallaréis reposo."
+    "val": "Paraos en los caminos a mirar, preguntad por la vieja senda: «¿Cuál es el buen camino?»; seguidlo, y hallaréis reposo."
   },
   {
     "id": 1436,
@@ -1313,7 +1317,7 @@
   },
   {
     "id": 2087,
-    "val": "Yo no me avergüenzo del Evangelio: es la fuerza de salvación de Dios para todo el que cree, primero para el judío, pero también para el griego. Porque en él se revela la justicia salvadora de Dios para los que creen, en virtud de su fe, como dice la Escritura: «el justo vivirá por su fe.»"
+    "val": "Yo no me avergüenzo del Evangelio: es la fuerza de salvación de Dios para todo el que cree, primero para el judío, pero también para el griego. Porque en él se revela la justicia salvadora de Dios para los que creen, en virtud de su fe, como dice la Escritura: «El justo vivirá por su fe.»"
   },
   {
     "id": 2100,
@@ -1641,7 +1645,7 @@
   },
   {
     "id": 3381,
-    "val": "Que vuestra caridad no sea una farsa; aborreced lo malo y apegaos a lo bueno. Como buenos hermanos, sed cariñosos unos con otros, estimando a los demás más que a uno mismo. En la actividad, no seáis descuidados; en el espíritu, manteneos ardientes. Servid constantemente al Señor. Que la esperanza os tenga alegres; estad firmes en la tribulación, sed asiduos en la oración."
+    "val": "Que vuestra caridad no sea una farsa; aborreced lo malo y apegaos a lo bueno. Como buenos hermanos, sed cariñosos unos con otros, estimando a los demás más que a uno mismo. En la actividad no seáis descuidados; en el espíritu, manteneos ardientes. Servid constantemente al Señor. Que la esperanza os tenga alegres; estad firmes en la tribulación, sed asiduos en la oración."
   },
   {
     "id": 3382,
@@ -1649,7 +1653,7 @@
   },
   {
     "id": 3383,
-    "val": "¡Qué abismo de generosidad, de sabiduría y de conocimiento, el de Dios! ¡Qué insondables sus decisiones y qué irrastreables sus caminos! ¿Quién conoció la mente del Señor? ¿Quién fue su consejero? ¿Quién le ha dado primero, para que él le devuelva? Él es el origen, guía y meta del universo. A él la gloria por los siglos. Amén."
+    "val": "¡Qué abismo de generosidad, de sabiduría y conocimiento, el de Dios! ¡Qué insondables sus decisiones y qué irrastreables sus caminos! ¿Quién conoció la mente del Señor? ¿Quién fue su consejero? ¿Quién le ha dado primero  para que Él le devuelva? Él es el origen, guía y meta del universo. A Él la gloria por los siglos. Amén."
   },
   {
     "id": 3384,
@@ -1673,7 +1677,7 @@
   },
   {
     "id": 3390,
-    "val": "Sabemos que a los que aman a Dios todo les sirve para el bien: a los que ha llamado conforme a su designio. A los que había escogido, Dios los predestinó a ser imagen de su Hijo, para que él fuera el primogénito de muchos hermanos. A los que predestinó, los llamó; a los que llamó, los justificó; a los que justificó, los glorificó."
+    "val": "Hermanos: Sabemos que a los que aman a Dios todo les sirve para el bien: a los que ha llamado conforme a su designio. A los que había escogido, Dios los predestinó a ser imagen de su Hijo, para que él fuera el primogénito de muchos hermanos. A los que predestinó, los llamó; a los que llamó, los justificó; a los que justificó, los glorificó."
   },
   {
     "id": 3393,
@@ -1697,7 +1701,7 @@
   },
   {
     "id": 3403,
-    "val": "¡Bendito sea Dios, Padre de nuestro Señor Jesucristo, Padre de misericordia y Dios del consuelo! Él nos alienta en nuestras luchas hasta el punto de poder nosotros alentar a los demás en cualquier lucha, repartiendo con ellos el ánimo que nosotros recibimos de Dios."
+    "val": "¡Bendito sea Dios, Padre de nuestro Señor Jesucristo, Padre de misericordia y Dios de todo consuelo! Él nos alienta en nuestras luchas hasta el punto de poder nosotros alentar a los demás en cualquier lucha, repartiendo con ellos el ánimo que nosotros recibimos de Dios."
   },
   {
     "id": 3404,
@@ -1733,7 +1737,7 @@
   },
   {
     "id": 3422,
-    "val": "El soltero se preocupa de los asuntos del Señor, buscando contentar al Señor; la mujer sin marido y la soltera se preocupan de los asuntos del Señor, consagrándose a ellos en cuerpo y alma."
+    "val": "El soltero se preocupa de los asuntos del Señor, buscando contentar al Señor; lo mismo, la mujer sin marido y la soltera se preocupan de los asuntos del Señor, consagrándose a ellos en cuerpo y alma."
   },
   {
     "id": 3423,
@@ -1757,7 +1761,7 @@
   },
   {
     "id": 3438,
-    "val": "Ahora que estáis purificados por vuestra obediencia a la verdad y habéis llegado a quereros sinceramente como hermanos, amaos unos a otros de corazón e intensamente. Mirad que habéis vuelto a nacer, y no de una semilla mortal, sino de una inmortal, por medio de la Palabra de Dios viva y duradera."
+    "val": "Ahora que estáis purificados por vuestra obediencia a la verdad y habéis llegado a quereros sinceramente como hermanos, amaos unos a otros de corazón e intensamente. Mirad que habéis vuelto a nacer, y no de una semilla mortal, sino de una inmortal, por medio de la palabra de Dios viva y duradera."
   },
   {
     "id": 3441,
@@ -1809,7 +1813,7 @@
   },
   {
     "id": 3478,
-    "val": "Dejad de denigraros unos a otros, hermanos. Quien denigra a su hermano o juzga a su hermano denigra a la ley y juzga a la ley; y, si juzgas a la ley, ya no la estás cumpliendo, eres su juez. Uno solo es legislador y juez: el que puede salvar y destruir. ¿Quién eres tú para juzgar al prójimo?"
+    "val": "Dejad de denigraros unos a otros, hermanos. Quien denigra a su hermano o juzga a su hermano, denigra a la ley y juzga a la ley; y, si juzgas a la ley, ya no la estás cumpliendo, eres su juez. Uno solo es legislador y juez: el que puede salvar y destruir. ¿Quién eres tú para juzgar al prójimo?"
   },
   {
     "id": 3479,
@@ -1841,7 +1845,7 @@
   },
   {
     "id": 3511,
-    "val": "Cristo padeció por nosotros, dejándonos un ejemplo para que sigamos sus huellas. Él no cometió pecado ni encontraron engaño en su boca; cuando lo insultaban, no devolvía el insulto; en su pasión no profería amenazas; al contrario, se ponía en manos del que juzga justamente."
+    "val": "Cristo padeció por nosotros, dejándonos un ejemplo para que sigamos sus huellas. Él no cometió pecado ni encontraron engaño en su boca; cuando lo insultaban, no devolvía el insulto; en su pasión no profería amenazas; al contrario, se ponía en manos del que juzga justamente. Cargado con nuestros pecados subió al leño, para que, muertos al pecado, vivamos para la justicia. Sus heridas nos han curado."
   },
   {
     "id": 3513,
@@ -1913,7 +1917,7 @@
   },
   {
     "id": 3643,
-    "val": "Los descendientes de Israel fueron adoptados como hijos, tienen la presencia de Dios, la alianza, la ley, el culto y las promesas. Suyos son los patriarcas, de quienes, según la carne, nació el Mesías, el que está por encima de todo: Dios bendito por los siglos. Amen."
+    "val": "Los descendientes de Israel fueron adoptados como hijos, tienen la presencia de Dios, la alianza, la ley, el culto y las promesas. Suyos son los patriarcas, de quienes, según la carne, nació el Mesías, el que está por encima de todo: Dios bendito por los siglos. Amén."
   },
   {
     "id": 3677,
@@ -1965,7 +1969,7 @@
   },
   {
     "id": 3916,
-    "val": "Cuando Cristo entró en el mundo, dijo «Tú no quieres sacrificios ni ofrendas, pero me has preparado un cuerpo; no aceptas holocaustos ni víctimas expiatorias. Entonces yo dije lo que está escrito en el libro: \"Aquí estoy, oh Dios, para hacer tu voluntad.\"»"
+    "val": "Cuando Cristo entró en el mundo, dijo «Tú no quieres sacrificios ni ofrendas, pero me has preparado un cuerpo; no aceptas holocaustos ni víctimas expiatorias. Entonces yo dije lo que está escrito en el libro: \"Aquí estoy, oh Dios para hacer tu voluntad.\"»"
   },
   {
     "id": 3937,

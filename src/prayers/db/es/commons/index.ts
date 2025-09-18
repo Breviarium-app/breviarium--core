@@ -1,4 +1,3 @@
-import antifonas from "./antifonas.json";
 import cantico_evangelico_antifonas from "./cantico_evangelico_antifonas.json";
 import celebraciones from "./celebraciones.json";
 import himnos from "./himnos.json";
@@ -24,7 +23,6 @@ import titulo_hora_liturgica from "./titulo_hora_liturgica.json";
 import invitatorios from "./invitatorios.json";
 
 export {
-    antifonas,
     cantico_evangelico_antifonas,
     celebraciones,
     himnos,

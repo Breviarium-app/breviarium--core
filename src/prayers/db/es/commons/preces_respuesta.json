@@ -1,7 +1,7 @@
 [
   {
-    "id": 0,
-    "val": "_Venga a nosotros tu reino, Señor._" 
+    "id": -1,
+    "val": "not applicable"
   },
   {
     "id": 1,
@@ -442,6 +442,10 @@
   {
     "id": 796,
     "val": "_Gloria a Dios en el cielo._"
+  },
+  {
+    "id": 1000,
+    "val": "_Venga a nosotros tu reino, Señor._"
   },
   {
     "id": 1097,

@@ -93,7 +93,7 @@ describe("Mapper Lectures", () => {
 
         expect(result.id).eq(post.id);
         expect(result.cycle).eq(post.cycle);
-        expect(result.celebraciones_posibles.length).eq(post.celebraciones_posibles.length);
+        // expect(result.celebraciones_posibles.length).eq(post.celebraciones_posibles.length);
         expect(result.lecturas.length).eq(post.lecturas.length);
         expect(result.lecturas[0].texto).eq(post.lecturas[0].texto);
         expect(result.lecturas[0].ref).eq(post.lecturas[0].ref);

@@ -48,7 +48,7 @@ const after = {
         '\n' +
         'Digan los fieles del Señor:\n' +
         'eterna es su misericordia.\n',
-    segundo_salmo_cita: 'Salmo 117-II:',
+    segundo_salmo_cita: 'Salmo 117-II',
     segundo_salmo_antifona: '',
     segundo_salmo_texto: 'Todos los pueblos me rodeaban,\n' +
         'en el nombre del Señor los rechacé;\n' +
@@ -78,8 +78,7 @@ const after = {
         '$℣. $El Señor se acordó de su misericordia. Aleluya.',
         '$℟. $Y de su fidelidad en favor de la casa de Israel. Aleluya.'
     ],
-    oracion_final: 'Oremos:\n' +
-        'Dios y Señor nuestro, que por la maternidad virginal de María entregaste a los hombres los bienes de la salvación, concédenos experimentar la intercesión de aquélla de quien hemos recibido a tu Hijo Jesucristo, el autor de la vida. Que vive y reina por los siglos de los siglos.'
+    oracion_final: 'Dios y Señor nuestro, que por la maternidad virginal de María entregaste a los hombres los bienes de la salvación, concédenos experimentar la intercesión de aquélla de quien hemos recibido a tu Hijo Jesucristo, el autor de la vida. Que vive y reina por los siglos de los siglos.'
 }
 
 

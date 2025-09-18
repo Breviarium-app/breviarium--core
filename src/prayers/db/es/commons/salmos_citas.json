@@ -1,5 +1,9 @@
 [
   {
+    "id": -1,
+    "val": "not applicable"
+  },
+  {
     "id": 1,
     "val": "Salmo 87: Oración de un hombre gravemente enfermo"
   },
@@ -41,7 +45,7 @@
   },
   {
     "id": 64,
-    "val": "Daniel 3, 57-88.56: Toda la creación alabe al Señor"
+    "val": "Daniel 3, 57-88. 56: Toda la creación alabe al Señor"
   },
   {
     "id": 65,
@@ -81,7 +85,7 @@
   },
   {
     "id": 74,
-    "val": "Salmo 99: Alegría de los que entran en el templo\nSi se ha rezado este salmo en el invitatorio, se reemplaza por el Salmo 94, que se encuentra más arriba."
+    "val": "Salmo 99: Alegría de los que entran en el templo\n\n_Si se ha rezado este salmo en el invitatorio, se reemplaza por el Salmo 94, que se encuentra más arriba._"
   },
   {
     "id": 78,
@@ -101,7 +105,7 @@
   },
   {
     "id": 82,
-    "val": "Eclesiástico 36, 1-7.13-16: Súplica en favor de la ciudad santa de Jerusalén"
+    "val": "Eclesiástico 36, 1-7. 13-16: Súplica en favor de la ciudad santa de Jerusalén"
   },
   {
     "id": 83,
@@ -137,7 +141,7 @@
   },
   {
     "id": 97,
-    "val": "Daniel 3, 26-29.34-41: Oración de Azarías en el horno"
+    "val": "Daniel 3, 26-29. 34-41: Oración de Azarías en el horno"
   },
   {
     "id": 98,
@@ -157,7 +161,7 @@
   },
   {
     "id": 111,
-    "val": "Salmo 23: Entrada solemne de Dios en su templo\nSi se ha rezado este salmo en el invitatorio, se reemplaza por el Salmo 94, que se encuentra más arriba."
+    "val": "Salmo 23: Entrada solemne de Dios en su templo\n\n_Si se ha rezado este salmo en el invitatorio, se reemplaza por el Salmo 94, que se encuentra más arriba._"
   },
   {
     "id": 112,
@@ -173,7 +177,7 @@
   },
   {
     "id": 115,
-    "val": "Judit 16, 2-3.15-19: Dios, creador del mundo y protector de su pueblo"
+    "val": "Judit 16, 2-3. 15-19: Dios, creador del mundo y protector de su pueblo"
   },
   {
     "id": 116,
@@ -197,11 +201,11 @@
   },
   {
     "id": 142,
-    "val": "Isaías 26, 1-4.7-9.12: Himno después de la victoria sobre el enemigo"
+    "val": "Isaías 26, 1-4. 7-9. 12: Himno después de la victoria sobre el enemigo"
   },
   {
     "id": 143,
-    "val": "Salmo 66: Que todos los pueblos alaben al Señor\nSi se ha rezado este salmo en el invitatorio, se reemplaza por el Salmo 94, que se encuentra más arriba."
+    "val": "Salmo 66: Que todos los pueblos alaben al Señor\n\n_Si se ha rezado este salmo en el invitatorio, se reemplaza por el Salmo 94, que se encuentra más arriba._"
   },
   {
     "id": 150,
@@ -209,7 +213,7 @@
   },
   {
     "id": 151,
-    "val": "Sabiduría 9, 1-6.9-11: Dame, Señor, la sabiduría"
+    "val": "Sabiduría 9, 1-6. 9-11: Dame, Señor, la sabiduría"
   },
   {
     "id": 152,
@@ -217,7 +221,7 @@
   },
   {
     "id": 154,
-    "val": "Habacuc 3, 2-4.13a.15-19: Juicio de Dios"
+    "val": "Habacuc 3, 2-4. 13a. 15-19: Juicio de Dios"
   },
   {
     "id": 155,
@@ -225,11 +229,11 @@
   },
   {
     "id": 156,
-    "val": "Salmo 5, 2-10.12-13: Oración de la mañana de un justo perseguido"
+    "val": "Salmo 5, 2-10. 12-13: Oración de la mañana de un justo perseguido"
   },
   {
     "id": 157,
-    "val": "1Cro 29, 10-13: Solo  a Dios honor y gloria"
+    "val": "1 Cro 29, 10-13: Solo a Dios honor y gloria"
   },
   {
     "id": 158,
@@ -237,11 +241,11 @@
   },
   {
     "id": 166,
-    "val": "Tobías 13, 10-13.15.16b-17a: Acción de gracias por la liberación del pueblo"
+    "val": "Tobías 13, 10-13. 15. 16b-17a: Acción de gracias por la liberación del pueblo"
   },
   {
     "id": 178,
-    "val": "Exodo 15, 1-4.8-13.17-18: Himno a Dios, después de la victoria del mar Rojo"
+    "val": "Exodo 15, 1-4. 8-13. 17-18: Himno a Dios, después de la victoria del mar Rojo"
   },
   {
     "id": 189,
@@ -321,23 +325,23 @@
   },
   {
     "id": 3352,
-    "val": "Salmo 117-II:"
+    "val": "Salmo 117-II"
   },
   {
     "id": 3353,
-    "val": "Salmo 117-III:"
+    "val": "Salmo 117-III"
   },
   {
     "id": 3354,
-    "val": "Salmo 22: El Buen Pastor"
+    "val": "Salmo 22: El buen pastor"
   },
   {
     "id": 3355,
-    "val": "Salmo 75 I: Acción de gracias por la victoria"
+    "val": "Salmo 75-I: Acción de gracias por la victoria"
   },
   {
     "id": 3356,
-    "val": "Salmo 75 II:"
+    "val": "Salmo 75-II"
   },
   {
     "id": 3363,
@@ -345,7 +349,7 @@
   },
   {
     "id": 3364,
-    "val": "Salmo 58, 2-5.10-11.17-18: Oración pidiendo la protección de Dios contra los enemigos"
+    "val": "Salmo 58, 2-5. 10-11. 17-18: Oración pidiendo la protección de Dios contra los enemigos"
   },
   {
     "id": 3365,
@@ -357,11 +361,11 @@
   },
   {
     "id": 3367,
-    "val": "Salmo 39, 2-14.17-18-I: Acción de gracias y petición de auxilio"
+    "val": "Salmo 39, 2-14. 17-18-I: Acción de gracias y petición de auxilio"
   },
   {
     "id": 3368,
-    "val": "Salmo 39, 2-14.17-18-II:"
+    "val": "Salmo 39, 2-14. 17-18-II"
   },
   {
     "id": 3369,
@@ -373,7 +377,7 @@
   },
   {
     "id": 3371,
-    "val": "Salmo 87-II:"
+    "val": "Salmo 87-II"
   },
   {
     "id": 3372,
@@ -385,15 +389,15 @@
   },
   {
     "id": 3374,
-    "val": "Salmo 73-II:"
+    "val": "Salmo 73-II"
   },
   {
     "id": 3375,
-    "val": "Salmo 39, 2-14.17-18: Acción de gracias y petición de auxilio"
+    "val": "Salmo 39, 2-14. 17-18: Acción de gracias y petición de auxilio"
   },
   {
     "id": 3376,
-    "val": "Salmo 53, 3-6.8-9: Petición de auxilio"
+    "val": "Salmo 53, 3-6. 8-9: Petición de auxilio"
   },
   {
     "id": 3381,
@@ -401,11 +405,11 @@
   },
   {
     "id": 3382,
-    "val": "Salmo 21-II:"
+    "val": "Salmo 21-II"
   },
   {
     "id": 3383,
-    "val": "Salmo 21-III:"
+    "val": "Salmo 21-III"
   },
   {
     "id": 3390,
@@ -413,11 +417,11 @@
   },
   {
     "id": 3391,
-    "val": "Salmo 54, 2-15.17-24-A: Oración ante la traición de un amigo"
+    "val": "Salmo 54, 2-15. 17-24-I: Oración ante la traición de un amigo"
   },
   {
     "id": 3392,
-    "val": "Salmo 54, 2-15.17-24-B:"
+    "val": "Salmo 54, 2-15. 17-24-II"
   },
   {
     "id": 3393,
@@ -425,7 +429,7 @@
   },
   {
     "id": 3394,
-    "val": "Salmo 12: Suplica del justo que confía en el Señor"
+    "val": "Salmo 12: Súplica del justo que confía en el Señor"
   },
   {
     "id": 3395,
@@ -441,7 +445,7 @@
   },
   {
     "id": 3401,
-    "val": "Salmo 27, 1-3.6-9: Súplica y acción de gracias"
+    "val": "Salmo 27, 1-3. 6-9: Súplica y acción de gracias"
   },
   {
     "id": 3408,
@@ -453,7 +457,7 @@
   },
   {
     "id": 3410,
-    "val": "Salmo 139, 2-9.13-14: Tú eres mi refugio"
+    "val": "Salmo 139, 2-9. 13-14: Tú eres mi refugio"
   },
   {
     "id": 3417,
@@ -485,7 +489,7 @@
   },
   {
     "id": 3437,
-    "val": "Salmo 24-II:"
+    "val": "Salmo 24-II"
   },
   {
     "id": 3440,
@@ -497,7 +501,7 @@
   },
   {
     "id": 3446,
-    "val": "Salmo 7-II:"
+    "val": "Salmo 7-II"
   },
   {
     "id": 3450,
@@ -509,7 +513,7 @@
   },
   {
     "id": 3452,
-    "val": "Salmo 33-II:"
+    "val": "Salmo 33-II"
   },
   {
     "id": 3453,
@@ -533,7 +537,7 @@
   },
   {
     "id": 3464,
-    "val": "Salmo 70-II:"
+    "val": "Salmo 70-II"
   },
   {
     "id": 3469,
@@ -541,7 +545,7 @@
   },
   {
     "id": 3470,
-    "val": "Salmo 95-II:"
+    "val": "Salmo 95-II"
   },
   {
     "id": 3477,
@@ -553,7 +557,7 @@
   },
   {
     "id": 3479,
-    "val": "Salmo 16-II:"
+    "val": "Salmo 16-II"
   },
   {
     "id": 3483,
@@ -565,7 +569,7 @@
   },
   {
     "id": 3487,
-    "val": "Salmo 78, 1-5.8-11.13: Lamentación ante la destrucción de Jerusalén"
+    "val": "Salmo 78, 1-5. 8-11. 13: Lamentación ante la destrucción de Jerusalén"
   },
   {
     "id": 3489,
@@ -585,7 +589,7 @@
   },
   {
     "id": 3494,
-    "val": "Salmo 44-II:"
+    "val": "Salmo 44-II"
   },
   {
     "id": 3498,
@@ -601,11 +605,11 @@
   },
   {
     "id": 3502,
-    "val": "Salmo 93 I: Invocación a la justicia de Dios contra los opresores"
+    "val": "Salmo 93-I: Invocación a la justicia de Dios contra los opresores"
   },
   {
     "id": 3503,
-    "val": "Salmo 93 II:"
+    "val": "Salmo 93-II"
   },
   {
     "id": 3531,
@@ -613,7 +617,7 @@
   },
   {
     "id": 3532,
-    "val": "Salmo 55, 2-7b.9-14: Confianza en la palabra de Dios"
+    "val": "Salmo 55, 2-7b. 9-14: Confianza en la palabra de Dios"
   },
   {
     "id": 3564,
@@ -661,15 +665,15 @@
   },
   {
     "id": 5005,
-    "val": "Salmo 85, 1-10:"
+    "val": "Salmo 85, 1-10"
   },
   {
     "id": 5773,
-    "val": "Salmo 29-I:"
+    "val": "Salmo 29-I"
   },
   {
     "id": 5774,
-    "val": "Salmo 29-II:"
+    "val": "Salmo 29-II"
   },
   {
     "id": 9930,
@@ -677,23 +681,23 @@
   },
   {
     "id": 9931,
-    "val": "Salmo 135-II:"
+    "val": "Salmo 135-II"
   },
   {
     "id": 9932,
-    "val": "Salmo 135-III:"
+    "val": "Salmo 135-III"
   },
   {
     "id": 9933,
-    "val": "Salmo 68, 2-22.30-37-I: Me devora el celo de tu templo"
+    "val": "Salmo 68, 2-22. 30-37-I: Me devora el celo de tu templo"
   },
   {
     "id": 9934,
-    "val": "Salmo 68, 2-22.30-37-II:"
+    "val": "Salmo 68, 2-22. 30-37-II"
   },
   {
     "id": 9935,
-    "val": "Salmo 68, 2-22.30-37-III:"
+    "val": "Salmo 68, 2-22. 30-37-III"
   },
   {
     "id": 9939,
@@ -701,11 +705,11 @@
   },
   {
     "id": 9940,
-    "val": "Salmo 36-II:"
+    "val": "Salmo 36-II"
   },
   {
     "id": 9941,
-    "val": "Salmo 36-III:"
+    "val": "Salmo 36-III"
   },
   {
     "id": 9945,
@@ -713,11 +717,11 @@
   },
   {
     "id": 9946,
-    "val": "Salmo 101-II:"
+    "val": "Salmo 101-II"
   },
   {
     "id": 9947,
-    "val": "Salmo 101-III:"
+    "val": "Salmo 101-III"
   },
   {
     "id": 9951,
@@ -725,7 +729,7 @@
   },
   {
     "id": 9952,
-    "val": "Salmo 9 B-II:"
+    "val": "Salmo 9 B-II"
   },
   {
     "id": 9953,
@@ -737,11 +741,11 @@
   },
   {
     "id": 9961,
-    "val": "Salmo 88, 2-38-II:"
+    "val": "Salmo 88, 2-38-II"
   },
   {
     "id": 9962,
-    "val": "Salmo 88, 2-38-III:"
+    "val": "Salmo 88, 2-38-III"
   },
   {
     "id": 9963,
@@ -749,11 +753,11 @@
   },
   {
     "id": 9964,
-    "val": "Salmo 106 II:"
+    "val": "Salmo 106 II"
   },
   {
     "id": 9965,
-    "val": "Salmo 106 III:"
+    "val": "Salmo 106 III"
   },
   {
     "id": 9966,
@@ -761,11 +765,11 @@
   },
   {
     "id": 9967,
-    "val": "Salmo 103-II:"
+    "val": "Salmo 103-II"
   },
   {
     "id": 9968,
-    "val": "Salmo 103-III:"
+    "val": "Salmo 103-III"
   },
   {
     "id": 9972,
@@ -785,7 +789,7 @@
   },
   {
     "id": 9976,
-    "val": "Salmo 38-II:"
+    "val": "Salmo 38-II"
   },
   {
     "id": 9977,
@@ -797,11 +801,11 @@
   },
   {
     "id": 9979,
-    "val": "Salmo 67-II:"
+    "val": "Salmo 67-II"
   },
   {
     "id": 9980,
-    "val": "Salmo 67-III:"
+    "val": "Salmo 67-III"
   },
   {
     "id": 9987,
@@ -809,11 +813,11 @@
   },
   {
     "id": 9988,
-    "val": "Salmo 17, 31-51-V:"
+    "val": "Salmo 17, 31-51-V"
   },
   {
     "id": 9989,
-    "val": "Salmo 17, 31-51-VI:"
+    "val": "Salmo 17, 31-51-VI"
   },
   {
     "id": 9990,
@@ -821,11 +825,11 @@
   },
   {
     "id": 9991,
-    "val": "Salmo 43-II:"
+    "val": "Salmo 43-II"
   },
   {
     "id": 9992,
-    "val": "Salmo 43-III:"
+    "val": "Salmo 43-III"
   },
   {
     "id": 9996,
@@ -837,7 +841,7 @@
   },
   {
     "id": 9998,
-    "val": "Salmo 9 A-II:"
+    "val": "Salmo 9 A-II"
   },
   {
     "id": 10002,
@@ -845,11 +849,11 @@
   },
   {
     "id": 10003,
-    "val": "Salmo 49-II:"
+    "val": "Salmo 49-II"
   },
   {
     "id": 10004,
-    "val": "Salmo 49-III:"
+    "val": "Salmo 49-III"
   },
   {
     "id": 10008,
@@ -857,11 +861,11 @@
   },
   {
     "id": 10009,
-    "val": "Salmo 37-II:"
+    "val": "Salmo 37-II"
   },
   {
     "id": 10010,
-    "val": "Salmo 37-III:"
+    "val": "Salmo 37-III"
   },
   {
     "id": 10014,
@@ -873,15 +877,15 @@
   },
   {
     "id": 10017,
-    "val": "Salmo 34, 1-2.3c.9-19.22-23.27-28-I: Súplica contra los perseguidores injustos"
+    "val": "Salmo 34, 1-2. 3c. 9-19. 22-23. 27-28-I: Súplica contra los perseguidores injustos"
   },
   {
     "id": 10018,
-    "val": "Salmo 34, 1-2.3c.9-19.22-23.27-28-II:"
+    "val": "Salmo 34, 1-2. 3c. 9-19. 22-23. 27-28-II"
   },
   {
     "id": 10019,
-    "val": "Salmo 34, 1-2.3c.9-19.22-23.27-28-III:"
+    "val": "Salmo 34, 1-2. 3c. 9-19. 22-23. 27-28-III"
   },
   {
     "id": 10020,
@@ -889,11 +893,11 @@
   },
   {
     "id": 10021,
-    "val": "Salmo 105-II:"
+    "val": "Salmo 105-II"
   },
   {
     "id": 10022,
-    "val": "Salmo 105-III:"
+    "val": "Salmo 105-III"
   },
   {
     "id": 10026,
@@ -901,11 +905,11 @@
   },
   {
     "id": 10027,
-    "val": "Salmo 77, 1-39-II:"
+    "val": "Salmo 77, 1-39-II"
   },
   {
     "id": 10028,
-    "val": "Salmo 77, 1-39-III:"
+    "val": "Salmo 77, 1-39-III"
   },
   {
     "id": 10032,
@@ -917,11 +921,11 @@
   },
   {
     "id": 10054,
-    "val": "Salmo 104-II:"
+    "val": "Salmo 104-II"
   },
   {
     "id": 10055,
-    "val": "Salmo 104-III:"
+    "val": "Salmo 104-III"
   },
   {
     "id": 10057,
@@ -929,7 +933,7 @@
   },
   {
     "id": 10058,
-    "val": "Salmo 65 II:"
+    "val": "Salmo 65 II"
   },
   {
     "id": 10059,
@@ -937,11 +941,11 @@
   },
   {
     "id": 10060,
-    "val": "Salmo 17, 2-30-II:"
+    "val": "Salmo 17, 2-30-II"
   },
   {
     "id": 10061,
-    "val": "Salmo 17, 2-30-III:"
+    "val": "Salmo 17, 2-30-III"
   },
   {
     "id": 10062,
@@ -949,23 +953,23 @@
   },
   {
     "id": 10063,
-    "val": "Salmo 72-II:"
+    "val": "Salmo 72-II"
   },
   {
     "id": 10064,
-    "val": "Salmo 72-III:"
+    "val": "Salmo 72-III"
   },
   {
     "id": 10089,
-    "val": "Salmo 30, 2-17.20-25-I: Súplica confiada de un afligido"
+    "val": "Salmo 30, 2-17. 20-25-I: Súplica confiada de un afligido"
   },
   {
     "id": 10090,
-    "val": "Salmo 30, 2-17.20-25-II:"
+    "val": "Salmo 30, 2-17. 20-25-II"
   },
   {
     "id": 10091,
-    "val": "Salmo 30, 2-17.20-25-III:"
+    "val": "Salmo 30, 2-17. 20-25-III"
   },
   {
     "id": 10098,
@@ -973,7 +977,7 @@
   },
   {
     "id": 10099,
-    "val": "Salmo 88, 39-53-V:"
+    "val": "Salmo 88, 39-53-V"
   },
   {
     "id": 10101,
@@ -981,11 +985,11 @@
   },
   {
     "id": 10102,
-    "val": "Salmo 77, 40-72-V:"
+    "val": "Salmo 77, 40-72-V"
   },
   {
     "id": 10103,
-    "val": "Salmo 77, 40-72-VI:"
+    "val": "Salmo 77, 40-72-VI"
   },
   {
     "id": 10110,
@@ -997,7 +1001,7 @@
   },
   {
     "id": 10112,
-    "val": "Salmo 131-II:"
+    "val": "Salmo 131-II"
   },
   {
     "id": 10119,
@@ -1005,11 +1009,11 @@
   },
   {
     "id": 10120,
-    "val": "Salmo 144-II:"
+    "val": "Salmo 144-II"
   },
   {
     "id": 10121,
-    "val": "Salmo 144-III:"
+    "val": "Salmo 144-III"
   },
   {
     "id": 10128,
@@ -1017,27 +1021,27 @@
   },
   {
     "id": 10129,
-    "val": "Salmo 102-II:"
+    "val": "Salmo 102-II"
   },
   {
     "id": 10130,
-    "val": "Salmo 102-III:"
+    "val": "Salmo 102-III"
   },
   {
     "id": 10221,
-    "val": "Salmo 54, 2-15.17-24-I: Oración ante la traición de un amigo"
+    "val": "Salmo 54, 2-15. 17-24-I: Oración ante la traición de un amigo"
   },
   {
     "id": 10222,
-    "val": "Salmo 54, 2-15.17-24-II:"
+    "val": "Salmo 54, 2-15. 17-24-II"
   },
   {
     "id": 10223,
-    "val": "Salmo 54, 2-15.17-24-III:"
+    "val": "Salmo 54, 2-15. 17-24-III"
   },
   {
     "id": 10290,
-    "val": "Salmo 20, 2-8.14: Acción de gracias por la victoria del rey"
+    "val": "Salmo 20, 2-8. 14: Acción de gracias por la victoria del rey"
   },
   {
     "id": 10291,
@@ -1045,11 +1049,11 @@
   },
   {
     "id": 10292,
-    "val": "Salmo 91 II:"
+    "val": "Salmo 91 II"
   },
   {
     "id": 10372,
-    "val": "Salmo 39, 2-13:"
+    "val": "Salmo 39, 2-13"
   },
   {
     "id": 10405,
@@ -1057,7 +1061,7 @@
   },
   {
     "id": 10447,
-    "val": "Salmo 21, 2-23:"
+    "val": "Salmo 21, 2-23"
   },
   {
     "id": 10448,
@@ -1069,7 +1073,7 @@
   },
   {
     "id": 10508,
-    "val": "Salmo 32-II:"
+    "val": "Salmo 32-II"
   },
   {
     "id": 10598,
@@ -1085,7 +1089,7 @@
   },
   {
     "id": 10775,
-    "val": "Salmo 71-II:"
+    "val": "Salmo 71-II"
   },
   {
     "id": 10854,
@@ -1093,7 +1097,7 @@
   },
   {
     "id": 11025,
-    "val": "Salmo 109, 1-5.7: El Mesías, Rey y Sacerdote"
+    "val": "Salmo 109, 1-5. 7: El Mesías, Rey y Sacerdote"
   },
   {
     "id": 11026,
@@ -1101,7 +1105,7 @@
   },
   {
     "id": 11027,
-    "val": "Apocalipsis 19, 1-2.5-7: Las bodas del Cordero"
+    "val": "Apocalipsis 19, 1-2. 5-7: Las bodas del Cordero"
   },
   {
     "id": 11030,
@@ -1117,7 +1121,7 @@
   },
   {
     "id": 11035,
-    "val": "Salmo 134-II:"
+    "val": "Salmo 134-II"
   },
   {
     "id": 11036,
@@ -1129,7 +1133,7 @@
   },
   {
     "id": 11041,
-    "val": "Salmo 135-II:"
+    "val": "Salmo 135-II"
   },
   {
     "id": 11042,
@@ -1141,11 +1145,11 @@
   },
   {
     "id": 11047,
-    "val": "Salmo 48-II:"
+    "val": "Salmo 48-II"
   },
   {
     "id": 11048,
-    "val": "Apocalipsis 4, 11; 5, 9.10.12: Himno de los redimidos"
+    "val": "Apocalipsis 4, 11; 5, 9. 10. 12: Himno de los redimidos"
   },
   {
     "id": 11052,
@@ -1189,7 +1193,7 @@
   },
   {
     "id": 11077,
-    "val": "Salmo 26-II:"
+    "val": "Salmo 26-II"
   },
   {
     "id": 11089,
@@ -1201,7 +1205,7 @@
   },
   {
     "id": 11128,
-    "val": "Salmo 144-B:"
+    "val": "Salmo 144-B"
   },
   {
     "id": 11195,
@@ -1213,11 +1217,11 @@
   },
   {
     "id": 11208,
-    "val": "Salmo 138, 1-18.23-24 I: Dios está en todas partes y lo ve todo"
+    "val": "Salmo 138, 1-18. 23-24 I: Dios está en todas partes y lo ve todo"
   },
   {
     "id": 11209,
-    "val": "Salmo 138, 1-18.23-24 II: Señor, tú me conoces"
+    "val": "Salmo 138, 1-18. 23-24 II: Señor, tú me conoces"
   },
   {
     "id": 11256,
@@ -1225,7 +1229,7 @@
   },
   {
     "id": 11257,
-    "val": "Salmo 143-II:"
+    "val": "Salmo 143-II"
   },
   {
     "id": 11281,
@@ -1237,14 +1241,14 @@
   },
   {
     "id": 12185,
-    "val": "Apocalipsis 19 / Apocalipsis 15:"
+    "val": "Apocalipsis 19 / Apocalipsis 15"
   },
   {
     "id": 12275,
-    "val": "Apocalipsis 19 / Colosenses 1:"
+    "val": "Apocalipsis 19 / Colosenses 1"
   },
   {
     "id": 13137,
-    "val": "Salmo 24, 1-11:"
+    "val": "Salmo 24, 1-11"
   }
 ]
