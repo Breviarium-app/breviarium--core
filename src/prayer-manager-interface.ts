@@ -341,5 +341,5 @@ export type LiturgyInformationOutput = {
     seasons?: string[];
     precedence?: string;
     periods?: string[];
-    calendar?: object;
+    calendar?: any;
 }
