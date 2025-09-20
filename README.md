@@ -85,3 +85,7 @@ make test
 # for windows users:
 npm run test
 ```
+
+## Changelog
+
+See [Changelog.md](./CHANGELOG.md) for breaking changes.
