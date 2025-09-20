@@ -107,7 +107,6 @@ export function searchAllPrayersForDay(prayer_collection: any[], dayCalendar: an
     prayerOptions.push(firstFound)
 
     const ferialDay = dayCalendar.weekday?.id
-    console.log("ferialDay", ferialDay)
     const ferialData = prayer_collection.find((element: any) => element.id === ferialDay)
 
     if (ferialData) {

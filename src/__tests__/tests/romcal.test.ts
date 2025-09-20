@@ -6,7 +6,6 @@ describe("Romcal module", () => {
     it("getLiturgyInformation OK", async () => {
         const breviarium = new Breviarium();
         const result = await breviarium.getLiturgyInformation(new Date(2025, 0, 1))
-        console.log(result)
         const expected = {
             psaltery_week: 'I',
             cycle: 'C',
