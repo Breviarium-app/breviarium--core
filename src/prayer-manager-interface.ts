@@ -6,7 +6,7 @@ export interface PrayerManagerInterface {
 
     getLaudes(date?: Date): Promise<LaudesSchemaOutput[] | undefined>;
 
-    getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined>;
+    getVesperae(date?: Date): Promise<VesperaeSchemaOutput[] | undefined>;
 
     getTertia(date?: Date): Promise<IntermediateSchemaOutput | undefined>;
 
@@ -160,7 +160,6 @@ export type IntermediateSchemaOutput = {
 export type VesperaeSchema = {
     id: string;
     cycle: string;
-    dia_semana_tiempo: number;
     primera_visp: boolean;
     himno: number;
     s1_c: number;
@@ -185,7 +184,6 @@ export type VesperaeSchema = {
 export type VesperaeSchemaOutput = {
     id: string;
     cycle: string;
-    dia_semana_tiempo: string;
     primeras_visperas: boolean;
     himno: string;
     primer_salmo_cita: string;

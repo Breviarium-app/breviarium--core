@@ -92,28 +92,28 @@ const post = {
 describe("Mapper Vesperae", () => {
     it("mapper Vesperae", () => {
 
-        const result = mapper_vesperae(prev);
+        const result = mapper_vesperae([prev]);
 
         assert(result !== undefined);
 
-        expect(result.id).eq(post.id);
-        expect(result.cycle).eq(post.cycle);
-        expect(result.himno).contains(post.himno);
-        expect(result.primer_salmo_cita).contains(post.primer_salmo_cita);
-        expect(result.primer_salmo_antifona).contains(post.primer_salmo_antifona);
-        expect(result.primer_salmo_texto).contains(post.primer_salmo_texto);
-        expect(result.segundo_salmo_cita).contains(post.segundo_salmo_cita);
-        expect(result.segundo_salmo_antifona).contains(post.segundo_salmo_antifona);
-        expect(result.segundo_salmo_texto).contains(post.segundo_salmo_texto);
-        expect(result.lectura_biblica).contains(post.lectura_biblica);
-        expect(result.lectura_biblica_cita).contains(post.lectura_biblica_cita);
-        expect(result.responsorios[0]).contains(post.responsorios[0]);
-        expect(result.cantico_evangelico_antifona).contains(post.cantico_evangelico_antifona);
-        expect(result.preces_intro).contains(post.preces_intro);
-        expect(result.preces_respuesta).contains(post.preces_respuesta);
-        expect(result.preces_contenido[0]).contains(post.preces_contenido[0]);
-        expect(result.invitacion_padrenuestro).contains(post.invitacion_padrenuestro);
-        expect(result.oracion_final).contains(post.oracion_final);
+        expect(result[0].id).eq(post.id);
+        expect(result[0].cycle).eq(post.cycle);
+        expect(result[0].himno).contains(post.himno);
+        expect(result[0].primer_salmo_cita).contains(post.primer_salmo_cita);
+        expect(result[0].primer_salmo_antifona).contains(post.primer_salmo_antifona);
+        expect(result[0].primer_salmo_texto).contains(post.primer_salmo_texto);
+        expect(result[0].segundo_salmo_cita).contains(post.segundo_salmo_cita);
+        expect(result[0].segundo_salmo_antifona).contains(post.segundo_salmo_antifona);
+        expect(result[0].segundo_salmo_texto).contains(post.segundo_salmo_texto);
+        expect(result[0].lectura_biblica).contains(post.lectura_biblica);
+        expect(result[0].lectura_biblica_cita).contains(post.lectura_biblica_cita);
+        expect(result[0].responsorios[0]).contains(post.responsorios[0]);
+        expect(result[0].cantico_evangelico_antifona).contains(post.cantico_evangelico_antifona);
+        expect(result[0].preces_intro).contains(post.preces_intro);
+        expect(result[0].preces_respuesta).contains(post.preces_respuesta);
+        expect(result[0].preces_contenido[0]).contains(post.preces_contenido[0]);
+        expect(result[0].invitacion_padrenuestro).contains(post.invitacion_padrenuestro);
+        expect(result[0].oracion_final).contains(post.oracion_final);
     });
 
 });

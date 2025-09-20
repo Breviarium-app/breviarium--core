@@ -1,7 +1,6 @@
 export type TableCommonName =
   | "antifonas"
   | "cantico_evangelico_antifonas"
-  | "celebraciones"
   | "invitatorios"
   | "himnos"
   | "invitacion_padrenuestro"

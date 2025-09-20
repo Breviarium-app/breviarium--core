@@ -116,7 +116,7 @@ export function searchAllPrayersForDay(prayer_collection: any[], dayCalendar: an
 
 }
 
-export function mergeLaudesContent(items: any[]): any[] {
+export function mergeContentReturnTwo(items: any[]): any[] {
     // supossed to have 2 elements at most
     if (items.length > 1) {
         const newFirst = mergeObjects(items[0], items[1]);

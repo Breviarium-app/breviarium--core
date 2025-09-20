@@ -26,12 +26,7 @@ import {mapper_officium} from "@/prayers/mappers/mapper_officium.ts";
 import {mapper_lectures} from "@/prayers/mappers/mapper_lectures.ts";
 import {mapper_completorium} from "@/prayers/mappers/mapper_completorium.ts";
 import {mapper_evangelium} from "@/prayers/mappers/mapper_evangelium.ts";
-import {
-    mergeContentReturnOnlyOne,
-    mergeLaudesContent,
-    searchAllPrayersForDay,
-    searchPrayerForDay
-} from "@/prayers/utils.ts";
+import {mergeContentReturnOnlyOne, mergeContentReturnTwo, searchAllPrayersForDay} from "@/prayers/utils.ts";
 import {mapper_intermediate} from "@/prayers/mappers/mapper_intermediate.ts";
 
 
@@ -48,12 +43,12 @@ export class PrayerManager implements PrayerManagerInterface {
     async getLaudes(date?: Date): Promise<LaudesSchemaOutput[] | undefined> {
         const dayCalendar = await searchDay(date);
 
-        return mapper_laudes(mergeLaudesContent(searchAllPrayersForDay(all_laudes, dayCalendar)));
+        return mapper_laudes(mergeContentReturnTwo(searchAllPrayersForDay(all_laudes, dayCalendar)));
     }
 
-    async getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined> {
+    async getVesperae(date?: Date): Promise<VesperaeSchemaOutput[] | undefined> {
         const dayCalendar = await searchDay(date);
-        return mapper_vesperae(searchPrayerForDay(all_vesperae, dayCalendar));
+        return mapper_vesperae(mergeContentReturnTwo(searchAllPrayersForDay(all_vesperae, dayCalendar)));
     }
 
     async getTertia(date?: Date): Promise<IntermediateSchemaOutput | undefined> {

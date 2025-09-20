@@ -47,7 +47,7 @@ export default class Breviarium implements BreviariumInterface {
         return this.#prayerManager.getLaudes(date || this.getCurrentDate());
     }
 
-    async getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined> {
+    async getVesperae(date?: Date): Promise<VesperaeSchemaOutput[] | undefined> {
         return this.#prayerManager.getVesperae(date || this.getCurrentDate());
     }
 

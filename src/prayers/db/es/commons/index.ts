@@ -1,5 +1,4 @@
 import cantico_evangelico_antifonas from "./cantico_evangelico_antifonas.json";
-import celebraciones from "./celebraciones.json";
 import himnos from "./himnos.json";
 import invitacion_padrenuestro from './invitacion_padrenuestro.json';
 import lectura_breve_textos from "./lectura_breve_textos.json";
@@ -23,7 +22,6 @@ import invitatorios from "./invitatorios.json";
 
 export {
     cantico_evangelico_antifonas,
-    celebraciones,
     himnos,
     invitacion_padrenuestro,
     lectura_breve_textos,

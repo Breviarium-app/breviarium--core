@@ -123,8 +123,8 @@ describe("Breviarium module", () => {
         const result = await breviarium.getVesperae(new Date(2025, 0, 1));
 
         assert(result !== undefined);
-        expect(result.id.length).to.be.greaterThan(1);
-        expect(result.id).eq('mary_mother_of_god');
+        expect(result[0].id.length).to.be.greaterThan(1);
+        expect(result[0].id).eq('mary_mother_of_god');
     });
 
     it("getInvitatoriumPsalms", async () => {
@@ -225,6 +225,41 @@ describe("Breviarium module", () => {
             assert(data !== undefined);
 
             assert(data.id == 'andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs');
+            assert(data.primer_salmo_cita.length > 0);
+            assert(data.segundo_salmo_texto.length > 0);
+            assert(data.tercer_salmo_texto.length > 0);
+        });
+    });
+    it("getSexta should return filled option if memory with partial data", () => {
+        // on andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs also possible
+        // ordinary_time_24_saturday
+
+        const breviarium = new Breviarium();
+        breviarium.getSexta(new Date(2025, 8, 20)).then(data => {
+            assert(data !== undefined);
+
+            assert(data.id == 'andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs');
+            assert(data.primer_salmo_cita.length > 0);
+            assert(data.segundo_salmo_texto.length > 0);
+            assert(data.tercer_salmo_texto.length > 0);
+        });
+    });
+
+    it("getVesperae should return filled option if memory with partial data", () => {
+        // on andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs also possible
+        // ordinary_time_24_saturday
+
+        const breviarium = new Breviarium();
+        breviarium.getVesperae(new Date(2025, 8, 20)).then(data => {
+            console.log()
+            assert(data !== undefined);
+            assert(data[0].id == 'andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs');
+            for (let datum of data) {
+                assert(datum.primer_salmo_cita.length > 0);
+                assert(datum.segundo_salmo_texto.length > 0);
+                assert(datum.tercer_salmo_texto.length > 0);
+            }
+
         });
     });
 
