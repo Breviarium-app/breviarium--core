@@ -127,10 +127,23 @@ export function mergeLaudesContent(items: any[]): any[] {
 
 }
 
+export function mergeOfficiumContent(items: any[]): any {
+    // supossed to have 2 elements at most, return 1
+    if (items.length > 1) {
+        return mergeObjects(items[0], items[1]);
+    } else {
+        return items
+    }
+
+}
+
 function mergeObjects(target: any, source: any) {
     const result = {...target}; // Create a shallow copy of the target object
     for (const key in result) {
         if (result[key] === -1 && source.hasOwnProperty(key)) {
+            result[key] = source[key]; // Replace -1 with value from source
+        }
+        if (Array.isArray(result[key]) && result[key][0] === -1 && source.hasOwnProperty(key)) {
             result[key] = source[key]; // Replace -1 with value from source
         }
     }
