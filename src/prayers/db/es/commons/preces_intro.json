@@ -1,7 +1,7 @@
 [
   {
-    "id": 0,
-    "val": "Oremos, hermanos, a Cristo Rey, que es anterior a todo, y en quien todo se mantiene unido, y pidamos:"
+    "id": -1,
+    "val": ""
   },
   {
     "id": 1,
@@ -514,6 +514,10 @@
   {
     "id": 796,
     "val": "Celebremos las maravillas del Señor, que nos ha traído la consolación en el nacimiento de su Hijo, y aclamémosle llenos de alegría:"
+  },
+  {
+    "id": 1000,
+    "val": "Oremos, hermanos, a Cristo Rey, que es anterior a todo, y en quien todo se mantiene unido, y pidamos:"
   },
   {
     "id": 1097,

@@ -1,7 +1,11 @@
 [
   {
+    "id": -1,
+    "val": ""
+  },
+  {
     "id": 0,
-    "val": "2 S 5, 1-3: _Ellos ungieron a David como rey de Israel._"
+    "val": "Elemento no encontrado._Código M01._"
   },
   {
     "id": 1,
@@ -45,7 +49,7 @@
   },
   {
     "id": 11,
-    "val": "Lectura sálmica:\nIs 38, 10-12.16: _Tú, Señor, detuviste mi alma para que no pereciese._"
+    "val": "Lectura Sálmica \nIs 38, 10-12.16: _Tú, Señor, detuviste mi alma para que no pereciese._"
   },
   {
     "id": 12,
@@ -153,7 +157,7 @@
   },
   {
     "id": 38,
-    "val": "2 S 18, 9-10.14b.24-25a.30 - 19,3: _¡Hijo mío, Absalón! ¡Quién me diera haber muerto en tu lugar!_"
+    "val": "2 Sam 18, 9-10.14b.24-25a.30 - 19,3: _¡Hijo mío, Absalón! ¡Quién me diera haber muerto en tu lugar!_"
   },
   {
     "id": 39,
@@ -373,7 +377,7 @@
   },
   {
     "id": 94,
-    "val": "Si 2, 1-13 [gr.2, 1-11]: _Prepárate para la prueba._"
+    "val": "Eclo 2, 1-13 [gr.2, 1-11]: _Prepárate para la prueba._"
   },
   {
     "id": 95,
@@ -569,7 +573,7 @@
   },
   {
     "id": 144,
-    "val": "Qo 1, 2; 2, 21-23: _¿Qué saca el hombre de todos los trabajos?_"
+    "val": "Ecles 1, 2; 2, 21-23: _¿Qué saca el hombre de todos los trabajos?_"
   },
   {
     "id": 145,
@@ -601,7 +605,7 @@
   },
   {
     "id": 152,
-    "val": "Secuencia (obligatoria el domingo de resurrección): _Ofrezcan los cristianos_"
+    "val": "Secuencia (obligatoria el Domingo de Resurrección): _Ofrezcan los cristianos_"
   },
   {
     "id": 153,
@@ -633,7 +637,7 @@
   },
   {
     "id": 160,
-    "val": "Sal 33, 2-11: _Bendigo al Señor en todo momento._"
+    "val": "Sal 33, 2-3. 4-5. 6-7. 8-9. 10-11: _Bendigo al Señor en todo momento._"
   },
   {
     "id": 162,
@@ -953,7 +957,7 @@
   },
   {
     "id": 245,
-    "val": "Si 44, 1.10-15: _Su nombre vive por generaciones._"
+    "val": "Eclo 44, 1.10-15: _Su nombre vive por generaciones._"
   },
   {
     "id": 246,
@@ -1253,7 +1257,7 @@
   },
   {
     "id": 328,
-    "val": "_El Poderoso ha hecho obras grandes por mí: su nombre es santo._"
+    "val": "Lectura Sálmica \nLc 1, 46-55:_El Poderoso ha hecho obras grandes por mí: su nombre es santo._"
   },
   {
     "id": 329,
@@ -1445,7 +1449,7 @@
   },
   {
     "id": 380,
-    "val": "Lc 1, 46-55: _El Poderoso ha hecho obras grandes por mí: su nombre es santo._"
+    "val": "Lectura Sálmica \nLc 1, 46-55: _El Poderoso ha hecho obras grandes por mí: su nombre es santo._"
   },
   {
     "id": 381,
@@ -1453,7 +1457,7 @@
   },
   {
     "id": 382,
-    "val": "Si 35, 1-15: _El que guarda los mandamientos ofrece sacrificio de acción de gracias._"
+    "val": "Eclo 35, 1-15: _El que guarda los mandamientos ofrece sacrificio de acción de gracias._"
   },
   {
     "id": 383,
@@ -1469,7 +1473,7 @@
   },
   {
     "id": 388,
-    "val": "Si 3, 2-6.12-14: _El que teme al Señor honra a sus padres._"
+    "val": "Eclo 3, 2-6.12-14: _El que teme al Señor honra a sus padres._"
   },
   {
     "id": 389,
@@ -1525,7 +1529,7 @@
   },
   {
     "id": 402,
-    "val": "Ex 15, 1-6: _Cantaré al Señor, sublime es su victoria._"
+    "val": "Lectura Sálmica \nEx 15, 1-6: _Cantaré al Señor, sublime es su victoria._"
   },
   {
     "id": 403,
@@ -1789,7 +1793,7 @@
   },
   {
     "id": 477,
-    "val": "Si 48, 1-4.9-11: _Elías volverá de nuevo._"
+    "val": "Eclo 48, 1-4.9-11: _Elías volverá de nuevo._"
   },
   {
     "id": 478,
@@ -1821,7 +1825,7 @@
   },
   {
     "id": 486,
-    "val": "Qo 3, 1-11: _Cada cosa tiene su momento bajo el cielo._"
+    "val": "Ecles 3, 1-11: _Cada cosa tiene su momento bajo el cielo._"
   },
   {
     "id": 487,
@@ -1829,7 +1833,7 @@
   },
   {
     "id": 488,
-    "val": "Lc 9, 18-22: _Tú eres el Mesías de Dios. El Hijo del hombre tiene que padecer mucho._"
+    "val": "Lc 9, 18-24: _Tú eres el Mesías de Dios. El Hijo del hombre tiene que padecer mucho._"
   },
   {
     "id": 489,
@@ -1921,7 +1925,7 @@
   },
   {
     "id": 514,
-    "val": "1 S 3, 1-10.19-20: _Habla, Señor, que tu siervo escucha._"
+    "val": "1 Sam 3, 1-10.19-20: _Habla, Señor, que tu siervo escucha._"
   },
   {
     "id": 515,
@@ -2005,7 +2009,7 @@
   },
   {
     "id": 537,
-    "val": "1 S 4, 1-11: _Israel fue derrotado y el Arca de Dios fue apresada._"
+    "val": "1 Sam 4, 1-11: _Israel fue derrotado y el Arca de Dios fue apresada._"
   },
   {
     "id": 538,
@@ -2049,7 +2053,7 @@
   },
   {
     "id": 548,
-    "val": "1 Cro 29, 10-12: _Tú eres Señor del universo._"
+    "val": "Lectura Sálmica \n1 Cro 29, 10-12: _Tú eres Señor del universo._"
   },
   {
     "id": 549,
@@ -2065,7 +2069,7 @@
   },
   {
     "id": 556,
-    "val": "Qo 1, 2-11: _Nada hay nuevo bajo el sol._"
+    "val": "Ecles 1, 2-11: _Nada hay nuevo bajo el sol._"
   },
   {
     "id": 557,
@@ -2341,7 +2345,7 @@
   },
   {
     "id": 633,
-    "val": "Lectura sálmica: \nIs 12, 2-6: _Sacaréis aguas con gozo de las fuentes de la salvación._"
+    "val": "Lectura Sálmica \nIs 12, 2-6: _Sacaréis aguas con gozo de las fuentes de la salvación._"
   },
   {
     "id": 634,
@@ -2473,7 +2477,7 @@
   },
   {
     "id": 674,
-    "val": "Si 3, 2-6.12-14: _Quien teme al Señor honrará a sus padres._"
+    "val": "Eclo 3, 2-6.12-14: _Quien teme al Señor honrará a sus padres._"
   },
   {
     "id": 675,
@@ -2493,7 +2497,7 @@
   },
   {
     "id": 679,
-    "val": "Si 15, 1-6: _Lo llenará del espíritu de sabiduría y de inteligencia._"
+    "val": "Eclo 15, 1-6: _Lo llenará del espíritu de sabiduría y de inteligencia._"
   },
   {
     "id": 680,
@@ -2505,7 +2509,7 @@
   },
   {
     "id": 682,
-    "val": "Si 6, 5-17: _Un amigo fiel no tiene precio._"
+    "val": "Eclo 6, 5-17: _Un amigo fiel no tiene precio._"
   },
   {
     "id": 683,
@@ -2689,7 +2693,7 @@
   },
   {
     "id": 731,
-    "val": "Si 27, 33-28.9: _Perdona la ofensa a tu prójimo, y se te perdonarán los pecados cuando lo pidas._"
+    "val": "Eclo 27, 33-28.9: _Perdona la ofensa a tu prójimo, y se te perdonarán los pecados cuando lo pidas._"
   },
   {
     "id": 732,
@@ -2777,7 +2781,7 @@
   },
   {
     "id": 756,
-    "val": "Lectura sálmica: \nLc 1, 69-75: _Bendito sea el Señor, Dios de Israel, porque ha visitado a su pueblo._"
+    "val": "Lectura Sálmica \nLc 1, 69-75: _Bendito sea el Señor, Dios de Israel, porque ha visitado a su pueblo._"
   },
   {
     "id": 757,
@@ -2889,7 +2893,7 @@
   },
   {
     "id": 785,
-    "val": "Si 26, 1-4.13-16: _Sol que sale, es la belleza de la mujer buena en su casa bien ordenada._"
+    "val": "Eclo 26, 1-4.13-16: _Sol que sale, es la belleza de la mujer buena en su casa bien ordenada._"
   },
   {
     "id": 786,
@@ -2961,7 +2965,7 @@
   },
   {
     "id": 808,
-    "val": "Dn 3, 52-56: _A ti gloria y alabanza por los siglos._"
+    "val": "Lectura Sálmica \nDn 3, 52-56: _A ti gloria y alabanza por los siglos._"
   },
   {
     "id": 809,
@@ -3049,7 +3053,7 @@
   },
   {
     "id": 830,
-    "val": "Lectura sálmica: \nJer 31, 10-13: _El Señor nos guardará como un pastor a su rebaño._"
+    "val": "Lectura Sálmica \nJer 31, 10-13: _El Señor nos guardará como un pastor a su rebaño._"
   },
   {
     "id": 831,
@@ -3301,7 +3305,7 @@
   },
   {
     "id": 907,
-    "val": "Dn 3, 52-56: _A ti gloria y alabanza por los siglos._"
+    "val": "Lectura Sálmica \nDn 3, 52-56: _A ti gloria y alabanza por los siglos._"
   },
   {
     "id": 908,
@@ -3337,7 +3341,7 @@
   },
   {
     "id": 916,
-    "val": "Si 1, 1-10: _Antes que todo fue creada la sabiduría._"
+    "val": "Eclo 1, 1-10: _Antes que todo fue creada la sabiduría._"
   },
   {
     "id": 918,
@@ -3361,7 +3365,7 @@
   },
   {
     "id": 923,
-    "val": "2 S 7, 1-5.8b-12.14a.16: _El reino de David se mantendrá siempre firme ante el Señor._"
+    "val": "2 Sam 7, 1-5.8b-12.14a.16: _El reino de David se mantendrá siempre firme ante el Señor._"
   },
   {
     "id": 924,
@@ -3529,7 +3533,7 @@
   },
   {
     "id": 966,
-    "val": "2 S 12, 1-7a.10-17: _He pecado contra el Señor._"
+    "val": "2 Sam 12, 1-7a.10-17: _He pecado contra el Señor._"
   },
   {
     "id": 967,
@@ -3653,7 +3657,7 @@
   },
   {
     "id": 1005,
-    "val": "2 S 24, 2.9-17: _Soy yo el que ha pecado al censar al pueblo. Pero ellos, las ovejas, ¿qué han hecho?_"
+    "val": "2 Sam 24, 2.9-17: _Soy yo el que ha pecado al censar al pueblo. Pero ellos, las ovejas, ¿qué han hecho?_"
   },
   {
     "id": 1006,
@@ -3661,7 +3665,7 @@
   },
   {
     "id": 1008,
-    "val": "Flp 4, 4-9: Todo lo que es virtud o mérito, tenedlo en cuenta._"
+    "val": "Flp 4, 4-9: _Todo lo que es virtud o mérito, tenedlo en cuenta._"
   },
   {
     "id": 1009,
@@ -3829,7 +3833,7 @@
   },
   {
     "id": 1061,
-    "val": "Lectura sálmica: \nDt 32, 26-30.35-36: _Yo doy la muerte y la vida._"
+    "val": "Lectura Sálmica \nDt 32, 26-30.35-36: _Yo doy la muerte y la vida._"
   },
   {
     "id": 1062,
@@ -3837,7 +3841,7 @@
   },
   {
     "id": 1063,
-    "val": "Si 15, 1-6: Lo llenará del espíritu de sabiduría y de inteligencia._"
+    "val": "Eclo 15, 1-6: Lo llenará del espíritu de sabiduría y de inteligencia._"
   },
   {
     "id": 1064,
@@ -3861,7 +3865,7 @@
   },
   {
     "id": 1070,
-    "val": "Dn 3, 86-87: _Ensalzadlo con himnos por los siglos._"
+    "val": "Lectura Sálmica \nDn 3, 86-87: _Ensalzadlo con himnos por los siglos._"
   },
   {
     "id": 1071,
@@ -3893,7 +3897,7 @@
   },
   {
     "id": 1078,
-    "val": "Si 2, 1-13 [gr.2, 1-11]: _Prepárate para las pruebas._"
+    "val": "Eclo 2, 1-13 [gr.2, 1-11]: _Prepárate para las pruebas._"
   },
   {
     "id": 1080,
@@ -3940,6 +3944,10 @@
     "val": "Lc 11, 47-54: _Se le pedirá cuenta de la sangre de los profetas, desde la sangre de Abel hasta la sangre de Zacarías._"
   },
   {
+    "id": 1100,
+    "val": "2 Sam 5, 1-3: _Ellos ungieron a David como rey de Israel._"
+  },
+  {
     "id": 1106,
     "val": "Gn 1, 1-2, 2: _Vio Dios todo lo que había hecho, y era muy bueno._"
   },
@@ -3973,7 +3981,7 @@
   },
   {
     "id": 1114,
-    "val": "Ex 15, 1-6.17-18: _Cantaré al Señor, gloriosa es su victoria._"
+    "val": "Lectura Sálmica \nEx 15, 1-2, 3-4, 5-6, 17-18: _Cantemos al Señor, sublime es su victoria._"
   },
   {
     "id": 1115,
@@ -3989,7 +3997,7 @@
   },
   {
     "id": 1118,
-    "val": "Is 12, 2-6: _Sacaréis aguas con gozo de las fuentes de la salvación._"
+    "val": "Lectura Sálmica \nIs 12, 2-6: _Sacaréis aguas con gozo de las fuentes de la salvación._"
   },
   {
     "id": 1119,
@@ -4117,7 +4125,7 @@
   },
   {
     "id": 1154,
-    "val": "Lectura sálmica: \nLc 1, 46-55: _El Poderoso ha hecho obras grandes en mí; su nombre es santo._"
+    "val": "Lectura Sálmica \nLc 1, 46-55: _El Poderoso ha hecho obras grandes en mí; su nombre es santo._"
   },
   {
     "id": 1155,
@@ -4213,7 +4221,7 @@
   },
   {
     "id": 1181,
-    "val": "Dn 3, 52-56: _A ti gloria y alabanza por los siglos._"
+    "val": "Lectura Sálmica \nDn 3, 52-56: _A ti gloria y alabanza por los siglos._"
   },
   {
     "id": 1182,
@@ -4229,7 +4237,7 @@
   },
   {
     "id": 1186,
-    "val": "Sir 27, 4-7: _No elogies a nadie antes de oírlo hablar._"
+    "val": "Eclo 27, 4-7: _No elogies a nadie antes de oírlo hablar._"
   },
   {
     "id": 1187,
@@ -4369,7 +4377,7 @@
   },
   {
     "id": 1243,
-    "val": "Lectura sálmica: \nDt 32, 18-21: _Despreciaste a la roca que te engendró._"
+    "val": "Lectura Sálmica \nDt 32, 18-21: _Despreciaste a la roca que te engendró._"
   },
   {
     "id": 1254,
@@ -4389,7 +4397,7 @@
   },
   {
     "id": 1259,
-    "val": "2 S 7, 4-5a.12-14a.16: _El Señor Dios le dará el trono de David, su padre._"
+    "val": "2 Sam 7, 4-5a.12-14a.16: _El Señor Dios le dará el trono de David, su padre._"
   },
   {
     "id": 1260,
@@ -4445,7 +4453,7 @@
   },
   {
     "id": 1285,
-    "val": "Sir 24, 1-2.8-12: _La sabiduría de Dios habitó en el pueblo escogido._"
+    "val": "Eclo 24, 1-2.8-12: _La sabiduría de Dios habitó en el pueblo escogido._"
   },
   {
     "id": 1286,
@@ -4489,7 +4497,7 @@
   },
   {
     "id": 1310,
-    "val": "1 S 16, 1-13: _Samuel ungió a David en medio de sus hermanos y el espíritu del Señor vino sobre él._"
+    "val": "1 Sam 16, 1-13: _Samuel ungió a David en medio de sus hermanos y el espíritu del Señor vino sobre él._"
   },
   {
     "id": 1311,
@@ -4561,7 +4569,7 @@
   },
   {
     "id": 1338,
-    "val": "Dn 3, 57-61: _Ensalzadlo con himnos por los siglos._"
+    "val": "Lectura Sálmica \nDn 3, 57-61: _Ensalzadlo con himnos por los siglos._"
   },
   {
     "id": 1340,
@@ -4625,7 +4633,7 @@
   },
   {
     "id": 1355,
-    "val": "Lectura sálmica: \nIs 12, 2-6: _Es grande en medio de ti el Santo de Israel._"
+    "val": "Lectura Sálmica \nIs 12, 2-6: _Es grande en medio de ti el Santo de Israel._"
   },
   {
     "id": 1356,
@@ -4693,7 +4701,7 @@
   },
   {
     "id": 1382,
-    "val": "Si 17, 20-28 [gr. 17, 24-29]: _Retorna al Altísimo, aléjate de la injusticia._"
+    "val": "Eclo 17, 20-28 [gr. 17, 24-29]: _Retorna al Altísimo, aléjate de la injusticia._"
   },
   {
     "id": 1383,
@@ -4761,7 +4769,7 @@
   },
   {
     "id": 1404,
-    "val": "2 S 1, 1-4.11-12.19.23-27: _¡Cómo han caído los héroes en medio del combate!_"
+    "val": "2 Sam 1, 1-4.11-12.19.23-27: _¡Cómo han caído los héroes en medio del combate!_"
   },
   {
     "id": 1405,
@@ -4857,7 +4865,7 @@
   },
   {
     "id": 1457,
-    "val": "Si 51, 17-27 [gr. 51, 12c-20b]: _Daré gracias al que me enseñó._"
+    "val": "Eclo 51, 17-27 [gr. 51, 12c-20b]: _Daré gracias al que me enseñó._"
   },
   {
     "id": 1458,
@@ -4889,7 +4897,7 @@
   },
   {
     "id": 1468,
-    "val": "Lectura sálmica: \nJer 31, 10-13: _El Señor nos guardará, como pastor a su rebaño._"
+    "val": "Lectura Sálmica \nJer 31, 10-13: _El Señor nos guardará, como pastor a su rebaño._"
   },
   {
     "id": 1469,
@@ -4925,7 +4933,7 @@
   },
   {
     "id": 1494,
-    "val": "Lc 1, 46-50.53-54: _Se alegra mi espíritu en Dios mi salvador._"
+    "val": "Lectura Sálmica \nLc 1, 46-50.53-54: _Se alegra mi espíritu en Dios mi salvador._"
   },
   {
     "id": 1495,
@@ -4969,7 +4977,7 @@
   },
   {
     "id": 1507,
-    "val": "1 S 2, 1.4-8: _Mi corazón se regocija en el Señor, mi salvador._"
+    "val": "Lectura Sálmica \n1 Sam 2, 1.4-8: _Mi corazón se regocija en el Señor, mi salvador._"
   },
   {
     "id": 1508,
@@ -4997,7 +5005,7 @@
   },
   {
     "id": 1514,
-    "val": "Lectura sálmica: \nIs 12, 2-6: _Ha cesado tu ira y me has consolado._"
+    "val": "Lectura Sálmica \nIs 12, 2-6: _Ha cesado tu ira y me has consolado._"
   },
   {
     "id": 1515,
@@ -5029,7 +5037,7 @@
   },
   {
     "id": 1523,
-    "val": "Dn 3, 75-81: _Ensalzadlo con himnos por los siglos._"
+    "val": "Lectura Sálmica \nDn 3, 75-81: _Ensalzadlo con himnos por los siglos._"
   },
   {
     "id": 1524,
@@ -5161,7 +5169,7 @@
   },
   {
     "id": 1592,
-    "val": "Lectura sálmica: \nDt 32, 3-4.7-9.12: _La porción del Señor fue su pueblo._"
+    "val": "Lectura Sálmica \nDt 32, 3-4.7-9.12: _La porción del Señor fue su pueblo._"
   },
   {
     "id": 1593,
@@ -5193,7 +5201,7 @@
   },
   {
     "id": 1618,
-    "val": "Si 39, 6-11: _Se llenará de espíritu de inteligencia._"
+    "val": "Eclo 39, 6-11: _Se llenará de espíritu de inteligencia._"
   },
   {
     "id": 1619,
@@ -5309,7 +5317,7 @@
   },
   {
     "id": 1659,
-    "val": "Dn 3, 52-56: _¡A ti gloria y alabanza por los siglos!_"
+    "val": "Lectura Sálmica \nDn 3, 52-56: _¡A ti gloria y alabanza por los siglos!_"
   },
   {
     "id": 1660,
@@ -5473,7 +5481,7 @@
   },
   {
     "id": 1733,
-    "val": "Si 44, 1.9-13: _Nuestros antepasados fueron hombres de bien, vive su fama por generaciones._"
+    "val": "Eclo 44, 1.9-13: _Nuestros antepasados fueron hombres de bien, vive su fama por generaciones._"
   },
   {
     "id": 1735,
@@ -5497,11 +5505,11 @@
   },
   {
     "id": 1740,
-    "val": "1 S 1, 24-28: _Ana da gracias por el nacimiento de Samuel._"
+    "val": "1 Sam 1, 24-28: _Ana da gracias por el nacimiento de Samuel._"
   },
   {
     "id": 1741,
-    "val": "Lectura sálmica: \n1 S 2, 1.4-8: _Mi corazón se regocija en el Señor, mi Salvador._"
+    "val": "Lectura Sálmica \n1 Sam 2, 1.4-8: _Mi corazón se regocija en el Señor, mi Salvador._"
   },
   {
     "id": 1742,
@@ -5593,7 +5601,7 @@
   },
   {
     "id": 1788,
-    "val": "Flp 4, 4-9: _Todo lo que es virtud o mérito, tenedlo en cuenta_"
+    "val": "Flp 4, 4-9: _Todo lo que es virtud o mérito, tenedlo en cuenta._"
   },
   {
     "id": 1790,
@@ -5693,7 +5701,7 @@
   },
   {
     "id": 1889,
-    "val": "1 S 17, 32-33.37.40-51: _Venció David al filisteo con una honda y una piedra._"
+    "val": "1 Sam 17, 32-33.37.40-51: _Venció David al filisteo con una honda y una piedra._"
   },
   {
     "id": 1901,
@@ -5957,7 +5965,7 @@
   },
   {
     "id": 2005,
-    "val": "Hb 2, 14-18: _Tenía que parecerse en todo a sus hermanos._"
+    "val": "Si la Presentación del Señor no coincide en domingo, esta lectura de Hebreos es alternativa a la primera lectura.\nHb 2, 14-18: _Tenía que parecerse en todo a sus hermanos._"
   },
   {
     "id": 2006,
@@ -6133,7 +6141,7 @@
   },
   {
     "id": 2088,
-    "val": "1 S 16, 1b.6-7.10-13: _David es ungido rey de Israel._"
+    "val": "1 Sam 16, 1b.6-7.10-13: _David es ungido rey de Israel._"
   },
   {
     "id": 2089,
@@ -6341,7 +6349,7 @@
   },
   {
     "id": 2196,
-    "val": "1 S 3, 3b-10.19: _Habla, Señor, que tu siervo te escucha._"
+    "val": "1 Sam 3, 3b-10.19: _Habla, Señor, que tu siervo te escucha._"
   },
   {
     "id": 2198,
@@ -6469,7 +6477,7 @@
   },
   {
     "id": 2270,
-    "val": "Lc 1, 69-75: _Bendito sea el Señor, Dios de Israel, porque ha visitado a su pueblo._"
+    "val": "Lectura Sálmica \nLc 1, 69-75: _Bendito sea el Señor, Dios de Israel, porque ha visitado a su pueblo._"
   },
   {
     "id": 2272,
@@ -6553,7 +6561,7 @@
   },
   {
     "id": 2308,
-    "val": "Primer juego de lecturas: \nLm 3, 17-26: _Es bueno esperar en silencio la salvación del Señor._"
+    "val": "Lm 3, 17-26: _Es bueno esperar en silencio la salvación del Señor._"
   },
   {
     "id": 2309,
@@ -6677,7 +6685,7 @@
   },
   {
     "id": 2361,
-    "val": "2 Co 9, 6-11: _Al que de buena gana lo ama Dios._"
+    "val": "2 Co 9, 6-11: _Al que de buena gana da, lo ama Dios._"
   },
   {
     "id": 2362,
@@ -6777,7 +6785,7 @@
   },
   {
     "id": 2424,
-    "val": "Si 3, 17-18.20.28-29: _Humíllate, y así alcanzarás el favor del Señor._"
+    "val": "Eclo 3, 17-18.20.28-29: _Humíllate, y así alcanzarás el favor del Señor._"
   },
   {
     "id": 2425,
@@ -6837,7 +6845,7 @@
   },
   {
     "id": 2452,
-    "val": "Jon 2, 3-5.8: _Sacaste mi vida de la fosa, Señor._"
+    "val": "Lectura Sálmica \nJon 2, 3-5.8: _Sacaste mi vida de la fosa, Señor._"
   },
   {
     "id": 2454,
@@ -6909,7 +6917,7 @@
   },
   {
     "id": 2482,
-    "val": "1 S 18, 6-9; 19, 1-7: _Mi padre busca el modo de matarte._"
+    "val": "1 Sam 18, 6-9; 19, 1-7: _Mi padre busca el modo de matarte._"
   },
   {
     "id": 2483,
@@ -6933,7 +6941,7 @@
   },
   {
     "id": 2497,
-    "val": "Si 35, 12-14.16-18: _La oración del humilde atraviesa las nubes._"
+    "val": "Eclo 35, 12-14.16-18: _La oración del humilde atraviesa las nubes._"
   },
   {
     "id": 2498,
@@ -7105,7 +7113,7 @@
   },
   {
     "id": 2569,
-    "val": "Lectura sálmica: \nIs 12, 2-6: _Sacaréis aguas con gozo de las fuentes del Salvador._"
+    "val": "Lectura Sálmica \nIs 12, 2-6: _Sacaréis aguas con gozo de las fuentes del Salvador._"
   },
   {
     "id": 2570,
@@ -7133,7 +7141,7 @@
   },
   {
     "id": 2582,
-    "val": "Dn 3, 62-67: _Ensalzadlo con himnos por los siglos._"
+    "val": "Lectura Sálmica \nDn 3, 62-67: _Ensalzadlo con himnos por los siglos._"
   },
   {
     "id": 2583,
@@ -7229,7 +7237,7 @@
   },
   {
     "id": 2621,
-    "val": "2 S 5, 1-7.10: _Tú pastorearás a mi pueblo Israel._"
+    "val": "2 Sam 5, 1-7.10: _Tú pastorearás a mi pueblo Israel._"
   },
   {
     "id": 2622,
@@ -7385,7 +7393,7 @@
   },
   {
     "id": 2718,
-    "val": "Dn 3, 68-74: _Ensalzadlo con himnos por los siglos._"
+    "val": "Lectura Sálmica \nDn 3, 68-74: _Ensalzadlo con himnos por los siglos._"
   },
   {
     "id": 2719,
@@ -7481,7 +7489,7 @@
   },
   {
     "id": 2789,
-    "val": "2 S 6, 12b-15.17-19: _David y todo Israel iban subiendo el Arca del Señor entre aclamaciones._"
+    "val": "2 Sam 6, 12b-15.17-19: _David y todo Israel iban subiendo el Arca del Señor entre aclamaciones._"
   },
   {
     "id": 2790,
@@ -7517,7 +7525,7 @@
   },
   {
     "id": 2809,
-    "val": "Lc 1, 46-50.53-55: _El Señor se acuerda de la misericordia._"
+    "val": "Lectura Sálmica \nLc 1, 46-50.53-55: _El Señor se acuerda de la misericordia._"
   },
   {
     "id": 2810,
@@ -7529,7 +7537,7 @@
   },
   {
     "id": 2815,
-    "val": "Lectura sálmica: \n1 Cro 29, 10-12: _Tú eres Señor del universo._"
+    "val": "Lectura Sálmica \n1 Cro 29, 10-12: _Tú eres Señor del universo._"
   },
   {
     "id": 2816,
@@ -7589,7 +7597,7 @@
   },
   {
     "id": 2879,
-    "val": "Lectura sálmica: \nJer 31, 10-13: _El Señor nos guardará como pastor a su rebaño._"
+    "val": "Lectura Sálmica \nJer 31, 10-13: _El Señor nos guardará como pastor a su rebaño._"
   },
   {
     "id": 2880,
@@ -7701,7 +7709,7 @@
   },
   {
     "id": 2957,
-    "val": "1 S 24, 3-21: _No alargaré la mano contra él, pues es el ungido del Señor._"
+    "val": "1 Sam 24, 3-21: _No alargaré la mano contra él, pues es el ungido del Señor._"
   },
   {
     "id": 2958,
@@ -7801,7 +7809,7 @@
   },
   {
     "id": 3025,
-    "val": "1 S 1, 20-22.24-28: _Samuel queda cedido al Señor de por vida._"
+    "val": "1 Sam 1, 20-22.24-28: _Samuel queda cedido al Señor de por vida._"
   },
   {
     "id": 3026,
@@ -7857,7 +7865,7 @@
   },
   {
     "id": 3095,
-    "val": "1 S 16, 1b.6-7.10-13: _David es ungido rey de Israel._"
+    "val": "1 Sam 16, 1b.6-7.10-13: _David es ungido rey de Israel._"
   },
   {
     "id": 3097,
@@ -7877,7 +7885,7 @@
   },
   {
     "id": 3104,
-    "val": "1 Cro 29, 10-12: _Alabamos, Señor, tu nombre glorioso._"
+    "val": "Lectura Sálmica \n1 Cro 29, 10-12: _Alabamos, Señor, tu nombre glorioso._"
   },
   {
     "id": 3105,
@@ -7917,7 +7925,7 @@
   },
   {
     "id": 3122,
-    "val": "Si 17, 1-13 [gr. 17, 1-15]: _Dios hizo al hombre a su imagen._"
+    "val": "Eclo 17, 1-13 [gr. 17, 1-15]: _Dios hizo al hombre a su imagen._"
   },
   {
     "id": 3123,
@@ -8004,10 +8012,6 @@
     "val": "Hch 10, 34-38: _Ungido por Dios con la fuerza del Espíritu Santo._"
   },
   {
-    "id": 3174,
-    "val": "_Aleluya, aleluya, aleluya._"
-  },
-  {
     "id": 3175,
     "val": "Mt 3, 13-17: _Se bautizó Jesús y vio que el Espíritu de Dios se posaba sobre él._"
   },
@@ -8017,7 +8021,7 @@
   },
   {
     "id": 3177,
-    "val": "Lectura sálmica: \nDt 32, 18-21: _Despreciaste a la roca que te engendró._"
+    "val": "Lectura Sálmica \nDt 32, 18-21: _Despreciaste a la roca que te engendró._"
   },
   {
     "id": 3178,
@@ -8137,7 +8141,7 @@
   },
   {
     "id": 3258,
-    "val": "1 S 15, 16-23: _La obediencia vale más que el sacrificio. El Señor te ha rechazado como rey._"
+    "val": "1 Sam 15, 16-23: _La obediencia vale más que el sacrificio. El Señor te ha rechazado como rey._"
   },
   {
     "id": 3269,
@@ -8198,10 +8202,6 @@
   {
     "id": 3312,
     "val": "1 Co 1, 1-3: _A vosotros, gracia y paz de parte de Dios nuestro Padre y del Señor Jesucristo._"
-  },
-  {
-    "id": 3313,
-    "val": "_Aleluya, aleluya, aleluya._"
   },
   {
     "id": 3314,
@@ -8325,7 +8325,7 @@
   },
   {
     "id": 3390,
-    "val": "1 S 1, 1-8: _Su rival importunaba a Ana, pues el Señor la había hecho estéril._"
+    "val": "1 Sam 1, 1-8: _Su rival importunaba a Ana, pues el Señor la había hecho estéril._"
   },
   {
     "id": 3391,
@@ -8365,7 +8365,7 @@
   },
   {
     "id": 3407,
-    "val": "Si 48, 1-15: _Elías fue arrebatado en el torbellino, y Eliseo se llenó de su espíritu._"
+    "val": "Eclo 48, 1-15: _Elías fue arrebatado en el torbellino, y Eliseo se llenó de su espíritu._"
   },
   {
     "id": 3408,
@@ -8373,7 +8373,7 @@
   },
   {
     "id": 3413,
-    "val": "Si 5, 1-10 [gr. 5, 1-8]: _No tardes en volverte al Señor._"
+    "val": "Eclo 5, 1-10 [gr. 5, 1-8]: _No tardes en volverte al Señor._"
   },
   {
     "id": 3414,
@@ -8461,7 +8461,7 @@
   },
   {
     "id": 3448,
-    "val": "2 S 7, 4-17: _Suscitaré descendencia tuya después de ti y afirmaré su reino._"
+    "val": "2 Sam 7, 4-17: _Suscitaré descendencia tuya después de ti y afirmaré su reino._"
   },
   {
     "id": 3449,
@@ -8525,7 +8525,7 @@
   },
   {
     "id": 3506,
-    "val": "Mt 28, 16-20: _Bautizados en el nombre del Padre y del Hijo y del Espíritu Santo._"
+    "val": "Mt 28, 16-20: _Bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo._"
   },
   {
     "id": 3513,
@@ -8549,7 +8549,7 @@
   },
   {
     "id": 3537,
-    "val": "1 S 8.4-7.10-22: _Os quejaréis a causa del rey, pero el Señor no os responderá._"
+    "val": "1 Sam 8.4-7.10-22: _Os quejaréis a causa del rey, pero el Señor no os responderá._"
   },
   {
     "id": 3538,
@@ -8945,7 +8945,7 @@
   },
   {
     "id": 3853,
-    "val": "2 S 7, 1-5.8b-12.14a.16: _El reino de David durará por siempre en la presencia del Señor._"
+    "val": "2 Sam 7, 1-5.8b-12.14a.16: _El reino de David durará por siempre en la presencia del Señor._"
   },
   {
     "id": 3854,
@@ -9013,7 +9013,7 @@
   },
   {
     "id": 3917,
-    "val": "2 S 15, 13-14.30; 16, 5-13: _Huyamos ante Absalón. Dejad que Semeí me maldiga, si se lo ha ordenado el Señor._"
+    "val": "2 Sam 15, 13-14.30; 16, 5-13: _Huyamos ante Absalón. Dejad que Semeí me maldiga, si se lo ha ordenado el Señor._"
   },
   {
     "id": 3918,
@@ -9054,10 +9054,6 @@
   {
     "id": 3945,
     "val": "1 Co 1, 10-13.17: _Decid todos lo mismo y que no haya divisiones entre vosotros._"
-  },
-  {
-    "id": 3946,
-    "val": "_Aleluya, aleluya, aleluya._"
   },
   {
     "id": 3947,
@@ -9221,7 +9217,7 @@
   },
   {
     "id": 4095,
-    "val": "1 S 9, 1-4.17-19; 10, 1: _Ese es el hombre de quien habló el Señor; Saúl gobernará a su pueblo._"
+    "val": "1 Sam 9, 1-4.17-19; 10, 1: _Ese es el hombre de quien habló el Señor; Saúl gobernará a su pueblo._"
   },
   {
     "id": 4101,
@@ -9341,7 +9337,7 @@
   },
   {
     "id": 4250,
-    "val": "Si 4, 12-22 [gr.4, 11-19]: _Dios ama a los que aman la sabiduría._"
+    "val": "Eclo 4, 12-22 [gr.4, 11-19]: _Dios ama a los que aman la sabiduría._"
   },
   {
     "id": 4251,
@@ -9353,11 +9349,11 @@
   },
   {
     "id": 4253,
-    "val": "1 S 1, 9-20: _El Señor se acordó de Ana, y dio a luz a Samuel._"
+    "val": "1 Sam 1, 9-20: _El Señor se acordó de Ana, y dio a luz a Samuel._"
   },
   {
     "id": 4254,
-    "val": "1 S 2, 1.4-8: _Mi corazón se regocija en el Señor, mi Salvador._"
+    "val": "Lectura Sálmica \n1 Sam 2, 1.4-8: _Mi corazón se regocija en el Señor, mi Salvador._"
   },
   {
     "id": 4256,
@@ -9405,7 +9401,7 @@
   },
   {
     "id": 4293,
-    "val": "Si 15, 16-21: _No mandó pecar al hombre._"
+    "val": "Eclo 15, 16-21: _No mandó pecar al hombre._"
   },
   {
     "id": 4294,
@@ -9437,7 +9433,7 @@
   },
   {
     "id": 4323,
-    "val": "Qo 11, 9-12.8: _Acuérdate del Creador en los años mozos, antes de que el polvo vuelva a la tierra y el espíritu a Dios._"
+    "val": "Ecles 11, 9-12.8: _Acuérdate del Creador en los años mozos, antes de que el polvo vuelva a la tierra y el espíritu a Dios._"
   },
   {
     "id": 4325,
@@ -9493,15 +9489,15 @@
   },
   {
     "id": 4400,
-    "val": "Si 36, 1-2a. 5-6. 13-19: _Que sepan las naciones que no hay Dios fuera de ti._"
+    "val": "Eclo 36, 1-2a. 5-6. 13-19: _Que sepan las naciones que no hay Dios fuera de ti._"
   },
   {
     "id": 4401,
-    "val": "Si 42, 15-26: _La gloria del Señor se refleja en todas sus obras._"
+    "val": "Eclo 42, 15-26: _La gloria del Señor se refleja en todas sus obras._"
   },
   {
     "id": 4402,
-    "val": "Si 32, 2-9: _La palabra del Señor hizo el cielo._"
+    "val": "Eclo 32, 2-9: _La palabra del Señor hizo el cielo._"
   },
   {
     "id": 4403,
@@ -9517,7 +9513,7 @@
   },
   {
     "id": 4407,
-    "val": "2 S 7, 18-19. 24-29: _¿Quién soy yo, mi Señor, y qué es mi familia?._"
+    "val": "2 Sam 7, 18-19. 24-29: _¿Quién soy yo, mi Señor, y qué es mi familia?._"
   },
   {
     "id": 4408,
@@ -9525,11 +9521,11 @@
   },
   {
     "id": 4409,
-    "val": "2 S 11, 1-4a. 5-10a. 13-17: _Me has despreciado, quedándote con la mujer de Urías._"
+    "val": "2 Sam 11, 1-4a. 5-10a. 13-17: _Me has despreciado, quedándote con la mujer de Urías._"
   },
   {
     "id": 4410,
-    "val": "Si 47, 2-13: _De todo corazón amó David a su Creador, entonando salmos cada día._"
+    "val": "Eclo 47, 2-13: _De todo corazón amó David a su Creador, entonando salmos cada día._"
   },
   {
     "id": 4411,
@@ -9615,213 +9611,221 @@
     "id": 4432,
     "val": "Jer 2, 1-3. 7-8. 12-13: _Me abandonaron a mí, fuente de agua viva, y cavaron aljibes agrietados._"
   },
- {
+  {
     "id": 4433,
     "val": "Sal 35, 6-7ab. 8-9. 10-11: _En ti, Señor, está la fuente viva._"
   },
- {
+  {
     "id": 4434,
     "val": "Jer 30, 1-2. 12-15. 18-22: _Por la muchedumbre de tus pecados te he tratado así. Cambiaré la suerte de las tiendas de Jacob._"
   },
- {
+  {
     "id": 4435,
     "val": "Hab 1, 12—2, 4: _El justo vivirá por su fe._"
   },
- {
+  {
     "id": 4436,
     "val": "Sal 9, 8-9. 10-11. 12-13: _No abandonas, Señor, a los que te buscan._"
   },
- {
+  {
     "id": 4437,
     "val": "Ez 12, 1-12: _Emigra a la luz del día, a la vista de todos._"
   },
- {
+  {
     "id": 4438,
     "val": "Sal 77, 56-57. 58-59. 61-62: _No olvidéis las acciones de Dios._"
   },
- {
+  {
     "id": 4439,
     "val": "Ez 43, 1-7: _La gloria del Señor entró en el templo._"
   },
- {
+  {
     "id": 4441,
     "val": "1 Co 10, 14-22: _Aunque somos muchos, formamos un solo cuerpo, porque comemos todos del mismo pan._"
   },
- {
+  {
     "id": 4442,
     "val": "1 Co 15, 35-37. 42-49: _Se siembra lo corruptible, resucita incorruptible._"
   },
- {
+  {
     "id": 4443,
     "val": "Sal 55, 10. 11-12. 13. 14: _Caminaré en presencia de Dios a la luz de la vida._"
   },
- {
+  {
     "id": 4444,
     "val": "Ga 3, 22-29: _Todos sois hijos de Dios por la fe._"
   },
- {
+  {
     "id": 4445,
     "val": "Sal 104, 2-3. 4-5. 6-7: _El Señor se acuerda de su alianza eternamente._"
   },
- {
+  {
     "id": 4446,
     "val": "Ga 5, 1-6: _Da lo mismo estar circuncidado o no; lo único que cuenta es una fe activa en la práctica del amor._"
   },
- {
+  {
     "id": 4447,
     "val": "Sal 118, 41. 43. 44. 45. 47. 48: _Señor, que me alcance tu favor._"
   },
- {
+  {
     "id": 4448,
     "val": "Ef 1, 11-14: _Ya esperábamos en Cristo, y también vosotros habéis sido marcados con el Espíritu Santo._"
   },
- {
+  {
     "id": 4449,
     "val": "Sal 32, 1-2. 4-5. 12-13: _Dichoso el pueblo que el Señor se escogió como heredad._"
   },
- {
+  {
     "id": 4450,
     "val": "Ef 4, 32 — 5, 8: _Vivid en el amor como Cristo._"
   },
- {
+  {
     "id": 4451,
     "val": "Sal 1, 1-2. 3-4. 6: _Seamos imitadores de Dios, como hijos queridos._"
   },
- {
+  {
     "id": 4452,
     "val": "Flp 1, 1-11: _El que ha inaugurado entre vosotros una empresa buena la llevará adelante hasta el día de Cristo._"
   },
- {
+  {
     "id": 4453,
     "val": "Flp 1, 18b-26: _Para mí la vida es Cristo, y una ganancia el morir._"
   },
- {
+  {
     "id": 4454,
     "val": "Sal 41, 2. 3. 5: _Mi alma tiene sed del Dios vivo._"
   },
- {
+  {
     "id": 4455,
     "val": "Flp 4, 10-19: _Todo lo puedo en aquel que me conforta._"
   },
- {
+  {
     "id": 4456,
     "val": "Flp 4, 10-19: _Todo lo puedo en aquel que me conforta._"
   },
- {
+  {
     "id": 4457,
     "val": "Ap 22, 1-7: _Ya no habrá más noche, porque el Señor irradiará luz sobre ellos._"
   },
- {
+  {
     "id": 4458,
     "val": "Sal 94, 1-2. 3-5. 6-7: _Marana tha. Ven, Señor Jesús._"
   },
- {
+  {
     "id": 4460,
     "val": "Is 43, 18-19. 21-22. 24b-25: _Por mi cuenta borraba tus crímenes._"
   },
- {
+  {
     "id": 4461,
     "val": "Sal 40, 2-3. 4-5. 13-14: _Sáname, Señor, porque he pecado contra ti._"
   },
- {
+  {
     "id": 4462,
     "val": "2 Co 3, 1b-6: _Sois una carta de Cristo, redactada por nuestro ministerio._"
   },
- {
+  {
     "id": 4463,
     "val": "Is 49, 14-15: _Yo no te olvidaré._"
   },
- {
+  {
     "id": 4464,
     "val": "Sal 61, 2-3. 6-7. 8-9: _Descansa sólo en Dios, alma mía._"
   },
- {
+  {
     "id": 4465,
     "val": "Dt 11, 18. 26-28. 32: _Mirad: Os pongo delante bendición y maldición._"
   },
- {
+  {
     "id": 4466,
     "val": "Sal 30, 2-3a. 3bc-4. 17 y 25: _Sé la roca de mi refugio, Señor._"
   },
- {
+  {
     "id": 4467,
     "val": "Rm 3, 21-25a. 28: _El hombre es justificado por la fe, sin obras de la Ley._"
   },
- {
+  {
     "id": 4468,
     "val": "Is 55, 1-3: _Venid y comed._"
   },
- {
+  {
     "id": 4469,
     "val": "Sal 144, 8-9. 15-16. 17-18: _Abres tú la mano, Señor, y nos sacias de favores._"
   },
- {
+  {
     "id": 4470,
     "val": "Rm 8, 35. 37-39: _Ninguna criatura podrá apartaros del amor de Dios, manifestado en Cristo._"
   },
- {
+  {
     "id": 4471,
     "val": "Jer 1, 4-5. 17-19: _Te nombré profeta de los gentiles._"
   },
- {
+  {
     "id": 4472,
     "val": "1 Co 13, 4-13: _Quedan la fe, la esperanza, el amor; la más grande es el amor._"
   },
- {
+  {
     "id": 4473,
     "val": "Lc 4, 21-30: _Jesús, como Elías y Eliseo, no es enviado sólo a los judíos._"
   },
- {
+  {
     "id": 4474,
     "val": "1 Re 8, 41-43: _Cuando venga un extranjero, escúchalo._"
   },
- {
+  {
     "id": 4475,
     "val": "Ga 1, 1-2. 6-10: _Si siguiera todavía agradando a los hombres, no sería siervo de Cristo._"
   },
- {
+  {
     "id": 4476,
     "val": "1 Re 17, 17-24: _Mira, tu hijo está vivo._"
   },
- {
+  {
     "id": 4477,
     "val": "Ga 1, 11-19: _Reveló a su Hijo en mí, para que yo lo anunciara a los gentiles._"
   },
- {
+  {
     "id": 4478,
     "val": "2 Sam 2, 7-10. 13: _El Señor ha perdonado ya tu pecado, no morirás._"
   },
- {
+  {
     "id": 4479,
     "val": "Ga 2, 16. 19-21: _Vivo yo, pero no soy yo, es Cristo quien vive en mí._"
   },
- {
+  {
     "id": 4480,
     "val": "Lc 7, 36—8, 3: _Sus muchos pecados están perdonados, porque tiene mucho amor._"
   },
- {
+  {
     "id": 4481,
     "val": "1 Re 19, 16b. 19-21: _Eliseo se levantó y marchó tras Elías._"
   },
- {
+  {
     "id": 4482,
     "val": "Ga 5, 1. 13-18: _Vuestra vocación es la libertad._"
   },
- {
+  {
     "id": 4483,
     "val": "Lc 9, 51-62: _Jesús tomó la decisión de ir a Jerusalén. Te seguiré a donde vayas._"
   },
- {
+  {
     "id": 4484,
-    "val": "Sal 50, 3-4. 12-13. 17. 19: _Me pondré en camino a donde esta mi padre._"
+    "val": "Sal 50, 3-4.12-13.17.19: _Me pondré en camino a donde esta mi padre._"
   },
- {
+  {
     "id": 4485,
     "val": "1 Tim 1, 12-17: _Cristo vino para salvar a los pecadores._"
   },
- {
+  {
     "id": 4486,
     "val": "Lc 15, 1-32: _Habrá alegría en el cielo por un solo pecador que se convierta._"
+  },
+  {
+    "id": 4488,
+    "val": "Zac 12, 10-11; 13, 1:_Mirarán al que atravesaron._"
+  },
+  {
+    "id": 4489,
+    "val": "Ga 3, 26-29: _Los que habéis sido bautizados os habéis revestido de Cristo._"
   },
   {
     "id": 6000,
@@ -9846,5 +9850,693 @@
   {
     "id": 6005,
     "val": "_Alabanza y honor a ti, Señor Jesús._"
+  },
+  {
+    "id": 7001,
+    "val": "Benedicto XVI, papa. Ángelus (30-01-2011): No es una ideología, viene de lo alto. «Bienaventurados los pobres de espíritu»"
+  },
+  {
+    "id": 7002,
+    "val": "San Juan Pablo II, papa. Homilía (11-08-1993): Se recibe la luz para darla. «Vosotros sois la sal de la tierra»"
+  },
+  {
+    "id": 7003,
+    "val": "San Agustín, obispo y doctor de la Iglesia (s. IV): Del espíritu y la letra «No he venido a abolir la Ley sino a darle plenitud». PL 33, 217ss"
+  },
+  {
+    "id": 7004,
+    "val": "San León Magno, papa (s. V): «Si no sois mejores que los escribas y fariseos, no entraréis en el reino de los cielos» Serm. 92, 1.2.3. PL 54, 454-455"
+  },
+  {
+    "id": 7005,
+    "val": "San Juan Pablo II, papa. Audiencia General (16-04-1980): «Todo el que miró a una mujer deseándola, ya adulteró con ella en su corazón»"
+  },
+  {
+    "id": 7006,
+    "val": "San Juan Pablo II, papa: «Yo os digo, no juréis en modo alguno»"
+  },
+  {
+    "id": 7007,
+    "val": "Francisco, papa (s, XXI): Audiencia General 15 de mayo de 2013."
+  },
+  {
+    "id": 7008,
+    "val": "San Ireneo de Lyon, obispo y mártir (s. II): Contra las herejías. Ir más allá del legalismo IV, 13,3"
+  },
+  {
+    "id": 7009,
+    "val": "San Fulgencio de Ruspe, obispo (s. VI). Sermón: ¿Hay mayor pobreza que no poder amar?"
+  },
+  {
+    "id": 7010,
+    "val": "Catena Aurea. Comentarios de los Padres de la Iglesia por versículos: Glosa"
+  },
+  {
+    "id": 7011,
+    "val": "San Cipriano, obispo y mártir (s. III). Tratado: Vivir como hijos. La oración del Señor, 11-12"
+  },
+  {
+    "id": 7012,
+    "val": "﻿San Cesareo de Arlés, obispo (s. V). Sermón Corazón en el cielo 32, 1-2: SC 243"
+  },
+  {
+    "id": 7013,
+    "val": "San Cirilo de Alejandría, obispo (s. V). Homilía: Sobre todo buscad el reino de Dios y su justicia."
+  },
+  {
+    "id": 7014,
+    "val": "Mons. Prevost (papa León XIV): Homilía Corpus Christi 2020 – Catedral de Chiclayo, Perú."
+  },
+  {
+    "id": 7015,
+    "val": "San Juan Clímaco (s. VI). La Santa Escala: ¿Cómo puede un condenado condenar? 10º Escalón"
+  },
+  {
+    "id": 7016,
+    "val": "Orígenes, presbítero (s. II). Sobre el Éxodo: No dudes, por difícil que sea el camino. n. 5, 3"
+  },
+  {
+    "id": 7017,
+    "val": "San Francisco de Sales, obispo (s. XVI). Introducción a la Vida Devota: No busques el consuelo, sino al que consuela. 4ª parte, capítulo 13, III, 322."
+  },
+  {
+    "id": 7018,
+    "val": "San Benito, abad (s. V). Regla Monástica: No desperdicies tus días. Prólogo, 19-38"
+  },
+  {
+    "id": 7019,
+    "val": "San Pedro Crisólogo, obispo (s. V). Sermones: ¡Busquemos a Cristo, llevemos a Cristo! Sermón 168, 4-6. CCL 24B, 1032-1034"
+  },
+  {
+    "id": 7020,
+    "val": "San Agustín, obispo y doctor de la Iglesia (s. IV). Sermón: No habría dicho tales palabras si el Señor no hubiera entrado ya en su corazón. 62 A."
+  },
+  {
+    "id": 7021,
+    "val": "San Juan Pablo II, papa. 18-05-2000: Homilía"
+  },
+  {
+    "id": 7022,
+    "val": "San Agustín, obispo y doctor de la Iglesia (s. IV): Garante de la universalidad y de la unidad. Sermón 295, 1-2"
+  },
+  {
+    "id": 7023,
+    "val": "Mons. José Ignacio Munilla, obispo de Orihuela-Alicante (España): Homilía 27 junio 2022."
+  },
+  {
+    "id": 7024,
+    "val": "San Carlos de Foucauld (s. XIX). Meditación «Ocho días en Efrén»: La tempestad apaciguada"
+  },
+  {
+    "id": 7025,
+    "val": "San Jerónimo (s. IV): Comentarios al Evangelio de San Mateo."
+  },
+  {
+    "id": 7026,
+    "val": "San Juan Crisóstomo, obispo (s. IV): Homilia sobre el evangelio de Mateo. Hom. 29, 1"
+  },
+  {
+    "id": 7027,
+    "val": "San Beda el Venerable, presbítero (s. VII). Homilías: Jesús lo vio y, porque lo amó, lo eligió. CCL 122, 149-151"
+  },
+  {
+    "id": 7028,
+    "val": "San Romano el Meloda (s. V): Himno «Adán y Eva» Himno 1-5; SC 99"
+  },
+  {
+    "id": 7029,
+    "val": "Benedicto XVI, papa (s. XX). Ángelus (08-07-2007): En el campo de Dios hay trabajo para todos"
+  },
+  {
+    "id": 7030,
+    "val": "San José María Escrivá de Balaguer, presbítero (s. XX). Tratar a Jesucristo confiadamente: Alegría en la lucha. Cartas I. Cap. 2"
+  },
+  {
+    "id": 7031,
+    "val": "Santa Teresa del Niño Jesús (s. XIX): «Rogad al Dueño de la mies que mande obreros a su mies» Carta 135."
+  },
+  {
+    "id": 7032,
+    "val": "Benedicto XVI, papa (s. XX). Homilía (15-06-2008) : Visita Pastoral a Santa María de Leuca y Brindisi"
+  },
+  {
+    "id": 7033,
+    "val": "Francisco, papa (s. XXI). Evangelii Gaudium: El Reino que nos reclama. nn. 181-182"
+  },
+  {
+    "id": 7034,
+    "val": "San Cipriano, obispo (s. III). Obras: Sin paciencia no veréis los frutos. De las ventajas de la paciencia, 13.16"
+  },
+  {
+    "id": 7035,
+    "val": "Francisco, papa (s. XXI). Ángelus (25-06-2017): No hay misión sin tribulaciones."
+  },
+  {
+    "id": 7036,
+    "val": "San Severo de Antioquia, obispo (s. V): Cristo se hace samaritano y nos visita. Homilía 89."
+  },
+  {
+    "id": 7037,
+    "val": "Juan Taulero, presbítero (s. XIV): Abandono verdadero. Sermón 59, 4º para la Exaltación de la santa cruz"
+  },
+  {
+    "id": 7038,
+    "val": "Santa Teresa de Calcuta, religiosa (s. XX). Un Camino Simple: La negligencia en el amar conduce al mal p. 51"
+  },
+  {
+    "id": 7039,
+    "val": "Guillermo de San Thierry, monje (s. XII): El espejo de la fe, 6; PL 180, 384; SC 301"
+  },
+  {
+    "id": 7040,
+    "val": "Santa Teresa de Lisieux, virgen (s. XIX): Pedir un corazón como el suyo. Oración n. 20, para obtener la humildad."
+  },
+  {
+    "id": 7041,
+    "val": "Elredo de Rielvaux, monje (s. XII) Escritos: Los dos sábados. El Espejo de la caridad, III, 3,4"
+  },
+  {
+    "id": 7042,
+    "val": "San Hipólito de Roma, presbítero y mártir (s. III): Refutación de todas las herejías n. 10,33-34"
+  },
+  {
+    "id": 7043,
+    "val": "San Ambrosio, obispo y doctor de la Iglesia (s. IV): Marta y María en el único cuerpo de Cristo."
+  },
+  {
+    "id": 7044,
+    "val": "Francisco, papa (s. XXI): Homilía. Síndrome de Jonás vs Signo de Jonás. 14 de octubre de 2013"
+  },
+  {
+    "id": 7045,
+    "val": "Santa Teresa del Niño Jesús (s. XX) Cartas: La verdadera perfección. Carta 121"
+  },
+  {
+    "id": 7046,
+    "val": "San Juan Crisóstomo, obispo (s.VI) Sobre el Evangelio de san Mateo: En tierra buena, dieron fruto. n. 44"
+  },
+  {
+    "id": 7047,
+    "val": "Juan Taulero, teólogo (s. XIV) Sermón: Los humildes ven a Dios. Serm. 53"
+  },
+  {
+    "id": 7048,
+    "val": "San Padre Pío de Pietrelcina (s. XX): Dar fruto, liberados de las preocupaciones del mundo. Epistolario 3, 579; CE 54"
+  },
+  {
+    "id": 7049,
+    "val": "San Juan Pablo II, papa (s. XX) Homilía (22-07-1990): ¿Por qué no se puede arrancar la cizaña ahora?"
+  },
+  {
+    "id": 7050,
+    "val": "Santa Catalina de Siena, virgen (s. XIV): Diálogos. Padre de Misericordia"
+  },
+  {
+    "id": 7051,
+    "val": "San Macario de Egipto, monje (s. IV): Hasta que la pasta fermente. Hom. nº 24"
+  },
+  {
+    "id": 7052,
+    "val": "Anónimo. Carta a Diogneto (s. II): La paciencia de Dios"
+  },
+  {
+    "id": 7053,
+    "val": "Orígenes, presbítero (s. III): Las perlas finas conducen a la perla de gran valor. Lib. 10, 9-10. SC 162, 173-177"
+  },
+  {
+    "id": 7054,
+    "val": "Santa Catalina de Siena, virgen y doctora de la Iglesia (s. XIV): Diálogos. El Juicio. Capítulo 39"
+  },
+  {
+    "id": 7055,
+    "val": "San Juan XXIII, papa (s. XX): Diario del alma. Humildad. nn. 1901-1903"
+  },
+  {
+    "id": 7056,
+    "val": "San Pedro Damián, obispo y doctor de la Iglesia (s. XI): Precursor en su vida y en su muerte. Serm. 24-25"
+  },
+  {
+    "id": 7057,
+    "val": "Benedicto XVI, papa (s. XXI): Ángelus. domingo 5 de agosto de 2007"
+  },
+  {
+    "id": 7058,
+    "val": "Monseñor Carlos Ñañez, obispo, Córdoba, Argentina (s. XXI): Reflexiones sobre el Evangelio de San Mateo"
+  },
+  {
+    "id": 7059,
+    "val": "Papa Francisco (s. XXI): Ángelus. Domingo 10 de agosto de 2014"
+  },
+  {
+    "id": 7060,
+    "val": "Julián de Vézelay, monje benedictino (s. XII): Si tu fe es grande moverás montañas. Sermón 17 (SC 93)"
+  },
+  {
+    "id": 7061,
+    "val": "San José María Escrivá de Balaguer, presbítero (s. XX): Lealtad a la Iglesia. Punto 12, la Iglesia es Apostólica."
+  },
+  {
+    "id": 7062,
+    "val": "San (Padre) Pío de Pietrelcina (s. XX): FSP, 119; Ep 3, 441; CE, 21; Ep 3, 413"
+  },
+  {
+    "id": 7063,
+    "val": "Santo Tomás Moro, mártir (s. XVI): Diálogo de la fortaleza contra la tribulación"
+  },
+  {
+    "id": 7064,
+    "val": "San Ambrosio, obispo (s. IV): Sobre los Salmos. Que la Palabra de Dios sea lámpara para mis pasos. Sermón 14, 11-13. PL 15, 1394-1395 (LH)"
+  },
+  {
+    "id": 7065,
+    "val": "San Paciano, obispo (s. IV): Homilía. Liberados por el Hijo del hombre que se entrega a manos de los hombres"
+  },
+  {
+    "id": 7066,
+    "val": "Joseph Ratzinger, papa Benedicto XVI (s. XXI): Jesús de Nazaret. Descenso por amor a la oveja extraviada.Tomo II, capítulo III, 1 (La Hora de Jesús)"
+  },
+  {
+    "id": 7067,
+    "val": "Tertuliano, teólogo (s. II): Obras. El hermano es Cristo. La Penitencia, 10"
+  },
+  {
+    "id": 7068,
+    "val": "Mons. José Ignacio Munilla, obispo de Orihuela-Alicante (s. XXI): Homilía del Jueves 19 del tiempo ordinario. 2023."
+  },
+  {
+    "id": 7069,
+    "val": "San Pedro Crisólogo, obispo y doctor de la Iglesia (s. V): El Matrimonio hace de dos seres uno solo. Sermón n. 99."
+  },
+  {
+    "id": 7070,
+    "val": "San Máximo de Turín, obispo (s. V): Homilía. Renacer a la inocencia del corazón. PL 57, 363-366"
+  },
+  {
+    "id": 7071,
+    "val": "Dionisio el Cartujo, monje (s. XV): Comentario. Saludable división. Opera omnia, 12, 72."
+  },
+  {
+    "id": 7072,
+    "val": "San Juan de la Cruz, doctor de la Iglesia (s. XVI): Obras. Vende tu voluntad. Avisos y máximas 169-175."
+  },
+  {
+    "id": 7073,
+    "val": "San Ireneo de Lyon, obispo, mártir y doctor de la Iglesia (s. II): Tratado. Jesús no nos llama para quitarnos de nada. Contra las herejías, IV, 14,1. SC 100, 537."
+  },
+  {
+    "id": 7074,
+    "val": "San José María Escrivá de Balaguer, prebítero (s. XX) : 'El tesoro del tiempo'.  N. 42"
+  },
+  {
+    "id": 7075,
+    "val": "San Juan Pablo II, papa (s. XX): Audiencia General del Miércoles 18 de septiembre de 1991"
+  },
+  {
+    "id": 7076,
+    "val": "San Alfonso María de Ligorio, obispo y doctor de la Iglesia (s. XVIII): Octavo Discurso para la Novena de Navidad. «El grande y primer mandamiento»"
+  },
+  {
+    "id": 7077,
+    "val": "San Macario, mártir (s. III): Homilía. La vida comunitaria «Todos vosotros sois hermanos». Tercera, 1-3. PG 34, 467-470"
+  },
+  {
+    "id": 7078,
+    "val": "San Próspero de Aquitania, teólogo (s. V): La vocación de todos los gentiles, 9"
+  },
+  {
+    "id": 7079,
+    "val": "Santa Catalina de Gênes, mística (s. XV): Escritos. El libre arbitrio. Dios llama a nuestra libertad."
+  },
+  {
+    "id": 7080,
+    "val": "San Rafael Arnaiz, monje trapense (s. XX): Escrito. Cristo nos llama a todos a la conversión. Escritos del 25-01-1937. (Obras completas – Editorial Monte Carmelo, p. 767.768, § 883.884.885)"
+  },
+  {
+    "id": 7081,
+    "val": "San Gregorio de Nisa, obispo (s. IV): Homilía. Quitar las manchas que estropean la belleza. Homilía 6 sobre las Bienaventuranzas. PG 44,1269."
+  },
+  {
+    "id": 7082,
+    "val": "Mons. José Ignacio Munilla, obispo de Orihuela-Alicante (s. XXI): Homilía Jueves 21 del tiempo ordinario. 2023"
+  },
+  {
+    "id": 7083,
+    "val": "San Antonio de Padua, presbítero y doctor de la Iglesia (s. XIII): Invitados a bodas. Sermones para los domingos y fiestas de los santos."
+  },
+  {
+    "id": 7084,
+    "val": "San Padre Pío de Pietrelcina, presbítero (s. XX): Obras. ¡Empecémos hoy! Buona giornata 5, 3/1."
+  },
+  {
+    "id": 7085,
+    "val": "Santa Faustina Kowalska, religiosa (s. XX): Diario n. 1306.2"
+  },
+  {
+    "id": 7086,
+    "val": "Faustino Luciferiano, presbítero (s. IV): Tratado sobre la Trinidad. Unción espiritual."
+  },
+  {
+    "id": 7087,
+    "val": "Baudoin de Ford, obispo (s. XII): Palabra eficaz. Homilía 6; PL 204, 451-453"
+  },
+  {
+    "id": 7088,
+    "val": "San Vicente de Paúl (s. XVII): Que nuestro Señor nos vea. Carta del 16-08-1656"
+  },
+  {
+    "id": 7089,
+    "val": "San Patricio, obispo (s. V): Consagrarse a la pesca como es debido.Confesión, 38-40"
+  },
+  {
+    "id": 7090,
+    "val": "Francisco, papa (s. XXI): Homilía del 20 de enero de 2014."
+  },
+  {
+    "id": 7091,
+    "val": "San Macario de Egipto, monje (s. IV): Entrar en el descanso.Homilías espirituales, 35"
+  },
+  {
+    "id": 7092,
+    "val": "Santa Teresa del Niño Jesús, doctora de la Iglesia (s. XIX): ¿Qué se necesita para amar a Jesús? Carta 197, del 17 sep 1896."
+  },
+  {
+    "id": 7093,
+    "val": "San Ambrosio, obispo y doctor de la Iglesia (s. IV): Es el mal el que no debe trabajar. Comentario al evangelio de Lucas, V, 39."
+  },
+  {
+    "id": 7094,
+    "val": "Benedicto XVI, papa (s. XXI): Catequesis. Tradición viva. Audiencia General, 3 de mayo de 2006."
+  },
+  {
+    "id": 7095,
+    "val": "San Carlos de Foucauld (s. XIX): Meditaciones sobre los Evangelios relativos a 15 virtudes, Nazaret 1897-98; nº 15"
+  },
+  {
+    "id": 7096,
+    "val": "Santa Teresa del Niño Jesús, doctora de la Iglesia (s. XIX): El amor a los enemigos. Manuscrito autobiográfico."
+  },
+  {
+    "id": 7097,
+    "val": "Mons. José Ignacio Munilla, Obispo Orihuela-Alicante, España (s. XXI): Homilia del Viernes 23 del tiempo ordinario. Sep-2024."
+  },
+  {
+    "id": 7098,
+    "val": "Afraates, monje y obispo (s. IV): Poner los cimientos sobre la roca. Explicación del Sermón de la Montaña, 19."
+  },
+  {
+    "id": 7099,
+    "val": "San José María Escrivá de Balaguer (s. XX): Del libro ‘Es Cristo que pasa’.‘Vocación cristiana’. Cap. 7."
+  },
+  {
+    "id": 7100,
+    "val": "San Francisco de Sales, obispo (s. XVII): Si tienes fe, ¿dónde están los frutos? Sermón X, 218."
+  },
+  {
+    "id": 7101,
+    "val": "San Ambrosio, obispo (s. IV): La misericordia divina se inclina hacia nosotros. Libro V, nn. 89-92."
+  },
+  {
+    "id": 7102,
+    "val": "San Bernardo, obispo y doctor de la Iglesia (s. XII): La ignorancia de los que no se convierten. Sermón 38 sobre el Cantar de los Cantares."
+  },
+  {
+    "id": 7103,
+    "val": "San Romano el Melódico (s. VI): Rompo con el pasado; renuncio al abismo de mis obras. Himno 21."
+  },
+  {
+    "id": 7104,
+    "val": "San Juan Pablo II, papa (s. XX): Alocución del 29 de abril 1979."
+  },
+  {
+    "id": 7105,
+    "val": "San Juan María Vianney “Cura de Ars” (s. XIX):  Sermón sobre la Parábola del Sembrador."
+  },
+  {
+    "id": 7106,
+    "val": "Benedicto XVI, papa (s. XXI): Ángelus. El mejor modo de utilizar el dinero. Domingo 23 de septiembre de 2007"
+  },
+  {
+    "id": 7107,
+    "val": "San Cromacio de Aquilea, obispo (s. IV): Sobre el Evangelio de San Mateo. Homilía 5, 1.3-4."
+  },
+  {
+    "id": 7108,
+    "val": "Santa Teresa Benedicta de la Cruz, mártir, copatrona de Europa (s. XX): La mujer y su destino."
+  },
+  {
+    "id": 7109,
+    "val": "Francisco, papa (s. XXI): Evangelización integral. Exhortación apostólica “Evangelii Gaudium» § 181-183."
+  },
+  {
+    "id": 7110,
+    "val": "San Columbano, abad (s. VI): Un Dios cercano, por la fe. Instrucción 1, 2-4 ; PL 80, 231-232."
+  },
+  {
+    "id": 7111,
+    "val": "Juliana de Norwich, anacoreta (s. XIV): La Pasión de Cristo, remedio a nuestro pecado y a nuestro sufrimiento. Revelaciones del amor divino, cap. 27."
+  },
+  {
+    "id": 7112,
+    "val": "San Pedro Crisólogo, obispo y doctor de la Iglesia (s. V): La cruz fue mortal para la muerte. Homilía."
+  },
+  {
+    "id": 7113,
+    "val": "San Gregorio Nacianceno, obispo (s. IV): Presencia de Cristo en los pobres. Sermón 14 sobre el amor a los pobres, 38.40"
+  },
+  {
+    "id": 7114,
+    "val": "San Juan Casiano, abad (s. IV): El legado de Cristo. Conferencias, n. 15, 6-7"
+  },
+  {
+    "id": 7115,
+    "val": "San Juan Pablo II, papa (s. XX): Catequesis, Audiencia general 9 septiembre 1987. Los milagros de Cristo como manifestación del amor salvífico"
+  },
+  {
+    "id": 7116,
+    "val": "Santa Teresa-Benedicta de la Cruz (s.XX): Cristo nos precede. Fiesta de la Exaltación de la Santa Cruz"
+  },
+  {
+    "id": 7117,
+    "val": "Benedicto XVI, papa (s. XXI): Ángelus 8 julio 2007. En el campo de Dios hay trabajo para todos"
+  },
+  {
+    "id": 7118,
+    "val": "Mons. José Ignacio Munilla, Obispo Orihuela-Alicante (s. XXI): Homilía Viernes 26 del Tiempo Ordinario. 2023."
+  },
+  {
+    "id": 7119,
+    "val": "El Pastor de Hermas (s. II): Obra cristiana del Siglo II. El Pastor, 10º precepto."
+  },
+  {
+    "id": 7120,
+    "val": "Santa Teresa de Calcuta, religiosa (s. XX): No hay alegría más grande. Ante el fracaso y la gloria"
+  },
+  {
+    "id": 7121,
+    "val": "Benedicto XVI, papa (s. XXI): Shemá, amor a Dios y al prójimo. Encíclica “Deus caritas est”, n. 15."
+  },
+  {
+    "id": 7122,
+    "val": "Santo Tomás Moro, teólogo y mártir (s. XV): Se recibe al Señor en la Eucaristía. Tratado para recibir el Cuerpo del Señor."
+  },
+  {
+    "id": 7123,
+    "val": "Santa Teresa de Ávila, doctora de la Iglesia (s. XVI): La oración nos introduce en el reino de Dios. Camino de perfección, c. 30."
+  },
+  {
+    "id": 7124,
+    "val": "San Jose María Escrivá de Balaguer, presbitero (s. XX): Amigos de Dios. Vida de oración. 242"
+  },
+  {
+    "id": 7125,
+    "val": "San Macario de Egipto, monje (s. IV): Ser «casa» de Dios. Homilía 33. PG 34, 741-743."
+  },
+  {
+    "id": 7126,
+    "val": "San Agustín de Hipona, obispo y doctor de la Iglesia (s. IV): ¿Acaso la Virgen María no hizo la voluntad del Padre? Sermón sobre el Evangelio de Mateo, 25, 7-8 : PL 46, 937"
+  },
+  {
+    "id": 7127,
+    "val": "Benedicto XVI, papa (s. XXI): Curación completa y radical. Ángelus 14 octubre 2007"
+  },
+  {
+    "id": 7128,
+    "val": "Papa Francisco (s. XXI): Homilía del 6 de octubre de 2015."
+  },
+  {
+    "id": 7129,
+    "val": "San Ambrosio, obispo y doctor de la Iglesia (s. IV): No desprecies lo mejor. Comentario al evangelio de Lucas, 7, 100-102."
+  },
+  {
+    "id": 7130,
+    "val": "Papa Francisco (s. XXI): Homilía de Pentecostés 24 de mayo de 2015."
+  },
+  {
+    "id": 7131,
+    "val": "San Balduino de Ford, abad (s. XII): Muriendo, mató el odio. El Sacramento del altar, II, 1."
+  },
+  {
+    "id": 7132,
+    "val": "La Didajé (s. I): El Camino de la Vida. Cap. 3."
+  },
+  {
+    "id": 7133,
+    "val": "Concilio Vaticano II (s. XX): Entregarse a Cristo por toda la vida. Decreto Ad Gentes, sobre la actividad misionera de la Iglesia, nn. 23-24."
+  },
+  {
+    "id": 7134,
+    "val": "San Jose María Escrivá de Balaguer, presbítero (s. XX): Orar siempre. Homilía del 26-03-1967 en ‘Es Cristo que pasa’."
+  },
+  {
+    "id": 7135,
+    "val": "San Francisco de Sales, obispo (s. XVII): Idolatría de las cosas. X, 254."
+  },
+  {
+    "id": 7136,
+    "val": "San Maximiliano Kolbe, presbítero y mártir (s. XX): ¿Cómo vencer la debilidad del alma? Conferencia del 13-12-1941."
+  },
+  {
+    "id": 7137,
+    "val": "Beato Guerrico de Igny (s. XII): Su llegada es segura, el momento, incierto. Sermón 3º para Adviento, 1: SC 166."
+  },
+  {
+    "id": 7138,
+    "val": "Dionisio el Cartujo, monje (s. XV): Saludable división. Comentario al evangelio de Lucas; Opera omnia, 12, 72."
+  },
+  {
+    "id": 7139,
+    "val": "San Juan Pablo II, papa (s. XX): Los signos de los tiempos. Carta Apostólica «Novo Millennio Ineunte» n. 33."
+  },
+  {
+    "id": 7140,
+    "val": "Mons. José Ignacio Munilla, obispo Alicante-Orihuela (s. XXI): Homilía del sábado XXIX del Tiempo Ordinario. 2024"
+  },
+  {
+    "id": 7141,
+    "val": "Juan Taulero, presbítero (s. XIV): Camino que conduce directamente a Dios. N 48"
+  },
+  {
+    "id": 7142,
+    "val": "San Gregorio Magno, padre de la Iglesia (s. VI): Homilía 31. Sobre el Juicio Final."
+  },
+  {
+    "id": 7143,
+    "val": "San Juan Crisóstomo, obispo y doctor de la Iglesia (s. IV): Comprender el signo de la levadura. Homilías n. 46, 2."
+  },
+  {
+    "id": 7144,
+    "val": "San Próspero de Aquitania, teólogo (s. V): La vocación de todos los gentiles, 9"
+  },
+  {
+    "id": 7145,
+    "val": "San Jerónimo, presbítero y doctor de la Iglesia (s. IV): Los santos lugares son útiles a los que llevan su cruz. Tratado sobre el salmo 95; CCL 78, p. 154-155; Cartas 58, 2-4; PL 22, 580."
+  },
+  {
+    "id": 7146,
+    "val": "Balduino de Ford, obispo (s. XII): Hacia el sábado en plenitud. El Sacramento del altar, 3, 2."
+  },
+  {
+    "id": 7147,
+    "val": "Santa Faustina Kowalska, religiosa mística (s. XX): Diario n. 1306."
+  },
+  {
+    "id": 8001,
+    "val": "San Agustín, obispo (s.IV). Las llagas de Cristo: Sermón 88, 1-2. Edit Maurist t. 5 469-470"
+  },
+  {
+    "id": 8002,
+    "val": "San Ireneo de Lyon, obispo, mártir y doctor de la Iglesia (s. II). Jesús no nos llama para quitarnos de nada:Tratado contra las herejías, IV, 14,1. SC 100, 537."
+  },
+  {
+    "id": 8003,
+    "val": "Benedicto XVI, papa. (s. XXI): Ángelus, Domingo 24 de junio de 2012. Solemnidad del Nacimiento de san Juan Bautista."
+  },
+  {
+    "id": 8004,
+    "val": "San Gregorio Palamás, obispo (s. XIV): Perseverancia. Homilía 20. PG 151, 265-266.271."
+  },
+  {
+    "id": 8005,
+    "val": "Mons. José Ignacio Munilla, obispo de Orihuela-Alicante (España). 23 de julio 2024: Homilía Santa Brígida."
+  },
+  {
+    "id": 8006,
+    "val": "San Basilio de Seleucia, obispo (s. V): Ha hecho del Reino el objeto de su súplica. PG 85, 282ss"
+  },
+  {
+    "id": 8007,
+    "val": "Pablo VI, papa (s. XX): Ángelus. Alocución para la Fiesta de la Transfiguración del Señor. 1978."
+  },
+  {
+    "id": 8008,
+    "val": "Santa Teresa Benedicta de la Cruz [Edith Stein], religiosa (s. XX): Escritos. La mujer y su destino"
+  },
+  {
+    "id": 8009,
+    "val": "Teresa de Calcuta (s. XX): Escritos. María se puso en camino. No hay amor más grande."
+  },
+  {
+    "id": 8010,
+    "val": "Francisco, papa (s. XXI): Homilía. La manera en que Dios vence. Viernes 5 de febrero de 2016"
+  },
+  {
+    "id": 8011,
+    "val": "Ruperto de Deutz, monje benedictino (s. XII): Vino para todos. Del Oficio Divino, 3, 18."
+  },
+  {
+    "id": 8012,
+    "val": "Autor Griego (s. IV): Árbol que sube al cielo. Homiía sobre la Pascua. PG 59, 743."
+  },
+  {
+    "id": 8013,
+    "val": "San Buenaventura, obispo (s. XIII): El dolor de María vino después. Los siete dones del Espíritu Santo, conferencia VI, 15-21."
+  },
+  {
+    "id": 8014,
+    "val": "San Bernardo, abad y doctor de la Iglesia (s. XII): ¿Qué podemos decir de los ángeles? 1er sermón para la fiesta de san Miguel"
+  },
+  {
+    "id": 8015,
+    "val": "Santa Catalina de Siena, virgen y doctora de la Iglesia (s. XIV): El Juicio. Diálogos. Capítulo 39"
+  },
+  {
+    "id": 8016,
+    "val": "San León Magno, papa (s. V): Cristo ama la infancia. Homilía VII (37) en la Solemnidad de la Epifanía."
+  },
+  {
+    "id": 8017,
+    "val": "San Juan María Vianney -Santo Cura de Ars- (s. XIX): El ministerio de los ángeles. Sermón para la fiesta de los Santos Ángeles Custodios."
+  },
+  {
+    "id": 8018,
+    "val": "Santa Teresa de Lisieux, virgen (s. XIX): Pedir un corazón como el suyo. Oración n. 20, para obtener la humildad"
+  },
+  {
+    "id": 8019,
+    "val": "San Epifanio de Salamina (s. IV): <Homilía V. PG 43, 491.494.502"
+  },
+  {
+    "id": 8020,
+    "val": "San Juan Crisóstomo, obispo (s. IV): Nos mostró el camino de la sencillez. Sermones sobre el Evangelio de Mateo, núm 38, 1"
+  },
+  {
+    "id": 8021,
+    "val": "Benedicto XVI, papa (s. XXI): Vía Crucis. Un nuevo inicio. Viernes Santo 2 de abril de 2010"
+  },
+  {
+    "id": 8022,
+    "val": "San Gregorio Magno, papa (s VI): Sobre los Evangelios. El Señor viene detrás de sus predicadores"
+  },
+  {
+    "id": 8023,
+    "val": "Concilio Vaticano II (s. XX): Lumen Gentium. Los Obispos, sucesores de los Apóstoles. Constitución dogmática sobre la Iglesia, nn. 24-25"
+  },
+  {
+    "id": 8024,
+    "val": "San Hilario de Poitiers, obispo  (s. IV): Cristo promulga el código de la vida celestial. «Bienaventurados». Cap. 4, 1-3. 9: PL 9, 931-934"
+  },
+  {
+    "id": 8025,
+    "val": "San Braulio de Zaragoza, obispo (s. VI): Cristo resucitado, esperanza de todos los creyentes. Carta 19: PL 80, 665-666."
   }
 ]

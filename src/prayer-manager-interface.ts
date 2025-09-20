@@ -4,7 +4,7 @@ import {LiturgicalColors} from "@/prayers/types.ts";
 export interface PrayerManagerInterface {
     getInvitatorium(date?: Date): Promise<InvitatoriumSchemaOutput | undefined>;
 
-    getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined>;
+    getLaudes(date?: Date): Promise<LaudesSchemaOutput[] | undefined>;
 
     getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined>;
 
@@ -37,7 +37,7 @@ export type InvitatoriumSchemaOutput = {
 export type LaudesSchema = {
     id: string;
     cycle: string;
-    dia_semana_tiempo: number;
+    // dia_semana_tiempo: number;
     himno: number;
     s1_c: number;
     s1_a: number;
@@ -62,7 +62,7 @@ export type LaudesSchema = {
 export type LaudesSchemaOutput = {
     id: string;
     cycle: string;
-    dia_semana_tiempo: string;
+    // dia_semana_tiempo: string;
     himno: string;
     primer_salmo_cita: string;
     primer_salmo_antifona: string;
@@ -98,18 +98,18 @@ export type SingleLectureSchemaOutput = {
 export type LecturesSchema = {
     id: string;
     cycle: string;
-    fecha_anio_liturgico: number;
-    tiempo_ciclo_paridad: number;
-    celebraciones_posibles: number[];
+    // fecha_anio_liturgico: number;
+    // tiempo_ciclo_paridad: number;
+    // celebraciones_posibles: number[];
     lecturas: SingleLectureSchema[];
 };
 
 export type LecturesSchemaOutput = {
     id: string;
     cycle: string;
-    fecha_anio_liturgico?: string;
-    tiempo_ciclo_paridad?: string;
-    celebraciones_posibles: string[];
+    // fecha_anio_liturgico?: string;
+    // tiempo_ciclo_paridad?: string;
+    // celebraciones_posibles: string[];
     lecturas: SingleLectureSchemaOutput[];
 };
 
@@ -261,17 +261,32 @@ export interface OfficiumSchema {
     s3_c: number;
     s3_a: number;
     s3_t: number;
-    responsorio1: number[];
-    lb_tit: number[] | number;
-    lb_c: number[] | number;
-    lb_texto: number[] | number;
-    responsorio2: number[];
-    responsorio2B: number[];
-    lp_tit: number[] | number;
-    lp_c: number[] | number;
-    lp_texto: number[] | number;
-    responsorio3: number[];
-    responsorio3B: number[];
+
+    lb_tit_a: string;
+    lb_tit_i: string;
+    lb_tit_p: string;
+    lb_cita_a: string;
+    lb_cita_i: string;
+    lb_cita_p: string;
+    lb_texto_a: string;
+    lb_texto_i: string;
+    lb_texto_p: string;
+    lp_tit_a: string;
+    lp_tit_i: string;
+    lp_tit_p: string;
+    lp_cita_a: string;
+    lp_cita_i: string;
+    lp_cita_p: string;
+    lp_texto_a: string;
+    lp_texto_i: string;
+    lp_texto_p: string;
+    resp_1: string[];
+    resp_2_a: string[];
+    resp_2_i: string[];
+    resp_2_p: string[];
+    resp_3_a: string[];
+    resp_3_i: string[];
+    resp_3_p: string[];
     o_final: number;
 }
 
@@ -288,17 +303,31 @@ export interface OfficiumSchemaOutput {
     tercer_salmo_cita: string;
     tercer_salmo_antifona: string;
     tercer_salmo_texto: string;
-    responsorio1: string[];
-    lectura_biblica_titulo: string[] | string;
-    lectura_biblica_cita: string[] | string;
-    lectura_biblica_texto: string[] | string;
-    responsorio2: string[];
-    responsorio2B: string[];
-    lectura_patristica_titulo: string[] | string;
-    lectura_patristica_cita: string[] | string;
-    lectura_patristica_texto: string[] | string;
-    responsorio3: string[];
-    responsorio3B: string[];
+    lectura_biblica_titulo_a: string;
+    lectura_biblica_titulo_i: string;
+    lectura_biblica_titulo_p: string;
+    lectura_biblica_cita_a: string;
+    lectura_biblica_cita_i: string;
+    lectura_biblica_cita_p: string;
+    lectura_biblica_texto_a: string;
+    lectura_biblica_texto_i: string;
+    lectura_biblica_texto_p: string;
+    lectura_patristica_titulo_a: string;
+    lectura_patristica_titulo_i: string;
+    lectura_patristica_titulo_p: string;
+    lectura_patristica_cita_a: string;
+    lectura_patristica_cita_i: string;
+    lectura_patristica_cita_p: string;
+    lectura_patristica_texto_a: string;
+    lectura_patristica_texto_i: string;
+    lectura_patristica_texto_p: string;
+    "responsorio1": string[];
+    "responsorio2_a": string[];
+    "responsorio2_i": string[];
+    "responsorio2_p": string[];
+    "responsorio3_a": string[];
+    "responsorio3_i": string[];
+    "responsorio3_p": string[];
     oracion_final: string;
 }
 
@@ -312,5 +341,5 @@ export type LiturgyInformationOutput = {
     seasons?: string[];
     precedence?: string;
     periods?: string[];
-    calendar?: object;
+    calendar?: any;
 }

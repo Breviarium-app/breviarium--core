@@ -1,7 +1,23 @@
 [
   {
+    "id": -1,
+    "val": ""
+  },
+  {
     "id": 0,
     "val": "_Señor, Dios mío, de día te pido auxilio, de noche grito en tu presencia._"
+  },
+  {
+    "id": 1,
+    "val": "_El Rey de la paz ha sido glorificado, y toda la tierra desea contemplar su rostro. _"
+  },
+  {
+    "id": 2,
+    "val": "_Envía su mensaje a la tierra, y su palabra corre veloz._"
+  },
+  {
+    "id": 3,
+    "val": "_El que era la Palabra substancial del Padre, engendrado antes del tiempo, hoy se ha despojado de su rango haciéndose carne por nosotros._"
   },
   {
     "id": 15,
@@ -237,7 +253,7 @@
   },
   {
     "id": 118,
-    "val": "_¡Oh Dios!, tu mereces un himno en Sion._"
+    "val": "_¡Oh Dios!, tú mereces un himno en Sion._"
   },
   {
     "id": 122,
@@ -273,7 +289,7 @@
   },
   {
     "id": 136,
-    "val": "_De la boca de los niños de pecho, Señor, has sacado una alabanza._"
+    "val": "_De la boca de los niños de pecho, Señor, has sacado tu alabanza._"
   },
   {
     "id": 137,
@@ -965,7 +981,7 @@
   },
   {
     "id": 543,
-    "val": "_Al manifestarse al mundo la gloria de Cristo, la aguas del Jordán son santificadas; sacad aguas con gozo de las fuentes del Salvador; Cristo, el Señor, ha santificado la creación entera._"
+    "val": "_Al manifestarse al mundo la gloria de Cristo, las aguas del Jordán son santificadas; sacad aguas con gozo de las fuentes del Salvador; Cristo, el Señor, ha santificado la creación entera._"
   },
   {
     "id": 544,
@@ -1517,7 +1533,7 @@
   },
   {
     "id": 1369,
-    "val": "_Dijo el Señor a Pedro: «Te daré las llaves del reino de los cielos\"_"
+    "val": "_Dijo el Señor a Pedro: «Te daré las llaves del reino de los cielos.»_"
   },
   {
     "id": 1457,
@@ -1777,7 +1793,7 @@
   },
   {
     "id": 3385,
-    "val": "_Lo vimos despreciado; como un hombre de dolores, acostumbrado a sufrimientos._"
+    "val": "_Lo vimos despreciado, como un hombre de dolores, acostumbrado a sufrimientos._"
   },
   {
     "id": 3386,
@@ -1905,7 +1921,7 @@
   },
   {
     "id": 3444,
-    "val": "_Socórreme, Dios, salvador nuestro, y perdona nuestros pecados._"
+    "val": "_Socórrenos, Dios, salvador nuestro, y perdona nuestros pecados._"
   },
   {
     "id": 3445,
@@ -1937,7 +1953,7 @@
   },
   {
     "id": 3457,
-    "val": "_«El cielo y la tierra pasarán, pero mis palabras no pasaran», dice el Señor._"
+    "val": "_«El cielo y la tierra pasarán, pero mis palabras no pasarán», dice el Señor._"
   },
   {
     "id": 3458,
@@ -2077,7 +2093,7 @@
   },
   {
     "id": 3788,
-    "val": "_Sáname, Señor, con tu promesa, y viviré._"
+    "val": "_Sosténme, Señor, con tu promesa, y viviré._"
   },
   {
     "id": 3798,

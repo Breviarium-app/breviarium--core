@@ -27,6 +27,7 @@ import {mapper_officium} from "@/prayers/mappers/mapper_officium.ts";
 import {mapper_lectures} from "@/prayers/mappers/mapper_lectures.ts";
 import {mapper_completorium} from "@/prayers/mappers/mapper_completorium.ts";
 import {mapper_evangelium} from "@/prayers/mappers/mapper_evangelium.ts";
+import {mergeLaudesContent, searchAllPrayersForDay, searchPrayerForDay} from "@/prayers/utils.ts";
 
 
 export class PrayerManager implements PrayerManagerInterface {
@@ -39,16 +40,15 @@ export class PrayerManager implements PrayerManagerInterface {
         return mapper_invitatorium(resultSelected);
     }
 
-    async getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined> {
+    async getLaudes(date?: Date): Promise<LaudesSchemaOutput[] | undefined> {
         const dayCalendar = await searchDay(date);
-        const resultSelected = all_laudes.find(element => element.id === dayCalendar?.id && element.cycle === dayCalendar?.cycles.sundayCycle);
-        return mapper_laudes(resultSelected);
+
+        return mapper_laudes(mergeLaudesContent(searchAllPrayersForDay(all_laudes, dayCalendar)));
     }
 
     async getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined> {
         const dayCalendar = await searchDay(date);
-        const resultSelected = all_vesperae.find(element => element.id === dayCalendar?.id && element.cycle === dayCalendar?.cycles.sundayCycle);
-        return mapper_vesperae(resultSelected);
+        return mapper_vesperae(searchPrayerForDay(all_vesperae, dayCalendar));
     }
 
     async getTertia(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
@@ -112,7 +112,6 @@ export class PrayerManager implements PrayerManagerInterface {
         if (result?.length == 0 && data.length > 0) {
             result = [data[0]]
         }
-        console.log("result:", result)
         return mapper_evangelium(result);
     }
 }

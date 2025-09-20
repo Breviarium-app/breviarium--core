@@ -80,3 +80,59 @@ export function getHexLiturgicalColor(color?: string) {
             return LiturgicalColors.WHITE_C;
     }
 }
+
+export function searchPrayerForDay(prayer_collection: any[], dayCalendar: any) {
+
+    let result = prayer_collection.find((element: any) => element.id === dayCalendar?.id && element.cycle === dayCalendar?.cycles.sundayCycle)
+    if (!result) {
+        result = prayer_collection.find((element: any) => element.id === dayCalendar?.id && element.cycle === "ANY")
+    }
+    if (!result) {
+        result = prayer_collection.find((element: any) => element.id === dayCalendar?.id)
+    }
+    return result;
+
+}
+
+export function searchAllPrayersForDay(prayer_collection: any[], dayCalendar: any) {
+    let prayerOptions = []
+
+    let firstFound = prayer_collection.find((element: any) => element.id === dayCalendar?.id && element.cycle === dayCalendar?.cycles.sundayCycle)
+    if (!firstFound) {
+        firstFound = prayer_collection.find((element: any) => element.id === dayCalendar?.id && element.cycle === "ANY")
+    }
+    if (!firstFound) {
+        firstFound = prayer_collection.find((element: any) => element.id === dayCalendar?.id)
+    }
+    prayerOptions.push(firstFound)
+
+    const ferialDay = dayCalendar.weekday?.id
+    const ferialData = prayer_collection.find((element: any) => element.id === ferialDay)
+
+    if (ferialData) {
+        prayerOptions.push(ferialData)
+    }
+    return prayerOptions;
+
+}
+
+export function mergeLaudesContent(items: any[]): any[] {
+    // supossed to have 2 elements at most
+    if (items.length > 1) {
+        const newFirst = mergeObjects(items[0], items[1]);
+        return [newFirst, items[1]];
+    } else {
+        return items
+    }
+
+}
+
+function mergeObjects(target: any, source: any) {
+    const result = {...target}; // Create a shallow copy of the target object
+    for (const key in result) {
+        if (result[key] === -1 && source.hasOwnProperty(key)) {
+            result[key] = source[key]; // Replace -1 with value from source
+        }
+    }
+    return result;
+}

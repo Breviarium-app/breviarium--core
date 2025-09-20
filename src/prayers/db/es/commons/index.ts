@@ -1,11 +1,9 @@
-import antifonas from "./antifonas.json";
 import cantico_evangelico_antifonas from "./cantico_evangelico_antifonas.json";
 import celebraciones from "./celebraciones.json";
 import himnos from "./himnos.json";
 import invitacion_padrenuestro from './invitacion_padrenuestro.json';
 import lectura_breve_textos from "./lectura_breve_textos.json";
 import lectura_breve_citas from "./lectura_breve_citas.json";
-import lecturas_fecha_anio_liturgico from "./lecturas_fecha_anio_liturgico.json";
 import lecturas_referencia from "./lecturas_referencia.json";
 import lecturas_texto from "./lecturas_texto.json";
 import oficio_difuntos from "./oficio_difuntos.json";
@@ -24,14 +22,12 @@ import titulo_hora_liturgica from "./titulo_hora_liturgica.json";
 import invitatorios from "./invitatorios.json";
 
 export {
-    antifonas,
     cantico_evangelico_antifonas,
     celebraciones,
     himnos,
     invitacion_padrenuestro,
     lectura_breve_textos,
     lectura_breve_citas,
-    lecturas_fecha_anio_liturgico,
     lecturas_referencia,
     lecturas_texto,
     oficio_difuntos,

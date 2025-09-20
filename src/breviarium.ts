@@ -43,7 +43,7 @@ export default class Breviarium implements BreviariumInterface {
         return this.#prayerManager.getLectures(date || this.getCurrentDate());
     }
 
-    async getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined> {
+    async getLaudes(date?: Date): Promise<LaudesSchemaOutput[] | undefined> {
         return this.#prayerManager.getLaudes(date || this.getCurrentDate());
     }
 

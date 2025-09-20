@@ -1,4386 +1,2457 @@
 [
   {
-    "id": "mary_mother_of_god",
-    "val": 0
-  },
-  {
-    "id": "basil_the_great_and_gregory_nazianzen_bishops",
-    "val": 1
-  },
-  {
-    "id": "christmas_time_january_3",
-    "val": 2
-  },
-  {
-    "id": "christmas_time_january_4",
-    "val": 2
-  },
-  {
-    "id": "christmas_time_january_5",
-    "val": 2
-  },
-  {
-    "id": "epiphany_of_the_lord",
-    "val": 5
-  },
-  {
-    "id": "saturday_after_epiphany",
-    "val": 5
-  },
-  {
-    "id": "baptism_of_the_lord",
-    "val": 7
-  },
-  {
-    "id": "ordinary_time_1_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_1_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_1_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_1_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_1_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_1_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_2_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_2_monday",
-    "val": 15
-  },
-  {
-    "id": "anthony_of_egypt_abbot",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_2_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_2_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_2_friday",
-    "val": 19
-  },
-  {
-    "id": "agnes_of_rome_virgin",
-    "val": 20
-  },
-  {
-    "id": "sunday_of_the_word_of_god",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_3_monday",
-    "val": 1
-  },
-  {
-    "id": "francis_de_sales_bishop",
-    "val": 1
-  },
-  {
-    "id": "conversion_of_saint_paul_the_apostle",
-    "val": 24
-  },
-  {
-    "id": "timothy_of_ephesus_and_titus_of_crete_bishops",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_3_friday",
-    "val": 12
-  },
-  {
-    "id": "thomas_aquinas_priest",
-    "val": 27
-  },
-  {
-    "id": "ordinary_time_4_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_4_monday",
-    "val": 15
-  },
-  {
-    "id": "john_bosco_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_4_wednesday",
-    "val": 17
-  },
-  {
-    "id": "presentation_of_the_lord",
-    "val": 32
-  },
-  {
-    "id": "ordinary_time_4_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_4_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_5_sunday",
-    "val": 21
-  },
-  {
-    "id": "paul_miki_and_companions_martyrs",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_5_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_5_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_5_thursday",
-    "val": 11
-  },
-  {
-    "id": "scholastica_of_nursia_virgin",
-    "val": 40
-  },
-  {
-    "id": "ordinary_time_5_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_6_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_6_monday",
-    "val": 15
-  },
-  {
-    "id": "cyril_constantine_the_philosopher_monk_and_methodius_michael_of_thessaloniki_bishop",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_6_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_6_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_6_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_6_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_7_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_7_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_7_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ash_wednesday",
-    "val": 52
-  },
-  {
-    "id": "thursday_after_ash_wednesday",
-    "val": 52
-  },
-  {
-    "id": "friday_after_ash_wednesday",
-    "val": 52
-  },
-  {
-    "id": "saturday_after_ash_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_monday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_tuesday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_saturday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_monday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_tuesday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_saturday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_monday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_tuesday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_saturday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_sunday",
-    "val": 52
-  },
-  {
-    "id": "joseph_spouse_of_mary",
-    "val": 78
-  },
-  {
-    "id": "lent_4_tuesday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_friday",
-    "val": 52
-  },
-  {
-    "id": "annunciation_of_the_lord",
-    "val": 83
-  },
-  {
-    "id": "lent_5_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_monday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_tuesday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_saturday",
-    "val": 52
-  },
-  {
-    "id": "palm_sunday_of_the_passion_of_the_lord",
-    "val": 52
-  },
-  {
-    "id": "holy_monday",
-    "val": 52
-  },
-  {
-    "id": "holy_tuesday",
-    "val": 52
-  },
-  {
-    "id": "holy_wednesday",
-    "val": 52
-  },
-  {
-    "id": "holy_thursday",
-    "val": 52
-  },
-  {
-    "id": "friday_of_the_passion_of_the_lord",
-    "val": 96
-  },
-  {
-    "id": "holy_saturday",
-    "val": 97
-  },
-  {
-    "id": "easter_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_monday",
-    "val": 98
-  },
-  {
-    "id": "easter_tuesday",
-    "val": 98
-  },
-  {
-    "id": "easter_wednesday",
-    "val": 98
-  },
-  {
-    "id": "easter_thursday",
-    "val": 98
-  },
-  {
-    "id": "easter_friday",
-    "val": 98
-  },
-  {
-    "id": "easter_saturday",
-    "val": 98
-  },
-  {
-    "id": "divine_mercy_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_2_monday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_2_tuesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_2_wednesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_2_thursday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_2_friday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_2_saturday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_monday",
-    "val": 98
-  },
-  {
-    "id": "mark_evangelist",
-    "val": 114
-  },
-  {
-    "id": "isidore_of_seville_bishop",
-    "val": 115
-  },
-  {
-    "id": "easter_time_3_thursday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_friday",
-    "val": 98
-  },
-  {
-    "id": "catherine_of_siena_virgin",
-    "val": 118
-  },
-  {
-    "id": "easter_time_4_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_4_monday",
-    "val": 98
-  },
-  {
-    "id": "athanasius_of_alexandria_bishop",
-    "val": 121
-  },
-  {
-    "id": "philip_and_james_apostles",
-    "val": 122
-  },
-  {
-    "id": "easter_time_4_thursday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_4_friday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_4_saturday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_monday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_tuesday",
-    "val": 98
-  },
-  {
-    "id": "john_of_avila_priest",
-    "val": 121
-  },
-  {
-    "id": "easter_time_5_thursday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_friday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_saturday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_6_sunday",
-    "val": 98
-  },
-  {
-    "id": "isidore_the_farmer",
-    "val": 134
-  },
-  {
-    "id": "easter_time_6_tuesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_6_wednesday",
-    "val": 98
-  },
-  {
-    "id": "ascension_of_the_lord",
-    "val": 98
-  },
-  {
-    "id": "easter_time_6_friday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_6_saturday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_7_sunday",
-    "val": 140
-  },
-  {
-    "id": "easter_time_7_monday",
-    "val": 141
-  },
-  {
-    "id": "easter_time_7_tuesday",
-    "val": 141
-  },
-  {
-    "id": "easter_time_7_wednesday",
-    "val": 141
-  },
-  {
-    "id": "easter_time_7_thursday",
-    "val": 141
-  },
-  {
-    "id": "philip_neri_priest",
-    "val": 121
-  },
-  {
-    "id": "easter_time_7_saturday",
-    "val": 141
-  },
-  {
-    "id": "pentecost_sunday",
-    "val": 147
-  },
-  {
-    "id": "mary_mother_of_the_church",
-    "val": 148
-  },
-  {
-    "id": "ordinary_time_8_tuesday",
-    "val": 149
-  },
-  {
-    "id": "visitation_of_mary",
-    "val": 150
-  },
-  {
-    "id": "our_lord_jesus_christ_the_eternal_high_priest",
-    "val": 151
-  },
-  {
-    "id": "ordinary_time_8_friday",
-    "val": 19
-  },
-  {
-    "id": "charles_lwanga_and_companions_martyrs",
-    "val": 20
-  },
-  {
-    "id": "most_holy_trinity",
-    "val": 154
-  },
-  {
-    "id": "boniface_of_mainz_bishop",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_9_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_9_wednesday",
-    "val": 10
-  },
-  {
-    "id": "most_holy_body_and_blood_of_christ",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_9_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_9_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_10_sunday",
-    "val": 161
-  },
-  {
-    "id": "ordinary_time_10_monday",
-    "val": 15
-  },
-  {
-    "id": "anthony_of_padua_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_10_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_10_thursday",
-    "val": 18
-  },
-  {
-    "id": "most_sacred_heart_of_jesus",
-    "val": 166
-  },
-  {
-    "id": "immaculate_heart_of_mary",
-    "val": 148
-  },
-  {
-    "id": "ordinary_time_11_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_11_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_11_tuesday",
-    "val": 9
-  },
-  {
-    "id": "aloysius_gonzaga_religious",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_11_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_11_friday",
-    "val": 12
-  },
-  {
-    "id": "nativity_of_john_the_baptist",
-    "val": 174
-  },
-  {
-    "id": "ordinary_time_12_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_12_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_12_tuesday",
-    "val": 149
-  },
-  {
-    "id": "irenaeus_of_lyon_bishop",
-    "val": 20
-  },
-  {
-    "id": "peter_and_paul_apostles",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_12_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_12_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_13_sunday",
-    "val": 21
-  },
-  {
-    "id": "thomas_apostle",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_13_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_13_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_13_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_13_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_13_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_14_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_14_monday",
-    "val": 15
-  },
-  {
-    "id": "benedict_of_nursia_abbot",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_14_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_14_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_14_friday",
-    "val": 19
-  },
-  {
-    "id": "bonaventure_of_bagnoregio_bishop",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_15_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_15_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_15_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_15_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_15_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_15_friday",
-    "val": 12
-  },
-  {
-    "id": "mary_magdalene",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_16_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_16_monday",
-    "val": 15
-  },
-  {
-    "id": "james_apostle",
-    "val": 179
-  },
-  {
-    "id": "joachim_and_anne_parents_of_mary",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_16_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_16_friday",
-    "val": 19
-  },
-  {
-    "id": "martha_of_bethany_mary_of_bethany_and_lazarus_of_bethany",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_17_sunday",
-    "val": 21
-  },
-  {
-    "id": "ignatius_of_loyola_priest",
-    "val": 1
-  },
-  {
-    "id": "alphonsus_mary_liguori_bishop",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_17_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_17_thursday",
-    "val": 11
-  },
-  {
-    "id": "john_mary_vianney_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_17_saturday",
-    "val": 13
-  },
-  {
-    "id": "transfiguration_of_the_lord",
-    "val": 217
-  },
-  {
-    "id": "ordinary_time_18_monday",
-    "val": 15
-  },
-  {
-    "id": "dominic_de_guzman_priest",
-    "val": 1
-  },
-  {
-    "id": "teresa_benedicta_of_the_cross_stein_virgin",
-    "val": 20
-  },
-  {
-    "id": "lawrence_of_rome_deacon",
-    "val": 20
-  },
-  {
-    "id": "clare_of_assisi_virgin",
-    "val": 40
-  },
-  {
-    "id": "ordinary_time_18_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_19_sunday",
-    "val": 21
-  },
-  {
-    "id": "maximilian_mary_raymund_kolbe_priest",
-    "val": 20
-  },
-  {
-    "id": "assumption_of_the_blessed_virgin_mary",
-    "val": 226
-  },
-  {
-    "id": "ordinary_time_19_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_19_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_19_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_19_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_20_sunday",
-    "val": 14
-  },
-  {
-    "id": "pius_x_pope",
-    "val": 1
-  },
-  {
-    "id": "queenship_of_the_blessed_virgin_mary",
-    "val": 233
-  },
-  {
-    "id": "ordinary_time_20_wednesday",
-    "val": 17
-  },
-  {
-    "id": "bartholomew_apostle",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_20_friday",
-    "val": 19
-  },
-  {
-    "id": "teresa_of_jesus_jornet_ibars_virgin",
-    "val": 40
-  },
-  {
-    "id": "ordinary_time_21_sunday",
-    "val": 21
-  },
-  {
-    "id": "augustine_of_hippo_bishop",
-    "val": 1
-  },
-  {
-    "id": "passion_of_saint_john_the_baptist",
-    "val": 240
-  },
-  {
-    "id": "ordinary_time_21_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_21_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_21_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_21_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_22_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_22_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_22_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ordinary_time_22_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_22_thursday",
-    "val": 18
-  },
-  {
-    "id": "nativity_of_the_blessed_virgin_mary",
-    "val": 250
-  },
-  {
-    "id": "ordinary_time_22_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_23_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_23_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_23_tuesday",
-    "val": 9
-  },
-  {
-    "id": "john_chrysostom_bishop",
-    "val": 1
-  },
-  {
-    "id": "exaltation_of_the_holy_cross",
-    "val": 256
-  },
-  {
-    "id": "our_lady_of_sorrows",
-    "val": 257
-  },
-  {
-    "id": "cornelius_i_pope_and_cyprian_of_carthage_bishop_martyrs",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_24_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_24_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_24_tuesday",
-    "val": 149
-  },
-  {
-    "id": "andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs",
-    "val": 20
-  },
-  {
-    "id": "matthew_apostle",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_24_friday",
-    "val": 19
-  },
-  {
-    "id": "pius_francesco_forgione_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_25_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_25_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_25_tuesday",
-    "val": 9
-  },
-  {
-    "id": "vincent_de_paul_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_25_thursday",
-    "val": 11
-  },
-  {
-    "id": "michael_gabriel_and_raphael_archangels",
-    "val": 271
-  },
-  {
-    "id": "jerome_of_stridon_priest",
-    "val": 27
-  },
-  {
-    "id": "ordinary_time_26_sunday",
-    "val": 14
-  },
-  {
-    "id": "holy_guardian_angels",
-    "val": 274
-  },
-  {
-    "id": "ordinary_time_26_tuesday",
-    "val": 149
-  },
-  {
-    "id": "francis_of_assisi",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_26_thursday",
-    "val": 277
-  },
-  {
-    "id": "ordinary_time_26_friday",
-    "val": 19
-  },
-  {
-    "id": "our_lady_of_the_rosary",
-    "val": 148
-  },
-  {
-    "id": "ordinary_time_27_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_27_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_27_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_27_wednesday",
-    "val": 10
-  },
-  {
-    "id": "our_lady_of_the_pillar",
-    "val": 284
-  },
-  {
-    "id": "ordinary_time_27_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_27_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_28_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_28_monday",
-    "val": 15
-  },
-  {
-    "id": "ignatius_of_antioch_bishop",
-    "val": 20
-  },
-  {
-    "id": "luke_evangelist",
-    "val": 290
-  },
-  {
-    "id": "ordinary_time_28_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_28_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_28_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_29_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_29_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_29_tuesday",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_29_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_29_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_29_friday",
-    "val": 12
-  },
-  {
-    "id": "simon_and_jude_apostles",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_30_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_30_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_30_tuesday",
-    "val": 149
-  },
-  {
-    "id": "all_saints",
-    "val": 304
-  },
-  {
-    "id": "commemoration_of_all_the_faithful_departed",
-    "val": 305
-  },
-  {
-    "id": "ordinary_time_30_friday",
-    "val": 19
-  },
-  {
-    "id": "charles_borromeo_bishop",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_31_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_31_monday",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_31_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_31_wednesday",
-    "val": 10
-  },
-  {
-    "id": "dedication_of_the_lateran_basilica",
-    "val": 312
-  },
-  {
-    "id": "leo_i_the_great_pope",
-    "val": 1
-  },
-  {
-    "id": "martin_of_tours_bishop",
-    "val": 314
-  },
-  {
-    "id": "ordinary_time_32_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_32_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_32_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ordinary_time_32_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_32_thursday",
-    "val": 18
-  },
-  {
-    "id": "elizabeth_of_hungary_religious",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_32_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_33_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_33_monday",
-    "val": 8
-  },
-  {
-    "id": "presentation_of_the_blessed_virgin_mary",
-    "val": 148
-  },
-  {
-    "id": "cecilia_of_rome_virgin",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_33_thursday",
-    "val": 11
-  },
-  {
-    "id": "andrew_dung_lac_priest_and_companions_martyrs",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_33_saturday",
-    "val": 13
-  },
-  {
-    "id": "our_lord_jesus_christ_king_of_the_universe",
-    "val": 329
-  },
-  {
-    "id": "ordinary_time_34_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_34_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ordinary_time_34_wednesday",
-    "val": 17
-  },
-  {
-    "id": "andrew_apostle",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_34_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_34_saturday",
-    "val": 34
-  },
-  {
-    "id": "advent_1_sunday",
+    "id": "advent_1_friday",
+    "cycle": "ANY",
     "val": 336
   },
   {
     "id": "advent_1_monday",
+    "cycle": "ANY",
+    "val": 336
+  },
+  {
+    "id": "advent_1_saturday",
+    "cycle": "ANY",
+    "val": 336
+  },
+  {
+    "id": "advent_1_sunday",
+    "cycle": "ANY",
+    "val": 336
+  },
+  {
+    "id": "advent_1_thursday",
+    "cycle": "ANY",
     "val": 336
   },
   {
     "id": "advent_1_tuesday",
+    "cycle": "ANY",
     "val": 336
   },
   {
     "id": "advent_1_wednesday",
+    "cycle": "ANY",
     "val": 336
   },
   {
-    "id": "ambrose_of_milan_bishop",
-    "val": 27
-  },
-  {
-    "id": "immaculate_conception_of_the_blessed_virgin_mary",
-    "val": 341
-  },
-  {
-    "id": "advent_1_saturday",
-    "val": 336
-  },
-  {
-    "id": "advent_2_sunday",
+    "id": "advent_2_friday",
+    "cycle": "ANY",
     "val": 336
   },
   {
     "id": "advent_2_monday",
-    "val": 336
-  },
-  {
-    "id": "advent_2_tuesday",
-    "val": 336
-  },
-  {
-    "id": "lucy_of_syracuse_virgin",
-    "val": 20
-  },
-  {
-    "id": "john_of_the_cross_priest",
-    "val": 27
-  },
-  {
-    "id": "advent_2_friday",
+    "cycle": "ANY",
     "val": 336
   },
   {
     "id": "advent_2_saturday",
-    "val": 336
-  },
-  {
-    "id": "advent_3_sunday",
-    "val": 350
-  },
-  {
-    "id": "advent_december_18",
-    "val": 350
-  },
-  {
-    "id": "advent_december_19",
-    "val": 350
-  },
-  {
-    "id": "advent_december_20",
-    "val": 350
-  },
-  {
-    "id": "advent_december_21",
-    "val": 350
-  },
-  {
-    "id": "advent_december_22",
-    "val": 350
-  },
-  {
-    "id": "advent_december_23",
-    "val": 350
-  },
-  {
-    "id": "advent_4_sunday",
-    "val": 357
-  },
-  {
-    "id": "nativity_of_the_lord",
-    "val": 2
-  },
-  {
-    "id": "stephen_the_first_martyr",
-    "val": 359
-  },
-  {
-    "id": "john_apostle",
-    "val": 179
-  },
-  {
-    "id": "holy_innocents_martyrs",
-    "val": 361
-  },
-  {
-    "id": "christmas_octave_day_5",
-    "val": 2
-  },
-  {
-    "id": "christmas_octave_day_6",
-    "val": 2
-  },
-  {
-    "id": "holy_family_of_jesus_mary_and_joseph",
-    "val": 364
-  },
-  {
-    "id": "mary_mother_of_god",
-    "val": 0
-  },
-  {
-    "id": "basil_the_great_and_gregory_nazianzen_bishops",
-    "val": 1
-  },
-  {
-    "id": "christmas_time_january_3",
-    "val": 2
-  },
-  {
-    "id": "christmas_time_january_4",
-    "val": 2
-  },
-  {
-    "id": "christmas_time_january_5",
-    "val": 2
-  },
-  {
-    "id": "epiphany_of_the_lord",
-    "val": 5
-  },
-  {
-    "id": "baptism_of_the_lord",
-    "val": 7
-  },
-  {
-    "id": "ordinary_time_1_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_1_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_1_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_1_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_1_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_1_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_2_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_2_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_2_tuesday",
-    "val": 149
-  },
-  {
-    "id": "anthony_of_egypt_abbot",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_2_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_2_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_2_saturday",
-    "val": 34
-  },
-  {
-    "id": "sunday_of_the_word_of_god",
-    "val": 21
-  },
-  {
-    "id": "vincent_of_saragossa_deacon",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_3_tuesday",
-    "val": 1
-  },
-  {
-    "id": "francis_de_sales_bishop",
-    "val": 1
-  },
-  {
-    "id": "conversion_of_saint_paul_the_apostle",
-    "val": 24
-  },
-  {
-    "id": "timothy_of_ephesus_and_titus_of_crete_bishops",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_3_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_4_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_4_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_4_tuesday",
-    "val": 149
-  },
-  {
-    "id": "john_bosco_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_4_thursday",
-    "val": 18
-  },
-  {
-    "id": "presentation_of_the_lord",
-    "val": 32
-  },
-  {
-    "id": "ordinary_time_4_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_5_sunday",
-    "val": 21
-  },
-  {
-    "id": "agatha_of_sicily_virgin",
-    "val": 20
-  },
-  {
-    "id": "paul_miki_and_companions_martyrs",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_5_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_5_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_5_friday",
-    "val": 12
-  },
-  {
-    "id": "scholastica_of_nursia_virgin",
-    "val": 40
-  },
-  {
-    "id": "ordinary_time_6_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_6_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_6_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ash_wednesday",
-    "val": 52
-  },
-  {
-    "id": "thursday_after_ash_wednesday",
-    "val": 52
-  },
-  {
-    "id": "friday_after_ash_wednesday",
-    "val": 52
-  },
-  {
-    "id": "saturday_after_ash_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_monday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_tuesday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_wednesday",
-    "val": 52
-  },
-  {
-    "id": "chair_of_saint_peter_the_apostle",
-    "val": 179
-  },
-  {
-    "id": "lent_1_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_saturday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_monday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_tuesday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_saturday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_monday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_tuesday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_saturday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_monday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_tuesday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_saturday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_monday",
-    "val": 52
-  },
-  {
-    "id": "joseph_spouse_of_mary",
-    "val": 78
-  },
-  {
-    "id": "lent_5_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_saturday",
-    "val": 52
-  },
-  {
-    "id": "palm_sunday_of_the_passion_of_the_lord",
-    "val": 52
-  },
-  {
-    "id": "holy_monday",
-    "val": 52
-  },
-  {
-    "id": "holy_tuesday",
-    "val": 52
-  },
-  {
-    "id": "holy_wednesday",
-    "val": 52
-  },
-  {
-    "id": "holy_thursday",
-    "val": 52
-  },
-  {
-    "id": "friday_of_the_passion_of_the_lord",
-    "val": 96
-  },
-  {
-    "id": "holy_saturday",
-    "val": 97
-  },
-  {
-    "id": "easter_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_monday",
-    "val": 98
-  },
-  {
-    "id": "easter_tuesday",
-    "val": 98
-  },
-  {
-    "id": "easter_wednesday",
-    "val": 98
-  },
-  {
-    "id": "easter_thursday",
-    "val": 98
-  },
-  {
-    "id": "easter_friday",
-    "val": 98
-  },
-  {
-    "id": "easter_saturday",
-    "val": 98
-  },
-  {
-    "id": "divine_mercy_sunday",
-    "val": 98
-  },
-  {
-    "id": "annunciation_of_the_lord",
-    "val": 98
-  },
-  {
-    "id": "easter_time_2_tuesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_2_wednesday",
-    "val": 98
-  },
-  {
-    "id": "stanislaus_of_szczepanow_bishop",
-    "val": 466
-  },
-  {
-    "id": "easter_time_2_friday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_2_saturday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_monday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_tuesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_wednesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_thursday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_friday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_saturday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_4_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_4_monday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_4_tuesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_4_wednesday",
-    "val": 98
-  },
-  {
-    "id": "mark_evangelist",
-    "val": 114
-  },
-  {
-    "id": "isidore_of_seville_bishop",
-    "val": 115
-  },
-  {
-    "id": "easter_time_4_saturday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_sunday",
-    "val": 98
-  },
-  {
-    "id": "catherine_of_siena_virgin",
-    "val": 118
-  },
-  {
-    "id": "easter_time_5_tuesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_wednesday",
-    "val": 98
-  },
-  {
-    "id": "athanasius_of_alexandria_bishop",
-    "val": 121
-  },
-  {
-    "id": "philip_and_james_apostles",
-    "val": 122
-  },
-  {
-    "id": "easter_time_5_saturday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_6_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_6_monday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_6_tuesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_6_wednesday",
-    "val": 98
-  },
-  {
-    "id": "ascension_of_the_lord",
-    "val": 98
-  },
-  {
-    "id": "john_of_avila_priest",
-    "val": 121
-  },
-  {
-    "id": "easter_time_6_saturday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_7_sunday",
-    "val": 140
-  },
-  {
-    "id": "easter_time_7_monday",
-    "val": 141
-  },
-  {
-    "id": "matthias_apostle",
-    "val": 122
-  },
-  {
-    "id": "isidore_the_farmer",
-    "val": 134
-  },
-  {
-    "id": "easter_time_7_thursday",
-    "val": 141
-  },
-  {
-    "id": "easter_time_7_friday",
-    "val": 141
-  },
-  {
-    "id": "easter_time_7_saturday",
-    "val": 141
-  },
-  {
-    "id": "pentecost_sunday",
-    "val": 147
-  },
-  {
-    "id": "mary_mother_of_the_church",
-    "val": 148
-  },
-  {
-    "id": "ordinary_time_7_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_7_wednesday",
-    "val": 10
-  },
-  {
-    "id": "our_lord_jesus_christ_the_eternal_high_priest",
-    "val": 151
-  },
-  {
-    "id": "ordinary_time_7_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_7_saturday",
-    "val": 13
-  },
-  {
-    "id": "most_holy_trinity",
-    "val": 154
-  },
-  {
-    "id": "ordinary_time_8_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_8_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ordinary_time_8_wednesday",
-    "val": 17
-  },
-  {
-    "id": "most_holy_body_and_blood_of_christ",
-    "val": 18
-  },
-  {
-    "id": "visitation_of_mary",
-    "val": 150
-  },
-  {
-    "id": "justin_martyr",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_9_sunday",
-    "val": 161
-  },
-  {
-    "id": "charles_lwanga_and_companions_martyrs",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_9_tuesday",
-    "val": 9
-  },
-  {
-    "id": "boniface_of_mainz_bishop",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_9_thursday",
-    "val": 11
-  },
-  {
-    "id": "most_sacred_heart_of_jesus",
-    "val": 166
-  },
-  {
-    "id": "immaculate_heart_of_mary",
-    "val": 148
-  },
-  {
-    "id": "ordinary_time_10_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_10_monday",
-    "val": 15
-  },
-  {
-    "id": "barnabas_apostle",
-    "val": 527
-  },
-  {
-    "id": "ordinary_time_10_wednesday",
-    "val": 17
-  },
-  {
-    "id": "anthony_of_padua_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_10_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_10_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_11_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_11_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_11_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_11_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_11_thursday",
-    "val": 11
-  },
-  {
-    "id": "aloysius_gonzaga_religious",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_11_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_12_sunday",
-    "val": 14
-  },
-  {
-    "id": "nativity_of_john_the_baptist",
-    "val": 174
-  },
-  {
-    "id": "ordinary_time_12_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ordinary_time_12_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_12_thursday",
-    "val": 18
-  },
-  {
-    "id": "irenaeus_of_lyon_bishop",
-    "val": 20
-  },
-  {
-    "id": "peter_and_paul_apostles",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_13_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_13_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_13_tuesday",
-    "val": 9
-  },
-  {
-    "id": "thomas_apostle",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_13_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_13_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_13_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_14_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_14_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_14_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ordinary_time_14_wednesday",
-    "val": 17
-  },
-  {
-    "id": "benedict_of_nursia_abbot",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_14_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_14_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_15_sunday",
-    "val": 21
-  },
-  {
-    "id": "bonaventure_of_bagnoregio_bishop",
-    "val": 1
-  },
-  {
-    "id": "our_lady_of_mount_carmel",
-    "val": 148
-  },
-  {
-    "id": "ordinary_time_15_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_15_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_15_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_15_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_16_sunday",
-    "val": 14
-  },
-  {
-    "id": "mary_magdalene",
-    "val": 16
-  },
-  {
-    "id": "bridget_of_sweden_religious",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_16_wednesday",
-    "val": 17
-  },
-  {
-    "id": "james_apostle",
-    "val": 179
-  },
-  {
-    "id": "joachim_and_anne_parents_of_mary",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_16_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_17_sunday",
-    "val": 21
-  },
-  {
-    "id": "martha_of_bethany_mary_of_bethany_and_lazarus_of_bethany",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_17_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ignatius_of_loyola_priest",
-    "val": 1
-  },
-  {
-    "id": "alphonsus_mary_liguori_bishop",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_17_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_17_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_18_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_18_monday",
-    "val": 15
-  },
-  {
-    "id": "transfiguration_of_the_lord",
-    "val": 217
-  },
-  {
-    "id": "ordinary_time_18_wednesday",
-    "val": 17
-  },
-  {
-    "id": "dominic_de_guzman_priest",
-    "val": 1
-  },
-  {
-    "id": "teresa_benedicta_of_the_cross_stein_virgin",
-    "val": 20
-  },
-  {
-    "id": "lawrence_of_rome_deacon",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_19_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_19_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_19_tuesday",
-    "val": 9
-  },
-  {
-    "id": "maximilian_mary_raymund_kolbe_priest",
-    "val": 20
-  },
-  {
-    "id": "assumption_of_the_blessed_virgin_mary",
-    "val": 226
-  },
-  {
-    "id": "ordinary_time_19_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_19_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_20_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_20_monday",
-    "val": 15
-  },
-  {
-    "id": "bernard_of_clairvaux_abbot",
-    "val": 27
-  },
-  {
-    "id": "pius_x_pope",
-    "val": 1
-  },
-  {
-    "id": "queenship_of_the_blessed_virgin_mary",
-    "val": 233
-  },
-  {
-    "id": "ordinary_time_20_friday",
-    "val": 19
-  },
-  {
-    "id": "bartholomew_apostle",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_21_sunday",
-    "val": 21
-  },
-  {
-    "id": "teresa_of_jesus_jornet_ibars_virgin",
-    "val": 40
-  },
-  {
-    "id": "monica_of_hippo",
-    "val": 16
-  },
-  {
-    "id": "augustine_of_hippo_bishop",
-    "val": 1
-  },
-  {
-    "id": "passion_of_saint_john_the_baptist",
-    "val": 240
-  },
-  {
-    "id": "ordinary_time_21_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_21_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_22_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_22_monday",
-    "val": 15
-  },
-  {
-    "id": "gregory_i_the_great_pope",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_22_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_22_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_22_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_22_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_23_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_23_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_23_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_23_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_23_thursday",
-    "val": 11
-  },
-  {
-    "id": "john_chrysostom_bishop",
-    "val": 1
-  },
-  {
-    "id": "exaltation_of_the_holy_cross",
-    "val": 256
-  },
-  {
-    "id": "ordinary_time_24_sunday",
-    "val": 14
-  },
-  {
-    "id": "cornelius_i_pope_and_cyprian_of_carthage_bishop_martyrs",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_24_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ordinary_time_24_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_24_thursday",
-    "val": 18
-  },
-  {
-    "id": "andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs",
-    "val": 20
-  },
-  {
-    "id": "matthew_apostle",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_25_sunday",
-    "val": 21
-  },
-  {
-    "id": "pius_francesco_forgione_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_25_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_25_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_25_thursday",
-    "val": 11
-  },
-  {
-    "id": "vincent_de_paul_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_25_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_26_sunday",
-    "val": 14
-  },
-  {
-    "id": "jerome_of_stridon_priest",
-    "val": 27
-  },
-  {
-    "id": "therese_of_the_child_jesus_and_the_holy_face_of_lisieux_virgin",
-    "val": 40
-  },
-  {
-    "id": "holy_guardian_angels",
-    "val": 274
-  },
-  {
-    "id": "ordinary_time_26_thursday",
-    "val": 18
-  },
-  {
-    "id": "francis_of_assisi",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_26_saturday",
-    "val": 277
-  },
-  {
-    "id": "ordinary_time_27_sunday",
-    "val": 21
-  },
-  {
-    "id": "our_lady_of_the_rosary",
-    "val": 148
-  },
-  {
-    "id": "ordinary_time_27_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_27_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_27_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_27_friday",
-    "val": 12
-  },
-  {
-    "id": "our_lady_of_the_pillar",
-    "val": 284
-  },
-  {
-    "id": "ordinary_time_28_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_28_monday",
-    "val": 15
-  },
-  {
-    "id": "teresa_of_jesus_of_avila_virgin",
-    "val": 40
-  },
-  {
-    "id": "ordinary_time_28_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ignatius_of_antioch_bishop",
-    "val": 20
-  },
-  {
-    "id": "luke_evangelist",
-    "val": 290
-  },
-  {
-    "id": "ordinary_time_28_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_29_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_29_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_29_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_29_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_29_thursday",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_29_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_29_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_30_sunday",
-    "val": 14
-  },
-  {
-    "id": "simon_and_jude_apostles",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_30_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ordinary_time_30_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_30_thursday",
-    "val": 18
-  },
-  {
-    "id": "all_saints",
-    "val": 304
-  },
-  {
-    "id": "commemoration_of_all_the_faithful_departed",
-    "val": 305
-  },
-  {
-    "id": "ordinary_time_31_sunday",
-    "val": 21
-  },
-  {
-    "id": "charles_borromeo_bishop",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_31_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_31_wednesday",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_31_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_31_friday",
-    "val": 12
-  },
-  {
-    "id": "dedication_of_the_lateran_basilica",
-    "val": 312
-  },
-  {
-    "id": "ordinary_time_32_sunday",
-    "val": 14
-  },
-  {
-    "id": "martin_of_tours_bishop",
-    "val": 314
-  },
-  {
-    "id": "josaphat_kuntsevych_bishop",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_32_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_32_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_32_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_32_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_33_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_33_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_33_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_33_wednesday",
-    "val": 10
-  },
-  {
-    "id": "presentation_of_the_blessed_virgin_mary",
-    "val": 148
-  },
-  {
-    "id": "cecilia_of_rome_virgin",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_33_saturday",
-    "val": 13
-  },
-  {
-    "id": "our_lord_jesus_christ_king_of_the_universe",
-    "val": 329
-  },
-  {
-    "id": "ordinary_time_34_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_34_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ordinary_time_34_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_34_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_34_friday",
-    "val": 19
-  },
-  {
-    "id": "andrew_apostle",
-    "val": 179
-  },
-  {
-    "id": "advent_1_sunday",
-    "val": 336
-  },
-  {
-    "id": "advent_1_monday",
-    "val": 336
-  },
-  {
-    "id": "francis_xavier_priest",
-    "val": 1
-  },
-  {
-    "id": "advent_1_wednesday",
-    "val": 336
-  },
-  {
-    "id": "advent_1_thursday",
-    "val": 336
-  },
-  {
-    "id": "advent_1_friday",
-    "val": 336
-  },
-  {
-    "id": "ambrose_of_milan_bishop",
-    "val": 27
-  },
-  {
-    "id": "advent_2_sunday",
-    "val": 336
-  },
-  {
-    "id": "immaculate_conception_of_the_blessed_virgin_mary",
-    "val": 336
-  },
-  {
-    "id": "advent_2_tuesday",
-    "val": 336
-  },
-  {
-    "id": "advent_2_wednesday",
-    "val": 336
-  },
-  {
-    "id": "advent_2_thursday",
-    "val": 336
-  },
-  {
-    "id": "lucy_of_syracuse_virgin",
-    "val": 20
-  },
-  {
-    "id": "john_of_the_cross_priest",
-    "val": 27
-  },
-  {
-    "id": "advent_3_sunday",
-    "val": 336
-  },
-  {
-    "id": "advent_3_monday",
-    "val": 336
-  },
-  {
-    "id": "advent_december_17",
-    "val": 350
-  },
-  {
-    "id": "advent_december_18",
-    "val": 350
-  },
-  {
-    "id": "advent_december_19",
-    "val": 350
-  },
-  {
-    "id": "advent_december_20",
-    "val": 350
-  },
-  {
-    "id": "advent_december_21",
-    "val": 350
-  },
-  {
-    "id": "advent_4_sunday",
-    "val": 350
-  },
-  {
-    "id": "advent_december_23",
-    "val": 350
-  },
-  {
-    "id": "advent_december_24",
-    "val": 357
-  },
-  {
-    "id": "nativity_of_the_lord",
-    "val": 2
-  },
-  {
-    "id": "stephen_the_first_martyr",
-    "val": 359
-  },
-  {
-    "id": "john_apostle",
-    "val": 179
-  },
-  {
-    "id": "holy_innocents_martyrs",
-    "val": 361
-  },
-  {
-    "id": "holy_family_of_jesus_mary_and_joseph",
-    "val": 364
-  },
-  {
-    "id": "christmas_octave_day_6",
-    "val": 2
-  },
-  {
-    "id": "christmas_octave_day_7",
-    "val": 2
-  },
-  {
-    "id": "mary_mother_of_god",
-    "val": 0
-  },
-  {
-    "id": "basil_the_great_and_gregory_nazianzen_bishops",
-    "val": 1
-  },
-  {
-    "id": "christmas_time_january_3",
-    "val": 2
-  },
-  {
-    "id": "christmas_time_january_4",
-    "val": 2
-  },
-  {
-    "id": "second_sunday_after_christmas",
-    "val": 2
-  },
-  {
-    "id": "epiphany_of_the_lord",
-    "val": 5
-  },
-  {
-    "id": "tuesday_after_epiphany",
-    "val": 5
-  },
-  {
-    "id": "wednesday_after_epiphany",
-    "val": 5
-  },
-  {
-    "id": "thursday_after_epiphany",
-    "val": 5
-  },
-  {
-    "id": "friday_after_epiphany",
-    "val": 5
-  },
-  {
-    "id": "saturday_after_epiphany",
-    "val": 5
-  },
-  {
-    "id": "baptism_of_the_lord",
-    "val": 7
-  },
-  {
-    "id": "ordinary_time_1_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_1_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_1_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_1_thursday",
-    "val": 11
-  },
-  {
-    "id": "anthony_of_egypt_abbot",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_1_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_2_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_2_monday",
-    "val": 15
-  },
-  {
-    "id": "agnes_of_rome_virgin",
-    "val": 20
-  },
-  {
-    "id": "vincent_of_saragossa_deacon",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_2_thursday",
-    "val": 1
-  },
-  {
-    "id": "francis_de_sales_bishop",
-    "val": 1
-  },
-  {
-    "id": "conversion_of_saint_paul_the_apostle",
-    "val": 24
-  },
-  {
-    "id": "sunday_of_the_word_of_god",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_3_monday",
-    "val": 8
-  },
-  {
-    "id": "thomas_aquinas_priest",
-    "val": 27
-  },
-  {
-    "id": "ordinary_time_3_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_3_thursday",
-    "val": 11
-  },
-  {
-    "id": "john_bosco_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_3_saturday",
-    "val": 13
-  },
-  {
-    "id": "presentation_of_the_lord",
-    "val": 32
-  },
-  {
-    "id": "ordinary_time_4_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_4_tuesday",
-    "val": 149
-  },
-  {
-    "id": "agatha_of_sicily_virgin",
-    "val": 20
-  },
-  {
-    "id": "paul_miki_and_companions_martyrs",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_4_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_4_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_5_sunday",
-    "val": 21
-  },
-  {
-    "id": "scholastica_of_nursia_virgin",
-    "val": 40
-  },
-  {
-    "id": "ordinary_time_5_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_5_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_5_thursday",
-    "val": 11
-  },
-  {
-    "id": "cyril_constantine_the_philosopher_monk_and_methodius_michael_of_thessaloniki_bishop",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_5_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_6_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_6_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_6_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ordinary_time_6_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_6_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_6_friday",
-    "val": 19
-  },
-  {
-    "id": "chair_of_saint_peter_the_apostle",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_7_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_7_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_7_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_7_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_7_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_7_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_7_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_8_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_8_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_8_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ash_wednesday",
-    "val": 52
-  },
-  {
-    "id": "thursday_after_ash_wednesday",
-    "val": 52
-  },
-  {
-    "id": "friday_after_ash_wednesday",
-    "val": 52
-  },
-  {
-    "id": "saturday_after_ash_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_monday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_tuesday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_1_saturday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_monday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_tuesday",
-    "val": 52
-  },
-  {
-    "id": "joseph_spouse_of_mary",
-    "val": 78
-  },
-  {
-    "id": "lent_2_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_2_saturday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_monday",
-    "val": 52
-  },
-  {
-    "id": "annunciation_of_the_lord",
-    "val": 83
-  },
-  {
-    "id": "lent_3_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_3_saturday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_monday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_tuesday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_4_saturday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_sunday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_monday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_tuesday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_wednesday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_thursday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_friday",
-    "val": 52
-  },
-  {
-    "id": "lent_5_saturday",
-    "val": 52
-  },
-  {
-    "id": "palm_sunday_of_the_passion_of_the_lord",
-    "val": 52
-  },
-  {
-    "id": "holy_monday",
-    "val": 52
-  },
-  {
-    "id": "holy_tuesday",
-    "val": 52
-  },
-  {
-    "id": "holy_wednesday",
-    "val": 52
-  },
-  {
-    "id": "holy_thursday",
-    "val": 52
-  },
-  {
-    "id": "friday_of_the_passion_of_the_lord",
-    "val": 96
-  },
-  {
-    "id": "holy_saturday",
-    "val": 97
-  },
-  {
-    "id": "easter_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_monday",
-    "val": 98
-  },
-  {
-    "id": "easter_tuesday",
-    "val": 98
-  },
-  {
-    "id": "easter_wednesday",
-    "val": 98
-  },
-  {
-    "id": "easter_thursday",
-    "val": 98
-  },
-  {
-    "id": "easter_friday",
-    "val": 98
-  },
-  {
-    "id": "easter_saturday",
-    "val": 98
-  },
-  {
-    "id": "divine_mercy_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_2_monday",
-    "val": 98
-  },
-  {
-    "id": "catherine_of_siena_virgin",
-    "val": 118
-  },
-  {
-    "id": "easter_time_2_wednesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_2_thursday",
-    "val": 98
-  },
-  {
-    "id": "athanasius_of_alexandria_bishop",
-    "val": 121
-  },
-  {
-    "id": "philip_and_james_apostles",
-    "val": 122
-  },
-  {
-    "id": "easter_time_3_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_monday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_tuesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_wednesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_thursday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_3_friday",
-    "val": 98
-  },
-  {
-    "id": "john_of_avila_priest",
-    "val": 121
-  },
-  {
-    "id": "easter_time_4_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_4_monday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_4_tuesday",
-    "val": 98
-  },
-  {
-    "id": "matthias_apostle",
-    "val": 122
-  },
-  {
-    "id": "isidore_the_farmer",
-    "val": 134
-  },
-  {
-    "id": "easter_time_4_friday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_4_saturday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_sunday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_monday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_tuesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_wednesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_thursday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_friday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_5_saturday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_6_sunday",
-    "val": 98
-  },
-  {
-    "id": "philip_neri_priest",
-    "val": 121
-  },
-  {
-    "id": "easter_time_6_tuesday",
-    "val": 98
-  },
-  {
-    "id": "easter_time_6_wednesday",
-    "val": 98
-  },
-  {
-    "id": "ascension_of_the_lord",
-    "val": 98
-  },
-  {
-    "id": "easter_time_6_friday",
-    "val": 98
-  },
-  {
-    "id": "visitation_of_mary",
-    "val": 881
-  },
-  {
-    "id": "easter_time_7_sunday",
-    "val": 140
-  },
-  {
-    "id": "easter_time_7_monday",
-    "val": 141
-  },
-  {
-    "id": "charles_lwanga_and_companions_martyrs",
-    "val": 466
-  },
-  {
-    "id": "easter_time_7_wednesday",
-    "val": 141
-  },
-  {
-    "id": "boniface_of_mainz_bishop",
-    "val": 466
-  },
-  {
-    "id": "easter_time_7_friday",
-    "val": 141
-  },
-  {
-    "id": "easter_time_7_saturday",
-    "val": 141
-  },
-  {
-    "id": "pentecost_sunday",
-    "val": 147
-  },
-  {
-    "id": "mary_mother_of_the_church",
-    "val": 148
-  },
-  {
-    "id": "ordinary_time_10_tuesday",
-    "val": 149
-  },
-  {
-    "id": "barnabas_apostle",
-    "val": 527
-  },
-  {
-    "id": "our_lord_jesus_christ_the_eternal_high_priest",
-    "val": 151
-  },
-  {
-    "id": "anthony_of_padua_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_10_saturday",
-    "val": 34
-  },
-  {
-    "id": "most_holy_trinity",
-    "val": 154
-  },
-  {
-    "id": "ordinary_time_11_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_11_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_11_wednesday",
-    "val": 10
-  },
-  {
-    "id": "most_holy_body_and_blood_of_christ",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_11_friday",
-    "val": 12
-  },
-  {
-    "id": "aloysius_gonzaga_religious",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_12_sunday",
-    "val": 161
-  },
-  {
-    "id": "ordinary_time_12_monday",
-    "val": 15
-  },
-  {
-    "id": "nativity_of_john_the_baptist",
-    "val": 174
-  },
-  {
-    "id": "ordinary_time_12_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_12_thursday",
-    "val": 18
-  },
-  {
-    "id": "most_sacred_heart_of_jesus",
-    "val": 166
-  },
-  {
-    "id": "immaculate_heart_of_mary",
-    "val": 148
-  },
-  {
-    "id": "peter_and_paul_apostles",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_13_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_13_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_13_wednesday",
-    "val": 10
-  },
-  {
-    "id": "thomas_apostle",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_13_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_13_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_14_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_14_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_14_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ordinary_time_14_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_14_thursday",
-    "val": 18
-  },
-  {
-    "id": "benedict_of_nursia_abbot",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_14_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_15_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_15_monday",
-    "val": 8
-  },
-  {
-    "id": "bonaventure_of_bagnoregio_bishop",
-    "val": 1
-  },
-  {
-    "id": "our_lady_of_mount_carmel",
-    "val": 148
-  },
-  {
-    "id": "ordinary_time_15_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_15_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_15_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_16_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_16_monday",
-    "val": 15
-  },
-  {
-    "id": "mary_magdalene",
-    "val": 16
-  },
-  {
-    "id": "bridget_of_sweden_religious",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_16_thursday",
-    "val": 18
-  },
-  {
-    "id": "james_apostle",
-    "val": 179
-  },
-  {
-    "id": "joachim_and_anne_parents_of_mary",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_17_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_17_monday",
-    "val": 8
-  },
-  {
-    "id": "martha_of_bethany_mary_of_bethany_and_lazarus_of_bethany",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_17_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ignatius_of_loyola_priest",
-    "val": 1
-  },
-  {
-    "id": "alphonsus_mary_liguori_bishop",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_17_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_18_sunday",
-    "val": 14
-  },
-  {
-    "id": "john_mary_vianney_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_18_tuesday",
-    "val": 149
-  },
-  {
-    "id": "transfiguration_of_the_lord",
-    "val": 217
-  },
-  {
-    "id": "ordinary_time_18_thursday",
-    "val": 18
-  },
-  {
-    "id": "dominic_de_guzman_priest",
-    "val": 1
-  },
-  {
-    "id": "teresa_benedicta_of_the_cross_stein_virgin",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_19_sunday",
-    "val": 21
-  },
-  {
-    "id": "clare_of_assisi_virgin",
-    "val": 40
-  },
-  {
-    "id": "ordinary_time_19_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_19_wednesday",
-    "val": 10
-  },
-  {
-    "id": "maximilian_mary_raymund_kolbe_priest",
-    "val": 20
-  },
-  {
-    "id": "assumption_of_the_blessed_virgin_mary",
-    "val": 226
-  },
-  {
-    "id": "ordinary_time_19_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_20_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_20_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_20_tuesday",
-    "val": 149
-  },
-  {
-    "id": "bernard_of_clairvaux_abbot",
-    "val": 27
-  },
-  {
-    "id": "pius_x_pope",
-    "val": 1
-  },
-  {
-    "id": "queenship_of_the_blessed_virgin_mary",
-    "val": 233
-  },
-  {
-    "id": "ordinary_time_20_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_21_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_21_monday",
-    "val": 8
-  },
-  {
-    "id": "teresa_of_jesus_jornet_ibars_virgin",
-    "val": 40
-  },
-  {
-    "id": "monica_of_hippo",
-    "val": 16
-  },
-  {
-    "id": "augustine_of_hippo_bishop",
-    "val": 1
-  },
-  {
-    "id": "passion_of_saint_john_the_baptist",
-    "val": 240
-  },
-  {
-    "id": "ordinary_time_21_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_22_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_22_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_22_tuesday",
-    "val": 149
-  },
-  {
-    "id": "gregory_i_the_great_pope",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_22_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_22_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_22_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_23_sunday",
-    "val": 21
-  },
-  {
-    "id": "nativity_of_the_blessed_virgin_mary",
-    "val": 250
-  },
-  {
-    "id": "ordinary_time_23_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_23_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_23_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_23_friday",
-    "val": 12
-  },
-  {
-    "id": "john_chrysostom_bishop",
-    "val": 1
-  },
-  {
-    "id": "exaltation_of_the_holy_cross",
-    "val": 256
-  },
-  {
-    "id": "our_lady_of_sorrows",
-    "val": 257
-  },
-  {
-    "id": "cornelius_i_pope_and_cyprian_of_carthage_bishop_martyrs",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_24_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_24_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_24_friday",
-    "val": 19
-  },
-  {
-    "id": "andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_25_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_25_monday",
-    "val": 8
-  },
-  {
-    "id": "pius_francesco_forgione_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_25_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_25_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_25_friday",
-    "val": 12
-  },
-  {
-    "id": "vincent_de_paul_priest",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_26_sunday",
-    "val": 14
-  },
-  {
-    "id": "michael_gabriel_and_raphael_archangels",
-    "val": 271
-  },
-  {
-    "id": "jerome_of_stridon_priest",
-    "val": 27
-  },
-  {
-    "id": "therese_of_the_child_jesus_and_the_holy_face_of_lisieux_virgin",
-    "val": 40
-  },
-  {
-    "id": "holy_guardian_angels",
-    "val": 274
-  },
-  {
-    "id": "ordinary_time_26_friday",
-    "val": 19
-  },
-  {
-    "id": "francis_of_assisi",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_27_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_27_monday",
-    "val": 8
-  },
-  {
-    "id": "our_lady_of_the_rosary",
-    "val": 148
-  },
-  {
-    "id": "ordinary_time_27_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_27_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_27_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_27_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_28_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_28_monday",
-    "val": 15
-  },
-  {
-    "id": "ordinary_time_28_tuesday",
-    "val": 149
-  },
-  {
-    "id": "teresa_of_jesus_of_avila_virgin",
-    "val": 40
-  },
-  {
-    "id": "ordinary_time_28_thursday",
-    "val": 18
-  },
-  {
-    "id": "ignatius_of_antioch_bishop",
-    "val": 20
-  },
-  {
-    "id": "luke_evangelist",
-    "val": 290
-  },
-  {
-    "id": "ordinary_time_29_sunday",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_29_monday",
-    "val": 8
-  },
-  {
-    "id": "ordinary_time_29_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_29_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_29_thursday",
-    "val": 11
-  },
-  {
-    "id": "ordinary_time_29_friday",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_29_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_30_sunday",
-    "val": 14
-  },
-  {
-    "id": "ordinary_time_30_monday",
-    "val": 15
-  },
-  {
-    "id": "simon_and_jude_apostles",
-    "val": 179
-  },
-  {
-    "id": "ordinary_time_30_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_30_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_30_friday",
-    "val": 19
-  },
-  {
-    "id": "all_saints",
-    "val": 304
-  },
-  {
-    "id": "commemoration_of_all_the_faithful_departed",
-    "val": 21
-  },
-  {
-    "id": "ordinary_time_31_monday",
-    "val": 8
-  },
-  {
-    "id": "charles_borromeo_bishop",
-    "val": 1
-  },
-  {
-    "id": "ordinary_time_31_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_31_thursday",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_31_friday",
-    "val": 12
-  },
-  {
-    "id": "ordinary_time_31_saturday",
-    "val": 13
-  },
-  {
-    "id": "ordinary_time_32_sunday",
-    "val": 312
-  },
-  {
-    "id": "leo_i_the_great_pope",
-    "val": 1
-  },
-  {
-    "id": "martin_of_tours_bishop",
-    "val": 314
-  },
-  {
-    "id": "josaphat_kuntsevych_bishop",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_32_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_32_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_32_saturday",
-    "val": 34
-  },
-  {
-    "id": "ordinary_time_33_sunday",
-    "val": 21
-  },
-  {
-    "id": "elizabeth_of_hungary_religious",
-    "val": 16
-  },
-  {
-    "id": "ordinary_time_33_tuesday",
-    "val": 9
-  },
-  {
-    "id": "ordinary_time_33_wednesday",
-    "val": 10
-  },
-  {
-    "id": "ordinary_time_33_thursday",
-    "val": 11
-  },
-  {
-    "id": "presentation_of_the_blessed_virgin_mary",
-    "val": 148
-  },
-  {
-    "id": "cecilia_of_rome_virgin",
-    "val": 20
-  },
-  {
-    "id": "our_lord_jesus_christ_king_of_the_universe",
-    "val": 329
-  },
-  {
-    "id": "andrew_dung_lac_priest_and_companions_martyrs",
-    "val": 20
-  },
-  {
-    "id": "ordinary_time_34_tuesday",
-    "val": 149
-  },
-  {
-    "id": "ordinary_time_34_wednesday",
-    "val": 17
-  },
-  {
-    "id": "ordinary_time_34_thursday",
-    "val": 18
-  },
-  {
-    "id": "ordinary_time_34_friday",
-    "val": 19
-  },
-  {
-    "id": "ordinary_time_34_saturday",
-    "val": 34
-  },
-  {
-    "id": "advent_1_sunday",
-    "val": 336
-  },
-  {
-    "id": "advent_1_monday",
-    "val": 336
-  },
-  {
-    "id": "advent_1_tuesday",
-    "val": 336
-  },
-  {
-    "id": "francis_xavier_priest",
-    "val": 1
-  },
-  {
-    "id": "advent_1_thursday",
-    "val": 336
-  },
-  {
-    "id": "advent_1_friday",
-    "val": 336
-  },
-  {
-    "id": "advent_1_saturday",
+    "cycle": "ANY",
     "val": 336
   },
   {
     "id": "advent_2_sunday",
-    "val": 336
-  },
-  {
-    "id": "immaculate_conception_of_the_blessed_virgin_mary",
-    "val": 341
-  },
-  {
-    "id": "advent_2_tuesday",
-    "val": 336
-  },
-  {
-    "id": "advent_2_wednesday",
+    "cycle": "ANY",
     "val": 336
   },
   {
     "id": "advent_2_thursday",
+    "cycle": "ANY",
     "val": 336
   },
   {
-    "id": "advent_2_friday",
+    "id": "advent_2_tuesday",
+    "cycle": "ANY",
     "val": 336
   },
   {
-    "id": "lucy_of_syracuse_virgin",
-    "val": 20
+    "id": "advent_2_wednesday",
+    "cycle": "ANY",
+    "val": 336
   },
   {
-    "id": "advent_3_sunday",
+    "id": "advent_3_friday",
+    "cycle": "ANY",
     "val": 336
   },
   {
     "id": "advent_3_monday",
+    "cycle": "ANY",
+    "val": 336
+  },
+  {
+    "id": "advent_3_sunday",
+    "cycle": "ANY",
+    "val": 336
+  },
+  {
+    "id": "advent_3_thursday",
+    "cycle": "ANY",
     "val": 336
   },
   {
     "id": "advent_3_tuesday",
+    "cycle": "ANY",
     "val": 336
   },
   {
+    "id": "advent_3_wednesday",
+    "cycle": "ANY",
+    "val": 336
+  },
+  {
+    "id": "advent_4_sunday",
+    "cycle": "ANY",
+    "val": 350
+  },
+  {
     "id": "advent_december_17",
+    "cycle": "ANY",
     "val": 350
   },
   {
     "id": "advent_december_18",
+    "cycle": "ANY",
     "val": 350
   },
   {
     "id": "advent_december_19",
+    "cycle": "ANY",
     "val": 350
   },
   {
     "id": "advent_december_20",
+    "cycle": "ANY",
     "val": 350
   },
   {
-    "id": "advent_4_sunday",
+    "id": "advent_december_21",
+    "cycle": "ANY",
     "val": 350
   },
   {
     "id": "advent_december_22",
+    "cycle": "ANY",
     "val": 350
   },
   {
     "id": "advent_december_23",
+    "cycle": "ANY",
     "val": 350
   },
   {
     "id": "advent_december_24",
+    "cycle": "ANY",
     "val": 357
   },
   {
-    "id": "nativity_of_the_lord",
-    "val": 2
+    "id": "agatha_of_sicily_virgin",
+    "cycle": "MEMORY_FERIAL",
+    "val": 20
   },
   {
-    "id": "stephen_the_first_martyr",
-    "val": 359
+    "id": "agnes_of_rome_virgin",
+    "cycle": "MEMORY_PROPER",
+    "val": 20
   },
   {
-    "id": "john_apostle",
+    "id": "all_saints",
+    "cycle": "ANY",
+    "val": 304
+  },
+  {
+    "id": "aloysius_gonzaga_religious",
+    "cycle": "MEMORY_FERIAL",
+    "val": 16
+  },
+  {
+    "id": "alphonsus_mary_liguori_bishop",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "ambrose_of_milan_bishop",
+    "cycle": "MEMORY_FERIAL",
+    "val": 27
+  },
+  {
+    "id": "andrew_apostle",
+    "cycle": "ANY",
     "val": 179
   },
   {
-    "id": "holy_family_of_jesus_mary_and_joseph",
-    "val": 364
+    "id": "andrew_dung_lac_priest_and_companions_martyrs",
+    "cycle": "MEMORY_FERIAL",
+    "val": 20
+  },
+  {
+    "id": "andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs",
+    "cycle": "MEMORY_FERIAL",
+    "val": 20
+  },
+  {
+    "id": "annunciation_of_the_lord",
+    "cycle": "ANY",
+    "val": 83
+  },
+  {
+    "id": "anthony_of_egypt_abbot",
+    "cycle": "MEMORY_FERIAL",
+    "val": 16
+  },
+  {
+    "id": "anthony_of_padua_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "ascension_of_the_lord",
+    "cycle": "ANY",
+    "val": 140
+  },
+  {
+    "id": "ash_wednesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "assumption_of_the_blessed_virgin_mary",
+    "cycle": "ANY",
+    "val": 226
+  },
+  {
+    "id": "athanasius_of_alexandria_bishop",
+    "cycle": "MEMORY_FERIAL",
+    "val": 121
+  },
+  {
+    "id": "augustine_of_hippo_bishop",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "baptism_of_the_lord",
+    "cycle": "ANY",
+    "val": 7
+  },
+  {
+    "id": "barnabas_apostle",
+    "cycle": "MEMORY_PROPER",
+    "val": 179
+  },
+  {
+    "id": "bartholomew_apostle",
+    "cycle": "ANY",
+    "val": 179
+  },
+  {
+    "id": "basil_the_great_and_gregory_nazianzen_bishops",
+    "cycle": "MEMORY_PROPER",
+    "val": 1
+  },
+  {
+    "id": "benedict_of_nursia_abbot",
+    "cycle": "ANY",
+    "val": 16
+  },
+  {
+    "id": "bernard_of_clairvaux_abbot",
+    "cycle": "MEMORY_FERIAL",
+    "val": 27
+  },
+  {
+    "id": "bonaventure_of_bagnoregio_bishop",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "boniface_of_mainz_bishop",
+    "cycle": "MEMORY_FERIAL",
+    "val": 466
+  },
+  {
+    "id": "bridget_of_sweden_religious",
+    "cycle": "ANY",
+    "val": 16
+  },
+  {
+    "id": "catherine_of_siena_virgin",
+    "cycle": "ANY",
+    "val": 118
+  },
+  {
+    "id": "cecilia_of_rome_virgin",
+    "cycle": "MEMORY_FERIAL",
+    "val": 20
+  },
+  {
+    "id": "chair_of_saint_peter_the_apostle",
+    "cycle": "ANY",
+    "val": 179
+  },
+  {
+    "id": "charles_borromeo_bishop",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "charles_lwanga_and_companions_martyrs",
+    "cycle": "MEMORY_FERIAL",
+    "val": 466
   },
   {
     "id": "christmas_octave_day_5",
+    "cycle": "ANY",
     "val": 2
   },
   {
     "id": "christmas_octave_day_6",
+    "cycle": "ANY",
     "val": 2
   },
   {
     "id": "christmas_octave_day_7",
+    "cycle": "ANY",
     "val": 2
+  },
+  {
+    "id": "christmas_time_january_3",
+    "cycle": "ANY",
+    "val": 2
+  },
+  {
+    "id": "christmas_time_january_4",
+    "cycle": "ANY",
+    "val": 2
+  },
+  {
+    "id": "christmas_time_january_5",
+    "cycle": "ANY",
+    "val": 2
+  },
+  {
+    "id": "clare_of_assisi_virgin",
+    "cycle": "MEMORY_FERIAL",
+    "val": 40
+  },
+  {
+    "id": "commemoration_of_all_the_faithful_departed",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "conversion_of_saint_paul_the_apostle",
+    "cycle": "ANY",
+    "val": 24
+  },
+  {
+    "id": "cornelius_i_pope_and_cyprian_of_carthage_bishop_martyrs",
+    "cycle": "MEMORY_FERIAL",
+    "val": 20
+  },
+  {
+    "id": "cyril_constantine_the_philosopher_monk_and_methodius_michael_of_thessaloniki_bishop",
+    "cycle": "ANY",
+    "val": 1
+  },
+  {
+    "id": "dedication_of_the_lateran_basilica",
+    "cycle": "ANY",
+    "val": 312
+  },
+  {
+    "id": "divine_mercy_sunday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "dominic_de_guzman_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "easter_friday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_monday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_saturday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_sunday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_thursday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_2_friday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_2_monday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_2_saturday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_2_thursday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_2_tuesday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_2_wednesday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_3_friday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_3_monday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_3_saturday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_3_sunday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_3_thursday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_3_tuesday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_3_wednesday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_4_friday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_4_monday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_4_saturday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_4_sunday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_4_thursday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_4_tuesday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_4_wednesday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_5_friday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_5_monday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_5_saturday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_5_sunday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_5_thursday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_5_tuesday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_5_wednesday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_6_friday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_6_monday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_6_saturday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_6_sunday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_6_thursday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_6_tuesday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_6_wednesday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_time_7_friday",
+    "cycle": "ANY",
+    "val": 141
+  },
+  {
+    "id": "easter_time_7_monday",
+    "cycle": "ANY",
+    "val": 141
+  },
+  {
+    "id": "easter_time_7_saturday",
+    "cycle": "ANY",
+    "val": 141
+  },
+  {
+    "id": "easter_time_7_thursday",
+    "cycle": "ANY",
+    "val": 141
+  },
+  {
+    "id": "easter_time_7_tuesday",
+    "cycle": "ANY",
+    "val": 141
+  },
+  {
+    "id": "easter_time_7_wednesday",
+    "cycle": "ANY",
+    "val": 141
+  },
+  {
+    "id": "easter_tuesday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "easter_wednesday",
+    "cycle": "ANY",
+    "val": 98
+  },
+  {
+    "id": "elizabeth_of_hungary_religious",
+    "cycle": "MEMORY_FERIAL",
+    "val": 16
+  },
+  {
+    "id": "epiphany_of_the_lord",
+    "cycle": "ANY",
+    "val": 5
+  },
+  {
+    "id": "exaltation_of_the_holy_cross",
+    "cycle": "ANY",
+    "val": 256
+  },
+  {
+    "id": "francis_de_sales_bishop",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "francis_of_assisi",
+    "cycle": "MEMORY_FERIAL",
+    "val": 16
+  },
+  {
+    "id": "francis_xavier_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "friday_after_ash_wednesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "friday_after_epiphany",
+    "cycle": "ANY",
+    "val": 5
+  },
+  {
+    "id": "friday_of_the_passion_of_the_lord",
+    "cycle": "ANY",
+    "val": 96
+  },
+  {
+    "id": "gregory_i_the_great_pope",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "holy_family_of_jesus_mary_and_joseph",
+    "cycle": "ANY",
+    "val": 364
+  },
+  {
+    "id": "holy_guardian_angels",
+    "cycle": "MEMORY_PROPER",
+    "val": 274
+  },
+  {
+    "id": "holy_innocents_martyrs",
+    "cycle": "ANY",
+    "val": 361
+  },
+  {
+    "id": "holy_monday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "holy_saturday",
+    "cycle": "ANY",
+    "val": 97
+  },
+  {
+    "id": "holy_thursday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "holy_tuesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "holy_wednesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "ignatius_of_antioch_bishop",
+    "cycle": "MEMORY_FERIAL",
+    "val": 20
+  },
+  {
+    "id": "ignatius_of_loyola_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "immaculate_conception_of_the_blessed_virgin_mary",
+    "cycle": "ANY",
+    "val": 341
+  },
+  {
+    "id": "immaculate_heart_of_mary",
+    "cycle": "MEMORY_FERIAL",
+    "val": 148
+  },
+  {
+    "id": "irenaeus_of_lyon_bishop",
+    "cycle": "MEMORY_FERIAL",
+    "val": 20
+  },
+  {
+    "id": "isidore_of_seville_bishop",
+    "cycle": "ANY",
+    "val": 115
+  },
+  {
+    "id": "isidore_the_farmer",
+    "cycle": "MEMORY_FERIAL",
+    "val": 134
+  },
+  {
+    "id": "james_apostle",
+    "cycle": "ANY",
+    "val": 179
+  },
+  {
+    "id": "jerome_of_stridon_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 27
+  },
+  {
+    "id": "joachim_and_anne_parents_of_mary",
+    "cycle": "MEMORY_FERIAL",
+    "val": 16
+  },
+  {
+    "id": "john_apostle",
+    "cycle": "ANY",
+    "val": 179
+  },
+  {
+    "id": "john_bosco_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "john_chrysostom_bishop",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "john_mary_vianney_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "john_of_avila_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 121
+  },
+  {
+    "id": "john_of_the_cross_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 27
+  },
+  {
+    "id": "josaphat_kuntsevych_bishop",
+    "cycle": "MEMORY_FERIAL",
+    "val": 20
+  },
+  {
+    "id": "joseph_spouse_of_mary",
+    "cycle": "ANY",
+    "val": 78
+  },
+  {
+    "id": "justin_martyr",
+    "cycle": "MEMORY_FERIAL",
+    "val": 20
+  },
+  {
+    "id": "lawrence_of_rome_deacon",
+    "cycle": "ANY",
+    "val": 20
+  },
+  {
+    "id": "lent_1_friday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_1_monday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_1_saturday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_1_sunday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_1_thursday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_1_tuesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_1_wednesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_2_friday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_2_monday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_2_saturday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_2_sunday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_2_thursday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_2_tuesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_2_wednesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_3_friday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_3_monday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_3_saturday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_3_sunday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_3_thursday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_3_tuesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_3_wednesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_4_friday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_4_monday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_4_saturday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_4_sunday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_4_thursday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_4_tuesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_4_wednesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_5_friday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_5_monday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_5_saturday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_5_sunday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_5_thursday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_5_tuesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "lent_5_wednesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "leo_i_the_great_pope",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "lucy_of_syracuse_virgin",
+    "cycle": "MEMORY_FERIAL",
+    "val": 20
+  },
+  {
+    "id": "luke_evangelist",
+    "cycle": "ANY",
+    "val": 290
+  },
+  {
+    "id": "mark_evangelist",
+    "cycle": "ANY",
+    "val": 114
+  },
+  {
+    "id": "martha_of_bethany_mary_of_bethany_and_lazarus_of_bethany",
+    "cycle": "MEMORY_FERIAL",
+    "val": 16
+  },
+  {
+    "id": "martin_of_tours_bishop",
+    "cycle": "MEMORY_PROPER",
+    "val": 314
+  },
+  {
+    "id": "mary_magdalene",
+    "cycle": "ANY",
+    "val": 16
+  },
+  {
+    "id": "mary_mother_of_god",
+    "cycle": "ANY",
+    "val": 0
+  },
+  {
+    "id": "mary_mother_of_the_church",
+    "cycle": "MEMORY_FERIAL",
+    "val": 148
+  },
+  {
+    "id": "matthew_apostle",
+    "cycle": "ANY",
+    "val": 179
+  },
+  {
+    "id": "matthias_apostle",
+    "cycle": "ANY",
+    "val": 122
+  },
+  {
+    "id": "maximilian_mary_raymund_kolbe_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 20
+  },
+  {
+    "id": "michael_gabriel_and_raphael_archangels",
+    "cycle": "ANY",
+    "val": 271
+  },
+  {
+    "id": "monday_after_epiphany",
+    "cycle": "ANY",
+    "val": 5
+  },
+  {
+    "id": "monica_of_hippo",
+    "cycle": "MEMORY_FERIAL",
+    "val": 16
+  },
+  {
+    "id": "most_holy_body_and_blood_of_christ",
+    "cycle": "ANY",
+    "val": 161
+  },
+  {
+    "id": "most_holy_trinity",
+    "cycle": "ANY",
+    "val": 154
+  },
+  {
+    "id": "most_sacred_heart_of_jesus",
+    "cycle": "ANY",
+    "val": 166
+  },
+  {
+    "id": "nativity_of_john_the_baptist",
+    "cycle": "ANY",
+    "val": 174
+  },
+  {
+    "id": "nativity_of_the_blessed_virgin_mary",
+    "cycle": "ANY",
+    "val": 250
+  },
+  {
+    "id": "nativity_of_the_lord",
+    "cycle": "ANY",
+    "val": 2
+  },
+  {
+    "id": "ordinary_time_1_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_1_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_1_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_1_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_1_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_1_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_10_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_10_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_10_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_10_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_10_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_10_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_10_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_11_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_11_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_11_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_11_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_11_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_11_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_11_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_12_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_12_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_12_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_12_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_12_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_12_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_12_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_13_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_13_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_13_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_13_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_13_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_13_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_13_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_14_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_14_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_14_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_14_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_14_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_14_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_14_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_15_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_15_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_15_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_15_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_15_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_15_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_15_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_16_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_16_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_16_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_16_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_16_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_16_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_16_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_17_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_17_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_17_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_17_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_17_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_17_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_17_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_18_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_18_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_18_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_18_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_18_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_18_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_18_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_19_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_19_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_19_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_19_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_19_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_19_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_19_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_2_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_2_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_2_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_2_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_2_thursday",
+    "cycle": "ANY",
+    "val": 1
+  },
+  {
+    "id": "ordinary_time_2_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_2_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_20_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_20_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_20_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_20_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_20_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_20_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_20_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_21_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_21_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_21_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_21_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_21_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_21_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_21_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_22_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_22_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_22_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_22_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_22_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_22_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_22_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_23_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_23_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_23_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_23_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_23_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_23_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_23_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_24_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_24_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_24_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_24_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_24_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_24_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_24_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_25_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_25_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_25_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_25_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_25_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_25_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_25_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_26_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_26_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_26_saturday",
+    "cycle": "ANY",
+    "val": 277
+  },
+  {
+    "id": "ordinary_time_26_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_26_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_26_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_26_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_27_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_27_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_27_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_27_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_27_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_27_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_27_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_28_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_28_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_28_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_28_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_28_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_28_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_28_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_29_friday",
+    "cycle": "ANY",
+    "val": 1
+  },
+  {
+    "id": "ordinary_time_29_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_29_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_29_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_29_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_29_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_29_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_3_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_3_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_3_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_3_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_3_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_3_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_30_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_30_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_30_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_30_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_30_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_30_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_30_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_31_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_31_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_31_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_31_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_31_thursday",
+    "cycle": "ANY",
+    "val": 20
+  },
+  {
+    "id": "ordinary_time_31_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_31_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_32_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_32_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_32_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_32_sunday",
+    "cycle": "ANY",
+    "val": 312
+  },
+  {
+    "id": "ordinary_time_32_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_32_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_32_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_33_friday",
+    "cycle": "ANY",
+    "val": 1
+  },
+  {
+    "id": "ordinary_time_33_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_33_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_33_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_33_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_33_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_33_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_34_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_34_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_34_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_34_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_34_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_34_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_4_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_4_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_4_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_4_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_4_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_4_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_4_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_5_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_5_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_5_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_5_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_5_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_5_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_5_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_6_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_6_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_6_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_6_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_6_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_6_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_6_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_7_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_7_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_7_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_7_sunday",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "ordinary_time_7_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_7_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_7_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "ordinary_time_8_friday",
+    "cycle": "ANY",
+    "val": 19
+  },
+  {
+    "id": "ordinary_time_8_monday",
+    "cycle": "ANY",
+    "val": 15
+  },
+  {
+    "id": "ordinary_time_8_saturday",
+    "cycle": "ANY",
+    "val": 34
+  },
+  {
+    "id": "ordinary_time_8_sunday",
+    "cycle": "ANY",
+    "val": 14
+  },
+  {
+    "id": "ordinary_time_8_thursday",
+    "cycle": "ANY",
+    "val": 18
+  },
+  {
+    "id": "ordinary_time_8_tuesday",
+    "cycle": "ANY",
+    "val": 149
+  },
+  {
+    "id": "ordinary_time_8_wednesday",
+    "cycle": "ANY",
+    "val": 17
+  },
+  {
+    "id": "ordinary_time_9_friday",
+    "cycle": "ANY",
+    "val": 12
+  },
+  {
+    "id": "ordinary_time_9_monday",
+    "cycle": "ANY",
+    "val": 8
+  },
+  {
+    "id": "ordinary_time_9_saturday",
+    "cycle": "ANY",
+    "val": 13
+  },
+  {
+    "id": "ordinary_time_9_sunday",
+    "cycle": "ANY",
+    "val": 161
+  },
+  {
+    "id": "ordinary_time_9_thursday",
+    "cycle": "ANY",
+    "val": 11
+  },
+  {
+    "id": "ordinary_time_9_tuesday",
+    "cycle": "ANY",
+    "val": 9
+  },
+  {
+    "id": "ordinary_time_9_wednesday",
+    "cycle": "ANY",
+    "val": 10
+  },
+  {
+    "id": "our_lady_of_mount_carmel",
+    "cycle": "MEMORY_FERIAL",
+    "val": 148
+  },
+  {
+    "id": "our_lady_of_sorrows",
+    "cycle": "MEMORY_FERIAL",
+    "val": 257
+  },
+  {
+    "id": "our_lady_of_the_pillar",
+    "cycle": "ANY",
+    "val": 284
+  },
+  {
+    "id": "our_lady_of_the_rosary",
+    "cycle": "MEMORY_PROPER",
+    "val": 148
+  },
+  {
+    "id": "our_lord_jesus_christ_king_of_the_universe",
+    "cycle": "ANY",
+    "val": 329
+  },
+  {
+    "id": "our_lord_jesus_christ_the_eternal_high_priest",
+    "cycle": "ANY",
+    "val": 151
+  },
+  {
+    "id": "palm_sunday_of_the_passion_of_the_lord",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "passion_of_saint_john_the_baptist",
+    "cycle": "MEMORY_PROPER",
+    "val": 240
+  },
+  {
+    "id": "paul_miki_and_companions_martyrs",
+    "cycle": "MEMORY_FERIAL",
+    "val": 20
+  },
+  {
+    "id": "pentecost_sunday",
+    "cycle": "ANY",
+    "val": 147
+  },
+  {
+    "id": "peter_and_paul_apostles",
+    "cycle": "ANY",
+    "val": 179
+  },
+  {
+    "id": "philip_and_james_apostles",
+    "cycle": "ANY",
+    "val": 122
+  },
+  {
+    "id": "philip_neri_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 121
+  },
+  {
+    "id": "pius_francesco_forgione_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "pius_x_pope",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "presentation_of_the_blessed_virgin_mary",
+    "cycle": "MEMORY_FERIAL",
+    "val": 148
+  },
+  {
+    "id": "presentation_of_the_lord",
+    "cycle": "ANY",
+    "val": 32
+  },
+  {
+    "id": "queenship_of_the_blessed_virgin_mary",
+    "cycle": "MEMORY_FERIAL",
+    "val": 233
+  },
+  {
+    "id": "saturday_after_ash_wednesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "saturday_after_epiphany",
+    "cycle": "ANY",
+    "val": 5
+  },
+  {
+    "id": "scholastica_of_nursia_virgin",
+    "cycle": "MEMORY_FERIAL",
+    "val": 40
+  },
+  {
+    "id": "second_sunday_after_christmas",
+    "cycle": "ANY",
+    "val": 2
+  },
+  {
+    "id": "simon_and_jude_apostles",
+    "cycle": "ANY",
+    "val": 179
+  },
+  {
+    "id": "stanislaus_of_szczepanow_bishop",
+    "cycle": "MEMORY_FERIAL",
+    "val": 466
+  },
+  {
+    "id": "stephen_the_first_martyr",
+    "cycle": "ANY",
+    "val": 359
+  },
+  {
+    "id": "sunday_of_the_word_of_god",
+    "cycle": "ANY",
+    "val": 21
+  },
+  {
+    "id": "teresa_benedicta_of_the_cross_stein_virgin",
+    "cycle": "ANY",
+    "val": 20
+  },
+  {
+    "id": "teresa_of_jesus_jornet_ibars_virgin",
+    "cycle": "MEMORY_FERIAL",
+    "val": 40
+  },
+  {
+    "id": "teresa_of_jesus_of_avila_virgin",
+    "cycle": "ANY",
+    "val": 40
+  },
+  {
+    "id": "therese_of_the_child_jesus_and_the_holy_face_of_lisieux_virgin",
+    "cycle": "MEMORY_FERIAL",
+    "val": 40
+  },
+  {
+    "id": "thomas_apostle",
+    "cycle": "ANY",
+    "val": 179
+  },
+  {
+    "id": "thomas_aquinas_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 27
+  },
+  {
+    "id": "thursday_after_ash_wednesday",
+    "cycle": "ANY",
+    "val": 52
+  },
+  {
+    "id": "thursday_after_epiphany",
+    "cycle": "ANY",
+    "val": 5
+  },
+  {
+    "id": "timothy_of_ephesus_and_titus_of_crete_bishops",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "transfiguration_of_the_lord",
+    "cycle": "ANY",
+    "val": 217
+  },
+  {
+    "id": "tuesday_after_epiphany",
+    "cycle": "ANY",
+    "val": 5
+  },
+  {
+    "id": "vincent_de_paul_priest",
+    "cycle": "MEMORY_FERIAL",
+    "val": 1
+  },
+  {
+    "id": "vincent_of_saragossa_deacon",
+    "cycle": "MEMORY_FERIAL",
+    "val": 20
+  },
+  {
+    "id": "visitation_of_mary",
+    "cycle": "ANY",
+    "val": 881
+  },
+  {
+    "id": "wednesday_after_epiphany",
+    "cycle": "ANY",
+    "val": 5
   }
 ]

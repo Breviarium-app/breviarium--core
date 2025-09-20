@@ -8,9 +8,9 @@ export function mapper_lectures(item: any): LecturesSchemaOutput {
     const result = {
         id: item.id,
         cycle: item.cycle,
-        fecha_anio_liturgico: findText('lecturas_fecha_anio_liturgico', item.fecha_anio_liturgico),
-        tiempo_ciclo_paridad: item.tiempo_ciclo_paridad,
-        celebraciones_posibles: item.celebraciones_posibles.map((id:any) => findText('celebraciones', id)),
+        // fecha_anio_liturgico: findText('lecturas_fecha_anio_liturgico', item.fecha_anio_liturgico),
+        // tiempo_ciclo_paridad: item.tiempo_ciclo_paridad,
+        // celebraciones_posibles: item.celebraciones_posibles.map((id:any) => findText('celebraciones', id)),
         lecturas: item.lecturas.map((item:any) =>
             { return {ref: findText('lecturas_referencia', item.ref), texto: findText('lecturas_texto', item.texto), type: item.type} }
         )
