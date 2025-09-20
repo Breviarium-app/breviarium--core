@@ -210,6 +210,9 @@ describe("Breviarium module", () => {
             assert(data !== undefined);
 
             assert(data.id == 'andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs');
+            assert(data.lectura_biblica_cita_a.length > 1);
+            assert(data.lectura_biblica_cita_i.length > 1);
+            assert(data.lectura_biblica_cita_p.length > 1);
         });
 
     });
