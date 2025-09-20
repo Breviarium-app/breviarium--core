@@ -201,5 +201,17 @@ describe("Breviarium module", () => {
         });
 
     });
+    it("getOfficium should return filled option if memory", () => {
+        // on andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs also possible
+        // ordinary_time_24_saturday
+
+        const breviarium = new Breviarium();
+        breviarium.getOfficium(new Date(2025, 8, 20)).then(data => {
+            assert(data !== undefined);
+
+            assert(data.id == 'andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs');
+        });
+
+    });
 
 });
