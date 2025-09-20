@@ -1,7 +1,7 @@
 import {describe, expect, it} from "vitest";
 import {mapper_officium} from "@/prayers/mappers/mapper_officium.ts";
 
-const prev = {
+const prev = [{
     "id": "lent_5_monday",
     "cycle": "ANY",
     "himno": 3365,
@@ -41,7 +41,7 @@ const prev = {
     "resp_3_i": [33664, 33665, 33666],
     "resp_3_p": [53664, 53665, 53666],
     "o_final": 211
-}
+}]
 
 const post = {
     id: 'lent_5_monday',

@@ -127,10 +127,10 @@ export function mergeLaudesContent(items: any[]): any[] {
 
 }
 
-export function mergeOfficiumContent(items: any[]): any {
+export function mergeContentReturnOnlyOne(items: any[]): any {
     // supossed to have 2 elements at most, return 1
     if (items.length > 1) {
-        return mergeObjects(items[0], items[1]);
+        return [mergeObjects(items[0], items[1])];
     } else {
         return items
     }
