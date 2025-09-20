@@ -214,7 +214,18 @@ describe("Breviarium module", () => {
             assert(data.lectura_biblica_cita_i.length > 1);
             assert(data.lectura_biblica_cita_p.length > 1);
         });
+    });
 
+    it("getTertia should return filled option if memory with partial data", () => {
+        // on andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs also possible
+        // ordinary_time_24_saturday
+
+        const breviarium = new Breviarium();
+        breviarium.getTertia(new Date(2025, 8, 20)).then(data => {
+            assert(data !== undefined);
+
+            assert(data.id == 'andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs');
+        });
     });
 
 });

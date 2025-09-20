@@ -22,12 +22,17 @@ import {searchDay} from "@/prayers/romcal.ts";
 import {mapper_invitatorium} from "@/prayers/mappers/mapper_invitatorium.ts";
 import {mapper_laudes} from "@/prayers/mappers/mapper_laudes.ts";
 import {mapper_vesperae} from "@/prayers/mappers/mapper_vesperae.ts";
-import {finder_intermediate} from "@/prayers/finders/finder_intermediate.ts";
 import {mapper_officium} from "@/prayers/mappers/mapper_officium.ts";
 import {mapper_lectures} from "@/prayers/mappers/mapper_lectures.ts";
 import {mapper_completorium} from "@/prayers/mappers/mapper_completorium.ts";
 import {mapper_evangelium} from "@/prayers/mappers/mapper_evangelium.ts";
-import {mergeLaudesContent, mergeOfficiumContent, searchAllPrayersForDay, searchPrayerForDay} from "@/prayers/utils.ts";
+import {
+    mergeContentReturnOnlyOne,
+    mergeLaudesContent,
+    searchAllPrayersForDay,
+    searchPrayerForDay
+} from "@/prayers/utils.ts";
+import {mapper_intermediate} from "@/prayers/mappers/mapper_intermediate.ts";
 
 
 export class PrayerManager implements PrayerManagerInterface {
@@ -53,17 +58,17 @@ export class PrayerManager implements PrayerManagerInterface {
 
     async getTertia(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
         const dayCalendar = await searchDay(date);
-        return finder_intermediate(dayCalendar, all_tertia);
+        return mapper_intermediate(dayCalendar, mergeContentReturnOnlyOne(searchAllPrayersForDay(all_tertia, dayCalendar)), all_tertia);
     }
 
     async getSexta(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
         const dayCalendar = await searchDay(date);
-        return finder_intermediate(dayCalendar, all_sexta);
+        return mapper_intermediate(dayCalendar, mergeContentReturnOnlyOne(searchAllPrayersForDay(all_sexta, dayCalendar)), all_sexta);
     }
 
     async getNona(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
         const dayCalendar = await searchDay(date);
-        return finder_intermediate(dayCalendar, all_nona);
+        return mapper_intermediate(dayCalendar, mergeContentReturnOnlyOne(searchAllPrayersForDay(all_nona, dayCalendar)), all_nona);
     }
 
     async getLectures(date?: Date): Promise<(LecturesSchemaOutput[] | undefined)> {
@@ -79,7 +84,7 @@ export class PrayerManager implements PrayerManagerInterface {
     async getOfficium(date?: Date): Promise<OfficiumSchemaOutput | undefined> {
         const dayCalendar = await searchDay(date);
 
-        return mapper_officium(mergeOfficiumContent(searchAllPrayersForDay(all_officium, dayCalendar)));
+        return mapper_officium(mergeContentReturnOnlyOne(searchAllPrayersForDay(all_officium, dayCalendar)));
     }
 
     async getEvangelium(date?: Date): Promise<EvangeliumSchemaOutput | undefined> {

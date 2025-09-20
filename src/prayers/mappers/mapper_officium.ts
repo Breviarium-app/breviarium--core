@@ -1,8 +1,8 @@
 import {OfficiumSchema, OfficiumSchemaOutput} from "@/prayer-manager-interface.ts";
 import {findText} from "@/prayers/mappers/findText";
 
-export function mapper_officium(item: OfficiumSchema | any): OfficiumSchemaOutput | undefined {
-    console.log("officium result", item)
+export function mapper_officium(item_input: OfficiumSchema[] | any): OfficiumSchemaOutput | undefined {
+    const item = item_input[0];
     const result = {
         "id": item.id,
         "cycle": item.cycle,
