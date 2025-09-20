@@ -12,7 +12,7 @@ const prev: LecturesSchema = {
         {ref: 178, texto: 223, type: 'FIRSTLECTURE'},
         {ref: 179, texto: 224, type: 'PSALM'},
         {ref: 180, texto: 225, type: 'SECONDLECTURE'},
-        {ref: 181, texto: 226, type: 'ACCLAMATION'},
+        {ref: 181, texto: 6074, type: 'ACCLAMATION'},
         {ref: 182, texto: 227, type: 'GOSPEL'}
     ]
 }
