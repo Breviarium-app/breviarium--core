@@ -43,11 +43,13 @@ describe("Breviarium module", () => {
 
     it("laudes 01/01 first day OK", async () => {
         const breviarium = new Breviarium();
-        const result = await breviarium.getLaudes(new Date(2025, 0, 1));
+        await breviarium.getLaudes(new Date(2025, 0, 1)).then(data => {
+            assert(data !== undefined);
+            expect(data[0].id.length).to.be.greaterThan(1);
+            expect(data[0].id).eq('mary_mother_of_god');
+        });
 
-        assert(result !== undefined);
-        expect(result[0].id.length).to.be.greaterThan(1);
-        expect(result[0].id).eq('mary_mother_of_god');
+
     });
 
     it("tertia 01/01 OK", async () => {
@@ -177,6 +179,27 @@ describe("Breviarium module", () => {
         const result = await breviarium.getEvangelium(new Date(2025, 6, 29));
         assert(result !== undefined);
         expect(result.cycle).eq('MEMORY');
+    });
+
+    it("getLaudes should return multiple options if possible", () => {
+        // on andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs also possible
+        // ordinary_time_24_saturday
+
+        const breviarium = new Breviarium();
+        breviarium.getLaudes(new Date(2025, 8, 20)).then(data => {
+            assert(data !== undefined);
+            assert(data.length == 2);
+
+            assert(data[0].id == 'andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs');
+            assert(data[0].primer_salmo_cita.length > 0);
+            assert(data[0].segundo_salmo_texto.length > 0);
+            assert(data[0].tercer_salmo_antifona.length > 0);
+            assert(data[1].id == 'ordinary_time_24_saturday');
+            assert(data[1].primer_salmo_cita.length > 0);
+            assert(data[1].segundo_salmo_texto.length > 0);
+            assert(data[1].tercer_salmo_antifona.length > 0);
+        });
+
     });
 
 });
