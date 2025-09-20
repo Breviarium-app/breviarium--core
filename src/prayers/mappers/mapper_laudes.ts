@@ -1,9 +1,9 @@
 import {LaudesSchemaOutput} from "@/prayer-manager-interface.ts";
 import {findText} from "@/prayers/mappers/findText";
 
-export function mapper_laudes(item: any): LaudesSchemaOutput | undefined {
+export function mapper_laudes(item: any): LaudesSchemaOutput[] | undefined {
 
-    const result = {
+    const result = [{
         "id": item?.id,
         "cycle": item?.cycle,
         // "dia_semana_tiempo": findText('celebraciones', item.dia_semana_tiempo),
@@ -26,7 +26,7 @@ export function mapper_laudes(item: any): LaudesSchemaOutput | undefined {
         "preces_contenido": item.preces_c.map((id: any) => findText('preces_contenido', id)),
         "invitacion_padrenuestro": findText('invitacion_padrenuestro', item.invi_pn),
         "oracion_final": findText('oraciones_finales', item.o_final),
-    }
+    }]
 
     // console.log("post", result);
     return result;

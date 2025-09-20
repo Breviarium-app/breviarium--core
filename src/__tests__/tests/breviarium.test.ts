@@ -20,14 +20,15 @@ describe("Breviarium module", () => {
 
     it("properties content ok", async () => {
         const breviarium = new Breviarium();
-        const result = await breviarium.getLaudes();
+        let result = await breviarium.getLaudes();
+        const r1 = result?.[0]
 
-        assert(result !== undefined);
-        expect(result.responsorios.length).to.be.greaterThan(1);
-        expect(result.preces_contenido.length).to.be.greaterThan(1);
-        expect(result.primer_salmo_antifona).not.toBeNull();
-        expect(result.primer_salmo_cita).not.toBeNull();
-        expect(result.primer_salmo_texto).not.toBeNull();
+        assert(r1 !== undefined);
+        expect(r1.responsorios.length).to.be.greaterThan(1);
+        expect(r1.preces_contenido.length).to.be.greaterThan(1);
+        expect(r1.primer_salmo_antifona).not.toBeNull();
+        expect(r1.primer_salmo_cita).not.toBeNull();
+        expect(r1.primer_salmo_texto).not.toBeNull();
     });
 
     it("invitatory 01/01 first day OK", async () => {
@@ -45,8 +46,8 @@ describe("Breviarium module", () => {
         const result = await breviarium.getLaudes(new Date(2025, 0, 1));
 
         assert(result !== undefined);
-        expect(result.id.length).to.be.greaterThan(1);
-        expect(result.id).eq('mary_mother_of_god');
+        expect(result[0].id.length).to.be.greaterThan(1);
+        expect(result[0].id).eq('mary_mother_of_god');
     });
 
     it("tertia 01/01 OK", async () => {

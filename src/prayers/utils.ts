@@ -92,4 +92,15 @@ export function searchPrayerForDay(prayer_collection: any[], dayCalendar: any) {
     }
     return result;
 
+}export function searchAllPrayersForDay(prayer_collection: any[], dayCalendar: any) {
+
+    let result = prayer_collection.find((element: any) => element.id === dayCalendar?.id && element.cycle === dayCalendar?.cycles.sundayCycle)
+    if (!result) {
+        result = prayer_collection.find((element: any) => element.id === dayCalendar?.id && element.cycle === "ANY")
+    }
+    if (!result) {
+        result = prayer_collection.find((element: any) => element.id === dayCalendar?.id)
+    }
+    return result;
+
 }

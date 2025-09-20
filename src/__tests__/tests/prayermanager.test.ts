@@ -13,22 +13,25 @@ describe("Prayer Manager module", () => {
 
     it("properties content ok", async () => {
         const prayer: PrayerManagerInterface = new PrayerManager();
-        const result = await prayer.getLaudes();
+        await prayer.getLaudes().then(r => {
+            const res = r?.[0]
+            assert(res !== undefined);
+            expect(res.responsorios.length).to.be.greaterThan(1);
+            expect(res.preces_contenido.length).to.be.greaterThan(1);
+            expect(res.primer_salmo_antifona).not.toBeNull();
+            expect(res.primer_salmo_cita).not.toBeNull();
+            expect(res.primer_salmo_texto).not.toBeNull();
+            expect(res.segundo_salmo_antifona).not.toBeNull();
+            expect(res.segundo_salmo_cita).not.toBeNull();
+            expect(res.segundo_salmo_texto).not.toBeNull();
+            expect(res.tercer_salmo_antifona).not.toBeNull();
+            expect(res.tercer_salmo_cita).not.toBeNull();
+            expect(res.tercer_salmo_texto).not.toBeNull();
+            expect(res.lectura_biblica_cita).not.toBeNull();
+            expect(res.lectura_biblica).not.toBeNull();
+        });
 
-        assert(result !== undefined);
-        expect(result.responsorios.length).to.be.greaterThan(1);
-        expect(result.preces_contenido.length).to.be.greaterThan(1);
-        expect(result.primer_salmo_antifona).not.toBeNull();
-        expect(result.primer_salmo_cita).not.toBeNull();
-        expect(result.primer_salmo_texto).not.toBeNull();
-        expect(result.segundo_salmo_antifona).not.toBeNull();
-        expect(result.segundo_salmo_cita).not.toBeNull();
-        expect(result.segundo_salmo_texto).not.toBeNull();
-        expect(result.tercer_salmo_antifona).not.toBeNull();
-        expect(result.tercer_salmo_cita).not.toBeNull();
-        expect(result.tercer_salmo_texto).not.toBeNull();
-        expect(result.lectura_biblica_cita).not.toBeNull();
-        expect(result.lectura_biblica).not.toBeNull();
+
     });
 
     it("invitatory first day OK", async () => {

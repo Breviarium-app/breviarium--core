@@ -4,7 +4,7 @@ import {LiturgicalColors} from "@/prayers/types.ts";
 export interface PrayerManagerInterface {
     getInvitatorium(date?: Date): Promise<InvitatoriumSchemaOutput | undefined>;
 
-    getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined>;
+    getLaudes(date?: Date): Promise<LaudesSchemaOutput[] | undefined>;
 
     getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined>;
 

@@ -27,7 +27,7 @@ import {mapper_officium} from "@/prayers/mappers/mapper_officium.ts";
 import {mapper_lectures} from "@/prayers/mappers/mapper_lectures.ts";
 import {mapper_completorium} from "@/prayers/mappers/mapper_completorium.ts";
 import {mapper_evangelium} from "@/prayers/mappers/mapper_evangelium.ts";
-import {searchPrayerForDay} from "@/prayers/utils.ts";
+import {searchAllPrayersForDay, searchPrayerForDay} from "@/prayers/utils.ts";
 
 
 export class PrayerManager implements PrayerManagerInterface {
@@ -40,10 +40,10 @@ export class PrayerManager implements PrayerManagerInterface {
         return mapper_invitatorium(resultSelected);
     }
 
-    async getLaudes(date?: Date): Promise<LaudesSchemaOutput | undefined> {
+    async getLaudes(date?: Date): Promise<LaudesSchemaOutput[] | undefined> {
         const dayCalendar = await searchDay(date);
 
-        return mapper_laudes(searchPrayerForDay(all_laudes, dayCalendar));
+        return mapper_laudes(searchAllPrayersForDay(all_laudes, dayCalendar));
     }
 
     async getVesperae(date?: Date): Promise<VesperaeSchemaOutput | undefined> {

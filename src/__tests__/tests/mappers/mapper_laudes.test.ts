@@ -85,7 +85,8 @@ const laudes_post_0 = {
 describe("Mapper Laudes", () => {
     it("mapper laudes - laudes_pre_0", () => {
 
-        const result = mapper_laudes(laudes_pre_0);
+        const mapperResult = mapper_laudes(laudes_pre_0)
+        const result = mapperResult?.[0];
 
         assert(result !== undefined);
 
