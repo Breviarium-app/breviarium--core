@@ -4,7 +4,6 @@ import himnos from "./himnos.json";
 import invitacion_padrenuestro from './invitacion_padrenuestro.json';
 import lectura_breve_textos from "./lectura_breve_textos.json";
 import lectura_breve_citas from "./lectura_breve_citas.json";
-import lecturas_fecha_anio_liturgico from "./lecturas_fecha_anio_liturgico.json";
 import lecturas_referencia from "./lecturas_referencia.json";
 import lecturas_texto from "./lecturas_texto.json";
 import oficio_difuntos from "./oficio_difuntos.json";
@@ -29,7 +28,6 @@ export {
     invitacion_padrenuestro,
     lectura_breve_textos,
     lectura_breve_citas,
-    lecturas_fecha_anio_liturgico,
     lecturas_referencia,
     lecturas_texto,
     oficio_difuntos,
