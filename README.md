@@ -61,17 +61,19 @@ await breviarium.getLaudes(new Date(2025, 6, 30)).then((data) => { console.log("
 
 Liturgy of the hours: functions to retrieve the information of the library:
 
-| Function              | Parameters    | Description                                        | Example Call                                   |
-|-----------------------|---------------|----------------------------------------------------|------------------------------------------------|
-| `getLaudes`           | `date?: Date` | Returns the Laudes prayer for a given date.        | `prayers.getLaudes();`                         |
-| `getVesperae`         | `date?: Date` | Returns the Vesperae prayer for a given date.      | `prayers.getVesperae(new Date(2025, 1, 17));`  |
-| `getOfficium`         | `date?: Date` | Returns the Officium prayer for a given date.      | `prayers.getOfficium();`                       |
-| `getTertia`           | `date?: Date` | Returns the Tertia prayer for a given date.        | `prayers.getTertia();`                         |
-| `getSexta`            | `date?: Date` | Returns the Sexta prayer for a given date.         | `prayers.getSexta(new Date());`                |
-| `getNona`             | `date?: Date` | Returns the Nona prayer for a given date.          | `prayers.getNona();`                           |
-| `getCompletorium`     | `date?: Date` | Returns the Completorium prayer for a given date.  | `prayers.getCompletorium();`                   |
-| `getMissaleLectiones` | `date?: Date` | Returns the Mass readings prayer for a given date. | `prayers.getMissaleLectiones();`               |
-| `getEvangelium`       | `date?: Date` | Returns the Gospel text for a given date.          | `prayers.getEvangelium(new Date(2025, 5, 1));` |
+| Function              | Parameters    | Description                                               | Example Call                                   |
+|-----------------------|---------------|-----------------------------------------------------------|------------------------------------------------|
+| `getLaudes`           | `date?: Date` | Returns array (1)\: Laudes prayer for a given date.       | `prayers.getLaudes();`                         |
+| `getVesperae`         | `date?: Date` | Returns array (1)\: the Vesperae prayer for a given date. | `prayers.getVesperae(new Date(2025, 1, 17));`  |
+| `getOfficium`         | `date?: Date` | Returns the Officium prayer for a given date.             | `prayers.getOfficium();`                       |
+| `getTertia`           | `date?: Date` | Returns the Tertia prayer for a given date.               | `prayers.getTertia();`                         |
+| `getSexta`            | `date?: Date` | Returns the Sexta prayer for a given date.                | `prayers.getSexta(new Date());`                |
+| `getNona`             | `date?: Date` | Returns the Nona prayer for a given date.                 | `prayers.getNona();`                           |
+| `getCompletorium`     | `date?: Date` | Returns the Completorium prayer for a given date.         | `prayers.getCompletorium();`                   |
+| `getMissaleLectiones` | `date?: Date` | Returns the Mass readings prayer for a given date.        | `prayers.getMissaleLectiones();`               |
+| `getEvangelium`       | `date?: Date` | Returns the Gospel text for a given date.                 | `prayers.getEvangelium(new Date(2025, 5, 1));` |
+
+_(1)_: Some liturgical days, contains different options to pray: memory (example: a saint), and ferial (ordinary time). The Library displays both options and user can choose what version use.
 
 ## Test
 
@@ -89,3 +91,7 @@ npm run test
 ## Changelog
 
 See [Changelog.md](./CHANGELOG.md) for breaking changes.
+
+## Debug 
+
+> You can debug or see the libraries responses in: https://escribano.breviarium.es/debug select a day, the hour or prayer and display the JSON response
