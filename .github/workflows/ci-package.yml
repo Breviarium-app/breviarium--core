@@ -16,32 +16,38 @@ jobs:
       - name: Checkout repository 👋🏼
         uses: actions/checkout@v4
 
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 8
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
           registry-url: 'https://registry.npmjs.org/'
+          cache: 'pnpm'
 
       - name: Install dependencies 🔨
-        run: npm ci
+        run: pnpm install --frozen-lockfile
 
       - name: Update patch version
-        run: npm version patch --no-git-tag-version
+        run: pnpm version patch --no-git-tag-version
 
       - name: Commit version bump ⚙️
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add package.json package-lock.json
+          git add package.json pnpm-lock.yaml
           git commit -m "chore: bump patch version"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build package 📦
-        run: npm run build
+        run: pnpm run build
 
       - name: Publish package 🚀
-        run: npm publish --access public
+        run: pnpm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
