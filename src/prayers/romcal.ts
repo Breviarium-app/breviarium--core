@@ -23,6 +23,7 @@ export async function searchDay(date?: Date): Promise<LiturgicalDay | undefined>
         .toLocaleDateString("en-ZA")
         .replaceAll("/", "-");
 
+    console.log("calendar[dateToday]", calendar[dateToday])
     for (const day of calendar[dateToday]) {
         if (!day.isOptional) {
             return day;
