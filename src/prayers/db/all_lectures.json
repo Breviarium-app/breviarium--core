@@ -17706,6 +17706,26 @@
         "type": "PSALM"
       }
     ]
+  },{
+    "id": "peter_poveda_and_innocent_of_mary_immaculate_canoura_priests_and_companions_martyrs",
+    "cycle": "ANY",
+    "lecturas": [
+      {
+        "ref": 639,
+        "texto": 801,
+        "type": "FIRSTLECTURE"
+      },
+      {
+        "ref": 641,
+        "texto": 803,
+        "type": "GOSPEL"
+      },
+      {
+        "ref": 640,
+        "texto": 802,
+        "type": "PSALM"
+      }
+    ]
   },
   {
     "id": "ordinary_time_31_thursday",
