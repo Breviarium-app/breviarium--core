@@ -18,20 +18,26 @@ jobs:
       - name: Checkout repository 👋🏼
         uses: actions/checkout@v4
 
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9.14.2
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
           registry-url: 'https://registry.npmjs.org/'
+          cache: 'pnpm'
 
       - name: Install dependencies 🔨
-        run: npm ci
+        run: pnpm install --frozen-lockfile
 
       - name: Build package 📦
-        run: npm run build
+        run: pnpm run build
 
       - name: Run tests with coverage
-        run: npm run test:coverage
+        run: pnpm run test:coverage
 
       - name: Generate coverage badges
         uses: jpb06/coverage-badges-action@latest

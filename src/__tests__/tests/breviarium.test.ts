@@ -261,6 +261,22 @@ describe("Breviarium module", () => {
             }
 
         });
+    }); it("getLaudes 11/06", () => {
+        // on peter_poveda_and_innocent_of_mary_immaculate_canoura_priests_and_companions_martyrs also possible
+        // ordinary_time_31_thursday
+
+        const breviarium = new Breviarium();
+        breviarium.getLaudes(new Date(2025, 10, 6)).then(data => {
+            console.log(data)
+            assert(data !== undefined);
+            assert(data[0].id == 'peter_poveda_and_innocent_of_mary_immaculate_canoura_priests_and_companions_martyrs');
+            for (let datum of data) {
+                assert(datum.primer_salmo_cita.length > 0);
+                assert(datum.segundo_salmo_texto.length > 0);
+                assert(datum.tercer_salmo_texto.length > 0);
+            }
+
+        });
     });
 
 });

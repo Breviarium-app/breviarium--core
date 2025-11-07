@@ -5,19 +5,19 @@ help: ## show make targets
 	@awk 'BEGIN {FS = ":.*?## "} /[a-zA-Z_-]+:.*?## / {sub("\\\\n",sprintf("\n%22c"," "), $$2);printf " \033[36m%-20s\033[0m  %s\n", $$1, $$2}' $(MAKEFILE_LIST)
 
 install: ## install deps
-	@npm i
+	@pnpm i
 
 run: ## build package
-	@npm run build
+	@pnpm run build
 
 build: ## build to dist folder
-	@npm run build
+	@pnpm run build
 
 test: ## execute unit tests
-	@npm run test
+	@pnpm run test
 
 test-coverage: ## execute test with coverage
-	@npm run test:coverage
+	@pnpm run test:coverage
 
 process-and-compress: ## process database and compress texts
 	./process-and-compress.sh
