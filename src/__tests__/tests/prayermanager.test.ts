@@ -50,7 +50,6 @@ describe("Prayer Manager module", () => {
 
         const resultTemp = await prayer.getLectures(new Date(2025, 0, 1));
 
-        // console.log("mary_mother_of_god resultTemp", resultTemp[0].lecturas)
         if (resultTemp) {
             const result = resultTemp[0]
             assert(result !== undefined);

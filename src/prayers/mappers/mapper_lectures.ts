@@ -3,7 +3,6 @@ import {findText} from "@/prayers/mappers/findText";
 
 export function mapper_lectures(item: any): LecturesSchemaOutput {
 
-    // console.log("lectures prev", item);
 
     const result = {
         id: item.id,

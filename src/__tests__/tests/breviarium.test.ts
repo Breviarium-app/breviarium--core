@@ -251,7 +251,6 @@ describe("Breviarium module", () => {
 
         const breviarium = new Breviarium();
         breviarium.getVesperae(new Date(2025, 8, 20)).then(data => {
-            console.log()
             assert(data !== undefined);
             assert(data[0].id == 'andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs');
             for (let datum of data) {
@@ -267,7 +266,6 @@ describe("Breviarium module", () => {
 
         const breviarium = new Breviarium();
         breviarium.getLaudes(new Date(2025, 10, 6)).then(data => {
-            console.log(data)
             assert(data !== undefined);
             assert(data[0].id == 'peter_poveda_and_innocent_of_mary_immaculate_canoura_priests_and_companions_martyrs');
             for (let datum of data) {

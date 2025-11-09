@@ -30,6 +30,5 @@ export function mapper_laudes(elements: any[]): LaudesSchemaOutput[] | undefined
             "oracion_final": findText('oraciones_finales', item.o_final),
         })
     })
-    // console.log("post", result);
     return result;
 }
