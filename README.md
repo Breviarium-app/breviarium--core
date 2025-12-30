@@ -130,7 +130,7 @@ console.log(breviarium.getCurrentDate());
   - Output sample:
     ```json
     {
-      "id": "invitatorium_2025_07_30",
+      "id": "mary_mother_of_god",
       "val": "Antiphon and invitatory text..."
     }
     ```
@@ -140,7 +140,7 @@ console.log(breviarium.getCurrentDate());
   - Output sample:
     ```json
     [{
-      "id": "laudes_2025_07_30",
+      "id": "mary_mother_of_god",
       "cycle": "ANY",
       "himno": "Hymn text...",
       "primer_salmo_cita": "Ps 63",
@@ -169,7 +169,7 @@ console.log(breviarium.getCurrentDate());
   - Output sample:
     ```json
     [{
-      "id": "vesperae_2025_07_30",
+      "id": "lent_5_monday",
       "cycle": "ANY",
       "primeras_visperas": false,
       "himno": "Hymn text...",
@@ -199,7 +199,7 @@ console.log(breviarium.getCurrentDate());
   - Output sample:
     ```json
     {
-      "id": "officium_2025_07_30",
+      "id": "mary_mother_of_god",
       "cycle": "ANY",
       "himno": "Hymn text...",
       "primer_salmo_cita": "Ps ...",
@@ -231,7 +231,7 @@ console.log(breviarium.getCurrentDate());
   - Output sample:
     ```json
     {
-      "id": "tertia_2025_07_30",
+      "id": "lent_2_monday",
       "cycle": "ANY",
       "himno": "Hymn text...",
       "primer_salmo_cita": "Ps ...",
@@ -281,7 +281,7 @@ console.log(breviarium.getCurrentDate());
   - Output sample:
     ```json
     [{
-      "id": "lectures_2025_07_30",
+      "id": "lent_5_monday",
       "cycle": "ANY",
       "lecturas": [
         { "ref": "Jer 14,17-22", "texto": "Reading text...", "type": "FIRSTLECTURE" },
@@ -296,7 +296,7 @@ console.log(breviarium.getCurrentDate());
   - Output sample:
     ```json
     {
-      "id": "evangelium_2025_07_30",
+      "id": "mary_mother_of_god",
       "cycle": "ANY",
       "evangelium_lectiones": [
         { "ref": "Mt 13,36-43", "texto": "Gospel text...", "type": "GOSPEL" }
