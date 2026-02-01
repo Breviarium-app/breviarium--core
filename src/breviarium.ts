@@ -15,7 +15,7 @@ import invitatory_psalms from './prayers/db/es/commons/invitatory_psalms.json'
 import {searchDay} from "@/prayers/romcal.ts";
 import {getCycle, getHexLiturgicalColor, getSalteryWeek} from "@/prayers/utils.ts";
 
-export default class Breviarium implements BreviariumInterface {
+export class Breviarium implements BreviariumInterface {
     #selectedDate: Date;
     #prayerManager: PrayerManager;
 
@@ -103,3 +103,5 @@ export default class Breviarium implements BreviariumInterface {
         };
     }
 }
+
+export default Breviarium;

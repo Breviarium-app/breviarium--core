@@ -19,6 +19,13 @@
   "module": "dist/breviarium.es.js",
   "types": "dist/breviarium.d.ts",
   "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/breviarium.d.ts",
+      "import": "./dist/breviarium.es.js",
+      "require": "./dist/breviarium.cjs.js"
+    }
+  },
   "files": [
     "dist"
   ],
