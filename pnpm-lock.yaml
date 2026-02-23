@@ -9,11 +9,11 @@ importers:
   .:
     dependencies:
       '@romcal/calendar.spain':
-        specifier: ^3.0.0-dev.115
-        version: 3.0.0-dev.115(romcal@3.0.0-dev.115(typescript@5.9.3))
+        specifier: 3.0.0-dev.119
+        version: 3.0.0-dev.119(romcal@3.0.0-dev.119(typescript@5.9.3))
       romcal:
-        specifier: 3.0.0-dev.115
-        version: 3.0.0-dev.115(typescript@5.9.3)
+        specifier: 3.0.0-dev.119
+        version: 3.0.0-dev.119(typescript@5.9.3)
     optionalDependencies:
       '@rollup/rollup-linux-x64-gnu':
         specifier: 4.9.5
@@ -416,11 +416,11 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@romcal/calendar.spain@3.0.0-dev.115':
-    resolution: {integrity: sha512-CglVPjQtLkLcxcYI9GabXq+iDvT+q3jcIE4mNDrEF+OmzN9KXSipOIiPHJRrGduBQexO/b9tq1je0KW/jN7hbA==}
+  '@romcal/calendar.spain@3.0.0-dev.119':
+    resolution: {integrity: sha512-I8jZJxFIc6r9KoHdBWaSPJ1shtfro5yxDtSi+/IRiHCw2u2bfrqL/92HqNJJM7Ssd0QHqs7yx3NSLxYlMH+vog==}
     engines: {node: '>=18.0.0'}
     peerDependencies:
-      romcal: 3.0.0-dev.115
+      romcal: 3.0.0-dev.119
 
   '@rushstack/node-core-library@3.66.1':
     resolution: {integrity: sha512-ker69cVKAoar7MMtDFZC4CzcDxjwqIhFzqEnYI5NRN/8M3om6saWCVx/A7vL2t/jFCJsnzQplRDqA7c78pytng==}
@@ -735,8 +735,8 @@ packages:
   html-escaper@2.0.2:
     resolution: {integrity: sha512-H2iMtd0I4Mt5eYiapRdIDjp+XzelXQ0tFE4JS7YFwFevXXMmOp9myNrUvCg0D6ws8iqkRPBfKHgbwig1SmlLfg==}
 
-  i18next@25.6.1:
-    resolution: {integrity: sha512-yUWvdXtalZztmKrKw3yz/AvSP3yKyqIkVPx/wyvoYy9lkLmwzItLxp0iHZLG5hfVQ539Jor4XLO+U+NHIXg7pw==}
+  i18next@25.8.13:
+    resolution: {integrity: sha512-E0vzjBY1yM+nsFrtgkjLhST2NBkirkvOVoQa0MSldhsuZ3jUge7ZNpuwG0Cfc74zwo5ZwRzg3uOgT+McBn32iA==}
     peerDependencies:
       typescript: ^5
     peerDependenciesMeta:
@@ -950,8 +950,8 @@ packages:
     engines: {node: '>=18.0.0', npm: '>=8.0.0'}
     hasBin: true
 
-  romcal@3.0.0-dev.115:
-    resolution: {integrity: sha512-WLjq7rpOetyssr4mD0VdmxExnQdOg1kZPVpfJjkuJkENN3GnHPDihYw9y+jlEyH9SraN6Oaa6KiTsPg5e9+Pxw==}
+  romcal@3.0.0-dev.119:
+    resolution: {integrity: sha512-T1V4wBt7LT8ItKuinhglBAFG6tJ0hQaxepO5331IMPtswx/8Pd9Oc++gam70tDVNc3m5pabh8ITYEI/nVcJQCg==}
     engines: {node: '>=18.0.0'}
 
   run-parallel@1.2.0:
@@ -1480,9 +1480,9 @@ snapshots:
   '@rollup/rollup-win32-x64-msvc@4.52.5':
     optional: true
 
-  '@romcal/calendar.spain@3.0.0-dev.115(romcal@3.0.0-dev.115(typescript@5.9.3))':
+  '@romcal/calendar.spain@3.0.0-dev.119(romcal@3.0.0-dev.119(typescript@5.9.3))':
     dependencies:
-      romcal: 3.0.0-dev.115(typescript@5.9.3)
+      romcal: 3.0.0-dev.119(typescript@5.9.3)
 
   '@rushstack/node-core-library@3.66.1(@types/node@22.19.0)':
     dependencies:
@@ -1848,7 +1848,7 @@ snapshots:
 
   html-escaper@2.0.2: {}
 
-  i18next@25.6.1(typescript@5.9.3):
+  i18next@25.8.13(typescript@5.9.3):
     dependencies:
       '@babel/runtime': 7.28.4
     optionalDependencies:
@@ -2051,9 +2051,9 @@ snapshots:
       '@rollup/rollup-win32-x64-msvc': 4.52.5
       fsevents: 2.3.3
 
-  romcal@3.0.0-dev.115(typescript@5.9.3):
+  romcal@3.0.0-dev.119(typescript@5.9.3):
     dependencies:
-      i18next: 25.6.1(typescript@5.9.3)
+      i18next: 25.8.13(typescript@5.9.3)
     transitivePeerDependencies:
       - typescript
 
