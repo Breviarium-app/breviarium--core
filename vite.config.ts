@@ -13,6 +13,9 @@ export default defineConfig({
             formats: ["es", "cjs", "umd"]
         },
         rollupOptions: {
+            output: {
+                exports: "named"
+            }
             // input: ["src/prayers"],
         }
     },
