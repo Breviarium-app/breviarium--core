@@ -22,7 +22,8 @@ export type {
     LecturesSchemaOutput,
     LiturgyInformationOutput,
     OfficiumSchemaOutput,
-    VesperaeSchemaOutput
+    VesperaeSchemaOutput,
+    SingleLectureSchemaOutput
 };
 import invitatory_psalms from './prayers/db/es/commons/invitatory_psalms.json'
 import {searchDay} from "@/prayers/romcal.ts";
