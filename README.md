@@ -317,11 +317,13 @@ console.log(breviarium.getCurrentDate());
     ```
 
 - `getLiturgyInformation(date?: Date): Promise<LiturgyInformationOutput>`
-  - Returns: metadata about the day: psalter week, cycle, color, celebration, etc. Always returns an object (with minimal defaults when unknown).
+  - Returns: metadata about the day: psalter week, book/volume of the Liturgy of the Hours, cycle, color, celebration, etc. Always returns an object (with minimal defaults when unknown).
+  - `book` is the traditional 4-volume ("tomo") split of the Spanish Liturgia de las Horas, derived from the liturgical season and week of season: `I` (Adviento/Navidad), `II` (Cuaresma/Triduo Pascual/Pascua), `III` (Tiempo Ordinario, semanas 1-17), `IV` (Tiempo Ordinario, semanas 18-34).
   - Output sample:
     ```json
     {
       "psaltery_week": "I",
+      "book": "III",
       "cycle": "A",
       "color": "GREEN",
       "color_hex": "#008000",
