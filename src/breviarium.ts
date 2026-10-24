@@ -26,7 +26,7 @@ export type {
 };
 import invitatory_psalms from './prayers/db/es/commons/invitatory_psalms.json'
 import {searchDay} from "@/prayers/romcal.ts";
-import {getCycle, getHexLiturgicalColor, getSalteryWeek} from "@/prayers/utils.ts";
+import {getCycle, getHexLiturgicalColor, getLiturgyBookNumber, getSalteryWeek} from "@/prayers/utils.ts";
 
 export class Breviarium implements BreviariumInterface {
     #selectedDate: Date;
@@ -98,6 +98,7 @@ export class Breviarium implements BreviariumInterface {
         if (dayCalendar) {
             return {
                 psaltery_week: getSalteryWeek(dayCalendar?.cycles.psalterWeek),
+                book: getLiturgyBookNumber(dayCalendar?.seasons, dayCalendar?.calendar?.weekOfSeason),
                 cycle: getCycle(dayCalendar?.cycles.sundayCycle),
                 color: dayCalendar?.colors[0],
                 color_hex: getHexLiturgicalColor(dayCalendar?.colors[0]),

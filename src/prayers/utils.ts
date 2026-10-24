@@ -62,6 +62,26 @@ export function getCycle(cycleYear: string): string {
     }
 }
 
+export function getLiturgyBookNumber(seasons?: string[], weekOfSeason?: number): string {
+    if (!seasons) {
+        return "";
+    }
+    if (seasons.includes(LiturgicalSeasons.ADVENT) || seasons.includes(LiturgicalSeasons.CHRISTMAS_TIME)) {
+        return "I"
+    }
+    if (
+        seasons.includes(LiturgicalSeasons.LENT) ||
+        seasons.includes(LiturgicalSeasons.PASCHAL_TRIDUUM) ||
+        seasons.includes(LiturgicalSeasons.EASTER)
+    ) {
+        return "II"
+    }
+    if (seasons.includes(LiturgicalSeasons.ORDINARY_TIME)) {
+        return (weekOfSeason ?? 0) <= 17 ? "III" : "IV"
+    }
+    return ""
+}
+
 export function getHexLiturgicalColor(color?: string) {
     switch (color) {
         case LiturgicalColors.GREEN:

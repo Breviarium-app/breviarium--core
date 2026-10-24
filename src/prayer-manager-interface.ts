@@ -331,6 +331,7 @@ export interface OfficiumSchemaOutput {
 
 export type LiturgyInformationOutput = {
     psaltery_week?: string; // I, II, III, IV
+    book?: string; // I, II, III, IV - volume ("tomo") of the Liturgy of the Hours
     cycle?: string;
     color?: Color;
     color_hex?: LiturgicalColors;
