@@ -41,7 +41,7 @@
     "@vitest/ui": "^3.0.5",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3",
-    "vite": "7.1.11",
+    "vite": "7.3.5",
     "vite-plugin-dts": "^2.0.0",
     "vitest": "^3.0.5"
   },
