@@ -46,11 +46,3 @@ jobs:
           branches: main # Generate badges only for main branch
           target-branch: gh-pages # Push badges to gh-pages branch
           destination: badges # Folder to store badges
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./badges
-          publish_branch: gh-pages
-          allow_empty_commit: true
