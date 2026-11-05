@@ -33120,5 +33120,67 @@
       60755
     ],
     "oracion_final": 484
+  },
+  {
+    "id": "peter_poveda_and_innocent_of_mary_immaculate_canoura_priests_and_companions_martyrs",
+    "cycle": "MEMORY",
+    "himno": 3372,
+    "himno_latino": -1,
+    "primer_salmo_cita": -1,
+    "primer_salmo_antifona": -1,
+    "primer_salmo_texto": -1,
+    "segundo_salmo_cita": -1,
+    "segundo_salmo_antifona": -1,
+    "segundo_salmo_texto": -1,
+    "tercer_salmo_cita": -1,
+    "tercer_salmo_antifona": -1,
+    "tercer_salmo_texto": -1,
+    "lectura_biblica_titulo_a": -1,
+    "lectura_biblica_titulo_i": -1,
+    "lectura_biblica_titulo_p": -1,
+    "lectura_biblica_cita_a": -1,
+    "lectura_biblica_cita_i": -1,
+    "lectura_biblica_cita_p": -1,
+    "lectura_biblica_texto_a": -1,
+    "lectura_biblica_texto_i": -1,
+    "lectura_biblica_texto_p": -1,
+    "lectura_patristica_titulo_a": 5000,
+    "lectura_patristica_titulo_i": 5000,
+    "lectura_patristica_titulo_p": 5000,
+    "lectura_patristica_cita_a": 5000,
+    "lectura_patristica_cita_i": 5000,
+    "lectura_patristica_cita_p": 5000,
+    "lectura_patristica_texto_a": 5000,
+    "lectura_patristica_texto_i": 5000,
+    "lectura_patristica_texto_p": 5000,
+    "responsorio1": [
+      13082,
+      13083
+    ],
+    "responsorio2_a": [
+      -1
+    ],
+    "responsorio2_i": [
+      -1
+    ],
+    "responsorio2_p": [
+      -1
+    ],
+    "responsorio3_a": [
+      70090,
+      70091,
+      70092
+    ],
+    "responsorio3_i": [
+      70090,
+      70091,
+      70092
+    ],
+    "responsorio3_p": [
+      70090,
+      70091,
+      70092
+    ],
+    "oracion_final": 171
   }
 ]

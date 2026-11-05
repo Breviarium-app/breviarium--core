@@ -33120,5 +33120,67 @@
       60755
     ],
     "o_final": 484
+  },
+  {
+    "id": "peter_poveda_and_innocent_of_mary_immaculate_canoura_priests_and_companions_martyrs",
+    "cycle": "MEMORY",
+    "himno": 3372,
+    "himno_latino": -1,
+    "s1_c": -1,
+    "s1_a": -1,
+    "s1_t": -1,
+    "s2_c": -1,
+    "s2_a": -1,
+    "s2_t": -1,
+    "s3_c": -1,
+    "s3_a": -1,
+    "s3_t": -1,
+    "lb_tit_a": -1,
+    "lb_tit_i": -1,
+    "lb_tit_p": -1,
+    "lb_cita_a": -1,
+    "lb_cita_i": -1,
+    "lb_cita_p": -1,
+    "lb_texto_a": -1,
+    "lb_texto_i": -1,
+    "lb_texto_p": -1,
+    "lp_tit_a": 5000,
+    "lp_tit_i": 5000,
+    "lp_tit_p": 5000,
+    "lp_cita_a": 5000,
+    "lp_cita_i": 5000,
+    "lp_cita_p": 5000,
+    "lp_texto_a": 5000,
+    "lp_texto_i": 5000,
+    "lp_texto_p": 5000,
+    "resp_1": [
+      13082,
+      13083
+    ],
+    "resp_2_a": [
+      -1
+    ],
+    "resp_2_i": [
+      -1
+    ],
+    "resp_2_p": [
+      -1
+    ],
+    "resp_3_a": [
+      70090,
+      70091,
+      70092
+    ],
+    "resp_3_i": [
+      70090,
+      70091,
+      70092
+    ],
+    "resp_3_p": [
+      70090,
+      70091,
+      70092
+    ],
+    "o_final": 171
   }
 ]
