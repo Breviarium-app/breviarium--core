@@ -75,6 +75,24 @@ Liturgy of the hours: functions to retrieve the information of the library:
 
 _(1)_: Some liturgical days, contains different options to pray: memory (example: a saint), and ferial (ordinary time). The Library displays both options and user can choose what version use.
 
+## Updatable texts (Dataset)
+
+All prayer texts live in a `Dataset` (JSON files listed in `DATASET_FILE_PATHS`). By default the dataset bundled in
+this package is used. To use texts obtained elsewhere (e.g. downloaded by the app):
+
+```ts
+import Breviarium, {loadDataset, DATASET_SCHEMA_VERSION} from "breviarium";
+
+// `read(path)` must return the parsed JSON of each relative path in DATASET_FILE_PATHS.
+// It rejects naming the file if anything is missing/malformed, so it doubles as a "is this download usable?" check.
+const dataset = await loadDataset(path => readJsonFromStorage(path));
+
+const breviarium = new Breviarium(new Date(), {dataset});
+breviarium.setDataset(newerDataset); // swap later without recreating the instance
+```
+
+`DATASET_SCHEMA_VERSION` changes only when the data shape/mappers change, never for content-only updates.
+
 ## Test
 
 To run the test suite (with [vitest](https://vitest.dev/)), execute:

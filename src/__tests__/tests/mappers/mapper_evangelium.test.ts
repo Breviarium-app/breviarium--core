@@ -1,4 +1,5 @@
 import {describe, expect, it} from "vitest";
+import {findText} from "../../helpers.ts";
 import {mapper_evangelium} from "@/prayers/mappers/mapper_evangelium.ts";
 import {EvangeliumSchemaOutput, LecturesSchema} from "@/prayer-manager-interface.ts";
 
@@ -39,7 +40,7 @@ const post: EvangeliumSchemaOutput = {
 describe("Mapper Evangelium", () => {
     it("mapper Evangelium", () => {
 
-        const result = mapper_evangelium([prev]);
+        const result = mapper_evangelium([prev], findText);
 
         assert(result !== undefined);
 

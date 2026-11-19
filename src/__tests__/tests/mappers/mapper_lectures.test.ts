@@ -1,4 +1,5 @@
 import {describe, expect, it} from "vitest";
+import {findText} from "../../helpers.ts";
 import {mapper_lectures} from "@/prayers/mappers/mapper_lectures.ts";
 
 const prev = {
@@ -87,7 +88,7 @@ const post = {
 describe("Mapper Lectures", () => {
     it("mapper Lectures", () => {
 
-        const result = mapper_lectures(prev);
+        const result = mapper_lectures(prev, findText);
 
         assert(result !== undefined);
 
