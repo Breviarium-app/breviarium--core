@@ -8,6 +8,7 @@ describe("Romcal module", () => {
         const result = await breviarium.getLiturgyInformation(new Date(2025, 0, 1))
         const expected = {
             psaltery_week: 'I',
+            book: 'I',
             cycle: 'C',
             color: 'WHITE',
             color_hex: '#bdbdbd66',
