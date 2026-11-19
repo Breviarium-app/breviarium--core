@@ -5,6 +5,7 @@ Breviarium major changes through versions.
 ### v3.2
 * feat: texts are now an injectable **Dataset**. `new Breviarium(date, {dataset})` / `setDataset(dataset)` read the texts from a dataset you provide (e.g. one downloaded over the air); with no dataset the one bundled in the package is used, so existing code keeps working.
 * feat: `loadDataset(reader)`, `loadBundledDataset()`, `DATASET_FILE_PATHS` and `DATASET_SCHEMA_VERSION` exported for building/verifying/publishing datasets.
+* change: the package is ESM-only. The CJS and UMD builds are removed (the CJS one never worked under `"type": "module"`).
 * change: bundled JSON is now loaded with dynamic imports (separate chunks) instead of being inlined in the main entry.
 
 ### v3.0
