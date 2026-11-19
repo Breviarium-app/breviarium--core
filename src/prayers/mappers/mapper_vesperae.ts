@@ -1,7 +1,7 @@
 import {VesperaeSchemaOutput} from "@/prayer-manager-interface.ts";
-import {findText} from "@/prayers/mappers/findText";
+import type {FindText} from "@/prayers/mappers/findText";
 
-export function mapper_vesperae(elements: any[]): VesperaeSchemaOutput[] | undefined {
+export function mapper_vesperae(elements: any[], findText: FindText): VesperaeSchemaOutput[] | undefined {
 
     const result: VesperaeSchemaOutput[] = []
     elements.forEach((item: any) => {

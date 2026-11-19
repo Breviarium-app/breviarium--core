@@ -24,20 +24,46 @@ export type {
     OfficiumSchemaOutput,
     VesperaeSchemaOutput,
 };
-import invitatory_psalms from './prayers/db/es/commons/invitatory_psalms.json'
+import {loadBundledDataset} from "@/dataset/bundled.ts";
+import {DATASET_SCHEMA_VERSION, type Dataset} from "@/dataset/types.ts";
+import {COMMONS_TABLES, DATASET_FILE_PATHS, loadDataset} from "@/dataset/files.ts";
 import {searchDay} from "@/prayers/romcal.ts";
 import {getCycle, getHexLiturgicalColor, getLiturgyBookNumber, getSalteryWeek} from "@/prayers/utils.ts";
+
+export {DATASET_SCHEMA_VERSION, DATASET_FILE_PATHS, COMMONS_TABLES, loadDataset, loadBundledDataset};
+export type {Dataset};
+export type {DatasetFileReader} from "@/dataset/types.ts";
+
+export interface BreviariumOptions {
+    /** Dataset to read the texts from. Defaults to the one bundled in this package. */
+    dataset?: Dataset;
+}
 
 export class Breviarium implements BreviariumInterface {
     #selectedDate: Date;
     #prayerManager: PrayerManager;
 
-    constructor(selectedDate?: Date) {
+    #dataset?: Dataset;
+
+    constructor(selectedDate?: Date, options?: BreviariumOptions) {
+        this.#dataset = options?.dataset;
         if (selectedDate !== undefined && selectedDate !== null)
             this.#selectedDate = selectedDate;
         else
             this.#selectedDate = new Date();
-        this.#prayerManager = new PrayerManager();
+        this.#prayerManager = new PrayerManager(() => this.getDataset());
+    }
+
+    /**
+     * Swaps the texts used from now on (e.g. after a downloaded update was verified).
+     * Datasets are immutable, so calls already in flight finish with the one they started with.
+     */
+    setDataset(dataset: Dataset): void {
+        this.#dataset = dataset;
+    }
+
+    async getDataset(): Promise<Dataset> {
+        return this.#dataset ?? loadBundledDataset();
     }
 
     setDate(date: Date): void {
@@ -89,7 +115,7 @@ export class Breviarium implements BreviariumInterface {
     }
 
     async getInvitatoriumPsalms(): Promise<any[]> {
-        return invitatory_psalms;
+        return (await this.getDataset()).invitatoryPsalms;
     }
 
     async getLiturgyInformation(date?: Date): Promise<LiturgyInformationOutput> {

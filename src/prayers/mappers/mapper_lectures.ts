@@ -1,7 +1,7 @@
 import {LecturesSchemaOutput} from "@/prayer-manager-interface.ts";
-import {findText} from "@/prayers/mappers/findText";
+import type {FindText} from "@/prayers/mappers/findText";
 
-export function mapper_lectures(item: any): LecturesSchemaOutput {
+export function mapper_lectures(item: any, findText: FindText): LecturesSchemaOutput {
 
 
     const result = {

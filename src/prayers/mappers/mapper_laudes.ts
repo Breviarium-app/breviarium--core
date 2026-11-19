@@ -1,7 +1,7 @@
 import {LaudesSchemaOutput} from "@/prayer-manager-interface.ts";
-import {findText} from "@/prayers/mappers/findText";
+import type {FindText} from "@/prayers/mappers/findText";
 
-export function mapper_laudes(elements: any[]): LaudesSchemaOutput[] | undefined {
+export function mapper_laudes(elements: any[], findText: FindText): LaudesSchemaOutput[] | undefined {
 
     const result: LaudesSchemaOutput[] = []
     elements.forEach((item: any) => {

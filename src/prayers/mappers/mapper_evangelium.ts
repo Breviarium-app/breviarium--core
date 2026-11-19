@@ -4,10 +4,10 @@ import {
     SingleLectureSchema,
     SingleLectureSchemaOutput
 } from "@/prayer-manager-interface.ts";
-import {findText} from "@/prayers/mappers/findText";
+import type {FindText} from "@/prayers/mappers/findText";
 import {LecturesType} from "@/prayers/types.ts";
 
-export function mapper_evangelium(items: LecturesSchema[]): EvangeliumSchemaOutput {
+export function mapper_evangelium(items: LecturesSchema[], findText: FindText): EvangeliumSchemaOutput {
 
     const item = items[0];
 

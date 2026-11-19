@@ -1,4 +1,5 @@
 import {describe, expect, it} from "vitest";
+import {findText} from "../../helpers.ts";
 import {mapper_laudes} from "@/prayers/mappers/mapper_laudes.ts";
 
 const laudes_pre_0 = {
@@ -85,7 +86,7 @@ const laudes_post_0 = {
 describe("Mapper Laudes", () => {
     it("mapper laudes - laudes_pre_0", () => {
 
-        const mapperResult = mapper_laudes([laudes_pre_0])
+        const mapperResult = mapper_laudes([laudes_pre_0], findText)
         const result = mapperResult?.[0];
 
         assert(result !== undefined);

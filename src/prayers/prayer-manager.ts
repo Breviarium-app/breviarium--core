@@ -10,14 +10,6 @@ import {
     PrayerManagerInterface,
     VesperaeSchemaOutput
 } from "@/prayer-manager-interface.ts";
-import all_laudes from '@/prayers/db/all_laudes.json';
-import all_vesperae from '@/prayers/db/all_vesperae.json';
-import all_tertia from '@/prayers/db/all_tertia.json';
-import all_sexta from '@/prayers/db/all_sexta.json';
-import all_nona from '@/prayers/db/all_nona.json';
-import all_lectures from '@/prayers/db/all_lectures.json';
-import all_officium from '@/prayers/db/all_officium.json';
-import all_invitatorium from '@/prayers/db/all_invitatorium.json';
 import {searchDay} from "@/prayers/romcal.ts";
 import {mapper_invitatorium} from "@/prayers/mappers/mapper_invitatorium.ts";
 import {mapper_laudes} from "@/prayers/mappers/mapper_laudes.ts";
@@ -28,63 +20,88 @@ import {mapper_completorium} from "@/prayers/mappers/mapper_completorium.ts";
 import {mapper_evangelium} from "@/prayers/mappers/mapper_evangelium.ts";
 import {mergeContentReturnOnlyOne, mergeContentReturnTwo, searchAllPrayersForDay} from "@/prayers/utils.ts";
 import {mapper_intermediate} from "@/prayers/mappers/mapper_intermediate.ts";
+import {createFindText, type FindText} from "@/prayers/mappers/findText";
+import {loadBundledDataset} from "@/dataset/bundled.ts";
+import type {Dataset} from "@/dataset/types.ts";
 
 
 export class PrayerManager implements PrayerManagerInterface {
-    constructor() {
+    readonly #getDataset: () => Promise<Dataset>;
+    #findTextCache?: { commons: Dataset["commons"], findText: FindText };
+
+    /** @param getDataset resolves the dataset to read from on every call; defaults to the bundled one. */
+    constructor(getDataset: () => Promise<Dataset> = loadBundledDataset) {
+        this.#getDataset = getDataset;
+    }
+
+    async #data(): Promise<{ data: Dataset, findText: FindText }> {
+        const data = await this.#getDataset();
+        if (this.#findTextCache?.commons !== data.commons) {
+            this.#findTextCache = {commons: data.commons, findText: createFindText(data.commons)};
+        }
+        return {data, findText: this.#findTextCache.findText};
     }
 
     async getInvitatorium(date?: Date): Promise<InvitatoriumSchemaOutput | undefined> {
+        const {data, findText} = await this.#data();
         const dayCalendar = await searchDay(date);
-        const resultSelected = all_invitatorium.find(invitatory => invitatory.id === dayCalendar?.id);
-        return mapper_invitatorium(resultSelected);
+        const resultSelected = data.schedules.invitatorium.find(invitatory => invitatory.id === dayCalendar?.id);
+        return mapper_invitatorium(resultSelected, findText);
     }
 
     async getLaudes(date?: Date): Promise<LaudesSchemaOutput[] | undefined> {
+        const {data, findText} = await this.#data();
         const dayCalendar = await searchDay(date);
-
-        return mapper_laudes(mergeContentReturnTwo(searchAllPrayersForDay(all_laudes, dayCalendar)));
+        return mapper_laudes(mergeContentReturnTwo(searchAllPrayersForDay(data.schedules.laudes, dayCalendar)), findText);
     }
 
     async getVesperae(date?: Date): Promise<VesperaeSchemaOutput[] | undefined> {
+        const {data, findText} = await this.#data();
         const dayCalendar = await searchDay(date);
-        return mapper_vesperae(mergeContentReturnTwo(searchAllPrayersForDay(all_vesperae, dayCalendar)));
+        return mapper_vesperae(mergeContentReturnTwo(searchAllPrayersForDay(data.schedules.vesperae, dayCalendar)), findText);
     }
 
     async getTertia(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
+        const {data, findText} = await this.#data();
         const dayCalendar = await searchDay(date);
-        return mapper_intermediate(dayCalendar, mergeContentReturnOnlyOne(searchAllPrayersForDay(all_tertia, dayCalendar)), all_tertia);
+        return mapper_intermediate(dayCalendar, mergeContentReturnOnlyOne(searchAllPrayersForDay(data.schedules.tertia, dayCalendar)), data.schedules.tertia, findText);
     }
 
     async getSexta(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
+        const {data, findText} = await this.#data();
         const dayCalendar = await searchDay(date);
-        return mapper_intermediate(dayCalendar, mergeContentReturnOnlyOne(searchAllPrayersForDay(all_sexta, dayCalendar)), all_sexta);
+        return mapper_intermediate(dayCalendar, mergeContentReturnOnlyOne(searchAllPrayersForDay(data.schedules.sexta, dayCalendar)), data.schedules.sexta, findText);
     }
 
     async getNona(date?: Date): Promise<IntermediateSchemaOutput | undefined> {
+        const {data, findText} = await this.#data();
         const dayCalendar = await searchDay(date);
-        return mapper_intermediate(dayCalendar, mergeContentReturnOnlyOne(searchAllPrayersForDay(all_nona, dayCalendar)), all_nona);
+        return mapper_intermediate(dayCalendar, mergeContentReturnOnlyOne(searchAllPrayersForDay(data.schedules.nona, dayCalendar)), data.schedules.nona, findText);
     }
 
     async getLectures(date?: Date): Promise<(LecturesSchemaOutput[] | undefined)> {
+        const {data, findText} = await this.#data();
         const dayCalendar = await searchDay(date);
-        const resultsSelected = all_lectures.filter(element => element.id === dayCalendar?.id);
-        return resultsSelected.map(mapper_lectures);
+        const resultsSelected = data.schedules.lectures.filter(element => element.id === dayCalendar?.id);
+        return resultsSelected.map(item => mapper_lectures(item, findText));
     }
 
     async getCompletorium(date?: Date): Promise<CompletoriumSchemaOutput | undefined> {
-        return mapper_completorium(date);
+        const {data} = await this.#data();
+        return mapper_completorium(date, data.completorium);
     }
 
     async getOfficium(date?: Date): Promise<OfficiumSchemaOutput | undefined> {
+        const {data, findText} = await this.#data();
         const dayCalendar = await searchDay(date);
 
-        return mapper_officium(mergeContentReturnOnlyOne(searchAllPrayersForDay(all_officium, dayCalendar)));
+        return mapper_officium(mergeContentReturnOnlyOne(searchAllPrayersForDay(data.schedules.officium, dayCalendar)), findText);
     }
 
     async getEvangelium(date?: Date): Promise<EvangeliumSchemaOutput | undefined> {
+        const {data: dataset, findText} = await this.#data();
         const dayCalendar = await searchDay(date);
-        const data: LecturesSchema[] = all_lectures.filter(element => element.id === dayCalendar?.id);
+        const data: LecturesSchema[] = dataset.schedules.lectures.filter(element => element.id === dayCalendar?.id);
 
         let result = data?.filter(x => x.cycle == dayCalendar?.cycles.sundayCycle)
         const isEven: boolean = (Number(dayCalendar?.calendar.endOfLiturgicalYear.split('-')[0]) % 2) == 0;
@@ -111,6 +128,6 @@ export class PrayerManager implements PrayerManagerInterface {
         if (result?.length == 0 && data.length > 0) {
             result = [data[0]]
         }
-        return mapper_evangelium(result);
+        return mapper_evangelium(result, findText);
     }
 }

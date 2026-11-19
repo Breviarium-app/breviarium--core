@@ -10,7 +10,7 @@ export default defineConfig({
             entry: "src/breviarium.ts",
             name: "Breviarium",
             fileName: (format) => `breviarium.${format}.js`,
-            formats: ["es", "cjs", "umd"]
+            formats: ["es"]
         },
         rollupOptions: {
             output: {
